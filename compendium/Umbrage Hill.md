@@ -4,17 +4,14 @@ alias: ['umbrage-hill']
 tags: 
 - region/north-sword-coast
 - settlement/umbrage-hill
-generator: 
-- https://donjon.bin.sh/fantasy/inn/
-- https://donjon.bin.sh/5e/magic/shop.html
 ---
 # Umbrage Hill
-*Windmill settlement near [Phandalin](Phandalin/Phandalin.md), [North Sword Coast](North%20Sword%20Coast.md)*
+*Windmill settlement, [North Sword Coast](North%20Sword%20Coast.md)*
 
 TL;DR description
 
-**Owner**
-**Location**
+* **Owner** [Adabra Gwynn](Adabra%20Gwynn.md)
+* **Location** 5 miles south of [Phandalin](Phandalin/Phandalin.md)
 
 [NPCs](#NPCs) | [Secrets](#Secrets) | [History](#History)
 

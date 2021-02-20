@@ -19,7 +19,7 @@
   --gray: #44475a;
   --gray-light: #f8f8f2;
   --violet: #bd93f9;
-  --blue: #6272a4;
+  --blue: rgb(128, 151, 235);
   --cyan: #8be9fd;
   --green: #50fa7b;
   --yellow: #f1fa8c;
@@ -86,6 +86,17 @@
   --syntax-blue: var(--blue);
   --syntax-violet: var(--violet);
   --syntax-grey: var(--text-muted);
+
+  --graph-line: var(--blue);
+  --graph-arrow: var(--text-muted);
+  --graph-line-highlight: var(--cyan);
+  --graph-circle-fill: var(--green);
+  --graph-circle-fill-highlight: var(--yellow);
+  --graph-circle-outline: transparent;
+  --graph-circle-fill-unresolved: hsla(206, 89%, 71%, 1);
+  --graph-fill-attachment: var(--magenta);
+  --graph-text: var(--text-normal);
+  --graph-fill-tag: var(--violet);
 }
 
 /**
@@ -103,6 +114,7 @@
 /**
  * Headings
  */
+.cm-header,
 h1,
 h2,
 h3,
@@ -117,7 +129,6 @@ h6 {
   font-family: var(--font-tags);
 }
 
-.markdown-preview-view h1,
 .markdown-preview-view h2,
 .markdown-preview-view h3,
 .markdown-preview-view h4,
@@ -132,12 +143,8 @@ h6 {
 .cm-header-1,
 .markdown-preview-view h1 {
   font-variant: common-ligatures small-caps;
-  margin-bottom: 0;
-  font-size: 30px;
-}
-
-.cm-header-1,
-.markdown-preview-view h1 {
+  padding-bottom: 0px !important;
+  margin-bottom: -20px !important;
   font-size: var(--font-size-h1);
   color: var(--text-title-h1);
 }
@@ -200,6 +207,52 @@ h6 {
 .cm-s-obsidian .cm-header.cm-hashtag {
   font-weight: normal;
   font-size: 90%;
+}
+
+
+div[src$="#portrait"] {
+  float: right;
+  margin-left: 5px;
+  width: 200px;
+}
+
+
+/*----------------------------------------------------------------
+Graph filters */
+
+.theme-dark .graph-view.color-fill {
+  color: var(--graph-circle-fill);
+  opacity: 0.9;
+}
+.theme-dark .graph-view.color-fill-tag {
+  color: var(--graph-fill-tag);
+}
+.theme-dark .graph-view.color-fill-attachment {
+  color: var(--graph-fill-attachment);
+}
+.theme-dark .graph-view.color-fill-unresolved {
+  color: var(--graph-circle-fill-unresolved);
+  opacity: 0.4;
+}
+.theme-dark .graph-view.color-arrow {
+  color: var(--graph-arrow);
+  opacity: 0.5;
+}
+.theme-dark .graph-view.color-circle {
+  color: var(--graph-circle-outline);
+}
+.theme-dark .graph-view.color-line {
+  color: var(--graph-line);
+  opacity: 0.7;
+}
+.theme-dark .graph-view.color-text {
+  color: var(--graph-text);
+}
+.theme-dark .graph-view.color-fill-highlight {
+  color: var(--graph-circle-fill-highlight);
+}
+.theme-dark .graph-view.color-line-highlight {
+  color: var(--graph-line-highlight);
 }
 
 /*----------------------------------------------------------------
@@ -475,150 +528,27 @@ thead {
 }
 
 
-/*---------------------------------*/
-/* BULLET POINT RELATIONSHIP LINES #列表 */
-/*---------------------------------*/
-.cm-hmd-list-indent .cm-tab,
-ul ul {
-  position: relative;
-}
-
-.cm-hmd-list-indent .cm-tab::before,
-ul ul::before {
-  content: "";
-  border-left: 1px solid rgba(100, 100, 120, 0.6);
-  /*最后一个数为透明度*/
-  position: absolute;
-}
-
-.cm-hmd-list-indent .cm-tab::before {
-  left: 3.5px;
-  /* 调节编辑模式下线的左缩进 */
-  top: -4.5px;
-  bottom: -4px;
-}
-
-ul ul::before {
-  left: -13px;
-  /* 调节预览模式下线的左缩进 */
-  top: 0;
-  bottom: 0;
-}
-
-.cm-hmd-list-indent .cm-tab,
-ol ol {
-  /* 有序列表 */
-  position: relative;
-}
-
-.cm-hmd-list-indent .cm-tab::before,
-ol ol::before {
-  content: "";
-  border-left: 1px solid rgba(100, 100, 120, 0.6);
-  /*最后一个数为透明度*/
-  position: absolute;
-}
-
-.cm-hmd-list-indent .cm-tab::before {
-  left: 3.5px;
-  /* 调节编辑模式下线的左缩进 */
-  top: -4.5px;
-  bottom: -4px;
-}
-
-ol ol::before {
-  left: -13px;
-  /* 调节预览模式下线的左缩进 */
-  top: 0;
-  bottom: 0;
-}
-
-.cm-hmd-list-indent .cm-tab,
-ol ul {
-  /* 有序列表 */
-  position: relative;
-}
-
-.cm-hmd-list-indent .cm-tab::before,
-ol ul::before {
-  content: "";
-  border-left: 1px solid rgba(100, 100, 120, 0.6);
-  /*最后一个数为透明度*/
-  position: absolute;
-}
-
-.cm-hmd-list-indent .cm-tab::before {
-  left: 3.5px;
-  /* 调节编辑模式下线的左缩进 */
-  top: -4.5px;
-  bottom: -4px;
-}
-
-ol ul::before {
-  left: -13px;
-  /* 调节预览模式下线的左缩进 */
-  top: 0;
-  bottom: 0;
-}
-
-.cm-hmd-list-indent .cm-tab,
-ul ol {
-  /* 有序列表 */
-  position: relative;
-}
-
-.cm-hmd-list-indent .cm-tab::before,
-ul ol::before {
-  content: "";
-  border-left: 1px solid rgba(100, 100, 120, 0.6);
-  /*最后一个数为透明度*/
-  position: absolute;
-}
-
-.cm-hmd-list-indent .cm-tab::before {
-  left: 3.5px;
-  /* 调节编辑模式下线的左缩进 */
-  top: -4.5px;
-  bottom: -4px;
-}
-
-ul ol::before {
-  left: -13px;
-  /* 调节预览模式下线的左缩进 */
-  top: 0;
-  bottom: 0;
-}
-
-/*-------------------------------------*/
-/* 在编辑模式中将无序 #列表 转化为圆点 */
-/*-------------------------------------*/
-/* Unordered lists: turn into bullets as you type in edit mode */
-span.cm-formatting-list-ul {
-  visibility: hidden !important;
-}
-
-/*hieu: no idea if this would affect preview bullet color, but some useful css to play with? */
-span.cm-formatting-list-ul:before {
-  content: '• ';
-  color: var(--text-normal);
-  /*change to your color pref */
-  visibility: visible !important;
-  margin-left: 0.1rem;
-  /* 调节点的右缩进 */
-  margin-right: -0.22rem;
-  /*调文字的左缩进 */
-  padding-inline-start: 0px;
-}
-
-/*-------------------------------------*/
-/* 减少 #列表 缩进 Ajust list indent In preview mode*/
-/*-------------------------------------*/
+/* Reduce indentation in bullet lists */
 ol {
-  padding-inline-start: 30px;
+  padding-inline-start: 18px;
+}
+ul {
+  padding-inline-start: 18px;
+  list-style-type: disc;
 }
 
-ul {
-  padding-inline-start: 30px;
+/* Long bullet list: connect the same levels of bullets with vertical "lines" */
+.cm-hmd-list-indent .cm-tab, ul ul { position: relative; }
+.cm-hmd-list-indent .cm-tab::before, ul ul::before {
+ content:'';
+ border-left: 1px solid rgba(0, 122, 255, 0.25);
+ position: absolute;
+}
+
+.cm-hmd-list-indent .cm-tab::before { left: 0; top: -5px; bottom: -4px; 
+}
+
+ul ul::before { left: -11px; top: 0; bottom: 0; /* change "left:" value for align of vert. line */
 }
 
 /*-------------------------------------*/
@@ -630,7 +560,6 @@ ul {
   transition: all 0.5s ease-in-out;
   padding-left: 6px;
 }
-
 
 /*----------------------------------------------------------------
 Andy's Mode Sliding Panes v3.2.1 (death_au's plugin)
@@ -762,3 +691,26 @@ svg.link {
   margin-bottom: -20px;
 }
 
+/******
+ * Timeline
+ */
+
+.markdown-preview-view .timeline-container h2,
+.markdown-preview-view .timeline-container h3,
+.markdown-preview-view .timeline-container h4,
+.markdown-preview-view .timeline-container h5,
+.markdown-preview-view .timeline-container h6 {
+  border-bottom: none;
+}
+
+.timeline-card {
+  background-color: var(--background-secondary-alt) !important;
+}
+
+.timeline-container::after {
+  border-color: var(--blue) !important;
+}
+
+.timeline::after {
+  background-color: var(--background-secondary-alt) !important;
+}

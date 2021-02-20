@@ -1,0 +1,32 @@
+---
+type: npc
+tags:
+- npc/alive
+- iff/unknown
+- ruin/dwarven-excavation 
+---
+# Norbus Ironrune
+![Norbus Ironrune](/[assets]/attachments/norbus-ironrune.jpeg#portrait)
+*Male dwarf prospector, {{alignment}}*  
+*[Dwarven Excavation](Dwarven%20Excavation.md)*  
+
+TL;DR description / personality / motivation
+
+[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+
+## Details
+*{{Background}}*, Commoner
+
+* **Ideals**
+* **Bonds**
+* **Flaws**
+* **Motivation**
+
+## Relationships
+
+* Works with [Dazlyn Grayshard](Dazlyn%20Grayshard.md)
+
+## Secrets
+
+## History
+

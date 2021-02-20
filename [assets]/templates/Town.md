@@ -1,33 +1,29 @@
 ---
 type: location
-xalias: ['town-tag']
 xtags: 
-- town-type
-- TODO-description
-generator:
-- https://www.kassoon.com/dnd/town-generator/
-- https://donjon.bin.sh/fantasy/town/
+- region/...
+- trello
 ---
 # {{Title}}
-*{{townSize}}, {{context}}*
+*{{townSize}}, {{context}}*  
 
-**Population**
-**Government**
+* **Population**
+* **Government**
 
 [Places](#Places) | [NPCs](#NPCs) | [History](#History)
 
-### Places
+## Places
 
 ```dataview
 list from #town/phandalin
 where type = "location"
 ```
 
-### NPCs
+## NPCs
 
 ```dataview
 list from #town/phandalin
 where type = "npc"
 ```
 
-### History
+## History

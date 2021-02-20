@@ -1,27 +1,26 @@
 ---
 type: location
-xtags: 
-- place/trading-post
+tags: 
+- type/merchant-trade
 - town/phandalin/miners-exchange
-generator: 
-- https://donjon.bin.sh/fantasy/inn/
-- https://donjon.bin.sh/5e/magic/shop.html
 ---
 # Phandalin Miner's Exchange
+![Miner's Exchange](/[assets]/attachments/phandalin-miners-exchange.jpeg#portrait)
 *Trading post, [Phandalin](Phandalin.md)*
 
-TL;DR description
+Miners come here to have valuable finds weighted and measured, to exchange for gps. Great place to meet people who spend a lot of time out and about the countryside surrounding Phandalin. 
 
-**Owner**
-**Location**
+Enough wealth is hidden in nearby streams and valleys to support many independent prospectors. Unofficial records office, registering claims to streams and excavations around the area.
 
-[NPCs](#NPCs) | [History](#History)
+* **Owner** [Halia Thornton](Halia%20Thornton.md)
+* **Location** Southern edge of Phandalin
 
-### NPCs
+<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+## NPCs
 
 ```dataview
 list from #town/phandalin/miners-exchange
 where type = "npc"
 ```
 
-### History
+## History

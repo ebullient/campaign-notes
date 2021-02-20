@@ -3,25 +3,22 @@ type: location
 tags:
 - type/tavern
 - town/phandalin/sleeping-giant
-generator: 
-- https://donjon.bin.sh/fantasy/inn/
-- https://donjon.bin.sh/5e/magic/shop.html
 ---
 # The Sleeping Giant
+![The Sleeping Giant](/[assets]/attachments/phandalin-sleeping-giant.jpeg#portrait)
 *Tavern, [Phandalin](Phandalin.md)*
 
-TL;DR description
+Sister Garaele regularly reports to her superiors in Neverwinter on events in and around Phandalin. The shrine is left untended when she is away.
 
-**Owner**
-**Location**
+* **Barkeep** [Grista](Grista.md)
+* **Location** Eastern edge of Phandalin
 
-[NPCs](#NPCs) | [History](#History)
-
-### NPCs
+<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+## NPCs
 
 ```dataview
-list from #shop-tag
+list from #town/phandalin/sleeping-giant
 where type = "npc"
 ```
 
-### History
+## History

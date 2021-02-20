@@ -2,16 +2,12 @@
 type: npc
 tags:
 - npc/alive
-- iff/neutral
+- iff/friend
 - town/phandalin/stonehill-inn
-generator:
-- https://donjon.bin.sh/fantasy/random/#type=npc
-- https://www.kassoon.com/dnd/npc-generator/
-- https://www.kassoon.com/dnd/backstory-generator/
-- https://5ebackgrounds.com/
 ---
 # Amelia Stonehill
-*Female human, Innkeeper's wife, lawful good*
+![Adabra Gwynn](/[assets]/attachments/amelia-stonehill.jpeg#portrait)
+*Female human, Innkeeper's wife, lawful good*  
 *[Stonehill Inn](Stonehill%20Inn.md), [Phandalin](Phandalin.md)*
  
 TL;DR description / personality / motivation
@@ -21,20 +17,24 @@ TL;DR description / personality / motivation
 ## Details
 *{{Background}}*, Commoner
 
-**Ideals**
-**Bonds**
-**Flaws**
-**Motivation**
+* **Ideals**
+* **Bonds**
+* **Flaws**
+* **Motivation**
 
 ## Relationships
 
-Married to [[Toblen Stonehill]]
+* Married to [[Toblen Stonehill]]
+* Mother of [Pip Stonehill](Pip%20Stonehill.md)
+* Friends:
+    * [Mirna Dendrar](Mirna%20Dendrar.md)
+    * [Quelline Alderleaf](Quelline%20Alderleaf.md)
 
 ## Secrets
 
 ## History
 
-From "A Messy Morning":
+From "[01. A Messy Morning](../../writing/01.%20A%20Messy%20Morning.md):
 
 > Toblen saw the two men sitting at the counter talking to his wife, Amelia. He couldn’t hear them over the murmur in the room, but their conversation was full of chuckles and wry glances, and that made him smile. Amelia was always pleased when their guests were entertaining.
 

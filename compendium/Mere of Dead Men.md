@@ -2,9 +2,6 @@
 type: location
 tags: 
 - region/north-sword-coast/mere-of-dead-men
-generator: 
-- https://donjon.bin.sh/fantasy/inn/
-- https://donjon.bin.sh/5e/magic/shop.html
 ---
 # Mere of Dead Men
 *Creepy place along the [High Road](High%20Road.md), [North Sword Coast](North%20Sword%20Coast.md)*

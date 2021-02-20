@@ -3,25 +3,22 @@ type: location
 tags: 
 - type/shrine
 - town/phandalin/shrine-of-luck
-generator: 
-- https://donjon.bin.sh/fantasy/inn/
-- https://donjon.bin.sh/5e/magic/shop.html
 ---
 # Shrine of Luck
+![Shrine of Luck](/[assets]/attachments/phandalin-shrine-garaele.jpeg#portrait)
 *Shrine, [Phandalin](Phandalin.md)*
 
-TL;DR description
+Phandalin’s only temple is a shrine made of stones taken from the nearby ruins. It is dedicated to Tymora (goddess of luck and good fortune).
 
-**Owner**
-**Location**
+* **Caretaker** [[Sister Garaele]]
+* **Location** The runined Shrine on the north edge of the town square, or marketplace.
 
-[NPCs](#NPCs) | [History](#History)
-
-### NPCs
+<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+## NPCs
 
 ```dataview
-list from #shop-tag
+list from #town/phandalin/shrine-of-luck
 where type = "npc"
 ```
 
-### History
+## History

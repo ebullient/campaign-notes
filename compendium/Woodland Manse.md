@@ -3,24 +3,22 @@ type: location
 tags: 
 - region/north-sword-coast/neverwinter-wood
 - ruin/woodland-manse
-generator: 
-- https://donjon.bin.sh/fantasy/inn/
-- https://donjon.bin.sh/5e/magic/shop.html
+- faction/cult-of-talos
 ---
 # Woodland Manse
-*{{placeType}}, {{town}}*
+*Ruined Manor, [Neverwinter Wood](Neverwinter%20Wood.md)*
 
 TL;DR description
 
-**Owner**
-**Location**
+* **Owner** [[Grannoc]]
+* **Location** Western section of Neverwinter Wood
 
 [NPCs](#NPCs) | [History](#History)
 
 ### NPCs
 
 ```dataview
-list from #settlement/woodland-manse
+list from #ruin/woodland-manse
 where type = "npc"
 ```
 

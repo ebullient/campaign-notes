@@ -3,25 +3,21 @@ type: location
 tags: 
 - town/phandalin/tresendar-manor
 - type/manor
-generator: 
-- https://donjon.bin.sh/fantasy/inn/
-- https://donjon.bin.sh/5e/magic/shop.html
 ---
 # Tresendar Manor
 *Ruined manor, [Phandalin](Phandalin.md)*
 
-TL;DR description
+Home to [Hot-dog (Nothic)](Hot-dog%20(Nothic).md). 
+Cleared of Redbrands.
 
-**Owner**
-**Location**
-
-[NPCs](#NPCs) | [History](#History)
-
-### NPCs
+<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+## NPCs
 
 ```dataview
 list from #town/phandalin/tresendar-manor
 where type = "npc"
 ```
 
-### History
+## History
+
+#todo

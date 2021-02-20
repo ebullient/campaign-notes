@@ -3,17 +3,13 @@ type: location
 tags: 
 - ruin/thundertree
 - region/north-sword-coast/neverwinter-wood
-generator: 
-- https://donjon.bin.sh/fantasy/inn/
-- https://donjon.bin.sh/5e/magic/shop.html
 ---
 # Thundertree
-*{{placeType}}, {{town}}*
+*Ruined town, [North Sword Coast](North%20Sword%20Coast.md)*
 
 TL;DR description
 
-**Owner**
-**Location**
+* **Location** The town ruins are near where the [[Neverwinter River]] emerges from [Neverwinter Wood](Neverwinter%20Wood.md)
 
 [NPCs](#NPCs) | [History](#History)
 

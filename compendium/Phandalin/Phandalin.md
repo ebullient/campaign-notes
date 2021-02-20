@@ -3,19 +3,17 @@ type: location
 tags:
 - town
 - region/north-sword-coast
-generator:
-- https://www.kassoon.com/dnd/town-generator/
-- https://donjon.bin.sh/fantasy/town/
 ---
 # Phandalin
 *Small town, [Sword Coast](../North%20Sword%20Coast.md)*
 
 Phandalin is not well known outside of the region.
 
-**Population**
-**Government** 
+* **Population** #todo
+* **Government** 
 
 [Places](#Places) | [NPCs](#NPCs) | [History](#History)
+![Phandalin](/[assets]/attachments/phandalin-labeled.png#full-width)
 
 ### Places
 

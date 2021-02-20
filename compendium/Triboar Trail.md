@@ -2,12 +2,9 @@
 type: location
 tags: 
 - region/north-sword-coast/triboar-trail
-generator:
-- https://www.kassoon.com/dnd/town-generator/
-- https://donjon.bin.sh/fantasy/town/
 ---
 # Triboar Trail
-*{{placeType}}, {{town}}*
+*Trade road, [North Sword Coast](North%20Sword%20Coast.md)*
 
 This path south of Neverwinter Wood is the safest route between Neverwinter and the town of Triboar, located in the Dessarin Valley to the east (off the map).
 

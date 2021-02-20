@@ -3,17 +3,15 @@ type: location
 tags: 
 - ruin/conyberry
 - region/north-sword-coast/triboar-trail
-generator:
-- https://www.kassoon.com/dnd/town-generator/
-- https://donjon.bin.sh/fantasy/town/
 ---
 # Conyberry
-*{{placeType}}, {{town}}*
+*Ruined town, [Triboar Trail](Triboar%20Trail.md)*
 
-TL;DR description
+Abandoned town, sacked by barbarians years ago. Now lies in ruins.
 
-**Owner**
-**Location**
+[Triboar Trail](Triboar%20Trail.md) runs right through it.
+
+Dirt road extending south leads to supposedly abandoned [Shrine](Shrine%20of%20Savras.md) dedicated to Savras (god of divination and fate).
 
 [NPCs](#NPCs) | [History](#History)
 

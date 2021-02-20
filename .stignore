@@ -1,0 +1,5 @@
+(?d).DS_Store
+.git
+(?d).*.swp
+(?d)._*
+.obsidian/workspace

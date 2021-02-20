@@ -1,18 +1,11 @@
 ---
 type: npc
-alias: []
 xtags:
-- npc
-- party-ally
-- alive
+- npc/alive
+- iff/neutral
 - location
-- organization
-- TODO-description
-generator:
-- https://donjon.bin.sh/fantasy/random/#type=npc
-- https://www.kassoon.com/dnd/npc-generator/
-- https://www.kassoon.com/dnd/backstory-generator/
-- https://5ebackgrounds.com/
+- faction/...
+- trello
 ---
 # {{Name}}
 *{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
@@ -25,14 +18,14 @@ TL;DR description / personality / motivation
 ## Details
 *{{Background}}*, Commoner
 
-**Ideals**
-**Bonds**
-**Flaws**
-**Motivation**
+* **Ideals**
+* **Bonds**
+* **Flaws**
+* **Motivation**
 
 ## Relationships
 
-**Organizations**
+**Organization or Faction**
 
 ## Secrets
 

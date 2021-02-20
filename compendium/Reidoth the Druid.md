@@ -1,21 +1,16 @@
 ---
 type: npc
-alias: ['reidoth']
 tags:
 - npc/alive
-- iff/neutral
+- iff/friend
 - ruin/thundertree
 - region/north-sword-coast
 - faction/emerald-enclave
-generator:
-- https://donjon.bin.sh/fantasy/random/#type=npc
-- https://www.kassoon.com/dnd/npc-generator/
-- https://www.kassoon.com/dnd/backstory-generator/
-- https://5ebackgrounds.com/
 ---
 # Reidoth the Druid
-*{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
-*{{location}}*  
+![Reidoth](../[assets]/attachments/reidoth.jpeg#portrait)
+*Male human druid, neutral good*  
+*[Thundertree](Thundertree.md)*  
 
 TL;DR description / personality / motivation
 
@@ -31,7 +26,11 @@ TL;DR description / personality / motivation
 
 ## Relationships
 
-**Organizations**
+Member of the [[Factions/Emerald Enclave]]
+
+* Friends 
+    * [Quelline Alderleaf](Phandalin/Quelline%20Alderleaf.md)
+    * [Xanth](Xanth.md)
 
 ## Secrets
 

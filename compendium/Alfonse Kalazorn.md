@@ -2,18 +2,13 @@
 type: npc
 tags:
 - npc/alive
-- iff/neutral
+- iff/unknown
 - settlement/butterskull-ranch
 - region/north-sword-coast/triboar-trail
-generator:
-- https://donjon.bin.sh/fantasy/random/#type=npc
-- https://www.kassoon.com/dnd/npc-generator/
-- https://www.kassoon.com/dnd/backstory-generator/
-- https://5ebackgrounds.com/
 ---
 # Alfonse "Big Al" Kalazorn
 *{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
-*{{location}}*  
+*[Butterskull Ranch](Butterskull%20Ranch.md)*  
 
 TL;DR description / personality / motivation
 
@@ -22,10 +17,10 @@ TL;DR description / personality / motivation
 ## Details
 *{{Background}}*, Commoner
 
-**Ideals**
-**Bonds**
-**Flaws**
-**Motivation**
+* **Ideals**
+* **Bonds**
+* **Flaws**
+* **Motivation**
 
 ## Relationships
 

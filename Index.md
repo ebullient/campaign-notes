@@ -1,4 +1,3 @@
-
 # Index
 
 [Locations](Index.md#Locations) | [NPCs](Index.md#NPCs)
@@ -16,5 +15,13 @@ sort file.name asc
 ```dataview
 list from "compendium"
 where type = "npc"
+sort file.name asc
+```
+
+## Factions
+
+```dataview
+list from "compendium"
+where type = "faction"
 sort file.name asc
 ```

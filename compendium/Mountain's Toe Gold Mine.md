@@ -4,25 +4,23 @@ tags:
 - region/north-sword-coast/sword-mountains
 - settlement/mountains-toe-mine
 - type/mine
-generator: 
-- https://donjon.bin.sh/fantasy/inn/
-- https://donjon.bin.sh/5e/magic/shop.html
 ---
 # Mountain's Toe Gold Mine
-*Gold Mine in the [Sword Mountains](Sword%20Mountains.md)*
+*Gold Mine, [Sword Mountains](Sword%20Mountains.md)*
 
-TL;DR description
+* **Overseer** [[Don-Jon Raskin]]
+* **Location** 
 
-**Owner**
-**Location**
+The Mountain’s Toe Gold Mine is owned by a business consortium in Neverwinter. The owners hired and sent a no-nonsense overseer
 
-[NPCs](#NPCs) | [History](#History)
+Don-Jon is still there, with a crew of dwarves that survived the Whiskered Gang, and some additional humans sent more recently from Neverwinter.
 
-### NPCs
+<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+## NPCs
 
 ```dataview
 list from #settlement/mountains-toe-mine
 where type = "npc"
 ```
 
-### History
+## History

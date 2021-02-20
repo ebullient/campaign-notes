@@ -2,9 +2,6 @@
 type: location
 tags: 
 - region/north-sword-coast/starmetal-hills
-generator: 
-- https://donjon.bin.sh/fantasy/inn/
-- https://donjon.bin.sh/5e/magic/shop.html
 ---
 # Starmetal Hills
 *Range of hills in the [North Sword Coast](North%20Sword%20Coast.md)*

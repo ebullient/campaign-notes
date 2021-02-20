@@ -47,5 +47,7 @@ After they all met in [Phandalin](compendium/Phandalin/Phandalin.md)....
 1. Supplies and new house in Phandalin. find Darin and Xanth. Xanth leads party to Falcon's Lodge. Overnight in the forest.
 1. Finish travel to [Falcon's Hunting Lodge](compendium/Falcon's%20Hunting%20Lodge.md), Overnight there
 1. Travel to [Woodland Manse](compendium/Woodland%20Manse.md), clear area... manage a short rest, but no sleep...
-1. return to Falcon’s Lodge in the wee hours *long rest*; battle with orcs
+1. return to Falcon’s Lodge in the wee hours *long rest*; battle with orcs; long  rest
+2. Work with Falcon and the orcs to rebuild the palisade around Falcon's lodge; long rest
+3. Head to circle of thunder 
 
