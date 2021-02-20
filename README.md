@@ -20,7 +20,14 @@ If you want to view this as I do:
 
 5. In Obsidian, [open the cloned repository directory](https://publish.obsidian.md/help/How+to/Working+with+multiple+vaults) as a Vault
 
-6. When prompted, allow third party plugins.
+6. When prompted, *allow* third party plugins.
 
-Obsidian is basically a specialized kind of browser. When in doubt, refresh the page.
+7. Once Obsidian has started, use the gear icon in the lower right to open settings, and select "Community plugins in the sidebar"
 
+8. Use the toggle sliders on the right side of the dialog to enable all installed plugins. Use Ctrl-R (or Cmd-R) to refresh Obsidian to make sure everything is loaded happily.
+
+9. Some plugins have additional settings, most of those should be checked in.
+
+10. You may want to check at this point if obsidian has made any changes to the repo while reading things. If it has, you can revert those and reload, to make sure you're running with expected settings. If you've made no intentional changes yourself, using `git reset --hard origin/main` will discard all local changes.
+
+Note: Obsidian is basically a specialized kind of browser. When in doubt, refresh the page.
