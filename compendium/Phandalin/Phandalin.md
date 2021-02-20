@@ -1,7 +1,8 @@
 ---
 type: location
 tags:
-- town
+- type/town
+- town/phandalin
 - region/north-sword-coast
 ---
 # Phandalin

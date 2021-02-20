@@ -2,7 +2,7 @@
 type: location
 tags: 
 - type/shrine
-- faction/cult-of-talos
+- group/faction/cult-of-talos
 - landmark/circle-of-thunder
 - region/north-sword-coast/neverwinter-wood
 ---

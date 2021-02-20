@@ -4,7 +4,7 @@ tags:
 - npc/alive
 - iff/unknown
 - town/phandalin/lionshield-coster
-- faction/lionshield-coster
+- group/merchant/lionshield-coster
 ---
 # Linene Graywind
 ![Linene Graywind](/[assets]/attachments/linene-graywind.jpg#portrait)
@@ -21,8 +21,8 @@ The Lionshield Coster won’t sell weapons to anyone she thinks might be a threa
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-![Linene's Home](/[assets]/attachments/phandalin-lionshield-linene.jpeg#portrait)
-*{{Background}}*, Commoner
+![Linene's Home](/[assets]/attachments/phandalin-lionshield-linene.jpeg#portrait)*{{Background}}*, Commoner
+
 
 Linene lives not far from the Lionshield Coster
 
@@ -33,8 +33,12 @@ Linene lives not far from the Lionshield Coster
 
 ## Relationships
 
-[Lionshield Coster](Lionshield%20Coster.md)
-Friends with Qelline Alderleaf (Farmer), Daran Edermath (Orchard), Sister Garaele (Shrine of Luck), Elmar Barthen (Provisions)
+* Member of [Lionshield Coster](Lionshield%20Coster.md)
+* Friends
+	* [Quelline Alderleaf](Quelline%20Alderleaf.md)
+	* [Daran Edermath](Daran%20Edermath.md)
+	* [Sister Garaele](Sister%20Garaele.md)
+	* [Elmar Barthen](Elmar%20Barthen.md)
 
 ## Secrets
 

@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/town
 - region/north-sword-coast/triboar-trail
 - town/pentill
 ---

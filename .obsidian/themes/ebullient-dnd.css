@@ -129,17 +129,6 @@ h6 {
   font-family: var(--font-tags);
 }
 
-.markdown-preview-view h2,
-.markdown-preview-view h3,
-.markdown-preview-view h4,
-.markdown-preview-view h5,
-.markdown-preview-view h6 {
-  border-bottom: 1px solid;
-  border-width: 35%;
-  border-image-slice: 1;
-  border-image-source: linear-gradient(to right, var(--text-accent), #100e17, #100e17, #100e17);
-}
-
 .cm-header-1,
 .markdown-preview-view h1 {
   font-variant: common-ligatures small-caps;
@@ -209,13 +198,20 @@ h6 {
   font-size: 90%;
 }
 
-
 div[src$="#portrait"] {
   float: right;
   margin-left: 5px;
   width: 200px;
 }
 
+span.nav {
+  border-top: 1px solid var(--background-modifier-border);
+  border-bottom: 1px solid var(--background-modifier-border);
+  clear: right;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
 
 /*----------------------------------------------------------------
 Graph filters */

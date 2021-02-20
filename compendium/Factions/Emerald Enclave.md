@@ -1,10 +1,10 @@
 ---
 type: faction
 tags:
-- faction/emerald-enclave
+- group/faction/emerald-enclave
 ---
 # Emerald Enclave
-*{{short description}}*  
+![Banner](/[assets]/attachments/emerald-enclave-symbol.png#portrait)*Organization of Druids*  
 
 The Emerald Enclave is a far-ranging group that opposes threats to the natural world and helps others survive in the wilderness. 
 
@@ -12,12 +12,15 @@ The enclave works to restore and preserve the natural order by keeping the eleme
 
 Branches of the organization are scattered throughout Faerûn and often operate in isolation from the others. This existence teaches the Enclave’s members a fierce self-reliance and mastery of certain fighting and survival skills.
 
+* **Alignment** lawful neutral, chaotic neutral, or neutral
+* **Enemies** [The Cult of Talos](The%20Cult%20of%20Talos.md)
+
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
 
 ```dataview
-list from #faction/emerald-enclave
+list from #group/faction/emerald-enclave
 where type = "npc"
 ```
 

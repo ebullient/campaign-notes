@@ -4,7 +4,7 @@ tags:
 - npc/alive
 - iff/friend
 - town/phandalin/edermath-orchard
-- faction/order-of-the-gauntlet
+- group/faction/order-of-the-gauntlet
 ---
 # Daran Edermath
 ![Daran Edermath](/[assets]/attachments/daran-edermath.jpeg#portrait)

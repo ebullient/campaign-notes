@@ -4,7 +4,7 @@ tags:
 - npc/alive
 - iff/enemy
 - landmark/circle-of-thunder
-- faction/cult-of-talos
+- group/faction/cult-of-talos
 ---
 # Yargath
 ![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)

@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/region/mountains
 - region/north-sword-coast/sword-mountains
 - landmark/icespire-peak
 ---

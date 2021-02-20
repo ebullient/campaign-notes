@@ -3,7 +3,7 @@ type: npc
 tags:
 - npc/dead
 - iff/enemy
-- faction/cult-of-talos
+- group/faction/cult-of-talos
 - ruin/woodland-manse 
 ---
 # Grannoc

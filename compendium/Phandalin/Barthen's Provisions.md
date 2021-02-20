@@ -1,7 +1,7 @@
 ---
 type: location
 tags: 
-- type/general-store
+- type/shop/general-store
 - town/phandalin/barthens-provisions
 ---
 # Barthen's Provisions

@@ -1,11 +1,10 @@
 ---
 type: faction
 tags:
-- type/faction
-- faction/zhenterim
+- group/faction/zhenterim
 ---
 # Zhenterim
-*{{short description}}*  
+![Banner](/[assets]/attachments/zhenterim-symbol.jpg#portrait)*{{short description}}*  
 
 A shadowy organization that seeks to exert secret control over the North through wealth and influence. 
 
@@ -17,7 +16,7 @@ A shadowy organization that seeks to exert secret control over the North through
 ## NPCs
 
 ```dataview
-list from #faction/zhenterim
+list from #group/faction/zhenterim
 where type = "npc"
 ```
 

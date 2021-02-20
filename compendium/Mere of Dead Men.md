@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/region/swamp
 - region/north-sword-coast/mere-of-dead-men
 ---
 # Mere of Dead Men

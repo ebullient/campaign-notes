@@ -4,7 +4,7 @@ tags:
 - npc/alive
 - iff/enemy
 - landmark/circle-of-thunder
-- faction/cult-of-talos
+- group/faction/cult-of-talos
 ---
 # Narux (anchorite)
 *{{gender}} half-orc Anchorite of Talos, {{alignment}}*  

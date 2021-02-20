@@ -1,9 +1,9 @@
 ---
 type: location
 tags:
-- type/merchant-trade
+- type/shop/trading-post
 - town/phandalin/lionshield-coster
-- faction/lionshield-coster
+- group/merchant/lionshield-coster
 ---
 # Lionshield Coster
 ![Lionshield Coster](/[assets]/attachments/phandalin-lionshield-linene.jpeg#portrait)

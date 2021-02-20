@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/region/forest
 - region/north-sword-coast/kryptgarden-forest
 ---
 # Kryptgarden Forest

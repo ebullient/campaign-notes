@@ -1,7 +1,7 @@
 ---
 type: location
 tags:
-- type/town-building
+- type/municipal
 - town/phandalin/townmaster-hall
 ---
 # Townmaster's Hall
@@ -10,7 +10,7 @@ tags:
 
 The townmaster’s hall has sturdy stone walls, a pitched wooden roof, and a bell tower at the back. The job board next to the front door features a sparse number of notices, all written in Common, and in the same hand.
 
-The Townmaster, [[Harbin Wester]], serves as judge in minor disputes and keeps required records.
+The Townmaster, [Harbin Wester](Harbin%20Wester.md), serves as judge in minor disputes and keeps required records.
 
 The townmaster’s hall has a small but serviceable jail in the cellar with two cells. Harbin carries the keys to the cell doors.
 

@@ -4,7 +4,7 @@ tags:
 - npc/alive
 - iff/neutral
 - region/north-sword-coast 
-- mercenaries/stone-cold-reavers
+- group/mercenaries/stone-cold-reavers
 ---
 # Stone Cold Reavers
 *Mercenaries, neutral evil*  

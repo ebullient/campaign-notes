@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/trade-road
 - region/north-sword-coast/triboar-trail
 ---
 # Triboar Trail

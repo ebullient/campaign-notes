@@ -1,7 +1,7 @@
 ---
 type: faction
 tags:
-- faction/lionshield-coster
+- group/merchant/lionshield-coster
 ---
 # Lionshield Coster
 *Merchant company*  
@@ -16,7 +16,7 @@ The Lionshields are a merchant company based in Yartar (WAAY east). The company 
 ## NPCs
 
 ```dataview
-list from #faction/lionshield-coster
+list from #group/merchant/lionshield-coster
 where type = "npc"
 ```
 

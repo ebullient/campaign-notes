@@ -1,7 +1,7 @@
 ---
 type: location
 tags: 
-- type/temple/ruin
+- type/ruin
 - ruin/dwarven-excavation
 - region/north-sword-coast
 ---

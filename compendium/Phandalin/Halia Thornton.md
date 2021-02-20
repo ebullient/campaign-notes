@@ -4,7 +4,7 @@ tags:
 - npc/alive
 - iff/unknown
 - town/phandalin/miners-exchange
-- faction/zhenterim
+- group/faction/zhenterim
 ---
 # Halia Thornton
 ![Halia Thornton](/[assets]/attachments/halia-thornton.jpg#portrait)

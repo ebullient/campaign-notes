@@ -15,8 +15,7 @@ Spirited and precocious halfling 10-year-old. Enchanted by the idea of being an 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-![Alderleaf farm](/[assets]/attachments/phandalin-alderleaf-farm.jpeg#portrait)
-*{{Background}}*, Commoner
+![Alderleaf farm](/[assets]/attachments/phandalin-alderleaf-farm.jpeg#portrait)*{{Background}}*, Commoner
 
 Lives and helps out at [Alderleaf Farm](Alderleaf%20Farm.md) when not running around with [Pip Stonehill](Pip%20Stonehill.md)
 

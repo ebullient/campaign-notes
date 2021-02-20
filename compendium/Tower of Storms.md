@@ -4,7 +4,7 @@ tags:
 - type/shrine
 - region/north-sword-coast/high-road
 - landmark/tower-of-storms
-- faction/cult-of-talos
+- group/faction/cult-of-talos
 ---
 # Tower of Storms
 *Lighthouse, Temple of Talos, [High Road](High%20Road.md)*

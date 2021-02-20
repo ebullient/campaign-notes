@@ -1,7 +1,7 @@
 ---
 type: faction
 tags:
-- faction/cult-of-talos
+- group/faction/cult-of-talos
 - iff/enemy
 ---
 # The Cult of Talos
@@ -19,7 +19,7 @@ The Anchorites of Talos are fervent religious cultists who worship of Talos, the
 ## NPCs
 
 ```dataview
-list from #faction/cult-of-talos
+list from #group/faction/cult-of-talos
 where type = "npc"
 ```
 
@@ -30,7 +30,7 @@ where type = "npc"
 ## Locations
 
 ```dataview
-list from #faction/cult-of-talos
+list from #group/faction/cult-of-talos
 where type = "location"
 ```
 

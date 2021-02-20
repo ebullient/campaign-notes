@@ -1,10 +1,10 @@
 ---
 type: faction
 tags:
-- faction/harpers
+- group/faction/harpers
 ---
 # The Harpers
-*{{short description}}*  
+![Banner](/[assets]/attachments/harpers-symbol.jpg#portrait)*{{short description}}*  
 
 The Harpers, or *Those Who Harp*, are a scattered network of adventurers and spies who advocate equality and covertly oppose the abuse of power. The Harpers gather information throughout the land to thwart tyrants. They aid the weak, the poor, and the oppressed. 
 
@@ -15,7 +15,7 @@ The Harpers, or *Those Who Harp*, are a scattered network of adventurers and spi
 ## NPCs
 
 ```dataview
-list from #faction/harpers
+list from #group/faction/harpers
 where type = "npc"
 ```
 

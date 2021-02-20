@@ -1,7 +1,7 @@
 ---
 type: location
 tags: 
-- type/blacksmith
+- type/shop/blacksmith
 - town/phandalin/smithy
 ---
 # Strongarm Smithy

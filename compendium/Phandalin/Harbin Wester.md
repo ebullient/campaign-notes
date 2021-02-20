@@ -16,8 +16,7 @@ Pompous, middle-aged banker.
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-![Harbin's home](/[assets]/attachments/phandalin-townmaster.jpg#portrait)
-*Banker*, Commoner
+![Harbin's home](/[assets]/attachments/phandalin-townmaster.jpeg#portrait)*Banker*, Commoner
 
 Many locks on his door, but now emerges when the party arrives. Likes "Lord Kyle" the most. Enjoys having Drusz (goblin, aka Droop) around to play chess with (appeals to hidden/little-known caretaker).
 

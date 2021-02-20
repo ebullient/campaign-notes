@@ -1,7 +1,7 @@
 ---
 type: location
 tags: 
-- type/merchant-trade
+- type/shop/trading-post
 - town/phandalin/miners-exchange
 ---
 # Phandalin Miner's Exchange

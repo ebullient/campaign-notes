@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/trade-road
 - region/north-sword-coast/high-road
 ---
 # High Road

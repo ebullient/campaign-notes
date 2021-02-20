@@ -4,7 +4,7 @@ tags:
 - npc/alive
 - iff/enemy
 - landmark/tower-of-storms
-- faction/cult-of-talos
+- group/faction/cult-of-talos
 ---
 # Moesko
 ![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)

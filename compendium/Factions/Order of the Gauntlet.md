@@ -1,7 +1,7 @@
 ---
 type: faction
 tags:
-- faction/order-of-the-gauntlet
+- group/faction/order-of-the-gauntlet
 ---
 # Order of the Gauntlet
 *Coalition of warriors, knights, paladins, and clerics*  
@@ -14,7 +14,7 @@ A devout and vigilant group that seeks to protect others from the depredations o
 ## NPCs
 
 ```dataview
-list from #faction/order-of-the-gauntlet
+list from #group/faction/order-of-the-gauntlet
 where type = "npc"
 ```
 

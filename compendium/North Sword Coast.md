@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/region
 - region/north-sword-coast
 ---
 # North Sword Coast

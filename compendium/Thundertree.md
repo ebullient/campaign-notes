@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/town/ruin
 - ruin/thundertree
 - region/north-sword-coast/neverwinter-wood
 ---

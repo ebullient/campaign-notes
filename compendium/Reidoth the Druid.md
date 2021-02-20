@@ -5,10 +5,10 @@ tags:
 - iff/friend
 - ruin/thundertree
 - region/north-sword-coast
-- faction/emerald-enclave
+- group/faction/emerald-enclave
 ---
 # Reidoth the Druid
-![Reidoth](../[assets]/attachments/reidoth.jpeg#portrait)
+![Reidoth](/[assets]/attachments/reidoth.jpeg#portrait)
 *Male human druid, neutral good*  
 *[Thundertree](Thundertree.md)*  
 

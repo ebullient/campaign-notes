@@ -2,7 +2,6 @@
 type: location
 tags: 
 - type/town/ruin
-- ruin/conyberry
 - region/north-sword-coast/triboar-trail
 ---
 # Conyberry

@@ -2,7 +2,6 @@
 type: location
 xtags: 
 - region/...
-- trello
 ---
 # {{Title}}
 *{{townSize}}, {{context}}*  

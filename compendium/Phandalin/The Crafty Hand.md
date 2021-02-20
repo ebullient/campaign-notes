@@ -1,7 +1,7 @@
 ---
 type: location
 tags: 
-- type/carpenter
+- type/shop/carpenter
 - town/phandalin/woodshop
 ---
 # The Crafty Hand

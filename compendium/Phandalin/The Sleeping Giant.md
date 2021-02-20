@@ -1,7 +1,7 @@
 ---
 type: location
 tags:
-- type/tavern
+- type/shop/tavern
 - town/phandalin/sleeping-giant
 ---
 # The Sleeping Giant

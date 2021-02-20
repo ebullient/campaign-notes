@@ -3,7 +3,7 @@ type: npc
 tags:
 - npc/alive
 - iff/enemy
-- faction/cult-of-talos
+- group/faction/cult-of-talos
 - todo
 ---
 # Fheralai Stormsworn
