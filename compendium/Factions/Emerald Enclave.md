@@ -12,7 +12,8 @@ The enclave works to restore and preserve the natural order by keeping the eleme
 
 Branches of the organization are scattered throughout Faerûn and often operate in isolation from the others. This existence teaches the Enclave’s members a fierce self-reliance and mastery of certain fighting and survival skills.
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
 ## NPCs
 
 ```dataview

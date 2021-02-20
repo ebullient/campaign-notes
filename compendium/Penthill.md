@@ -13,7 +13,7 @@ Site of Igor's Challenge
 * **Population**
 * **Government** 
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

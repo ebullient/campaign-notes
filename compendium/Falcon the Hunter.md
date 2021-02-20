@@ -16,7 +16,7 @@ He stands 6 feet, 6 inches tall, and has black hair and broad shoulders. His eye
 
 He loves good wine and treats other people as he would like to be treated — fairly and with patience.
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *Noble*, Commoner

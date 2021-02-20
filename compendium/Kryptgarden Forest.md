@@ -8,7 +8,7 @@ tags:
 
 Ancient forest tucked behind the Sword Mountains contains the ruins of bygone Dwarven civilizations.
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

@@ -14,7 +14,7 @@ Steep, craggy, snow-capped mountains are home to scattered tribes of orcs and mo
 Their foothills are strewn with ruins of bygone kingdoms, and more than a few half-forgotten dungeons and tombs.
 
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

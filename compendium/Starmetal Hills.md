@@ -10,7 +10,7 @@ Range of rocky knolls is so named because the area has been an impact site of a 
 
 The hills are haunted by ruthless barbarian tribes, giving others little reason to visit the area.
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

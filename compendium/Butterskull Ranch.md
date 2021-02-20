@@ -13,7 +13,7 @@ TL;DR description
 * **Owner**
 * **Location** Near [Conyberry](Conyberry.md)
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs found here
 

@@ -13,7 +13,7 @@ tags:
 Neutral evil human veterans who speak Common.
 sellswords (brigands, thieves)
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)</span>
 
 ## Details
 *Mercenary*, Veteran

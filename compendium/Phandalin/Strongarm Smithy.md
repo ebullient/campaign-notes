@@ -13,7 +13,8 @@ tags:
 
 [Seamus](Seamus.md) is an apprentice here
 
-<span class="nav">[For Sale](#For\ Sale) | [NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[For Sale](#For\ Sale) [NPCs](#NPCs) [History](#History)</span>
+
 ## For Sale
 
 ## NPCs

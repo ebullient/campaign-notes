@@ -14,7 +14,8 @@ tags:
 * **Owner** [Linene Graywind](Linene%20Graywind.md) is the master of the trading post, which is owned by the [Lionshield Coster merchant company](../Factions/Lionshield%20Coster.md).
 * **Location** Across from the Townmaster's Hall, next to the Town Green
 
-<span class="nav">[For Sale](#For\ Sale) | [NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[For Sale](#For\ Sale) [NPCs](#NPCs) [History](#History)</span>
+
 ## For Sale
 
 ## NPCs

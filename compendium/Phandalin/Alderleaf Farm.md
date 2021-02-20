@@ -13,7 +13,8 @@ TL;DR description
 * **Owner** [Quelline Alderleaf](Quelline%20Alderleaf.md)
 * **Location** Southeast Phandalin
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
 ## NPCs
 
 ```dataview

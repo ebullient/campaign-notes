@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/colony
 - settlement/gnomengarde
 - region/north-sword-coast/sword-mountains
 ---
@@ -12,7 +13,7 @@ TL;DR description
 * **Leadership** Two kings, 
 * **Location**
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

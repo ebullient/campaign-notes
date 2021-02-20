@@ -14,7 +14,7 @@ TL;DR .. more here
 
 She will identify items for the party free of charge as a result of "The Splendiferous Bauble".
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 ![Wagon](/[assets]/attachments/mabina-wagon.png#portrait)

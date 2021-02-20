@@ -15,7 +15,7 @@ The source of the beacon’s eerie green light is Moesko’s own heart, which wa
 
 * **Location** Off the coast, near [Leilon](Leilon/Leilon.md)
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
 

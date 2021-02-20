@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/outpost
 - region/north-sword-coast/neverwinter-wood
 - settlement/loggers-camp
 ---
@@ -12,7 +13,7 @@ TL;DR description
 * **Owner**
 * **Location**
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

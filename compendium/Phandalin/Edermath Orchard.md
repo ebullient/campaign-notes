@@ -12,7 +12,8 @@ An apple orchard located just outside of the ruined town walls on the Northwest 
 
 * **Owner** [Daran Edermath](Daran%20Edermath.md)
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
 ## NPCs
 
 ```dataview

@@ -11,7 +11,7 @@ TL;DR description
 * **Owner**
 * **Location**
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

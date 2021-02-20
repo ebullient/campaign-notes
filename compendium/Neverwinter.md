@@ -12,7 +12,7 @@ TL;DR description
 * **Population**
 * **Government** 
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

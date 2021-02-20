@@ -1,25 +1,29 @@
 # Questions And Answers
 
+- [ ] Who exactly is Mabina? 
+- [ ] What happened to Glassstaff?
+- [ ] Does the Black Spider matter anymore? If so, how?
+
 
 ## Cult of Talos 
 
-* Following Fheralai’s orders, the half-orc Moesko takes over the Tower of Storms.
-* How did she rouse the anchorites of Neverwinter Wood?
-    * What were her orders for Grannoc
-    * What was the point of summoning Gorthok?
+Following Fheralai’s orders, the half-orc Moesko takes over the Tower of Storms.
+- [ ] How did she rouse the anchorites of Neverwinter Wood?
+- [ ] What were her orders for Grannoc?
+- [ ] What is the point of summoning Gorthok? What do the sacrifices mean?
 
 
 ## Dwarves moving into the area
 
-* Are [Norbus Ironrune](Norbus%20Ironrune) and [Dazlyn Grayshard](compendium/Dazlyn%20Grayshard.md) going to move excavation sites?
-* How are they related to dwarves moving to [Axeholm](compendium/Axeholm.md) 
-* Does [Grista](compendium/Phandalin/Grista.md) like having so many more Dwarves around (does she care at all)?
+- [ ] Are [Norbus Ironrune](Norbus%20Ironrune) and [Dazlyn Grayshard](compendium/Dazlyn%20Grayshard.md) going to move excavation sites?
+- [ ] How are they related to dwarves moving to [Axeholm](compendium/Axeholm.md) 
+- [ ] Does [Grista](compendium/Phandalin/Grista.md) like having so many more Dwarves around (does she care at all)?
 
 ## Orcs are not all bad
 
-Now where should they go?
+- [x] Now where should they go? They will go to butterskull ranch for now #todo
 
 ## Druids
 
-How does Reidoth feel about the Cultists and the Thunderboar?
-What about the Blights and the Gulthias tree? 
+- [ ] How does Reidoth feel about the Cultists and the Thunderboar?
+- [ ] What about the Blights and the Gulthias tree? 

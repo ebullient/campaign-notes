@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/fortress
 - settlement/axeholm
 - region/north-sword-coast/sword-mountains
 ---
@@ -12,19 +13,13 @@ TL;DR description
 * **Owner**
 * **Location** South of 
 
-[NPCs](#NPCs) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 
 ```dataview
 list from #settlement/axeholm
 where type = "npc"
-```
-
-### Secrets
-
-```dataview
-task from #settlement/axeholm
 ```
 
 ### History

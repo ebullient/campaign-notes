@@ -10,7 +10,7 @@ This path south of Neverwinter Wood is the safest route between Neverwinter and 
 
 The trail is not patrolled, and monster attacks are commonplace.
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

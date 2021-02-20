@@ -11,7 +11,8 @@ The Lionshields are a merchant company based in Yartar (WAAY east). The company 
 * [Linene Graywind](../Phandalin/Linene%20Graywind.md) is the master of the trading post in Phandalin.
 
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
 ## NPCs
 
 ```dataview

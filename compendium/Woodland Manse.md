@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/manor/ruin
 - region/north-sword-coast/neverwinter-wood
 - ruin/woodland-manse
 - faction/cult-of-talos
@@ -13,7 +14,7 @@ TL;DR description
 * **Owner** [[Grannoc]]
 * **Location** Western section of Neverwinter Wood
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

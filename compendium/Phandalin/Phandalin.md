@@ -12,8 +12,9 @@ Phandalin is not well known outside of the region.
 * **Population** #todo
 * **Government** 
 
-[Places](#Places) | [NPCs](#NPCs) | [History](#History)
-![Phandalin](/[assets]/attachments/phandalin-labeled.png#full-width)
+<span class="nav">[Places](#Places) [NPCs](#NPCs) [History](#History)</span>
+
+![Phandalin](https://media-waterdeep.cursecdn.com/attachments/5/747/map-phandalin.jpg#full-width)
 
 ### Places
 

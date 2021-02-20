@@ -12,7 +12,7 @@ tags:
 
 Energetic boy; lanky and ungraceful. Energetic. Helps his parents at the Inn when not running around with [Carp Alderleaf](Carp%20Alderleaf.md).
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *{{Background}}*, Commoner

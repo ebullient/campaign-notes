@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/town/ruin
 - ruin/conyberry
 - region/north-sword-coast/triboar-trail
 ---
@@ -13,7 +14,7 @@ Abandoned town, sacked by barbarians years ago. Now lies in ruins.
 
 Dirt road extending south leads to supposedly abandoned [Shrine](Shrine%20of%20Savras.md) dedicated to Savras (god of divination and fate).
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

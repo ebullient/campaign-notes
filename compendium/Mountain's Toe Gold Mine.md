@@ -15,7 +15,8 @@ The Mountain’s Toe Gold Mine is owned by a business consortium in Neverwinter.
 
 Don-Jon is still there, with a crew of dwarves that survived the Whiskered Gang, and some additional humans sent more recently from Neverwinter.
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
 ## NPCs
 
 ```dataview

@@ -13,7 +13,7 @@ tags:
 
 Moesko uses the tower's pulsing beacon to draw ships to their doom as sacrifices to [[Talos]], the Storm Lord. 
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *{{Background}}*, Commoner

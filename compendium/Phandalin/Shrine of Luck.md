@@ -13,7 +13,8 @@ Phandalin’s only temple is a shrine made of stones taken from the nearby ruins
 * **Caretaker** [[Sister Garaele]]
 * **Location** The runined Shrine on the north edge of the town square, or marketplace.
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
 ## NPCs
 
 ```dataview

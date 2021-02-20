@@ -12,7 +12,7 @@ tags:
 
 Thistle has an angular face, with braided golden hair and dark hazel eyes. She is lean, but strong, and does her fair share with the wagons.
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *{{Background}}*, Commoner

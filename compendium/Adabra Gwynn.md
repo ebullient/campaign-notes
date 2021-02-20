@@ -20,7 +20,7 @@ Midwife, apothecary, potion maker.
 Potions of healing cost 50gp
 Mirna sells her potions and poultices in town.
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *[Outlander](https://5ebackgrounds.com/outlander/), Commoner*

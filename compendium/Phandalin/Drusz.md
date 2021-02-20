@@ -14,7 +14,7 @@ Drusz is a goblin that was badly abused and bullied by Bugbear's in the Redbrand
 
 His name is actually Drusz. He's quietly recovering from his abuse while staying with Harbin (and apparently playing chess).
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *{{Background}}*, Commoner

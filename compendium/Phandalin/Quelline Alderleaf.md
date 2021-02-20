@@ -14,7 +14,7 @@ Pragmatic and wise farmer who seems to know everything going on in the town.
 
 Qelline is a kind soul, always willing to let travelers stay in the hayloft in her barn. 
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *Farmer*, Commoner

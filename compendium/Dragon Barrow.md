@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/burial-ground
 - landmark/dragon-barrow
 - region/north-sword-coast/high-road
 ---
@@ -12,7 +13,7 @@ TL;DR description
 * **Owner**
 * **Location** West of the High Road between Leilon and Neverwinter
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

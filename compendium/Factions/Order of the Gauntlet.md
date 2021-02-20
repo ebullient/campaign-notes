@@ -9,7 +9,8 @@ tags:
 A devout and vigilant group that seeks to protect others from the depredations of evildoers. The order is always vigilant, ready to smite evil, enforce justice, and enact retribution against any who try to subjugate or harm others. 
 
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
 ## NPCs
 
 ```dataview

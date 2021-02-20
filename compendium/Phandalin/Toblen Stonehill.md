@@ -14,7 +14,7 @@ tags:
 
 He is known to be helpful and talkative, especially to those that are respectful while on the inn’s grounds.
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *{{Background}}*, Commoner

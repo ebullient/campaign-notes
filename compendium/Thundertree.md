@@ -11,7 +11,7 @@ TL;DR description
 
 * **Location** The town ruins are near where the [[Neverwinter River]] emerges from [Neverwinter Wood](Neverwinter%20Wood.md)
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

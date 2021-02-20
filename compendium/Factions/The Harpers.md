@@ -10,7 +10,8 @@ The Harpers, or *Those Who Harp*, are a scattered network of adventurers and spi
 
 * **Leader** The High Harpers, a leadership council elected by secret ballot
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
 ## NPCs
 
 ```dataview

@@ -12,7 +12,8 @@ A shadowy organization that seeks to exert secret control over the North through
 * **Leader**
 * **Location**
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
 ## NPCs
 
 ```dataview

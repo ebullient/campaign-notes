@@ -14,7 +14,8 @@ TL;DR description
 * **Owner**
 * **Location** Equidistant from [Falcon's Hunting Lodge](Falcon's%20Hunting%20Lodge.md) and [Woodland Manse](Woodland%20Manse.md).
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
 ## NPCs
 
 ```dataview

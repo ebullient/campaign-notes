@@ -12,7 +12,7 @@ tags:
 
 TL;DR description / personality / motivation
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *Farmer*, Commoner

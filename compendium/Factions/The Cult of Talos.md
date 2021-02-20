@@ -14,7 +14,8 @@ The Cult of Talos is led by the priestess [Fheralai Stormsworn](Fheralai%20Storm
 The Anchorites of Talos are fervent religious cultists who worship of Talos, the god of storms.
 
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
 ## NPCs
 
 ```dataview

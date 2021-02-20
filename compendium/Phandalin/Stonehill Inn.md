@@ -20,7 +20,8 @@ It has an upstairs floor with 6 rooms for visitors and guests of the inn.
 * 1 bed for 5 sp
 * 1 meal for 1 sp
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
 ## NPCs
 
 ```dataview

@@ -10,7 +10,7 @@ Travelers on the High Road, which skirts the mere to the east, must resist being
 
 Many adventurers have died here, drawn by tales of ruined castles half-sunk in the mire.
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

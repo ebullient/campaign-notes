@@ -15,7 +15,7 @@ Fierce. Calculating.
 She wants her guild to be the governing body of the village. #notexplored
 
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 ![Halia's home](/[assets]/attachments/phandalin-miners-exchange.jpeg#portrait)

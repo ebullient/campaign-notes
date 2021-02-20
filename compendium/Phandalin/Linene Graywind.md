@@ -18,7 +18,7 @@ Master of the Phandalin post of [Lionshield Coster](Lionshield%20Coster.md)
 
 The Lionshield Coster won’t sell weapons to anyone she thinks might be a threat to the town willing to share news about what is going on in the town with customers.
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 ![Linene's Home](/[assets]/attachments/phandalin-lionshield-linene.jpeg#portrait)

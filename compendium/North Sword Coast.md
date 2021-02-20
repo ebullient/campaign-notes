@@ -4,7 +4,10 @@ tags:
 - region/north-sword-coast
 ---
 # North Sword Coast
-[Locations](#Locations) | [NPCs](#NPCs) | [Organizations](#Organizations)
+
+
+
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [Organizations](#Organizations)</span>
 
 
 

@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/temple/ruin
 - ruin/dwarven-excavation
 - region/north-sword-coast
 ---
@@ -12,7 +13,7 @@ TL;DR description
 * **Prospectors** [[Dazlyn Grayshard]] and [[Norbus Ironrune]]
 * **Location** South of [Phandalin](Phandalin/Phandalin.md)
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 

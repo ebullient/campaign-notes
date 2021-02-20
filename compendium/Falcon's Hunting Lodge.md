@@ -15,7 +15,8 @@ TL;DR description
 Equidistant to [Circle of Thunder](Circle%20of%20Thunder.md)
 and [Woodland Manse](Woodland%20Manse.md).
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
 ## NPCs
 
 ```dataview

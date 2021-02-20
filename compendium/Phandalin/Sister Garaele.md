@@ -14,7 +14,7 @@ Cleric/Acolyte of Tymora (zealous).
 
 Sister Garaele regularly reports to her superiors in Neverwinter on events in and around Phandalin. The shrine is left untended when she is away.
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *Acolyte*, Commoner

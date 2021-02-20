@@ -13,7 +13,7 @@ tags:
 
 A fit, silver-haired _half-elf_ well over a hundred years old. He lives in a tidy little cottage beside the apple orchard.
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *Soldier*, Commoner

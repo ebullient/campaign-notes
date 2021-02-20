@@ -13,7 +13,7 @@ He has curly blonde hair and bright hazel eyes. Late teens, early twenties, stro
 
 Helps load and unload wagons, and waits on customers when Barthen isn’t around
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *{{Background}}*, Commoner

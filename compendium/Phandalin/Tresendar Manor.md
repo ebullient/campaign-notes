@@ -10,7 +10,8 @@ tags:
 Home to [Hot-dog (Nothic)](Hot-dog%20(Nothic).md). 
 Cleared of Redbrands.
 
-<span class="nav">[NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
 ## NPCs
 
 ```dataview

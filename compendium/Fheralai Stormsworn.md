@@ -14,7 +14,7 @@ Fheralai is a fanatical young half-orc war priest. She plans to invade the Sword
 
 > A towering female half-orc steps into view. Her muscles are like iron bands and her face is fixed in a bestial scowl. Under her boar-skin hood, you see eyes crackling with lightning.
 
-[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *{{Background}}*, War Priest

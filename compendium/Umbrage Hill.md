@@ -2,6 +2,7 @@
 type: location
 alias: ['umbrage-hill']
 tags: 
+- type/outpost
 - region/north-sword-coast
 - settlement/umbrage-hill
 ---
@@ -13,19 +14,13 @@ TL;DR description
 * **Owner** [Adabra Gwynn](Adabra%20Gwynn.md)
 * **Location** 5 miles south of [Phandalin](Phandalin/Phandalin.md)
 
-[NPCs](#NPCs) | [Secrets](#Secrets) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ### NPCs
 
 ```dataview
 list from #settlement/umbrage-hill
 where type = "npc"
-```
-
-### Secrets
-
-```dataview
-task from #settlement/umbrage-hill
 ```
 
 ### History
