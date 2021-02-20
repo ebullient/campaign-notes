@@ -1,0 +1,23 @@
+.rowen-dragon-heist {
+  background-repeat: repeat-y;
+}
+.theme-light .rowen-dragon-heist:not(.duet) {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.0' xmlns='http://www.w3.org/2000/svg' width='12pt' height='12.5pt' viewBox='0 0 24 25' preserveAspectRatio='xMidYMid meet'%3E%3Cg transform='translate(0.0,25.0) scale(0.1,-0.1)'%0Afill='%23e8c4ce' stroke='none'%3E%3Cpath d='M70 235 c0 -17 26 -55 44 -63 17 -9 18 -11 4 -11 -10 -1 -23 -11 -29%0A-23 l-12 -22 -8 22 c-5 12 -16 22 -26 23 -15 0 -15 2 5 16 12 8 22 23 22 32%0A-1 15 -2 15 -13 0 -7 -9 -23 -21 -36 -28 l-23 -13 30 -18 c17 -10 33 -28 37%0A-39 5 -18 9 -17 47 21 31 31 37 42 27 49 -8 5 -17 9 -22 9 -4 0 -13 11 -19 25%0A-10 21 -28 35 -28 20z'/%3E%3Cpath d='M170 126 c0 -8 -12 -23 -26 -33 -25 -16 -26 -17 -6 -32 11 -9 23 -23%0A28 -32 8 -13 13 -11 39 15 l30 31 -32 33 c-23 23 -33 29 -33 18z m40 -46 c7 0%0A2 -8 -10 -18 -21 -17 -25 -17 -39 -3 -14 14 -14 18 -1 32 13 14 17 14 26 3 6%0A-8 17 -14 24 -14z'/%3E%3C/g%3E%3C/svg%3E");  background-repeat: repeat-y;
+}
+.theme-dark .rowen-dragon-heist:not(.duet) {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.0' xmlns='http://www.w3.org/2000/svg' width='12pt' height='12.5pt' viewBox='0 0 24 25' preserveAspectRatio='xMidYMid meet'%3E%3Cg transform='translate(0.0,25.0) scale(0.1,-0.1)'%0Afill='%23584054' stroke='none'%3E%3Cpath d='M70 235 c0 -17 26 -55 44 -63 17 -9 18 -11 4 -11 -10 -1 -23 -11 -29%0A-23 l-12 -22 -8 22 c-5 12 -16 22 -26 23 -15 0 -15 2 5 16 12 8 22 23 22 32%0A-1 15 -2 15 -13 0 -7 -9 -23 -21 -36 -28 l-23 -13 30 -18 c17 -10 33 -28 37%0A-39 5 -18 9 -17 47 21 31 31 37 42 27 49 -8 5 -17 9 -22 9 -4 0 -13 11 -19 25%0A-10 21 -28 35 -28 20z'/%3E%3Cpath d='M170 126 c0 -8 -12 -23 -26 -33 -25 -16 -26 -17 -6 -32 11 -9 23 -23%0A28 -32 8 -13 13 -11 39 15 l30 31 -32 33 c-23 23 -33 29 -33 18z m40 -46 c7 0%0A2 -8 -10 -18 -21 -17 -25 -17 -39 -3 -14 14 -14 18 -1 32 13 14 17 14 26 3 6%0A-8 17 -14 24 -14z'/%3E%3C/g%3E%3C/svg%3E");  background-repeat: repeat-y;
+}
+.theme-light .rowen-dragon-heist.duet {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.0' xmlns='http://www.w3.org/2000/svg' width='12pt' height='12.5pt' viewBox='0 0 24 25' preserveAspectRatio='xMidYMid meet'%3E%3Cg transform='translate(0.0,25.0) scale(0.1,-0.1)'%0Afill='%23a9d5d3' stroke='none'%3E%3Cpath d='M70 235 c0 -17 26 -55 44 -63 17 -9 18 -11 4 -11 -10 -1 -23 -11 -29%0A-23 l-12 -22 -8 22 c-5 12 -16 22 -26 23 -15 0 -15 2 5 16 12 8 22 23 22 32%0A-1 15 -2 15 -13 0 -7 -9 -23 -21 -36 -28 l-23 -13 30 -18 c17 -10 33 -28 37%0A-39 5 -18 9 -17 47 21 31 31 37 42 27 49 -8 5 -17 9 -22 9 -4 0 -13 11 -19 25%0A-10 21 -28 35 -28 20z'/%3E%3Cpath d='M170 126 c0 -8 -12 -23 -26 -33 -25 -16 -26 -17 -6 -32 11 -9 23 -23%0A28 -32 8 -13 13 -11 39 15 l30 31 -32 33 c-23 23 -33 29 -33 18z m40 -46 c7 0%0A2 -8 -10 -18 -21 -17 -25 -17 -39 -3 -14 14 -14 18 -1 32 13 14 17 14 26 3 6%0A-8 17 -14 24 -14z'/%3E%3C/g%3E%3C/svg%3E");  background-repeat: repeat-y;
+}
+.theme-dark .rowen-dragon-heist.duet {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.0' xmlns='http://www.w3.org/2000/svg' width='12pt' height='12.5pt' viewBox='0 0 24 25' preserveAspectRatio='xMidYMid meet'%3E%3Cg transform='translate(0.0,25.0) scale(0.1,-0.1)'%0Afill='%233d7e7b' stroke='none'%3E%3Cpath d='M70 235 c0 -17 26 -55 44 -63 17 -9 18 -11 4 -11 -10 -1 -23 -11 -29%0A-23 l-12 -22 -8 22 c-5 12 -16 22 -26 23 -15 0 -15 2 5 16 12 8 22 23 22 32%0A-1 15 -2 15 -13 0 -7 -9 -23 -21 -36 -28 l-23 -13 30 -18 c17 -10 33 -28 37%0A-39 5 -18 9 -17 47 21 31 31 37 42 27 49 -8 5 -17 9 -22 9 -4 0 -13 11 -19 25%0A-10 21 -28 35 -28 20z'/%3E%3Cpath d='M170 126 c0 -8 -12 -23 -26 -33 -25 -16 -26 -17 -6 -32 11 -9 23 -23%0A28 -32 8 -13 13 -11 39 15 l30 31 -32 33 c-23 23 -33 29 -33 18z m40 -46 c7 0%0A2 -8 -10 -18 -21 -17 -25 -17 -39 -3 -14 14 -14 18 -1 32 13 14 17 14 26 3 6%0A-8 17 -14 24 -14z'/%3E%3C/g%3E%3C/svg%3E");  background-repeat: repeat-y;
+}
+
+.rowen-dragon-heist > .markdown-preview-section {
+  background-color: var(--background-primary);
+}
+
+div[src$="#Summary"] h2[data-heading=Summary] {
+  display: none;
+}

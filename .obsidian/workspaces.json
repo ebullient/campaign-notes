@@ -1,0 +1,755 @@
+{
+  "workspaces": {
+    "base": {
+      "main": {
+        "id": "f2bd3b56b134a785",
+        "type": "split",
+        "children": [
+          {
+            "id": "c0c446614874d9bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "items/defender-scimitar.md",
+                "mode": "source"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/defender-scimitar.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/defender-shortsword.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":429},\"to\":{\"line\":17,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/luck-blade-sword.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":50},\"to\":{\"line\":21,\"ch\":50}}}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/vorpal-sword.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":38},\"to\":{\"line\":17,\"ch\":38}}}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/nine-lives-stealer-sword.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/frost-brand-shortsword.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/dancing-sword.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":44},\"to\":{\"line\":21,\"ch\":44}}}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/dancing-shortsword.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/dancing-sword.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":31},\"to\":{\"line\":21,\"ch\":31}}}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/dancing-shortsword.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":42},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/dancing-sword.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/sword-of-sharpness.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":50},\"to\":{\"line\":17,\"ch\":50}}}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/2-weapon.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/1-weapon.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":7},\"to\":{\"line\":7,\"ch\":7}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/3-weapon.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/3-warhammer.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/3-weapon.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/vicious-weapon.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/sword-of-wounding.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":52},\"to\":{\"line\":21,\"ch\":52}}}"
+                },
+                {
+                  "leaf": "c0c446614874d9bf",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/sword-of-life-stealing.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "8838852e83545d38",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/magic-item-tables.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":372,\"ch\":20},\"to\":{\"line\":372,\"ch\":20}},\"scroll\":416.6190476190476}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/1-ammunition.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/1-arrow.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":29},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/1-ammunition.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":140,\"ch\":21},\"to\":{\"line\":140,\"ch\":21}},\"scroll\":103.85714285714286}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/magic-item-tables.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.619047619047619}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/weapon-of-vengeance.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/sword-of-sharpness.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/sword-of-life-stealing.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/sword-of-sharpness.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/sword-of-life-stealing.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/vicious-weapon.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":27.60427807486631}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/sword-of-life-stealing.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/vicious-weapon.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/vicious-flail.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/vicious-weapon.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/magic-item-tables.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":282,\"ch\":71},\"to\":{\"line\":282,\"ch\":71}},\"scroll\":249.85714285714286}"
+                },
+                {
+                  "leaf": "8838852e83545d38",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/elemental-essence-shard-air.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"scroll\":2.0476190476190474}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e63e853df3df49f8",
+        "type": "split",
+        "children": [
+          {
+            "id": "9b9e7500cec027b0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d5f7fa1ec5825189",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "73779d898406c843",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "(types)",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "579727e1c3882fd8",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 283
+      },
+      "right": {
+        "id": "3835c44aac931f7d",
+        "type": "split",
+        "children": [
+          {
+            "id": "6fcfaad1768ac197",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5c47afe1dcac0a71",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "950aac030f4c918c",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "afda8eba7f2cefb3",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "486cd51053793aa9",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "3189bd1df8bb3538",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2610f5f9582e04bc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8a15f56ca266732d",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1.67493566176471,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.8417075347794671,
+                      "close": true
+                    }
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "8a15f56ca266732d",
+                      "group": null,
+                      "state": "{\"type\":\"localgraph\",\"state\":{\"file\":\"items/sword-of-sharpness.md\",\"options\":{\"collapse-filter\":true,\"search\":\"\",\"localJumps\":1,\"localBacklinks\":true,\"localForelinks\":true,\"localInterlinks\":false,\"showTags\":false,\"showAttachments\":false,\"hideUnresolved\":false,\"collapse-color-groups\":true,\"colorGroups\":[],\"collapse-display\":true,\"showArrow\":false,\"textFadeMultiplier\":0,\"nodeSizeMultiplier\":1,\"lineSizeMultiplier\":1,\"collapse-forces\":true,\"centerStrength\":0.518713248970312,\"repelStrength\":10,\"linkStrength\":1,\"linkDistance\":250,\"scale\":1,\"close\":false}}}",
+                      "eState": "{}"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "8838852e83545d38"
+    },
+    "reference": {
+      "main": {
+        "id": "f2bd3b56b134a785",
+        "type": "split",
+        "children": [
+          {
+            "id": "80e381399c7a393a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "80e381399c7a393a",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "80e381399c7a393a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/silvered-sling-bullet.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "80e381399c7a393a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/silvered-arrow.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":99},\"to\":{\"line\":10,\"ch\":99}}}"
+                },
+                {
+                  "leaf": "80e381399c7a393a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/silvered-crossbow-bolt.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":251},\"to\":{\"line\":10,\"ch\":251}}}"
+                },
+                {
+                  "leaf": "80e381399c7a393a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/silvered-dart.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "80e381399c7a393a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/silvered-crossbow-bolt.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":176},\"to\":{\"line\":10,\"ch\":176}}}"
+                },
+                {
+                  "leaf": "80e381399c7a393a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/silvered-blowgun-needle.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "80e381399c7a393a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/silvered-light-crossbow.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "80e381399c7a393a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/silvered-longbow.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":26},\"to\":{\"line\":14,\"ch\":26}}}"
+                },
+                {
+                  "leaf": "80e381399c7a393a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/silvered-sling-bullet.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":50},\"to\":{\"line\":10,\"ch\":50}}}"
+                },
+                {
+                  "leaf": "80e381399c7a393a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/silvered-sling.md\",\"mode\":\"source\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "80e381399c7a393a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/silvered-sling-bullet.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":35},\"to\":{\"line\":10,\"ch\":35}}}"
+                },
+                {
+                  "leaf": "80e381399c7a393a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"items/silvered-crossbow-bolt.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "80e381399c7a393a",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e63e853df3df49f8",
+        "type": "split",
+        "children": [
+          {
+            "id": "9b9e7500cec027b0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d5f7fa1ec5825189",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "73779d898406c843",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "weapon-properties",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "579727e1c3882fd8",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 283
+      },
+      "right": {
+        "id": "3835c44aac931f7d",
+        "type": "split",
+        "children": [
+          {
+            "id": "6fcfaad1768ac197",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5c47afe1dcac0a71",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "950aac030f4c918c",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "afda8eba7f2cefb3",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "486cd51053793aa9",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "3189bd1df8bb3538",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "2610f5f9582e04bc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8a15f56ca266732d",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1.67493566176471,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.8417075347794671,
+                      "close": true
+                    }
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "8a15f56ca266732d",
+                      "group": null,
+                      "state": "{\"type\":\"localgraph\",\"state\":{\"file\":\"items/sword-of-sharpness.md\",\"options\":{\"collapse-filter\":true,\"search\":\"\",\"localJumps\":1,\"localBacklinks\":true,\"localForelinks\":true,\"localInterlinks\":false,\"showTags\":false,\"showAttachments\":false,\"hideUnresolved\":false,\"collapse-color-groups\":true,\"colorGroups\":[],\"collapse-display\":true,\"showArrow\":false,\"textFadeMultiplier\":0,\"nodeSizeMultiplier\":1,\"lineSizeMultiplier\":1,\"collapse-forces\":true,\"centerStrength\":0.518713248970312,\"repelStrength\":10,\"linkStrength\":1,\"linkDistance\":250,\"scale\":1,\"close\":false}}}",
+                      "eState": "{}"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "80e381399c7a393a"
+    }
+  },
+  "active": "base"
+}

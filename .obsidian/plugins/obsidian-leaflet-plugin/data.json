@@ -1,0 +1,247 @@
+{
+  "mapMarkers": [
+    {
+      "id": "sword-coast-north",
+      "lastAccessed": 1645206822858,
+      "markers": [
+        {
+          "id": "ID_ea8bc9199a38",
+          "type": "default",
+          "loc": [
+            1602.9555053710938,
+            892.54736328125
+          ],
+          "layer": "..%2F..%2F%F0%9F%97%84-assets%2Fattachments%2Fmap-sword-coast-north.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "faerûn/places/sword-coast-north.md"
+      ]
+    },
+    {
+      "id": "waterdeep-map",
+      "lastAccessed": 1653135228104,
+      "markers": [
+        {
+          "id": "ID_19d8a8c8f85a",
+          "type": "current",
+          "loc": [
+            2176.8678665161133,
+            929.4119873046875
+          ],
+          "layer": "..%2F%F0%9F%97%84-assets%2Fattachments%2Fwaterdeep-city-map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.44756504015976123,
+            -0.2934931257725288
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "faerûn/places/waterdeep/waterdeep.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#3c9a94",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "home",
+      "iconName": "home",
+      "color": "#6b5cb7",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": -2,
+      "maxZoom": 2
+    },
+    {
+      "type": "current",
+      "iconName": "map-marker-alt",
+      "color": "#cb2528",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "shop",
+      "iconName": "shopping-bag",
+      "color": "#5d9a3c",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "tavern",
+      "iconName": "beer",
+      "color": "#697ebf",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "encounter",
+      "iconName": "exclamation",
+      "color": "#bbbe37",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "inn",
+      "iconName": "hotel",
+      "color": "#c88dc3",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "temple",
+      "iconName": "church",
+      "color": "#97bdc4",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "landmark",
+      "iconName": "star",
+      "color": "#7f9493",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "settlement",
+      "iconName": "house-user",
+      "color": "#8eaf94",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "ship",
+      "iconName": "ship",
+      "color": "#329f96",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "5.0.3",
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 3
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": true,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}

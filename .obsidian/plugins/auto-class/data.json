@@ -1,0 +1,20 @@
+{
+  "matches": [
+    {
+      "path": "rowen/duet",
+      "scope": "Read & Edit",
+      "classes": [
+        "duet"
+      ]
+    },
+    {
+      "path": "rowen",
+      "scope": "Read & Edit",
+      "classes": [
+        "show-spans",
+        "rowen-dragon-heist"
+      ]
+    }
+  ],
+  "version": "2.2.0"
+}

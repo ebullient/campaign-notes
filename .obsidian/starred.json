@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "distances",
+      "path": "gm/distances.md"
+    },
+    {
+      "type": "file",
+      "title": "gm-generators-links",
+      "path": "gm/gm-generators-links.md"
+    },
+    {
+      "type": "file",
+      "title": "all-timeline",
+      "path": "gm/all-timeline.md"
+    },
+    {
+      "type": "file",
+      "title": "volos-guide-2-surviving",
+      "path": "rowen/duet/miscellanea/volos-guide/volos-guide-2-surviving.md"
+    },
+    {
+      "type": "file",
+      "title": "renown",
+      "path": "compendium/rules/renown.md"
+    },
+    {
+      "type": "file",
+      "title": "2022-05-01-dopplegangers-and-disguises",
+      "path": "rowen/sessions/2022-05-01-dopplegangers-and-disguises.md"
+    }
+  ]
+}

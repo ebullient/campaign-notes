@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 14,
+  "cssTheme": "Ebullientworks",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "campaign-notes",
+    "rowen"
+  ],
+  "baseFontSizeAction": false,
+  "translucency": false
+}

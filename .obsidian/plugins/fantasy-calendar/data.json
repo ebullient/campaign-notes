@@ -1,0 +1,2335 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Rowen-Calendar",
+      "description": "Calendar of Faerûn of the Forgotten Realms.",
+      "autoParse": true,
+      "path": "/",
+      "supportTimelines": true,
+      "syncTimelines": false,
+      "timelineTag": "#timeline",
+      "static": {
+        "displayDayNumber": false,
+        "firstWeekDay": 0,
+        "incrementDay": false,
+        "displayMoons": true,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "I",
+            "id": "ID_9999882bb94a"
+          },
+          {
+            "type": "day",
+            "name": "II",
+            "id": "ID_8a0b4b79d888"
+          },
+          {
+            "type": "day",
+            "name": "III",
+            "id": "ID_da483aca8bf9"
+          },
+          {
+            "type": "day",
+            "name": "IV",
+            "id": "ID_a8fbea39cac8"
+          },
+          {
+            "type": "day",
+            "name": "V",
+            "id": "ID_9b19d9787b0b"
+          },
+          {
+            "type": "day",
+            "name": "VI",
+            "id": "ID_382a590a8a28"
+          },
+          {
+            "type": "day",
+            "name": "VII",
+            "id": "ID_fbca0ab80afb"
+          },
+          {
+            "type": "day",
+            "name": "VIII",
+            "id": "ID_ca093bca5ad9"
+          },
+          {
+            "type": "day",
+            "name": "IX",
+            "id": "ID_d95b39098bf8"
+          },
+          {
+            "type": "day",
+            "name": "X",
+            "id": "ID_389bfb5858db"
+          }
+        ],
+        "months": [
+          {
+            "name": "Hammer (Deepwinter)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_cbeb4b190b6a"
+          },
+          {
+            "name": "Midwinter",
+            "type": "intercalary",
+            "length": 1,
+            "id": "ID_89bad9089b7b"
+          },
+          {
+            "name": "Alturiak (The Claw of Winter)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_6a08a8aacb7b"
+          },
+          {
+            "name": "Ches (The Claw of the Sunsets)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_db2a7bf97afa"
+          },
+          {
+            "name": "Tarsakh (The Claw of Storms)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_6b48982b0bda"
+          },
+          {
+            "name": "Greengrass",
+            "type": "intercalary",
+            "length": 1,
+            "id": "ID_08790af92809"
+          },
+          {
+            "name": "Mirtul (The Melting)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_b91b39f95a28"
+          },
+          {
+            "name": "Kythorn (The Time of Flowers)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_f8e9585a2bf8"
+          },
+          {
+            "name": "Flamerule (Summertide)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_fa895bdb38e9"
+          },
+          {
+            "name": "Midsummer",
+            "type": "intercalary",
+            "length": 1,
+            "id": "ID_a9181b5a683a"
+          },
+          {
+            "name": "Eleasis (Highsun)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_1b1b1b287b0a"
+          },
+          {
+            "name": "Eleint (The Fading)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_1aca5918993a"
+          },
+          {
+            "name": "Highharvestide",
+            "type": "intercalary",
+            "length": 1,
+            "id": "ID_a94a183b4b88"
+          },
+          {
+            "name": "Marpenoth (Leaffall)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_58d97969eb79"
+          },
+          {
+            "name": "Uktar (The Rotting)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_4b090b787b18"
+          },
+          {
+            "name": "The Feast of the Moon",
+            "type": "intercalary",
+            "length": 1,
+            "id": "ID_1b0ae8dbdb4a"
+          },
+          {
+            "name": "Nightal (The Drawing Down)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_abb82afab80a"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Selúne",
+            "cycle": 30.4375,
+            "offset": 13.9,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_48ea2a69a888"
+          }
+        ],
+        "leapDays": [
+          {
+            "name": "Shieldsmeet",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              }
+            ],
+            "offset": 0,
+            "timespan": 9,
+            "intercalary": false,
+            "id": "ID_5b08faa88ada"
+          }
+        ],
+        "eras": []
+      },
+      "current": {
+        "day": 3,
+        "month": 4,
+        "year": 1499
+      },
+      "events": [
+        {
+          "name": "Winter Solstice",
+          "description": null,
+          "id": "824588",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "natural-events"
+        },
+        {
+          "name": "Vernal Equinox",
+          "description": null,
+          "id": "824589",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "natural-events"
+        },
+        {
+          "name": "Summer Solstice",
+          "description": null,
+          "id": "824590",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "natural-events"
+        },
+        {
+          "name": "Autumnal Equinox",
+          "description": null,
+          "id": "824591",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "natural-events"
+        },
+        {
+          "name": "Midwinter",
+          "description": "Midwinter (also known as Deadwinter Day) was a festival to mark the midpoint of winter in the Calendar of Harptos. It occured on a special day between Hammer 30 and Alturiak 1. Amongst nobles and monarchs it was known as Midwinter and was traditionally used to make or renew alliances, although the common people called it Deadwinter Day, a reference to the cold and hard times that remained before the spring.\n\nOn Midwinter Day the Red Fellowship of the Deity known as the Red Knight observes the Retreat. This solemn ceremony consists of an assembly wherein the clergy discuss the previous year's campaigns. Strategies are discussed, battles analyzed, and the accumulated lore integrated into the church's teachings.\n\nThe holiest day of the year for the Church of Shevarash is Midwinter Night, during which the Dark Court Slaughter is remembered. Inductions into the ranks of the clergy occur at this time. Each new cleric screams vows of vengeance into the night air and swears neither to laugh nor smile until the Spider Queen and her followers are no more.",
+          "id": "824596",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 1
+          },
+          "category": "festivals"
+        },
+        {
+          "name": "Greengrass",
+          "description": "Greengrass was a festival to welcome in the first day of spring in the Calendar of Harptos. It occured annually on a special day between Tarsakh 30 and Mirtul 1. Traditionally, the wealthier people brought out flowers to give to the less wealthy, who either wore them or spread them on the ground to encourage the deities to usher in the summer.",
+          "id": "824595",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 5
+          },
+          "category": "festivals"
+        },
+        {
+          "name": "Midsummer",
+          "description": "Midsummer was a festival that celebrated love and music through feast. It occurred between Flamerule 30 and Eleasis 1 on the Calendar of Harptos. It was a time when love advanced, and it was said the deities themselves took a hand to ensure good weather. If bad weather was experienced on this night it was considered an extremely bad omen. Shieldmeet occurred the day after Midsummer on leap years.",
+          "id": "824597",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 9
+          },
+          "category": "festivals"
+        },
+        {
+          "name": "Shieldmeet",
+          "description": "Shieldmeet was the equivalent of a leap year day in the Calendar of Harptos, occurring once every four years, adding a day after the festival of Midsummer and before Eleasis 1. Traditionally the day was used for fairs, bazaars, musical and theatrical performances, and tournaments of skill and magical ability. Nobles usually held court to hear the petitions of their people and to make or renew trade pacts, alliances, and agreements. Shieldmeet was known as Cinnaelos'Cor (also seen as Cinnaeloscor), \"the Day of Corellon's Peace\" in elvish and marked the end of an aeloulaev and the beginning of a new one in the elven Aryselmalyn calendar.",
+          "id": "824592",
+          "note": null,
+          "date": {
+            "day": 2,
+            "year": null,
+            "month": 9
+          },
+          "category": "festivals"
+        },
+        {
+          "name": "Highharvesttide",
+          "description": "Highharvestide was an annual festival in the Calendar of Harptos, taking place between 30 Eleint and 1 Marpenoth. It was traditionally a feast to celebrate the harvest and the abundance of food, but also the time when those wishing to travel left on their journeys before winter set in.\n\nPreparations for the feast started as early as a tenday before, while preparing, cooking, and preserving the harvest for the cold winter months. Traditions varied from community to community, but examples of festive activity included food-related contests; races and challenges of skill and strength; receiving homemade sweets from the local clergy; and priests blessing larders, wine cellars, grain bins, and food preserves.\n\nThis day was often an important anniversary to various governments. Often, taxes and tithes came due, rulers held \"open courts\" to hear the concerns of their citizens, oaths were publicly renewed, troops received marching orders to new duty stations, and guilds met to confer on prices and rate changes for goods and services.\n\nAccording to tradition, dwarves only drank water and elves drank only dew on this day. However, these traditions began to fade in the 14th and 15th century DR.\n\nIt was said that children born on this day were favored by Tymora to have lifelong good luck but be smitten with wanderlust. Another legend was that human females born on this day had control over their reproductive system (i.e., got pregnant only when they wanted to) by force of will alone, and that they could instantly sense when they had been poisoned, either by ingestion or being bitten by a venomous creature for example.",
+          "id": "824594",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 12
+          },
+          "category": "festivals"
+        },
+        {
+          "name": "Feast of the Moon",
+          "description": "The Feast of the Moon, or Moonfest, was an annual festival in the Calendar of Harptos, occurring between the final night of Uktar and the first day of Nightal. It was the last great festival of the calendar year.\n\nThe day traditionally marked the onset of winter. It was also a time to celebrate and honor the ancestors and the respected dead. On this day, folk blessed their ancestors' graves and performed the Ritual of Remembrance. People also gathered to tell stories of the deeds of their ancestors and of the gods until deep into the night, until they merged and became legend. This was a time to hear of past heroes, great treasures, and lost cities.\n\nIn FaerÃƒÂ»n, battles were typically fought between harvest-time and the coming of winter. This meant that most of the fighting usually occurred in the month of Uktar. The timing of the Feast of the MoonÃ¢â‚¬â€after recently slain soldiers had joined the ranks of the deadÃ¢â‚¬â€was thus practical, if sadly ironic.\n\nThe Heralds of FaerÃƒÂ»n had a number of special duties on the Feast of the Moon. Prime among these was to perform the Bloodsong ceremony, at which a Herald publicly recited the genealogies of each noble family in the area. In this way, the Heralds reaffirmed a noble family's traditional authority and status, as well as the respect accorded to them.\n\nPriests of a number of deities of various pantheons held rites, ceremonies, and festivals on the Feast of the Moon. Many, though not all, focused on remembering the dead in one way or another.",
+          "id": "824593",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 15
+          },
+          "category": "festivals"
+        },
+        {
+          "id": "ID_d9f9a87b7a28",
+          "name": "Midwinter",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1498,
+            "month": 2,
+            "day": 0
+          },
+          "timestamp": 1498020000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_d8da7a697889",
+          "name": "Midwinter",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1499,
+            "month": 2,
+            "day": 0
+          },
+          "timestamp": 1499020000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_ca7a29aa09ab",
+          "name": "Spring Equinox",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 19
+          },
+          "timestamp": 1499031900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0baa096aa828",
+          "name": "Spring Equinox",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1498,
+            "month": 3,
+            "day": 19
+          },
+          "timestamp": 1498031900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_593b389bbb6a",
+          "name": "Greengrass",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1499,
+            "month": 5,
+            "day": 0
+          },
+          "timestamp": 1499050000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_090b789a5bcb",
+          "name": "Greengrass",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1498,
+            "month": 5,
+            "day": 0
+          },
+          "timestamp": 1498050000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_69a9d87aa9d9",
+          "name": "Summer Solstice",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1499,
+            "month": 6,
+            "day": 20
+          },
+          "timestamp": 1499062000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_fad8087a3978",
+          "name": "Summer Solstice",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1498,
+            "month": 6,
+            "day": 20
+          },
+          "timestamp": 1498062000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_4a8bf9481b3b",
+          "name": "Midsummer",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1499,
+            "month": 8,
+            "day": 0
+          },
+          "timestamp": 1499080000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_eb2898d8fb48",
+          "name": "Midsummer",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1498,
+            "month": 8,
+            "day": 0
+          },
+          "timestamp": 1498080000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_5a791888a969",
+          "name": "Autumn Equinox",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1499,
+            "month": 9,
+            "day": 21
+          },
+          "timestamp": 1499092100,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_fa98aa59b8cb",
+          "name": "Autumn Equinox",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1498,
+            "month": 9,
+            "day": 21
+          },
+          "timestamp": 1498092100,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_b8eac85a99db",
+          "name": "Highharvestide excitement",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1499,
+            "month": 9,
+            "day": 21
+          },
+          "timestamp": 1499092100,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_18aac9ca48cb",
+          "name": "Highharvestide excitement",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1498,
+            "month": 9,
+            "day": 21
+          },
+          "timestamp": 1498092100,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_188aa8cb78b8",
+          "name": "Highharvestide",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1499,
+            "month": 10,
+            "day": 0
+          },
+          "timestamp": 1499100000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_288bc99bf9eb",
+          "name": "Highharvestide",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1498,
+            "month": 10,
+            "day": 0
+          },
+          "timestamp": 1498100000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_f9fb9b4b2969",
+          "name": "Feast of the Moon",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1499,
+            "month": 12,
+            "day": 0
+          },
+          "timestamp": 1499120000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0be958285a7b",
+          "name": "Feast of the Moon",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1498,
+            "month": 12,
+            "day": 0
+          },
+          "timestamp": 1498120000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_f8c9aa98694a",
+          "name": "Winter Solstice",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1499,
+            "month": 12,
+            "day": 20
+          },
+          "timestamp": 1499122000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_29fbbb49da4b",
+          "name": "Winter Solstice",
+          "note": "faerûn/calendar/calendar-events.md",
+          "date": {
+            "year": 1498,
+            "month": 12,
+            "day": 20
+          },
+          "timestamp": 1498122000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_685a0bea9b39",
+          "name": "Wintershield",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 1,
+            "day": 1
+          },
+          "timestamp": 1499010100,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_db69aa1a4bcb",
+          "name": "The Grand Revel",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 2,
+            "day": 14
+          },
+          "timestamp": 1499021400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_dbeb58ea4b6b",
+          "name": "Rhyestertide",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 1
+          },
+          "timestamp": 1499030100,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_aaca1a0b48f9",
+          "name": "Fey Day",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 19
+          },
+          "timestamp": 1499031900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_58e809b83b9b",
+          "name": "Fleetswake Begins",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 21
+          },
+          "timestamp": 1499032100,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_4bfb3b98e8ea",
+          "name": "Shipwrights' Ball",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 25
+          },
+          "timestamp": 1499032500,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0b9a094adb08",
+          "name": "Fair Seas Festival begins",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1499032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_99ab085a2b4b",
+          "name": "Fair Seas Festival and Fleetswake end",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 30
+          },
+          "timestamp": 1499033000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_19aa78fbf8c9",
+          "name": "Waukeentide begins",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 1
+          },
+          "timestamp": 1499040100,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_79884b0b3ada",
+          "name": "Waukeentide ends",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 10
+          },
+          "timestamp": 1499041000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_e8d88a29b94a",
+          "name": "Greengrass tastings",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 5,
+            "day": 0
+          },
+          "timestamp": 1499050000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_49b988e97b08",
+          "name": "The Presentation Ball",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 5,
+            "day": 4
+          },
+          "timestamp": 1499050400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_6a19383b5afa",
+          "name": "The Plowing and the Running begins",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 5,
+            "day": 6
+          },
+          "timestamp": 1499050600,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_f98bf93ba929",
+          "name": "The Plowing and the Running ends",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 5,
+            "day": 9
+          },
+          "timestamp": 1499050900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_192b289b6a29",
+          "name": "Trolltide",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 6,
+            "day": 1
+          },
+          "timestamp": 1499060100,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_e97b886b3a49",
+          "name": "Guildhall Day",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 6,
+            "day": 14
+          },
+          "timestamp": 1499061400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_daaa98f919fa",
+          "name": "Dragondown",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 6,
+            "day": 20
+          },
+          "timestamp": 1499062000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_5aa9bb289b59",
+          "name": "Mabina arrives in Phandalin",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 8,
+            "day": 15
+          },
+          "timestamp": 1498081500,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_ba3bdb4a481a",
+          "name": "Mabina leaves Phandalin",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 8,
+            "day": 16
+          },
+          "timestamp": 1498081600,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_a8c9a8c93869",
+          "name": "Mabina passes through Triboar",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 8,
+            "day": 19
+          },
+          "timestamp": 1498081900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_3a5ada888b78",
+          "name": "Mabina stops in Yartar",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 8,
+            "day": 20
+          },
+          "timestamp": 1498082000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_08cad9b84a19",
+          "name": "Mabina arrives in Silverymoon",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 8,
+            "day": 26
+          },
+          "timestamp": 1498082600,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_2a9b38896bf9",
+          "name": "Mabina trades the Bauble",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 8,
+            "day": 27
+          },
+          "timestamp": 1498082700,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_1a09d9da696b",
+          "name": "Mabina leaves Silverymoon",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 8,
+            "day": 28
+          },
+          "timestamp": 1498082800,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_48dad9b8b97a",
+          "name": "Mabina in Yartar",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 8,
+            "day": 30
+          },
+          "timestamp": 1498083000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_18ca5b4ab819",
+          "name": "Mabina in Triboar",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 9,
+            "day": 1
+          },
+          "timestamp": 1498090100,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_58daaafb3988",
+          "name": "Mabina arrives in Phandalin",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 9,
+            "day": 2
+          },
+          "timestamp": 1498090200,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_69b8f8494b98",
+          "name": "Mabina travels to Triboar",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 9,
+            "day": 4
+          },
+          "timestamp": 1498090400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0a1b9b4b3ada",
+          "name": "Mabina travels to Waterdeep",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 9,
+            "day": 5
+          },
+          "timestamp": 1498090500,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_dac9ea19099a",
+          "name": "Mabina travels to Thornhold",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 9,
+            "day": 8
+          },
+          "timestamp": 1498090800,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_1a79887ab8fb",
+          "name": "Mabina travels to Neverwinter",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 9,
+            "day": 9
+          },
+          "timestamp": 1498090900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_59ea1a3ada5b",
+          "name": "Mabina travels to Luskan",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 9,
+            "day": 11
+          },
+          "timestamp": 1498091100,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_f8fa29cbeb8b",
+          "name": "Mabina travels to Mirabar",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 9,
+            "day": 13
+          },
+          "timestamp": 1498091300,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_2bf98a18ba99",
+          "name": "Mabina travels to Triboar",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 9,
+            "day": 16
+          },
+          "timestamp": 1498091600,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_4b2898493ad8",
+          "name": "Mabina travels to Phandalin",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 9,
+            "day": 18
+          },
+          "timestamp": 1498091800,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_5a89490af8c8",
+          "name": "Mabina trades with the Dragonbane",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 9,
+            "day": 21
+          },
+          "timestamp": 1498092100,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_ab99e9a8cb1b",
+          "name": "Mabina travels to Leilon",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1498,
+            "month": 9,
+            "day": 22
+          },
+          "timestamp": 1498092200,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_d989b8ab6bca",
+          "name": "Mabina in Phandalin",
+          "note": "faerûn/npcs/mabina-cawood.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 4
+          },
+          "timestamp": 1499030400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_683948792bda",
+          "name": "Brawl in the Yawning Portal",
+          "note": "rowen/sessions/2022-02-06-the-adventure-begins.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 27
+          },
+          "timestamp": 1499032700,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_6838e95ba84a",
+          "name": "The Skewered Dragon",
+          "note": "rowen/sessions/2022-02-13-looking-for-floon.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 27
+          },
+          "timestamp": 1499032700,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_cb7a39f9cb0a",
+          "name": "Found Renaer, but not Floon",
+          "note": "rowen/sessions/2022-02-27-looking-for-floon.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 27
+          },
+          "timestamp": 1499032700,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_69a8a9387888",
+          "name": "Into the Sewer",
+          "note": "rowen/sessions/2022-03-06-to-the-sewers.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 27
+          },
+          "timestamp": 1499032700,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_48e9397a483a",
+          "name": "The rescue",
+          "note": "rowen/sessions/2022-03-13-in-the-sewers.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 27
+          },
+          "timestamp": 1499032700,
+          "description": "Floon is found at last!",
+          "auto": true
+        },
+        {
+          "id": "ID_9bd8db3a6adb",
+          "name": "Breakfast. Recovery. A Manor(?!)",
+          "note": "rowen/sessions/2022-03-20-floon-is-found.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 28
+          },
+          "timestamp": 1499032800,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_abd81b1acb69",
+          "name": "Mirt and the Harpers",
+          "note": "rowen/sessions/2022-03-27-the-moneylender.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 28
+          },
+          "timestamp": 1499032800,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_3bba6968a9fa",
+          "name": "Claiming the Manor",
+          "note": "rowen/sessions/2022-04-03-trollskull-manor.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 28
+          },
+          "timestamp": 1499032800,
+          "description": "New (young; small; otherworldly) friends.",
+          "auto": true
+        },
+        {
+          "id": "ID_1a4ba9392b58",
+          "name": "Fair Seas Festival parade",
+          "note": "rowen/sessions/2022-04-03-trollskull-manor.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1499032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_fa18cb1bcb68",
+          "name": "Demolition",
+          "note": "rowen/sessions/2022-04-09-demolition-time.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 30
+          },
+          "timestamp": 1499033000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_cb484bea4a58",
+          "name": "An invitation to Blackstaff Tower",
+          "note": "rowen/sessions/2022-04-10-blackstaff-tower.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 2
+          },
+          "timestamp": 1499040200,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_fba9da4bd8fb",
+          "name": "Caravance",
+          "note": "rowen/sessions/2022-04-10-blackstaff-tower.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 1
+          },
+          "timestamp": 1499040100,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_2b19d8a87a78",
+          "name": "Tea with Remi",
+          "note": "rowen/sessions/2022-04-17-tea-with-remi.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 2
+          },
+          "timestamp": 1499040200,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_cadbe89809aa",
+          "name": "rowen NEXT",
+          "note": "rowen/sessions/2022-04-24-getting-things-done.md",
+          "date": {
+            "year": 1499,
+            "month": null,
+            "day": null
+          },
+          "timestamp": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_ca6bf97b7838",
+          "name": "rowen NEXT",
+          "note": "rowen/sessions/2022-04-24-getting-things-done.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": null
+          },
+          "timestamp": 14990400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_6849986a6a7a",
+          "name": "Getting things done",
+          "note": "rowen/sessions/2022-04-24-getting-things-done.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 2
+          },
+          "timestamp": 1499040200,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_ea2b686b8abb",
+          "name": "rowen NEXT",
+          "note": "rowen/sessions/2022-05-01-dopplegangers-and-disguises.md",
+          "date": {
+            "year": 1499,
+            "month": null,
+            "day": null
+          },
+          "timestamp": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_69eba989b8b9",
+          "name": "rowen NEXT",
+          "note": "rowen/sessions/2022-05-01-dopplegangers-and-disguises.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 0
+          },
+          "timestamp": 149904000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_4b29cb8b2b6a",
+          "name": "Dopplegangers and Disguises",
+          "note": "rowen/sessions/2022-05-01-dopplegangers-and-disguises.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 2
+          },
+          "timestamp": 1499040200,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0b585a58899b",
+          "name": "Goldenight",
+          "note": "faerûn/calendar/waterdeep-holidays.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 5
+          },
+          "timestamp": 1499040500,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_a9883ba899b8",
+          "name": "Rowen and Nora: Flight and Fight",
+          "note": "rowen/sessions/2022-05-08-the-passive-fist.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 3
+          },
+          "timestamp": 1499040300,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_884bda89b9d8",
+          "name": "Lidda meets with the Guilds",
+          "note": "rowen/sessions/2022-04-05-negotiating-with-the-guilds.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1499032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_7bcb593a6968",
+          "name": "rowen NEXT",
+          "note": "rowen/sessions/2022-05-22-neighbors-and-opening-night.md",
+          "date": {
+            "year": 1499,
+            "month": null,
+            "day": null
+          },
+          "timestamp": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_aab9db291939",
+          "name": "rowen NEXT",
+          "note": "rowen/sessions/2022-05-15-neighbors.md",
+          "date": {
+            "year": 1499,
+            "month": null,
+            "day": null
+          },
+          "timestamp": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_59f8caa87899",
+          "name": "Meeting the neighbors",
+          "note": "rowen/sessions/2022-05-15-neighbors.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 3
+          },
+          "timestamp": 1499040300,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_c958b8d9e838",
+          "name": "rowen NEXT",
+          "note": "rowen/sessions/2022-05-22-neighbors-and-opening-night.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 3
+          },
+          "timestamp": 1499040300,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_4ac84a68ba7b",
+          "name": "Dagult Neverember becomes the Open Lord of Waterdeep",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1485,
+            "month": 0,
+            "day": 0
+          },
+          "timestamp": 1485000000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_4afbdb49084b",
+          "name": "Laeral Silverhand is made the Open Lord of Waterdeep",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1495,
+            "month": 0,
+            "day": 0
+          },
+          "timestamp": 1495000000,
+          "description": "Ousting Dagult Neverember, who returns to Neverwinter",
+          "auto": true
+        },
+        {
+          "id": "ID_393b28d898b9",
+          "name": "Doom Raider Zhenterim arrive in Waterdeep",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1496,
+            "month": 6,
+            "day": 17
+          },
+          "timestamp": 1496061700,
+          "description": "Yagra is hired as a bodyguard",
+          "auto": true
+        },
+        {
+          "id": "ID_7a99e9bbe81a",
+          "name": "Stone of Golorr is stolen from the palace by Xanathar Guild",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1498,
+            "month": 11,
+            "day": 26
+          },
+          "timestamp": 1498112600,
+          "description": "Xanathar Guild Rite of Passage: Steal a paperweight from the Open Lord's office",
+          "auto": true
+        },
+        {
+          "id": "ID_1879ab1aebc9",
+          "name": "Lord Neverember reassigns Dalakhar to infiltrate the Xanathar Guild",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1498,
+            "month": 12,
+            "day": 15
+          },
+          "timestamp": 1498121500,
+          "description": "Servant/Spy reported the missing paperweight, and the suspected source of the thief",
+          "auto": true
+        },
+        {
+          "id": "ID_1868c8f9aafa",
+          "name": "Dalakhar steals the stone",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 13
+          },
+          "timestamp": 1499031300,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_db8a3bda88ab",
+          "name": "Gang war breaks out",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 15
+          },
+          "timestamp": 1499031500,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_7b0a0b289b0a",
+          "name": "Shipwrights' Ball",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 25
+          },
+          "timestamp": 1499032500,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_badaab09d9eb",
+          "name": "Questions and Clashes",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 26
+          },
+          "timestamp": 1499032600,
+          "description": "Zhenterim question both Renaer and Floon at the warehouse. Late in the day, Xanathar Guild attack the Warehouse looking for Renaer, grab Floon by mistake.",
+          "auto": true
+        },
+        {
+          "id": "ID_69eb3ac9cb19",
+          "name": "Volo asks Rowen to look into Floon's disappearance",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 27
+          },
+          "timestamp": 1499032700,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_983818084b7a",
+          "name": "Rowen is born",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1488,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1488101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_1aa92af99909",
+          "name": "Rowen is one",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1489,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1489101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_d9ea3a89b98a",
+          "name": "Rowen is two",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1490,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1490101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_585a193919cb",
+          "name": "Rowen is three",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1491,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1491101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_697bfac9f949",
+          "name": "Rowen is four",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1492,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1492101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_cb99cb9af9da",
+          "name": "Rowen is five",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1493,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1493101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_4948794b4b5b",
+          "name": "Rowen is six",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1494,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1494101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_1aba1b29ca0a",
+          "name": "Rowen is seven",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1495,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1495101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_490babdb7acb",
+          "name": "Rowen is eight",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1496,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1496101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_29fad949590b",
+          "name": "Rowen is nine",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1497,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1497101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_b86b6afaf85a",
+          "name": "Rowen is ten",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1498,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1498101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_ba6b6a39dacb",
+          "name": "Rowen is eleven",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1499101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_986b098b0b4b",
+          "name": "Rowen is twelve",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1500,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1500101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_8b6a9b282aa8",
+          "name": "Ambush! Rowen is on his own",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1492,
+            "month": 7,
+            "day": 1
+          },
+          "timestamp": 1492070100,
+          "description": "An elaborate Founder's Day celebration is ruined, and Rowen's life changed forever.",
+          "auto": true
+        },
+        {
+          "id": "ID_b85a1b791b39",
+          "name": "Rowen and Coral meet",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1492,
+            "month": 7,
+            "day": 2
+          },
+          "timestamp": 1492070200,
+          "description": "Rowen becomes a ward at Starry Cradles.",
+          "auto": true
+        },
+        {
+          "id": "ID_180b6b18eb8a",
+          "name": "Rowen is born",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1488,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1488101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_3af97bba5b29",
+          "name": "Rowen is one",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1489,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1489101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_cad93968caab",
+          "name": "Rowen is two",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1490,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1490101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_cbda899a394a",
+          "name": "Rowen is three",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1491,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1491101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_29d94aea9b79",
+          "name": "Ambush! Rowen is on his own",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1492,
+            "month": 7,
+            "day": 1
+          },
+          "timestamp": 1492070100,
+          "description": "An elaborate Founder's Day celebration is ruined, and Rowen's life changed forever.",
+          "auto": true
+        },
+        {
+          "id": "ID_ab2b4b5b69ea",
+          "name": "Rowen and Coral meet",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1492,
+            "month": 7,
+            "day": 2
+          },
+          "timestamp": 1492070200,
+          "description": "Rowen becomes a ward at Starry Cradles.",
+          "auto": true
+        },
+        {
+          "id": "ID_0b2a0bcae99b",
+          "name": "Rowen is four",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1492,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1492101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_29d808bab98a",
+          "name": "Rowen is five",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1493,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1493101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_098ab96b798a",
+          "name": "Rowen is six",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1494,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1494101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_a81908ab8a9b",
+          "name": "Rowen is seven",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1495,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1495101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_899a487b5b88",
+          "name": "Rowen is eight",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1496,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1496101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_48db6ac91809",
+          "name": "Rowen is nine",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1497,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1497101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_d8f859187948",
+          "name": "Rowen is ten",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1498,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1498101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_886aca5899e9",
+          "name": "Rowen is eleven",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1499,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1499101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_9a595b1abb5b",
+          "name": "Rowen is twelve",
+          "note": "faerûn/gm-rowen.md",
+          "date": {
+            "year": 1500,
+            "month": 10,
+            "day": 14
+          },
+          "timestamp": 1500101400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_78ea8afb195b",
+          "name": "Coral is eight",
+          "note": "faerûn/gm-coral.md",
+          "date": {
+            "year": 1488,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1488032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_4b59d92aebca",
+          "name": "Coral is nine",
+          "note": "faerûn/gm-coral.md",
+          "date": {
+            "year": 1489,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1489032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_293af86979c9",
+          "name": "Coral is ten",
+          "note": "faerûn/gm-coral.md",
+          "date": {
+            "year": 1490,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1490032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_086ab8fbbb4a",
+          "name": "Coral is eleven",
+          "note": "faerûn/gm-coral.md",
+          "date": {
+            "year": 1491,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1491032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_1a9b7bf85b6b",
+          "name": "Coral is twelve",
+          "note": "faerûn/gm-coral.md",
+          "date": {
+            "year": 1492,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1492032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_79b8a988e96a",
+          "name": "Coral is thirteen",
+          "note": "faerûn/gm-coral.md",
+          "date": {
+            "year": 1493,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1493032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_d87aa9682858",
+          "name": "Coral is fourteen",
+          "note": "faerûn/gm-coral.md",
+          "date": {
+            "year": 1494,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1494032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_db9b384aa8ca",
+          "name": "Coral is fifteen",
+          "note": "faerûn/gm-coral.md",
+          "date": {
+            "year": 1495,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1495032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_5969a8ba1a19",
+          "name": "Coral is sixteen",
+          "note": "faerûn/gm-coral.md",
+          "date": {
+            "year": 1496,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1496032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0a6ae8a92bf8",
+          "name": "Coral is seventeen",
+          "note": "faerûn/gm-coral.md",
+          "date": {
+            "year": 1497,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1497032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_6b595be87b19",
+          "name": "Coral is eighteen",
+          "note": "faerûn/gm-coral.md",
+          "date": {
+            "year": 1498,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1498032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0b488b49baca",
+          "name": "Coral is nineteen",
+          "note": "faerûn/gm-coral.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1499032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_bbcbc9c8388b",
+          "name": "Coral is twenty",
+          "note": "faerûn/gm-coral.md",
+          "date": {
+            "year": 1500,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1500032900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_aaa8fb7a4bfb",
+          "name": "Waukeentide ends",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 10
+          },
+          "timestamp": 1499041000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_98892aaa997b",
+          "name": "Greengrass tastings",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 5,
+            "day": 0
+          },
+          "timestamp": 1499050000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_fbe899eb5b09",
+          "name": "The Presentation Ball",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 5,
+            "day": 4
+          },
+          "timestamp": 1499050400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_28f828086848",
+          "name": "The Plowing and the Running begins",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 5,
+            "day": 6
+          },
+          "timestamp": 1499050600,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0bd909ebb85b",
+          "name": "The Plowing and the Running ends",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 5,
+            "day": 9
+          },
+          "timestamp": 1499050900,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0bb98b2a38ba",
+          "name": "Trolltide",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 6,
+            "day": 1
+          },
+          "timestamp": 1499060100,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_5a5aebbbcbc9",
+          "name": "Guildhall Day",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 6,
+            "day": 14
+          },
+          "timestamp": 1499061400,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_cb0b2b0bf8eb",
+          "name": "Dragondown",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 6,
+            "day": 20
+          },
+          "timestamp": 1499062000,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_f9c91aebea49",
+          "name": "Sea Maidens Faire arrives in the harbor",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 28
+          },
+          "timestamp": 1499032800,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_2838cada48d8",
+          "name": "Sea Maidens Faire participates in Fair Seas Festival",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1499032900,
+          "description": "Parade. Lots of Seafood (care of local taverns) at carnival between the boats on the dock. Donation boxes to Umberlee.",
+          "auto": true
+        },
+        {
+          "id": "ID_a9c8e9fac9eb",
+          "name": "Sea Maidens Faire at the Caravance parade",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 1
+          },
+          "timestamp": 1499040100,
+          "description": "Parade midday",
+          "auto": true
+        },
+        {
+          "id": "ID_0bf93b7af81b",
+          "name": "Sea Maidens Faire parade for Goldenight",
+          "note": "rowen/heist-overview.md",
+          "date": {
+            "year": 1499,
+            "month": 4,
+            "day": 5
+          },
+          "timestamp": 1499040500,
+          "description": "Parade at midnight",
+          "auto": true
+        },
+        {
+          "id": "ID_f908f81879ba",
+          "name": "Fair Seas Festival begins",
+          "note": "rowen/days/1499-03-29-ches.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1499032900,
+          "description": "Parades. Street vendors. Donation boxes to Umberlee.",
+          "auto": true
+        },
+        {
+          "id": "ID_c8581a08c9a8",
+          "name": "Parade marks beginning of Fair Seas Festival",
+          "note": "rowen/days/1499-03-29-ches.md",
+          "date": {
+            "year": 1499,
+            "month": 3,
+            "day": 29
+          },
+          "timestamp": 1499032900,
+          "description": "",
+          "auto": true
+        }
+      ],
+      "id": "ID_199b7bab48da",
+      "categories": [
+        {
+          "name": "Natural Events",
+          "id": "natural-events",
+          "color": "#2E7D32"
+        },
+        {
+          "name": "Festivals",
+          "id": "festivals",
+          "color": "#392c9b"
+        }
+      ],
+      "displayWeeks": true
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_199b7bab48da",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": true,
+    "advanced": true
+  },
+  "showIntercalary": false,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": true,
+  "path": "/"
+}

@@ -1,0 +1,663 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap");
+:root {
+  --admonition-statblock: 211, 141, 160;
+  --admonition-chat:61, 126, 123;
+  --admonition-excerpt: 53, 120, 175;
+  --admonition-skill: 255, 196, 19;
+  --admonition-npc: 102, 121, 137;
+  --admonition-letter: 98, 159, 197;
+  --admonition-charm: 199, 110, 133;
+  --admonition-weather: 228, 203, 224;
+}
+
+.theme-light {
+  --admonition-scene: 92, 122, 99;
+}
+
+.theme-dark {
+  --admonition-scene: 139, 167, 145;
+}
+
+.rendered-widget .callout[data-callout=skill],
+.markdown-preview-section .callout[data-callout=skill] {
+  --callout-color: var(--admonition-skill);
+}
+.rendered-widget .callout[data-callout=excerpt],
+.markdown-preview-section .callout[data-callout=excerpt] {
+  --callout-color: var(--admonition-excerpt);
+}
+.rendered-widget .callout[data-callout=chat],
+.markdown-preview-section .callout[data-callout=chat] {
+  --callout-color: var(--admonition-chat);
+}
+.rendered-widget .callout[data-callout=statblock],
+.markdown-preview-section .callout[data-callout=statblock] {
+  --callout-color: var(--admonition-statblock);
+}
+.rendered-widget .callout[data-callout=scene],
+.markdown-preview-section .callout[data-callout=scene] {
+  --callout-color: var(--admonition-scene);
+}
+.rendered-widget .callout[data-callout=npc],
+.markdown-preview-section .callout[data-callout=npc] {
+  --callout-color: var(--admonition-npc);
+}
+.rendered-widget .callout[data-callout=letter],
+.markdown-preview-section .callout[data-callout=letter] {
+  --callout-color: var(--admonition-letter);
+}
+.rendered-widget .callout[data-callout=charm],
+.markdown-preview-section .callout[data-callout=charm] {
+  --callout-color: var(--admonition-charm);
+}
+.rendered-widget .callout[data-callout=weather],
+.markdown-preview-section .callout[data-callout=weather] {
+  --callout-color: var(--admonition-weather);
+}
+.rendered-widget .admonition.admonition-statblock,
+.markdown-preview-section .admonition.admonition-statblock {
+  border-left: 0.2rem solid rgb(var(--admonition-statblock));
+}
+.rendered-widget .admonition.admonition-statblock .admonition-title,
+.markdown-preview-section .admonition.admonition-statblock .admonition-title {
+  background-color: rgba(var(--admonition-statblock), 0.1);
+}
+.rendered-widget .admonition.admonition-statblock .admonition-title .admonition-title-icon,
+.markdown-preview-section .admonition.admonition-statblock .admonition-title .admonition-title-icon {
+  color: rgb(var(--admonition-statblock));
+}
+.rendered-widget .admonition.admonition-chat,
+.markdown-preview-section .admonition.admonition-chat {
+  border-left: 0.2rem solid rgb(var(--admonition-chat));
+}
+.rendered-widget .admonition.admonition-chat .admonition-title,
+.markdown-preview-section .admonition.admonition-chat .admonition-title {
+  background-color: rgba(var(--admonition-chat), 0.1);
+}
+.rendered-widget .admonition.admonition-chat .admonition-title .admonition-title-icon,
+.markdown-preview-section .admonition.admonition-chat .admonition-title .admonition-title-icon {
+  color: rgb(var(--admonition-chat));
+}
+.rendered-widget .admonition.admonition-excerpt,
+.markdown-preview-section .admonition.admonition-excerpt {
+  border-left: 0.2rem solid rgb(var(--admonition-excerpt));
+}
+.rendered-widget .admonition.admonition-excerpt .admonition-title,
+.markdown-preview-section .admonition.admonition-excerpt .admonition-title {
+  background-color: rgba(var(--admonition-excerpt), 0.1);
+}
+.rendered-widget .admonition.admonition-excerpt .admonition-title .admonition-title-icon,
+.markdown-preview-section .admonition.admonition-excerpt .admonition-title .admonition-title-icon {
+  color: rgb(var(--admonition-excerpt));
+}
+.rendered-widget .admonition.admonition-skill,
+.markdown-preview-section .admonition.admonition-skill {
+  border-left: 0.2rem solid rgb(var(--admonition-skill));
+}
+.rendered-widget .admonition.admonition-skill .admonition-title,
+.markdown-preview-section .admonition.admonition-skill .admonition-title {
+  background-color: rgba(var(--admonition-skill), 0.1);
+}
+.rendered-widget .admonition.admonition-skill .admonition-title .admonition-title-icon,
+.markdown-preview-section .admonition.admonition-skill .admonition-title .admonition-title-icon {
+  color: rgb(var(--admonition-skill));
+}
+.rendered-widget .admonition.admonition-scene,
+.markdown-preview-section .admonition.admonition-scene {
+  border-left: 0.2rem solid rgb(var(--admonition-scene));
+}
+.rendered-widget .admonition.admonition-scene .admonition-title,
+.markdown-preview-section .admonition.admonition-scene .admonition-title {
+  background-color: rgba(var(--admonition-scene), 0.1);
+}
+.rendered-widget .admonition.admonition-scene .admonition-title .admonition-title-icon,
+.markdown-preview-section .admonition.admonition-scene .admonition-title .admonition-title-icon {
+  color: rgb(var(--admonition-scene));
+}
+.rendered-widget .admonition.admonition-npc,
+.markdown-preview-section .admonition.admonition-npc {
+  border-left: 0.2rem solid rgb(var(--admonition-npc));
+}
+.rendered-widget .admonition.admonition-npc .admonition-title,
+.markdown-preview-section .admonition.admonition-npc .admonition-title {
+  background-color: rgba(var(--admonition-npc), 0.1);
+}
+.rendered-widget .admonition.admonition-npc .admonition-title .admonition-title-icon,
+.markdown-preview-section .admonition.admonition-npc .admonition-title .admonition-title-icon {
+  color: rgb(var(--admonition-npc));
+}
+.rendered-widget .admonition.admonition-letter,
+.markdown-preview-section .admonition.admonition-letter {
+  border-left: 0.2rem solid rgb(var(--admonition-letter));
+}
+.rendered-widget .admonition.admonition-letter .admonition-title,
+.markdown-preview-section .admonition.admonition-letter .admonition-title {
+  background-color: rgba(var(--admonition-letter), 0.1);
+}
+.rendered-widget .admonition.admonition-letter .admonition-title .admonition-title-icon,
+.markdown-preview-section .admonition.admonition-letter .admonition-title .admonition-title-icon {
+  color: rgb(var(--admonition-letter));
+}
+.rendered-widget .admonition.admonition-charm,
+.markdown-preview-section .admonition.admonition-charm {
+  border-left: 0.2rem solid rgb(var(--admonition-charm));
+}
+.rendered-widget .admonition.admonition-charm .admonition-title,
+.markdown-preview-section .admonition.admonition-charm .admonition-title {
+  background-color: rgba(var(--admonition-charm), 0.1);
+}
+.rendered-widget .admonition.admonition-charm .admonition-title .admonition-title-icon,
+.markdown-preview-section .admonition.admonition-charm .admonition-title .admonition-title-icon {
+  color: rgb(var(--admonition-charm));
+}
+.rendered-widget .admonition.admonition-weather,
+.markdown-preview-section .admonition.admonition-weather {
+  border-left: 0.2rem solid rgb(var(--admonition-weather));
+}
+.rendered-widget .admonition.admonition-weather .admonition-title,
+.markdown-preview-section .admonition.admonition-weather .admonition-title {
+  background-color: rgba(var(--admonition-weather), 0.1);
+}
+.rendered-widget .admonition.admonition-weather .admonition-title .admonition-title-icon,
+.markdown-preview-section .admonition.admonition-weather .admonition-title .admonition-title-icon {
+  color: rgb(var(--admonition-weather));
+}
+.rendered-widget .callout[data-callout=scratch],
+.rendered-widget .admonition.admonition-scratch,
+.markdown-preview-section .callout[data-callout=scratch],
+.markdown-preview-section .admonition.admonition-scratch {
+  background-color: var(--background-primary);
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.rendered-widget .callout[data-callout=scratch] .callout-title,
+.rendered-widget .callout[data-callout=scratch] .admonition-title,
+.rendered-widget .admonition.admonition-scratch .callout-title,
+.rendered-widget .admonition.admonition-scratch .admonition-title,
+.markdown-preview-section .callout[data-callout=scratch] .callout-title,
+.markdown-preview-section .callout[data-callout=scratch] .admonition-title,
+.markdown-preview-section .admonition.admonition-scratch .callout-title,
+.markdown-preview-section .admonition.admonition-scratch .admonition-title {
+  display: none !important;
+}
+.rendered-widget .callout[data-callout=scratch] .callout-content,
+.rendered-widget .callout[data-callout=scratch] .admonition-content,
+.rendered-widget .admonition.admonition-scratch .callout-content,
+.rendered-widget .admonition.admonition-scratch .admonition-content,
+.markdown-preview-section .callout[data-callout=scratch] .callout-content,
+.markdown-preview-section .callout[data-callout=scratch] .admonition-content,
+.markdown-preview-section .admonition.admonition-scratch .callout-content,
+.markdown-preview-section .admonition.admonition-scratch .admonition-content {
+  background-color: var(--background-primary);
+  font-family: "Nothing You Could Do", cursive;
+}
+
+@media (min-width: 700px) {
+  .rendered-widget .admonition.admonition-activity,
+.markdown-preview-section .admonition.admonition-activity {
+    float: right;
+    width: 250px;
+    margin-left: 10px;
+  }
+  .rendered-widget .admonition.admonition-activity .admonition-content-holder .admonition-content ul,
+.markdown-preview-section .admonition.admonition-activity .admonition-content-holder .admonition-content ul {
+    display: block;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 30px;
+  }
+}
+:root {
+  --orange-0: rgb(251, 210, 198);
+  --orange-1: rgb(250, 192, 176);
+  --orange-2: rgb(248, 164, 141);
+  --orange-3: rgb(245, 127, 95);
+  --orange-4: rgb(214, 57, 14);
+  --orange-5: rgb(135, 36, 9);
+  --orange-6: rgb(89, 24, 6);
+  --aqua-0: rgb(162, 230, 249);
+  --aqua-1: rgb(117, 218, 246);
+  --aqua-2: rgb(50, 200, 242);
+  --aqua-3: rgb(14, 174, 218);
+  --aqua-4: rgb(10, 125, 157);
+  --aqua-5: rgb(6, 78, 98);
+  --aqua-6: rgb(4, 51, 64);
+  --tan-0: rgb(234, 217, 183);
+  --tan-1: rgb(226, 202, 154);
+  --tan-2: rgb(214, 180, 112);
+  --tan-3: rgb(199, 153, 60);
+  --tan-4: rgb(144, 110, 41);
+  --tan-5: rgb(90, 69, 26);
+  --tan-6: rgb(59, 45, 17);
+}
+
+.theme-dark .subhead {
+  color: var(--gray-blue);
+}
+
+.theme-light .subhead {
+  color: var(--gray-dark-1);
+}
+
+span.subhead {
+  display: block;
+  margin-top: -15px;
+  margin-bottom: 1em;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 0.9em;
+  line-height: 1.4em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+span.nav {
+  border-top: 1px solid var(--interactive-normal);
+  border-bottom: 1px solid var(--interactive-normal);
+  clear: right;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: var(--interactive-hover);
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+}
+
+span.nav a:first-child,
+span.nav span:first-child {
+  text-align: left;
+  min-width: 8em;
+}
+
+span.nav a:last-child,
+span.nav span:last-child {
+  text-align: right;
+  min-width: 8em;
+}
+
+span.nav span {
+  color: var(--teal-3);
+}
+
+span.nav a.internal-link {
+  text-decoration: none;
+}
+
+.theme-dark {
+  --statblock-section-line: var(--pink-3);
+}
+
+.theme-light {
+  --statblock-section-line: var(--pink-3);
+}
+
+.markdown-preview-section .admonition-statblock .admonition-content h1,
+.markdown-preview-section .admonition-statblock .admonition-content h2,
+.markdown-preview-section .admonition-statblock .admonition-content h3 {
+  font-family: var(--default-font);
+  font-variant: common-ligatures small-caps;
+}
+.markdown-preview-section .admonition-statblock .admonition-content h1 {
+  font-size: 1.4em;
+  line-height: 1.4em;
+  margin: 0;
+  padding: 0;
+}
+.markdown-preview-section .admonition-statblock .admonition-content h2,
+.markdown-preview-section .admonition-statblock .admonition-content h3 {
+  font-size: 1.2em;
+  line-height: 1.2em;
+  padding: 0.5em 0 0 0;
+  margin-top: 0.2em;
+  margin-bottom: 0.3em;
+  border-bottom: 1px solid var(--statblock-section-line);
+}
+.markdown-preview-section .admonition-statblock .admonition-content p {
+  line-height: 1.2em;
+  margin-block-start: 0.5em;
+}
+.markdown-preview-section .admonition-statblock .admonition-content li {
+  line-height: 1.2em;
+  margin-block-start: 0.5em;
+}
+.markdown-preview-section .admonition-npc .admonition-title {
+  display: none !important;
+}
+.markdown-preview-section .admonition-npc .admonition-content p {
+  line-height: 1.2em;
+  margin-block-start: 0.5em;
+}
+.markdown-preview-section .admonition-npc .admonition-content ul {
+  padding-inline-start: 20px;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.theme-dark {
+  --compendium: var(--yellow-3);
+  --faerun: var(--teal-3);
+  --rowen: var(--purple-3);
+  --chronicles: var(--pink-3);
+  --alpha2: rgba(0, 0, 0, 0.2);
+  --alpha4: rgba(0, 0, 0, 0.4);
+}
+
+.theme-dark .print,
+.theme-light {
+  --compendium: var(--yellow-4);
+  --faerun: var(--teal-4);
+  --rowen: var(--purple-4);
+  --chronicles: var(--pink-4);
+  --alpha2: rgba(0, 0, 0, 0.05);
+  --alpha4: rgba(0, 0, 0, 0.1);
+}
+
+.nav-folder-children .nav-folder-title[data-path=compendium] {
+  /*Add "folder title"*/
+  font-variant: small-caps;
+  text-transform: capitalize;
+  font-family: var(--font-tags);
+  font-size: 1.3em;
+  color: var(--compendium);
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path=compendium] .nav-folder-collapse-indicator {
+  color: var(--compendium);
+}
+.nav-folder-children .nav-folder-title[data-path^=compendium],
+.nav-folder-children .nav-file-title[data-path^=compendium] {
+  color: var(--compendium);
+}
+.nav-folder-children body:not(.is-grabbing) .nav-file-title[data-path^=compendium]:hover,
+.nav-folder-children .nav-folder-title[data-path^=compendium].is-being-dragged,
+.nav-folder-children .nav-folder-title[data-path^=compendium]:hover,
+.nav-folder-children body:not(.is-grabbing) .nav-folder-title[data-path^=compendium]:hover,
+.nav-folder-children .nav-file-title[data-path^=compendium].is-being-dragged,
+.nav-folder-children .nav-file-title[data-path^=compendium]:hover {
+  background-color: var(--alpha2) !important;
+  color: var(--compendium);
+  border-radius: 0;
+}
+.nav-folder-children .nav-file-title[data-path*=compendium].is-active,
+.nav-folder-children .nav-folder-title[data-path*=compendium].is-active {
+  background-color: var(--alpha4);
+  color: var(--compendium);
+  font-style: italic;
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path=faerûn] {
+  /*Add "folder title"*/
+  font-variant: small-caps;
+  text-transform: capitalize;
+  font-family: var(--font-tags);
+  font-size: 1.3em;
+  color: var(--faerun);
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path=faerûn] .nav-folder-collapse-indicator {
+  color: var(--faerun);
+}
+.nav-folder-children .nav-folder-title[data-path^=faerûn],
+.nav-folder-children .nav-file-title[data-path^=faerûn] {
+  color: var(--faerun);
+}
+.nav-folder-children body:not(.is-grabbing) .nav-file-title[data-path^=faerûn]:hover,
+.nav-folder-children .nav-folder-title[data-path^=faerûn].is-being-dragged,
+.nav-folder-children .nav-folder-title[data-path^=faerûn]:hover,
+.nav-folder-children body:not(.is-grabbing) .nav-folder-title[data-path^=faerûn]:hover,
+.nav-folder-children .nav-file-title[data-path^=faerûn].is-being-dragged,
+.nav-folder-children .nav-file-title[data-path^=faerûn]:hover {
+  background-color: var(--alpha2) !important;
+  color: var(--faerun);
+  border-radius: 0;
+}
+.nav-folder-children .nav-file-title[data-path*=faerûn].is-active,
+.nav-folder-children .nav-folder-title[data-path*=faerûn].is-active {
+  background-color: var(--alpha4);
+  color: var(--faerun);
+  font-style: italic;
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path=rowen] {
+  /*Add "folder title"*/
+  font-variant: small-caps;
+  text-transform: capitalize;
+  font-family: var(--font-tags);
+  font-size: 1.3em;
+  color: var(--rowen);
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path=rowen] .nav-folder-collapse-indicator {
+  color: var(--rowen);
+}
+.nav-folder-children .nav-folder-title[data-path^=rowen],
+.nav-folder-children .nav-file-title[data-path^=rowen] {
+  color: var(--rowen);
+}
+.nav-folder-children body:not(.is-grabbing) .nav-file-title[data-path^=rowen]:hover,
+.nav-folder-children .nav-folder-title[data-path^=rowen].is-being-dragged,
+.nav-folder-children .nav-folder-title[data-path^=rowen]:hover,
+.nav-folder-children body:not(.is-grabbing) .nav-folder-title[data-path^=rowen]:hover,
+.nav-folder-children .nav-file-title[data-path^=rowen].is-being-dragged,
+.nav-folder-children .nav-file-title[data-path^=rowen]:hover {
+  background-color: var(--alpha2) !important;
+  color: var(--rowen);
+  border-radius: 0;
+}
+.nav-folder-children .nav-file-title[data-path*=rowen].is-active,
+.nav-folder-children .nav-folder-title[data-path*=rowen].is-active {
+  background-color: var(--alpha4);
+  color: var(--rowen);
+  font-style: italic;
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path=miscellanea] {
+  /*Add "folder title"*/
+  font-variant: small-caps;
+  text-transform: capitalize;
+  font-family: var(--font-tags);
+  font-size: 1.3em;
+  color: var(--rowen);
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path=miscellanea] .nav-folder-collapse-indicator {
+  color: var(--rowen);
+}
+.nav-folder-children .nav-folder-title[data-path^=miscellanea],
+.nav-folder-children .nav-file-title[data-path^=miscellanea] {
+  color: var(--rowen);
+}
+.nav-folder-children body:not(.is-grabbing) .nav-file-title[data-path^=miscellanea]:hover,
+.nav-folder-children .nav-folder-title[data-path^=miscellanea].is-being-dragged,
+.nav-folder-children .nav-folder-title[data-path^=miscellanea]:hover,
+.nav-folder-children body:not(.is-grabbing) .nav-folder-title[data-path^=miscellanea]:hover,
+.nav-folder-children .nav-file-title[data-path^=miscellanea].is-being-dragged,
+.nav-folder-children .nav-file-title[data-path^=miscellanea]:hover {
+  background-color: var(--alpha2) !important;
+  color: var(--rowen);
+  border-radius: 0;
+}
+.nav-folder-children .nav-file-title[data-path*=miscellanea].is-active,
+.nav-folder-children .nav-folder-title[data-path*=miscellanea].is-active {
+  background-color: var(--alpha4);
+  color: var(--rowen);
+  font-style: italic;
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path=chronicles] {
+  /*Add "folder title"*/
+  font-variant: small-caps;
+  text-transform: capitalize;
+  font-family: var(--font-tags);
+  font-size: 1.3em;
+  color: var(--chronicles);
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path=chronicles] .nav-folder-collapse-indicator {
+  color: var(--chronicles);
+}
+.nav-folder-children .nav-folder-title[data-path^=chronicles],
+.nav-folder-children .nav-file-title[data-path^=chronicles] {
+  color: var(--chronicles);
+}
+.nav-folder-children body:not(.is-grabbing) .nav-file-title[data-path^=chronicles]:hover,
+.nav-folder-children .nav-folder-title[data-path^=chronicles].is-being-dragged,
+.nav-folder-children .nav-folder-title[data-path^=chronicles]:hover,
+.nav-folder-children body:not(.is-grabbing) .nav-folder-title[data-path^=chronicles]:hover,
+.nav-folder-children .nav-file-title[data-path^=chronicles].is-being-dragged,
+.nav-folder-children .nav-file-title[data-path^=chronicles]:hover {
+  background-color: var(--alpha2) !important;
+  color: var(--chronicles);
+  border-radius: 0;
+}
+.nav-folder-children .nav-file-title[data-path*=chronicles].is-active,
+.nav-folder-children .nav-folder-title[data-path*=chronicles].is-active {
+  background-color: var(--alpha4);
+  color: var(--chronicles);
+  font-style: italic;
+  border-radius: 0;
+}
+
+.dice-roller {
+  display: inline !important;
+  white-space: normal;
+}
+.dice-roller .dice-roller-button {
+  color: var(--text-faint);
+}
+.dice-roller span.embedded-table-result {
+  font-weight: 400;
+}
+.dice-roller span.embedded-table-result p {
+  display: inline;
+}
+.dice-roller div {
+  display: inline !important;
+}
+
+.admonition-npc .dice-roller {
+  position: unset;
+  margin: unset;
+  word-wrap: normal;
+  overflow-wrap: normal;
+}
+.admonition-npc .dice-roller span.embedded-table-result ul {
+  display: inline;
+  padding-inline-start: 0px;
+}
+.admonition-npc .dice-roller span.embedded-table-result ul li {
+  display: inline;
+}
+
+.theme-dark {
+  --timelines-place: var(--blue-3);
+  --timelines-waterdeep: var(--aqua-3);
+  --timelines-npc: var(--teal-3);
+  --timelines-enemy: var(--orange-3);
+  --timelines-rival: var(--pink-3);
+  --timelines-rowen: var(--yellow-3);
+  --timelines-link: var(--gray);
+}
+
+.theme-dark .print,
+.theme-light {
+  --timelines-place: var(--blue-4);
+  --timelines-waterdeep: var(--aqua-4);
+  --timelines-npc: var(--teal-4);
+  --timelines-enemy: var(--orange-4);
+  --timelines-rival: var(--pink-4);
+  --timelines-rowen: var(--yellow-3);
+  --timelines-link: var(--gray);
+}
+
+.show-spans .ob-timelines {
+  display: inline !important;
+  font-style: italic;
+}
+.show-spans .ob-timelines::before {
+  content: "🔖 " attr(data-date) ": " attr(data-title) ". ";
+  color: var(--purple-3);
+  font-weight: 500;
+}
+
+.timeline-card.place a.internal-link {
+  color: var(--timelines-place);
+}
+.timeline-card.waterdeep a.internal-link {
+  color: var(--timelines-waterdeep);
+}
+.timeline-card.npc a.internal-link {
+  color: var(--timelines-npc);
+}
+.timeline-card.enemy a.internal-link {
+  color: var(--timelines-enemy);
+}
+.timeline-card.rival a.internal-link {
+  color: var(--timelines-rival);
+}
+.timeline-card.rowen a.internal-link {
+  color: var(--timelines-rowen);
+}
+.timeline-card.enemy a.internal-link:hover, .timeline-card.npc a.internal-link:hover, .timeline-card.rival a.internal-link:hover, .timeline-card.rowen a.internal-link:hover, .timeline-card.place a.internal-link:hover, .timeline-card.waterdeep a.internal-link:hover,
+.timeline-card a.internal-link:hover {
+  color: var(--timelines-link);
+}
+
+.leaflet-control-save-param {
+  display: none;
+}
+
+.leaflet-container .leaflet-control-attribution {
+  display: none;
+}
+
+.leaflet-marker-icon svg {
+  -webkit-filter: drop-shadow(3px 3px 2px rgba(0, 0, 0, 0.7));
+  filter: drop-shadow(3px 3px 2px rgba(0, 0, 0, 0.7));
+}
+
+.leaflet-marker-icon[data-type=default] svg {
+  color: var(--green-3) !important;
+}
+
+.leaflet-marker-icon[data-type=current] svg {
+  color: #f17f75 !important;
+}
+
+.leaflet-marker-icon[data-type=encounter] svg {
+  color: var(--yellow-3) !important;
+}
+
+.leaflet-marker-icon[data-type=home] svg {
+  color: var(--pink-3) !important;
+}
+
+.leaflet-marker-icon[data-type=inn] svg {
+  color: var(--graph-fill-1) !important;
+}
+
+.leaflet-marker-icon[data-type=landmark] svg {
+  color: var(--teal-3) !important;
+}
+
+.leaflet-marker-icon[data-type=shop] svg {
+  color: var(--graph-fill-3) !important;
+}
+
+.leaflet-marker-icon[data-type=tavern] svg {
+  color: var(--graph-fill-5) !important;
+}
+
+.leaflet-marker-icon[data-type=temple] svg {
+  color: var(--graph-fill-6) !important;
+}
+
+.leaflet-marker-icon[data-type=settlement] svg {
+  color: var(--blue-3) !important;
+}

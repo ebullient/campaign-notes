@@ -1,0 +1,26 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "🗄-assets/templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [],
+  "syntax_highlighting": false,
+  "enabled_templates_hotkeys": [
+    "🗄-assets/templates/prev-next.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "template_folder": "🗄-assets/templates",
+  "script_folder": ""
+}

@@ -1,0 +1,8 @@
+{
+  "CodeMirror Options@@cm-theme-selection": "cm-theme-dracula",
+  "ebullientworks-theme@@ebullientworks-floating-frontmatter": true,
+  "ebullientworks-theme@@ebullientworks-hide-inactive-collapse-indicators": true,
+  "ebullientworks-theme@@tag-dark": "var(--tag-3)",
+  "ebullientworks-theme@@ebullientworks-hover-collapsed-sidebars": true,
+  "ebullientworks-theme@@ebullientworks-nix-checkbox": false
+}

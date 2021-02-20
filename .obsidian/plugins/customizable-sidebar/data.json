@@ -1,0 +1,41 @@
+{
+  "sidebarCommands": [
+    {
+      "id": "workspace:split-vertical",
+      "name": "Split vertically",
+      "icon": "vertical-split"
+    },
+    {
+      "id": "workspace:close",
+      "name": "Close active pane",
+      "icon": "cross",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "W"
+        }
+      ]
+    },
+    {
+      "id": "obsidian-dice-roller:reroll",
+      "name": "Dice Roller: Re-roll Dice",
+      "icon": "dice"
+    }
+  ],
+  "hiddenCommands": [
+    "BRAT",
+    "Advanced Tables Toolbar",
+    "Templater",
+    "Show dangling links panel",
+    "Open Leaflet Map",
+    "Open command palette",
+    "BRAT",
+    "Open Large Fantasy Calendar"
+  ],
+  "pinSidebar": {
+    "right": false,
+    "left": true
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "viewImageEditor": true,
+  "viewImageInCPB": false,
+  "viewImageWithALink": false,
+  "viewImageOther": false,
+  "imageMoveSpeed": 10,
+  "imgTipToggle": true,
+  "imgFullScreenMode": "FIT",
+  "imageBorderToggle": false,
+  "imageBorderWidth": "medium",
+  "imageBorderStyle": "solid",
+  "imageBorderColor": "red",
+  "galleryNavbarToggle": false,
+  "galleryNavbarDefaultColor": "#0000001A",
+  "galleryNavbarHoverColor": "#0000004D",
+  "galleryImgBorderActive": false,
+  "galleryImgBorderActiveColor": "#FF0000",
+  "moveTheImageHotkey": "NONE",
+  "switchTheImageHotkey": "CTRL"
+}

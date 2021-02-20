@@ -1,0 +1,2 @@
+<%* const ward = tp.system.suggester(["Castle", "City of the Dead", "Dock", "Field", "North", "Sea", "Southern", "Trades"], ["castle-ward", "city-of-the-dead", "dock-ward", "field-ward", "north-ward", "sea-ward", "southern-ward", "trades-ward"]) -%>
+`dice-mod: [](waterdeep-encounters.md#^<% ward %>)`
