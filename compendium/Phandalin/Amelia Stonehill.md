@@ -24,7 +24,7 @@ TL;DR description / personality / motivation
 
 ## Relationships
 
-* Married to [[Toblen Stonehill]]
+* Married to [Toblen Stonehill](Toblen%20Stonehill.md)
 * Mother of [Pip Stonehill](Pip%20Stonehill.md)
 * Friends:
     * [Mirna Dendrar](Mirna%20Dendrar.md)

@@ -4,13 +4,14 @@ tags:
 - npc/alive
 - iff/friend
 - region/north-sword-coast
+- group/faction/harpers
 ---
 # Mabina
 ![Mabina](/[assets]/attachments/mabina.jpg#portrait)
 *Female human Merchant, chaotic good*  
-*[North Sword Coast](../North%20Sword%20Coast.md)*  
+*[North Sword Coast](North%20Sword%20Coast.md)*  
 
-TL;DR .. more here
+A woman bustled around her cart. The layers and hood of her robe made it hard to figure out her age. The best that could be determined is not a kid and not a crone.
 
 She will identify items for the party free of charge as a result of "The Splendiferous Bauble".
 
@@ -20,8 +21,7 @@ She will identify items for the party free of charge as a result of "The Splendi
 ![Wagon](/[assets]/attachments/mabina-wagon.png#portrait)
 *Merchant*, Commoner
 
-Through her own magical means, Mabina and her wagon traverse
-the North Sword Coast, trading magical items. Trade in magical items is a dicey busines, but it is one that Mabina loves with all her heart.
+Through her own magical means, Mabina and her wagon traverse the North Sword Coast, trading magical items. Trade in magical items is a dicey busines, but it is one that Mabina loves with all her heart.
 
 * **Ideals**
 * **Bonds**
@@ -30,6 +30,7 @@ the North Sword Coast, trading magical items. Trade in magical items is a dicey 
 
 ## Relationships
 
+Mabina is a member of the [Harpers](groups/Harpers.md)
 Friends:
 * [Harbin Wester](Harbin%20Wester.md)
 

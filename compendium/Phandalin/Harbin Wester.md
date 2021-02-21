@@ -29,7 +29,7 @@ Many locks on his door, but now emerges when the party arrives. Likes "Lord Kyle
 
 * Brother, [[Tibor Wester]], runs a logging camp
 * Friends: 
-    * [Mabina](Mabina.md)
+    * [Mabina](../Mabina.md)
     * [Drusz](Drusz.md)
 
 ## Secrets

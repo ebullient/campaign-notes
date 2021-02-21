@@ -10,7 +10,7 @@ tags:
 *Male dwarf prospector, {{alignment}}*  
 *[Dwarven Excavation](Dwarven%20Excavation.md)*
 
-TL;DR description / personality / motivation
+Shield dwarf prospector
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
@@ -25,7 +25,6 @@ TL;DR description / personality / motivation
 ## Relationships
 
 * Works with [Norbus Ironrune](Norbus%20Ironrune)
-* Related to dwarves settling in [Axeholm](Axeholm.md)
 
 ## Secrets
 

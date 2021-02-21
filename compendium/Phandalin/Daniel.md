@@ -5,7 +5,7 @@ tags:
 - iff/friend
 - town/phandalin/woodshop
 ---
-# Daniel
+# Daniel #todo
 *Male human Carpenter's apprentice, chaotic good*  
 *[Phandalin](Phandalin.md)*  
 

@@ -24,4 +24,8 @@ list from #settlement/falcons-lodge
 where type = "npc"
 ```
 
+* Retainers living at the Lodge:
+    * Pell, a mute 12-year old stablehand
+    * Corwin, an elderly, world-weary cook
+  
 ## History

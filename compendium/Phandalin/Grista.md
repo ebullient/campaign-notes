@@ -10,7 +10,8 @@ tags:
 *Female dwarf barkeep, {{alignment}}*  
 *[The Sleeping Giant](The%20Sleeping%20Giant.md)*  
 
-TL;DR description / personality / motivation
+Surly.
+
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
