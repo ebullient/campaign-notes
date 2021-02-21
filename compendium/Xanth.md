@@ -25,7 +25,7 @@ TL;DR description / personality / motivation
 ## Relationships
 
 Friends
-* [Daran Edermath](Phandalin/Daran%20Edermath.md)
+* [Daran Edermath](phandalin/Daran%20Edermath.md)
 * [Reidoth](Reidoth%20the%20Druid.md)
 
 Knows and deals with [Falcon the Hunter](Falcon%20the%20Hunter.md) also, as someone that has an established presence in [Neverwinter Wood](Neverwinter%20Wood.md) that isn't busy destroying it.

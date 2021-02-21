@@ -3,7 +3,6 @@ type: location
 xtags: 
 - type/...
 - region/...
-- trello
 ---
 # {{Title}}
 *{{placeType}}, {{town}}*  
@@ -13,7 +12,7 @@ TL;DR description
 * **Owner**
 * **Location**
 
-[NPCs](#NPCs) | [History](#History)
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
 

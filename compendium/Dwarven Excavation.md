@@ -11,7 +11,7 @@ tags:
 TL;DR description
 
 * **Prospectors** [[Dazlyn Grayshard]] and [[Norbus Ironrune]]
-* **Location** South of [Phandalin](Phandalin/Phandalin.md)
+* **Location** South of [Phandalin](phandalin/Phandalin.md)
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 

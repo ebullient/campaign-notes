@@ -29,7 +29,7 @@ TL;DR description / personality / motivation
 Member of the [[groups/Emerald Enclave]]
 
 * Friends 
-    * [Quelline Alderleaf](Phandalin/Quelline%20Alderleaf.md)
+    * [Quelline Alderleaf](phandalin/Quelline%20Alderleaf.md)
     * [Xanth](Xanth.md)
 
 ## Secrets

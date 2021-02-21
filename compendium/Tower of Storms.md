@@ -13,7 +13,7 @@ tags:
 
 The source of the beacon’s eerie green light is Moesko’s own heart, which was torn from his chest in a ritual. If the heart is destroyed, the beacon’s light goes out.
 
-* **Location** Off the coast, near [Leilon](Leilon/Leilon.md)
+* **Location** Off the coast, near [Leilon](leilon/Leilon.md)
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 

@@ -1,9 +1,8 @@
 ---
 type: location
 xtags: 
-- type/...
-- region/...
-- trello
+- type/shop/...
+- town/...
 ---
 # {{Title}}
 *{{shopType}}, {{town}}*  
@@ -13,8 +12,7 @@ TL;DR description
 * **Owner**
 * **Location**
 
-[For Sale](#For\ Sale) | [NPCs](#NPCs) | [History](#History)
-
+<span class="nav">[For Sale](#For\ Sale) [NPCs](#NPCs) [History](#History)</span>
 ## For Sale
 
 ## NPCs

@@ -1,6 +1,6 @@
 # Game Time
 
-After they all met in [Phandalin](compendium/Phandalin/Phandalin.md).... 
+After they all met in [Phandalin](compendium/phandalin/Phandalin.md).... 
 
 1. *[Umbrage Hill](compendium/Umbrage%20Hill.md)* (Maniticore, Cockatrice), night in Phandalin
 1. Leave Phandalin, Ankheg encounter, [Dwarven Excavation](compendium/Dwarven%20Excavation.md), sleep there
@@ -14,8 +14,8 @@ After they all met in [Phandalin](compendium/Phandalin/Phandalin.md)....
 1. Night on the road
 1. Long rest/new Quest in Phandalin
 1. Saved the Kings of [Gnomengarde](compendium/Gnomengarde.md), night with the gnomes
-1. Orc ambush and chase, night at [Stonehill Inn](compendium/Phandalin/Stonehill%20Inn.md) (1/7)
-1. Fight with *Redbrands* at [Tresendar Manor](compendium/Phandalin/Tresendar%20Manor.md), night at stonehill inn (2/7)
+1. Orc ambush and chase, night at [Stonehill Inn](compendium/phandalin/Stonehill%20Inn.md) (1/7)
+1. Fight with *Redbrands* at [Tresendar Manor](compendium/phandalin/Tresendar%20Manor.md), night at stonehill inn (2/7)
 1. 25 miles, Night in forest (to Logger’s camp)
 1. 25 miles, [Logger's Camp](compendium/Logger's%20Camp.md); evening fight (night at camp) *
 1. 25 miles, Night in forest (to Phandalin)

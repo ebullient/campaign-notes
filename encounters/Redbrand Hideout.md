@@ -1,8 +1,8 @@
 # Altered Redbrand Hideout
 
- Three Redbrands in (1) and (2) ended up being [Daniel](../compendium/Phandalin/Daniel.md), [George](../compendium/Phandalin/George.md), and [Seamus](../compendium/Phandalin/Seamus.md)
+ Three Redbrands in (1) and (2) ended up being [Daniel](../compendium/phandalin/Daniel.md), [George](../compendium/phandalin/George.md), and [Seamus](../compendium/phandalin/Seamus.md)
 
-Bugbears moved to (4), replacing sarcophogi. All of the Dendrars were captured (none killed), and [Drusz](../compendium/Phandalin/Drusz.md) was "keeping an eye" on them all (as another form of bugbear torment).. 
+Bugbears moved to (4), replacing sarcophogi. All of the Dendrars were captured (none killed), and [Drusz](../compendium/phandalin/Drusz.md) was "keeping an eye" on them all (as another form of bugbear torment).. 
 
 
 

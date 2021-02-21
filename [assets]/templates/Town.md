@@ -1,6 +1,8 @@
 ---
 type: location
 xtags: 
+- type/town
+- town/...
 - region/...
 ---
 # {{Title}}
@@ -9,7 +11,7 @@ xtags:
 * **Population**
 * **Government**
 
-[Places](#Places) | [NPCs](#NPCs) | [History](#History)
+<span class="nav">[Places](#Places) [NPCs](#NPCs) [History](#History)</span>
 
 ## Places
 

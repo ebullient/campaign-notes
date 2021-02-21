@@ -12,7 +12,7 @@ tags:
 TL;DR description
 
 * **Owner** [Adabra Gwynn](Adabra%20Gwynn.md)
-* **Location** 5 miles south of [Phandalin](Phandalin/Phandalin.md)
+* **Location** 5 miles south of [Phandalin](phandalin/Phandalin.md)
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 

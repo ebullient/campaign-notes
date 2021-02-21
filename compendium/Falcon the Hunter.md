@@ -34,7 +34,7 @@ Falcon moves with the casual confidence of one who fears nothing, and he greets 
 
 * Friends
     * [Xanth](Xanth.md)
-    * [Daran Edermath](Phandalin/Daran%20Edermath.md)
+    * [Daran Edermath](phandalin/Daran%20Edermath.md)
 
 ## Secrets
 
