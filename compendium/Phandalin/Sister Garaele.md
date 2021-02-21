@@ -17,7 +17,7 @@ Sister Garaele regularly reports to her superiors in Neverwinter on events in an
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*Acolyte*, Commoner
+*Acolyte, Faction Agent*, Commoner
 
 * **Ideals**
 * **Bonds**

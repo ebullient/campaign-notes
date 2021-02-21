@@ -6,7 +6,7 @@ tags:
 - region/north-sword-coast
 - group/faction/harpers
 ---
-# Mabina
+# Mabina Cawood
 ![Mabina](/[assets]/attachments/mabina.jpg#portrait)
 *Female human Merchant, chaotic good*  
 *[North Sword Coast](North%20Sword%20Coast.md)*  
@@ -19,22 +19,27 @@ She will identify items for the party free of charge as a result of "The Splendi
 
 ## Details
 ![Wagon](/[assets]/attachments/mabina-wagon.png#portrait)
-*Merchant*, Commoner
+*Student of Magic*, Commoner
 
 Through her own magical means, Mabina and her wagon traverse the North Sword Coast, trading magical items. Trade in magical items is a dicey busines, but it is one that Mabina loves with all her heart.
 
-* **Ideals**
-* **Bonds**
-* **Flaws**
-* **Motivation**
+* **Ideals** Magic should be used to protect and improve the lives of the common people
+* **Bonds** I had a rival all throughout my training, we still compete.
+* **Flaws** I can get so distracted by the mystery and wonder of magic that I can forget I'm supposed to be fighting another Wizard.
+* **Motivation** When exposed to some new piece of magic, I can't help by try to figure out what it does and how it works.
 
 ## Relationships
 
 Mabina is a member of the [Harpers](groups/Harpers.md)
 Friends:
 * [Harbin Wester](Harbin%20Wester.md)
+* [Sister Garaele](phandalin/Sister%20Garaele.md)
 
 ## Secrets
+
+Options for what she traded for the #loot/splendiferous-bauble:
+* a legendary Ring of Djinni Summoning. She uses it to summon a female djinni named Desri from the Elemental Plane of Air. Desri casts the druid spell "Wind Walk" on herself, and her horse. --> What about the cart?
+
 
 ## History
 

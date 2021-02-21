@@ -16,7 +16,7 @@ A fit, silver-haired _half-elf_ well over a hundred years old. He lives in a tid
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*Soldier*, Commoner
+*Soldier, Faction Agent*, Veteran
 
 * **Ideals**
 * **Bonds**
@@ -45,3 +45,4 @@ Daran is a member of the [Order of the Gauntlet](../groups/Order%20of%20the%20Ga
 ## History
 
 Daran served as a marshal and herald for many years in the lands of the Dragon Coast, far to the southeast. Upon retiring, he returned to the Neverwinter region, his original home. 
+

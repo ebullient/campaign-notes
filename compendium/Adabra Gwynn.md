@@ -37,8 +37,8 @@ Millstone on the ground floor grinds herbs and other ingredients for poultices a
 ## Relationships
 
 Friends: 
-* [Harbin Wester ](Harbin%20Wester%20.md)
-* [Mirna Dendrar](Mirna%20Dendrar.md)
+* [Harbin Wester](phandalin/Harbin%20Wester.md)
+* [Mirna Dendrar](phandalin/Mirna%20Dendrar.md)
 
 ## Secrets
 

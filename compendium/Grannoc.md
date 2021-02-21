@@ -6,28 +6,23 @@ tags:
 - group/faction/cult-of-talos
 - ruin/woodland-manse 
 ---
-# Grannoc
-![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)
-*{{gender}} half-orc Anchorite of Talos, {{alignment}}*  
+# Grannoc (dead)
+![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)*Male half-orc Anchorite of Talos, neutral evil*  
 *[Woodland Manse](Woodland%20Manse.md)*  
 
-TL;DR description / personality / motivation
+Grannoc had hoped Talos will answer his prayers and rain destruction down upon Falcon’s Hunting Lodge.
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*{{Background}}*, Commoner
-
-* **Ideals**
-* **Bonds**
-* **Flaws**
-* **Motivation**
+*Cultist*, [Anchorite of Talos](statblocks/anchorite-of-talos.md)
 
 ## Relationships
 
-**Organization or Faction**
+Grannoc was an [anchorite](groups/Cult%20of%20Talos.md), a devout follower of Talos. 
 
 ## Secrets
 
 ## History
 
+He resided at Woodland Manse (Neverwinter Wood), commanding both blights and allied orcs. Additional anchorites also stayed at the lodge and in the surrounding woods (they spotted one on the way to/from the Logger’s Camp)

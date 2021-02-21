@@ -5,7 +5,6 @@ xtags:
 - iff/neutral
 - group/...
 - location
-- trello
 ---
 # {{Name}}
 *{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  

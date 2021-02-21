@@ -2,7 +2,7 @@
 type: npc
 tags:
 - npc/alive
-- iff/friend
+- iff/unknown
 - town/phandalin/tresendar-manor 
 ---
 # Hot Dog (nothic)
@@ -10,7 +10,7 @@ tags:
 *Nothic, neutral evil*  
 *[Tresendar Manor](Tresendar%20Manor.md)*  
 
-TL;DR description / personality / motivation
+Nothic living under the old Tresendar Manor. Was bribed and allowed to continue to live there (to pretend anyone else from living there).
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

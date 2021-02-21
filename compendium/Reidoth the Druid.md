@@ -8,16 +8,20 @@ tags:
 - group/faction/emerald-enclave
 ---
 # Reidoth the Druid
-![Reidoth](/[assets]/attachments/reidoth.jpeg#portrait)
-*Male human druid, neutral good*  
+![Reidoth](/[assets]/attachments/reidoth.jpeg#portrait)*Male human druid, neutral good*  
 *[Thundertree](Thundertree.md)*  
 
-TL;DR description / personality / motivation
+Reidoth has a cottage in the ruins of a town called Thundertree just west of the Neverwinter Wood, about 50 miles northwest of Phandalin.
+
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*{{Background}}*, Commoner
+*Hermit, Faction Agent*, Commoner
+
+At least level 5 druid: Speak with Animals, Greater Restoration
+
+If he is threatened while in Thundertree, Reidoth will transform into a gray squirrel and scurry out of the cottage through a crack in the wall. He will vanish into the woods and wait for the hostile creatures to leave. His watch post contains nothing of value.
 
 **Ideals**
 **Bonds**
@@ -32,7 +36,13 @@ Member of the [[groups/Emerald Enclave]]
     * [Quelline Alderleaf](phandalin/Quelline%20Alderleaf.md)
     * [Xanth](Xanth.md)
 
+The druid may privately approach certain members of the group to urge them to join the Emerald Enclave. He speaks with those who exemplify the ideal of protecting the natural order. If a character agrees, Reidoth gives the individual the title of Springwarden.
+
 ## Secrets
 
 ## History
+
+Reidoth helped cure Don Jon Raskin of Lycanthropy, in exchange with 100gp to replace the diamond dust used by Greater Restoration. He sent the coins back with the party to be given to Qelline to trade on his behalf.
+
+He warned the party about dangers in Thundertree, and helped heal them after they faced Venomfang.
 

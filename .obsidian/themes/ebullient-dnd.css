@@ -523,6 +523,13 @@ thead {
   background-color: var(--background-primary);
 }
 
+.markdown-preview-view blockquote hr {
+  margin-block-start: 4px;
+  margin-block-end: 4px;
+}
+.markdown-preview-view blockquote hr::after {
+  display: none;
+}
 
 /* Reduce indentation in bullet lists */
 ol {
