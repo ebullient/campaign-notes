@@ -5,7 +5,7 @@ but indexing, graph associations, and timeline won't be visible.
 
 ## Where to look
 
-* [Game Time](Game%20Time.md)
+* [logs/Game Time](logs/Game%20Time.md)
 * [Plot Threads](PlotThreads.md)
 * Some session writeups are in the writing folder
 * Most linkable notes, including summaries of characters, are all in the compendium folder. If you are using Obsidian, the [Index](Index.md) will render a grouped listing of items in the compendium.
