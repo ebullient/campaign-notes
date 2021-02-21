@@ -3,27 +3,30 @@
 Built using Obsidian.md. Files can be referenced and even edited from github,
 but indexing, graph associations, and timeline won't be visible.
 
-## Referenced Campaigns:
+## Where to look
 
-* Dragon of Icespire Peak
-* Lost Mine of Phandelver
-* Storm Lord's Wrath
-* Sleeping Dragon's Wake
-* Divine Contention
-
-## Mashup / context
-
-The *inciting incident* of this campaign is when Fheralai Stormsworn, the high priestess of Talos, rouses the half-orc anchorites of Neverwinter Wood:  she has been given a mission by their evil god of storms, and it’s time to start shaking up the Sword Coast!
+* [Game Time](Game%20Time.md)
+* [Plot Threads](PlotThreads.md)
+* Some session writeups are in the writing folder
+* Most linkable notes, including summaries of characters, are all in the compendium folder. If you are using Obsidian, the [Index](Index.md) will render a grouped listing of items in the compendium.
+* Some DM/GM reference items are in the reference folder.
+* [assets] contains both attachments (images), and small template files used for content creation.
+* The logs directory is still a work in progress.
 
 
-A death cult of Myrkul led by Ularan Mortus is seeking to raise the ancient black dragon Ebondeath from the dead. 
+## Referenced Materials:
 
-fit in: 
-- Black Spider, Glassstaff, Redbrands
-- Cragmaw goblins?
-- Wizard at Old Owl Well or any LMoP quests...
-- Stone Cold Reavers
+Material on this site is mashed/repurposed digested from the following sources: 
 
-## Time
+* [Dragon of Icespire Peak](https://forgottenrealms.fandom.com/wiki/Dungeons_%26_Dragons_Essentials_Kit)
+* [Lost Mine of Phandelver](https://forgottenrealms.fandom.com/wiki/Dungeons_%26_Dragons_Starter_Set)
+* [Storm Lord's Wrath](https://www.dndbeyond.com/marketplace/adventures/storm-lords-wrath)
+* [Sleeping Dragon's Wake](https://www.dndbeyond.com/marketplace/adventures/sleeping-dragons-wake)
+* [Divine Contention](https://www.dndbeyond.com/marketplace/adventures/divine-contention)
+* [Sword Coast Adventurer's Guide](https://forgottenrealms.fandom.com/wiki/Sword_Coast_Adventurer%27s_Guide)
 
-![https://static.wikia.nocookie.net/forgottenrealms/images/0/09/Calendar_harptos.jpg](https://static.wikia.nocookie.net/forgottenrealms/images/0/09/Calendar_harptos.jpg)
+
+Pages also reference material from the [Forgotton Realms](https://forgottenrealms.fandom.com/) wiki at [Fandom](https://www.fandom.com/).
+
+This content is licensed under the [Creative Commons Attribution-Share Alike License](LICENSE).
+

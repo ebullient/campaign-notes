@@ -21,7 +21,7 @@ After they all met in [Phandalin](compendium/phandalin/Phandalin.md)....
 1. 25 miles, Night in forest (to Phandalin)
 1. 25 miles, Phandalin in evening, night at Stonehill Inn (3/7)
 1. 15 miles to [Mountain's Toe Gold Mine](compendium/Mountain's%20Toe%20Gold%20Mine.md) + Manticore. Reach mine in afternoon. Clear mine through late evening. Long rest with Dwarves.
-1. 15 miles to Phandalin. Harbin, quest to cure Don Jon. Overnight at Inn (4/7)
+1. 15 miles to Phandalin. Harbin, quest to cure Don-Jon. Overnight at Inn (4/7)
 1. 25 miles, Camp. meet centaur, Xanth. Xanth warns about Dragon Barrow will-o-wisps and Circle of Thunder.
 1. 15 miles... [Dragon Barrow](compendium/Dragon%20Barrow.md) (5 hours)... now dark. Camp above ground. witness weird lightening storm far to theceast over the forest. Visitation by spirit overnight (name & nature of lute and longsword, name of horse)
 1. 15 miles to [Thundertree](compendium/Thundertree.md), talked to Reidoth, learned about dragon. Overnight @ Reidoth’s house
