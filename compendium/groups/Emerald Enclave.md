@@ -13,7 +13,7 @@ The enclave works to restore and preserve the natural order by keeping the eleme
 Branches of the organization are scattered throughout Faerûn and often operate in isolation from the others. This existence teaches the Enclave’s members a fierce self-reliance and mastery of certain fighting and survival skills.
 
 * **Alignment** lawful neutral, chaotic neutral, or neutral
-* **Enemies** [The Cult of Talos](The%20Cult%20of%20Talos.md)
+* **Enemies** The [Cult of Talos](Cult%20of%20Talos.md)
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 

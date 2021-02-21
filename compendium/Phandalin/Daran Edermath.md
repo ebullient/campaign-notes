@@ -38,7 +38,7 @@ Friends:
 Employs:
 * [George](George.md)
 
-Daran is a member of the [Order of the Gauntlet](../Factions/Order%20of%20the%20Gauntlet.md). Though he is no longer active in the order, he keeps an eye on happenings around Phandalin. He is happy to trade news with fellow adventurers, especially those who appear to hold to the virtues of the Order. 
+Daran is a member of the [Order of the Gauntlet](../groups/Order%20of%20the%20Gauntlet.md). Though he is no longer active in the order, he keeps an eye on happenings around Phandalin. He is happy to trade news with fellow adventurers, especially those who appear to hold to the virtues of the Order. 
 
 ## Secrets
 

@@ -26,7 +26,7 @@ TL;DR description / personality / motivation
 
 ## Relationships
 
-Member of the [[Factions/Emerald Enclave]]
+Member of the [[groups/Emerald Enclave]]
 
 * Friends 
     * [Quelline Alderleaf](Phandalin/Quelline%20Alderleaf.md)

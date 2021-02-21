@@ -27,7 +27,7 @@ The source of the beacon’s eerie green light is Moesko’s own heart, which wa
 
 ## Relationships
 
-[[Factions/The Cult of Talos]]
+[[groups/The Cult of Talos]]
 
 ## Secrets
 

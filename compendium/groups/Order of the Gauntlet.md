@@ -8,7 +8,6 @@ tags:
 
 A devout and vigilant group that seeks to protect others from the depredations of evildoers. The order is always vigilant, ready to smite evil, enforce justice, and enact retribution against any who try to subjugate or harm others. 
 
-
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
@@ -26,4 +25,4 @@ The Order of the Gauntlet hold three tenets:
 2. Great challenges required heroic demonstrations of both strength and valor
 3. It was justified to punish an act of evil, not a thought or feeling
 
-The Order of the Gauntlet counted a number of influential organizations among its allies. While they operated in very different ways, the [Harpers](../Factions/The%20Harpers.md) and the Gauntlet ultimately shared the same goals for Faerûn.
+The Order of the Gauntlet counted a number of influential organizations among its allies. While they operated in very different ways, the [Harpers](../groups/Harpers.md) and the Gauntlet ultimately shared the same goals for Faerûn.
