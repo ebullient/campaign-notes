@@ -18,10 +18,10 @@ A fit, silver-haired _half-elf_ well over a hundred years old. He lives in a tid
 ## Details
 *Soldier, Faction Agent*, Veteran
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

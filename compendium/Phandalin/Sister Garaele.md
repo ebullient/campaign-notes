@@ -19,10 +19,10 @@ Sister Garaele regularly reports to her superiors in Neverwinter on events in an
 ## Details
 *Acolyte, Faction Agent*, Commoner
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

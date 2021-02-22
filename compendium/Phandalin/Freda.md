@@ -16,10 +16,10 @@ TL;DR description / personality / motivation
 ## Details
 *{{Background}}*, Commoner
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

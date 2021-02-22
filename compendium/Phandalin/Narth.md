@@ -17,10 +17,10 @@ TL;DR description / personality / motivation
 ## Details
 *Farmer*, Commoner
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

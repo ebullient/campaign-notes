@@ -16,10 +16,10 @@ Bredon is the cook at the Stonehill Inn
 ## Details
 *{{Background}}*, Commoner
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

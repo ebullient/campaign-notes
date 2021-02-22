@@ -17,10 +17,10 @@ TL;DR description / personality / motivation
 ## Details
 *Cultist*, [Anchorite of Talos](statblocks/anchorite-of-talos.md)
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

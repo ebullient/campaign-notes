@@ -19,10 +19,10 @@ Moesko uses the tower's pulsing beacon to draw ships to their doom as sacrifices
 
 The source of the beacon’s eerie green light is Moesko’s own heart, which was torn from his chest in a ritual. If the heart is destroyed, the beacon’s light goes out.
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

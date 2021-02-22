@@ -19,10 +19,10 @@ TL;DR description / personality / motivation
 Seamus was a member of the Redbrands. He left his family farm because ... 
 and fell in with [Daniel](Daniel.md) and [Seamus](Seamus.md) who had similar runaway backgrounds and likewise felt uneasy with what the Redbrands were doing.
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 #unexplored: How does George feel about working with a devout ex-military half-elf in an apple orchard?! 
 

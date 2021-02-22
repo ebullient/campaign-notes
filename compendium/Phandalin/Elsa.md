@@ -17,10 +17,10 @@ Elsa has a square face, with short auburn hair and amber eyes.
 ## Details
 *{{Background}}*, Commoner
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

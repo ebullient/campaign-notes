@@ -3,6 +3,7 @@
 - [ ] Who exactly is Mabina? 
 - [ ] What happened to Glassstaff?
 - [ ] Does the Black Spider matter anymore? If so, how?
+- [ ] Stone Cold Reavers? 
 
 
 ## Cult of Talos 

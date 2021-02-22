@@ -17,10 +17,10 @@ Nothic living under the old Tresendar Manor. Was bribed and allowed to continue 
 ## Details
 *{{Background}}*, Commoner
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

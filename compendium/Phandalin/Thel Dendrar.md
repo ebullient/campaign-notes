@@ -17,10 +17,10 @@ TL;DR description / personality / motivation
 ## Details
 *Craftsman*, Commoner
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

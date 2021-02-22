@@ -9,3 +9,4 @@ Relevant bits:
 list from #circle-of-thunder
 ```
 
+- [ ] Update Roll20 for Xanth: +2 armor

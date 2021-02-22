@@ -19,10 +19,10 @@ Fheralai is a fanatical young half-orc war priest. She plans to invade the Sword
 ## Details
 *Cultist*, [War Priest](statblocks/war-priest.md)
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

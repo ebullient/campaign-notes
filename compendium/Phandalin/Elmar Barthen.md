@@ -17,10 +17,10 @@ Lean and balding human man.
 ## Details
 *{{Background}}*, Commoner
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

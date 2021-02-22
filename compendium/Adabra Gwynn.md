@@ -25,10 +25,10 @@ Mirna sells her potions and poultices in town.
 ## Details
 *[Outlander](https://5ebackgrounds.com/outlander/), Commoner*
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 #### Umbrage Hill
 

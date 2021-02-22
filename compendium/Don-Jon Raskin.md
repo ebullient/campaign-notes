@@ -18,10 +18,10 @@ He has worked as a gold prospector, miner, fur trader, privateer, and whaler. He
 ## Details
 *{{Background}}*, Commoner
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

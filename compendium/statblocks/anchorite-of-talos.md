@@ -21,15 +21,15 @@ tags: [statblock]
 > - **Challenge** 3 (700 XP)
 >___
 > ### Traits
-> **Innate Spellcasting.** The anchorite’s innate spellcasting ability is Wisdom (spell save DC 12). It can innately cast the following spells, requiring no material components:  
+> ***Innate Spellcasting.*** The anchorite’s innate spellcasting ability is Wisdom (spell save DC 12). It can innately cast the following spells, requiring no material components:  
 >&nbsp;  
-> 1/day each: ***augury***, ***bless***, ***lightning bolt*** (8d6 damage), ***revivify***  
+> 1/day each: **augury**, **bless**, **lightning bolt** (8d6 damage), **revivify**  
 >&nbsp;  
-> 3/day: ***thunderwave*** (2d8 damage)  
+> 3/day: **thunderwave* (2d8 damage)  
 >&nbsp;  
-> **Shapechanger.** The anchorite can use its action to polymorph into a boar or back into its true form, which is humanoid. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+> ***Shapechanger.*** The anchorite can use its action to polymorph into a boar or back into its true form, which is humanoid. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 >___
 > ### Actions
-> **Clawed Gauntlet (Humanoid Form Only).** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage.  
+> ***Clawed Gauntlet (Humanoid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage.  
 >&nbsp;  
-> **Tusk (Boar Form Only).** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+> ***Tusk (Boar Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.

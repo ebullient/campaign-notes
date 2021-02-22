@@ -25,10 +25,10 @@ Falcon abhors city life, preferring a rustic existence and simple pleasures. His
 
 Falcon moves with the casual confidence of one who fears nothing, and he greets every concern with nonplussed indifference. 
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

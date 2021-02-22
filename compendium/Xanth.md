@@ -6,35 +6,40 @@ tags:
 - region/north-sword-coast/neverwinter-wood
 ---
 # Xanth
-*Male centaur, {{alignment}}*  
+*Male centaur, neutral good*  
 *[Neverwinter Wood](Neverwinter%20Wood.md)*  
 
-TL;DR description / personality / motivation
+Xanth is very intelligent. While quiet, he is very inquisitive. He learned Common, which is somewhat unusual for a Centaur, so he could converse more easily with humans like Reidoth.  He seems a little slender for a Centaur, but not unnaturally so.
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*{{Background}}*, Commoner
+*[Outlander](https://5ebackgrounds.com/outlander/), [Centaur](statblocks/centaur.md)*
 
- Sad, distant. Not worldly (knows mostly forest), relies on Reidoth and Daran. 
-* **Ideals**
-* **Bonds**
-* **Flaws**
-* **Motivation**
+Xanth lives deep in Neverwinter Wood, but travels throughout, as he has a fierce desire to protect his home. Reidoth is his closest ally in this effort, but he has a longstanding friendship with Daran Edermath, as well.
+
+He wears a bronze armlet on his left arm, and is a skilled dancer (in Centaur dances, of course).
+
+* **Trait** I place no stock in wealthy or well-mannered folk. Money and manners won’t save you from a hungry owlbear.
+* **Ideals** The natural world is more important than all the constructs of civilization.
+* **Bonds** An injury to the unspoiled wilderness of my home is an injury to me.
+* **Flaws** I am slow to trust members of other races, tribes, and societies.
 
 ## Relationships
 
 Friends
-* [Daran Edermath](phandalin/Daran%20Edermath.md)
 * [Reidoth](Reidoth%20the%20Druid.md)
+* [Daran Edermath](phandalin/Daran%20Edermath.md)
 
-Knows and deals with [Falcon the Hunter](Falcon%20the%20Hunter.md) also, as someone that has an established presence in [Neverwinter Wood](Neverwinter%20Wood.md) that isn't busy destroying it.
+Knows and deals with [Falcon the Hunter](Falcon%20the%20Hunter.md) also, as someone that has an established presence in [Neverwinter Wood](Neverwinter%20Wood.md). He doesn't like him very much, though. He thinks Falcon is overly concerned with human status, and that includes parading people around in the woods for entertainment.
 
 ## Secrets
 
+He made an enemy of an adventurer, once. He isn't sure whether or not it was his fault, as he didn't know Common very well at the time.
+
 ## History
 
-Lives deep in the west side of Neverwinter Wood. Fled to Thundertree, at first, to find Reidoth, but detected the dragon and changed his mind. He passed the party on his way south to Daran Edermath from Thundertree.
+Lives deep in Neverwinter Wood. When the Anchorites of Talos started summoning lightning and thunder, he headed to Thundertree, at first, to find Reidoth, but detected the dragon and changed his mind. He passed the party on his way south to Daran Edermath from Thundertree.
 
 From [05. Finding a Cure](../writing/05.%20Finding%20a%20Cure.md)
 

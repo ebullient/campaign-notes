@@ -20,14 +20,14 @@ Pompous, middle-aged banker.
 
 Many locks on his door, but now emerges when the party arrives. Likes "Lord Kyle" the most. Enjoys having Drusz (goblin, aka Droop) around to play chess with (appeals to hidden/little-known caretaker).
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 
-* Brother, [[Tibor Wester]], runs a logging camp
+* Brother, [[../Tibor Wester]], runs a logging camp
 * Friends: 
 	* [Thel Dendrar](Thel%20Dendrar.md)
     * [Mirna Dendrar](Mirna%20Dendrar.md)

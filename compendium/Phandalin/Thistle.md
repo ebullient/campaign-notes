@@ -17,10 +17,10 @@ Thistle has an angular face, with braided golden hair and dark hazel eyes. She i
 ## Details
 *{{Background}}*, Commoner
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

@@ -19,10 +19,10 @@ Spirited and precocious halfling 10-year-old. Enchanted by the idea of being an 
 
 Lives and helps out at [Alderleaf Farm](Alderleaf%20Farm.md) when not running around with [Pip Stonehill](Pip%20Stonehill.md)
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

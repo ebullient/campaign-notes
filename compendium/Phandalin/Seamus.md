@@ -19,10 +19,10 @@ TL;DR description / personality / motivation #todo
 Seamus was a member of the Redbrands. He left his family farm because ... 
 and fell in with [Daniel](Daniel.md) and [George](George.md) who had similar runaway backgrounds and likewise felt uneasy with what the Redbrands were doing.
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

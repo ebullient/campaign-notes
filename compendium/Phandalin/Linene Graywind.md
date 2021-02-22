@@ -26,10 +26,10 @@ The Lionshield Coster won’t sell weapons to anyone she thinks might be a threa
 
 Linene lives not far from the Lionshield Coster
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

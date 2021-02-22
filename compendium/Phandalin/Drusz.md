@@ -19,10 +19,10 @@ His name is actually Drusz. He's quietly recovering from his abuse while staying
 ## Details
 *{{Background}}*, Commoner
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

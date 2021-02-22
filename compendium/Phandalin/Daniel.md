@@ -19,10 +19,10 @@ TL;DR description / personality / motivation
 Seamus was a member of the Redbrands. He left his family farm because ... 
 and fell in with [George](George.md) and [Seamus](Seamus.md) who had similar runaway backgrounds and likewise felt uneasy with what the Redbrands were doing.
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 #unexplored: How does Daniel feel about working with a family the Redbrand's captured and intended to sell into slavery?
 

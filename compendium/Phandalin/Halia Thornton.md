@@ -23,10 +23,10 @@ She wants her guild to be the governing body of the village. #notexplored
 
 Thornton owned a house to the southeast of the Miner's Exchange.
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 

@@ -18,10 +18,10 @@ Helps load and unload wagons, and waits on customers when Barthen isn’t around
 ## Details
 *{{Background}}*, Commoner
 
+* **Trait**
 * **Ideals**
 * **Bonds**
 * **Flaws**
-* **Motivation**
 
 ## Relationships
 
