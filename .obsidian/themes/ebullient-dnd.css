@@ -706,14 +706,21 @@ svg.link {
   border-bottom: none;
 }
 
-.timeline-card {
-  background-color: var(--background-secondary-alt) !important;
+.markdown-preview-view .timeline-container h2 {
+  color: var(--blue);
 }
-
 .timeline-container::after {
   border-color: var(--blue) !important;
 }
 
+
+.timeline-card.player a.internal-link {
+  color: var(--orange) !important;
+}
+
+.timeline-card {
+  background-color: var(--background-secondary-alt) !important;
+}
 .timeline::after {
   background-color: var(--background-secondary-alt) !important;
 }
