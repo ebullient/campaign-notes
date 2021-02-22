@@ -6,9 +6,7 @@ tags:
 # The Cult of Talos
 ![The symbol of Talos](../../[assets]/attachments/talos-holy-symbol.jpg#portrait)
 
-Talos, also known as the Stormlord or the Destroyer, is a chaotic evil greater deity of storms, forest fires, earthquakes, tornadoes and destruction. While a popular deity, his name is invoked more often out of fear than reverence.
-
-His followers are destroyers, raiders, looters and brigands.
+Members are fervent religious cultists who worship [Talos](#Talos), the Stormlord. The cult is led by the priestess [Fheralai Stormsworn](../Fheralai%20Stormsworn.md). 
 
 **Beliefs**
 
@@ -16,15 +14,23 @@ His followers are destroyers, raiders, looters and brigands.
 2. Life is short, you could die at any moment.
 3. Grab what you can when you can.
 
-The Cult of Talos is led by the priestess [Fheralai Stormsworn](../Fheralai%20Stormsworn.md). The Anchorites of Talos are fervent religious cultists who worship of Talos, the god of storms.
+Anchorites of Talos are special. In ancient times the human ancestors of these cultists bred with orcs, and now all of their numbers are half-orcs. In order to visit the wrath of Talos on their enemies, the anchorites can shift into the form of a boar. They are often found in remote mountainous or forested areas. They are savage, wild, and somewhat unpredictable, just like the storms their god sends upon the face of the world.
 
 * **Alignment** Chaotic evil
 * **Enemies** Emerald Enclave
 
-Priests of Talos are often travelling doomsayers, who warn of disasters to come and accept charity in exchange for blessings of protection.
+In stormy weather, anchorites of Talos will gather on remote hilltops to "Call down the Thunder", and summon [Gorthok](../statblocks/gorthok.md), the thunder boar. When motivated, they can also summon a storm.
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
+
+## Talos
 ![Talos, Stormlord, The Destroyer](../../[assets]/attachments/talos.jpg#portrait)
+
+Talos, also known as the Stormlord or the Destroyer, is a chaotic evil greater deity of storms, forest fires, earthquakes, tornadoes and destruction. While a popular deity, his name is invoked more often out of fear than reverence.
+
+Priests of Talos are often travelling doomsayers, who warn of disasters to come and accept charity in exchange for blessings of protection.
+
+His followers are destroyers, raiders, looters and brigands.
 
 ## NPCs
 
@@ -33,6 +39,7 @@ list from #group/faction/cult-of-talos
 where type = "npc"
 ```
 
+NPCs tied to specific locations: 
 * Circle of Thunder: Flenz, Narux, Yargath
 * Tower of Storms: Moesko
 * Woodland Manse (Neverwinter Wood, dead): Grannoc, 3 additional, unnamed

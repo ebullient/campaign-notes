@@ -2,6 +2,17 @@
 type: statblock
 tags: [statblock]
 ---
+# War Priest 
+&nbsp;  
+
+## History
+
+```dataview
+list from #monster/manticore 
+```
+
+---
+
 > ## War Priest
 >*Medium humanoid (any race), any alignment*
 >___

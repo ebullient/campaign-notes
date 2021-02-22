@@ -2,7 +2,7 @@
 type: npc
 xtags:
 - npc/alive
-- iff/neutral
+- iff/unknown
 - group/...
 - location
 ---

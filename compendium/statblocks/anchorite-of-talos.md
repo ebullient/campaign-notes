@@ -2,8 +2,16 @@
 type: statblock
 tags: [statblock]
 ---
-![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)
+# Anchorite of Talos
+## History
 
+```dataview
+list from #monster/anchorite-of-talos 
+```
+
+---
+
+![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)
 > ## Anchorite of Talos  
 >*Medium humanoid (half-orc, shapechanger), neutral evil*
 >___
