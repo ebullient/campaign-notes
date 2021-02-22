@@ -24,4 +24,8 @@ list from #town/phandalin/miners-exchange
 where type = "npc"
 ```
 
-## History
+
+## History 
+
+[Dazlyn Grayshard](../Dazlyn%20Grayshard.md) and [Norbus Ironrune](../Norbus%20Ironrune.md) claimed a gold mine nead the [Dwarven Excavation](../Dwarven%20Excavation.md) site, as well as the site itself. They tried to claim [Axeholm](../Axeholm.md), as well, but Harbin pre-empted Halia and asked the [Lords Alliance](../groups/Lords%20Alliance.md) to help resolve the issue.
+

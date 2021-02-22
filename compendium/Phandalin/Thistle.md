@@ -6,7 +6,6 @@ tags:
 - town/phandalin/barthens-provisions
 ---
 # Thistle
-![Thistle](/[assets]/attachments/name.jpeg#portrait)
 *Female human clerk, {{alignment}}*  
 *[Barthen's Provisions](Barthen's%20Provisions.md)*  
 
@@ -25,6 +24,9 @@ Thistle has an angular face, with braided golden hair and dark hazel eyes. She i
 ## Relationships
 
 **Organization or Faction**
+
+* Works for [Elmar Barthen](Elmar%20Barthen.md)
+* [Ander](Ander.md) is her older borther
 
 ## Secrets
 

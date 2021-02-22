@@ -28,9 +28,8 @@ TL;DR
 * Married to [Thel Dendrar](Thel%20Dendrar.md)
 * Two children: [[Nars Dendrar]] and [[Nilsa Dendrar]]
 * Friends with
-	* [Harbin Wester](Harbin%20Wester.md)
-	* [Adabra Gwynn](../Adabra%20Gwynn.md)
-	* [Amelia Stonehill](Amelia%20Stonehill.md)
+    * [Adabra Gwynn](../Adabra%20Gwynn.md)
+    * [Amelia Stonehill](Amelia%20Stonehill.md)
 
 ## Secrets
 
@@ -40,7 +39,7 @@ Mirna's family fled Thundertree when Mt. Hotenow exploded. They left behind a tr
 
 From the Slave pens in [Redbrand Hideout](../../encounters/Redbrand%20Hideout.md): 
 
-> When the door is opened, you hear a petrified squeak, as a goblin ([Drusz](Drusz.md)) in the center of the room is startled. It faints.
+> When the door is opened, you hear a petrified squeak, as a goblin in the center of the room is startled. It faints.
 >
 > This long room is partitioned into three areas, with iron bars walling off the north and south. Filthy straw lines the floors of those cells, the hinged doors of which are secured by chains and padlocks. A women and two teenage girls are in the south cell, while a human man is confined to the north. All are dressed in plain gray tunics and have iron collars fitted around their necks. 
 >

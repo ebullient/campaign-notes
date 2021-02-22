@@ -32,9 +32,6 @@ Falcon moves with the casual confidence of one who fears nothing, and he greets 
 
 ## Relationships
 
-* Friends
-    * [Xanth](Xanth.md)
-    * [Daran Edermath](phandalin/Daran%20Edermath.md)
 * Retainers living at the Lodge:
     * Pell, a mute 12-year old stablehand
     * Corwin, an elderly, world-weary cook

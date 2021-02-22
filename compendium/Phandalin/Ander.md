@@ -27,6 +27,9 @@ Helps load and unload wagons, and waits on customers when Barthen isn’t around
 
 **Organization or Faction**
 
+* Works for [Elmar Barthen](Elmar%20Barthen.md)
+* [Thistle](Thistle.md) is his sister
+
 ## Secrets
 
 ## History

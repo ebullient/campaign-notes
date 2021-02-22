@@ -21,6 +21,8 @@ Grannoc had hoped Talos will answer his prayers and rain destruction down upon F
 
 Grannoc was an [anchorite](groups/Cult%20of%20Talos.md), a devout follower of Talos. 
 
+Took direction from High Priestess [Fheralai Stormsworn](Fheralai%20Stormsworn.md)
+
 ## Secrets
 
 ## History

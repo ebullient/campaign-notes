@@ -24,7 +24,8 @@ TL;DR description / personality / motivation
 
 ## Relationships
 
-**Organization or Faction**
+* Anchorite in the [Cult of Talos](groups/Cult%20of%20Talos.md)
+* Lives with [Narux](Narux.md) and [Yargath](Yargath.md) at the [Circle of Thunder](Circle%20of%20Thunder.md)
 
 ## Secrets
 

@@ -27,8 +27,8 @@ TL;DR description / personality / motivation
 * Married to [Mirna Dendrar](Mirna%20Dendrar)
 * Two children: [[Nars Dendrar]] and [[Nilsa Dendrar]]
 * Friends with
-	* [Harbin Wester](Harbin%20Wester.md)
-	* [Toblen Stonehill](Toblen%20Stonehill.md)
+    * [Harbin Wester](Harbin%20Wester.md)
+    * [Toblen Stonehill](Toblen%20Stonehill.md)
 * Employs [Daniel](Daniel.md)
 
 ## Secrets

@@ -24,7 +24,10 @@ TL;DR description / personality / motivation
 
 ## Relationships
 
-**Organization or Faction**
+* Anchorite in the [Cult of Talos](groups/Cult%20of%20Talos.md)
+* Takes orders from [Fheralai Stormsworn](Fheralai%20Stormsworn.md)
+* Works with [Grannoc](Grannoc.md) and other anchorites to bring chaos and destruction to the region
+* Lives with [Flenz](Flenz.md) and [Yargath](Yargath.md) at the [Circle of Thunder](Circle%20of%20Thunder.md)
 
 ## Secrets
 

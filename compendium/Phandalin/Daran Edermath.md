@@ -32,7 +32,6 @@ Friends:
 * [Linene Graywind](Linene%20Graywind.md)
 * [Elmar Barthen](Elmar%20Barthen.md)
 * [Maccus Strongarm](Maccus%20Strongarm.md)
-* [Falcon the Hunter](../Falcon%20the%20Hunter.md)
 * [Xanth](../Xanth.md)
 
 Employs:

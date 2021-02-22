@@ -35,9 +35,9 @@ Linene lives not far from the Lionshield Coster
 
 * Member of [Lionshield Coster](Lionshield%20Coster.md)
 * Friends
-	* [Quelline Alderleaf](Quelline%20Alderleaf.md)
 	* [Daran Edermath](Daran%20Edermath.md)
 	* [Sister Garaele](Sister%20Garaele.md)
+	* [Mirna Dendrar](Mirna%20Dendrar.md)
 	* [Elmar Barthen](Elmar%20Barthen.md)
 
 ## Secrets

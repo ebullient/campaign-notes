@@ -13,3 +13,5 @@ list from #monster/dragon
 
 ---
 
+Notes: 
+https://www.dndbeyond.com/monsters/young-white-dragon
