@@ -1,6 +1,6 @@
 ---
-tags: [timeline, doip]
+xtags: [timeline, doip]
 ---
-# Day xx:
+# Day DD:
 &nbsp;   
-<span class='ob-timelines'  data-class='npc' data-date='1498-10-44-00' data-title='TITLE'> D E S C R</span>
+<span class='ob-timelines'  data-class='npc' data-date='1498-MM-DD-00' data-title='TITLE'> D E S C R</span>
