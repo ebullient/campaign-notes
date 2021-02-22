@@ -22,3 +22,7 @@ where type = "npc"
 ```
 
 ## History
+
+```dataview
+list from #town/phandalin/edermath-orchard  and "logs"
+```

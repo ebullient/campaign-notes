@@ -24,4 +24,6 @@ where type = "npc"
 ```
 
 ## History
-
+```dataview
+list from #landmark/circle-of-thunder and "logs"
+```

@@ -18,12 +18,13 @@ Tibor gets supplies from Phandalin to avoid paying taxes to Neverwinter, though 
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
-### NPCs
-
+## NPCs
 ```dataview
 list from #settlement/loggers-camp
 where type = "npc"
 ```
 
-### History
-
+## History
+```dataview
+list from #settlement/loggers-camp   and "logs"
+```

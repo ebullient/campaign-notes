@@ -29,3 +29,6 @@ where type = "npc"
     * Corwin, an elderly, world-weary cook
   
 ## History
+```dataview
+list from #settlement/falcons-lodge  and "logs"
+```

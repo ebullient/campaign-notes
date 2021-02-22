@@ -4,7 +4,7 @@
 - [ ] What happened to Glassstaff?
 - [ ] Does the Black Spider matter anymore? If so, how?
 - [ ] Stone Cold Reavers? 
-
+- [ ] Halia has no friends/allies, no obvious ties; all power comes from running the exchange. Right?
 
 ## Cult of Talos 
 
@@ -27,4 +27,4 @@ Following Fheralai’s orders, the half-orc Moesko takes over the Tower of Storm
 ## Druids
 
 - [ ] How does Reidoth feel about the Cultists and the Thunderboar?
-- [ ] What about the Blights and the Gulthias tree? 
+- [ ] What about the Blights and the Gulthias tree? Does Reidoth know about the Gulthias tree yet?

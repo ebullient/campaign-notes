@@ -15,11 +15,14 @@ While looking for gold in the mountains southwest of Phandalin, Dazlyn and Norbu
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
-### NPCs
+## NPCs
 
 ```dataview
 list from #ruin/dwarven-excavation
 where type = "npc"
 ```
 
-### History
+## History
+```dataview
+list from #ruin/dwarven-excavation  and "logs"
+```

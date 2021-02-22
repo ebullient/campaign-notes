@@ -11,11 +11,14 @@ Rocky, windswept hills are dotted with old mines and invested with monsters.
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
-### NPCs
+## NPCs
 
 ```dataview
 list from #region/north-sword-coast/the-crags
 where type = "npc"
 ```
 
-### History
+## History
+```dataview
+list from #region/north-sword-coast/the-crags   and "logs"
+```

@@ -26,4 +26,7 @@ where type = "npc"
 
 ## History
 
+```dataview
+list from #town/phandalin/smithy  and "logs"
+```
 

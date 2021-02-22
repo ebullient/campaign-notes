@@ -15,11 +15,14 @@ TL;DR description
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
-### NPCs
+## NPCs
 
 ```dataview
 list from #settlement/gnomengarde
 where type = "npc"
 ```
 
-### History
+## History
+```dataview
+list from #settlement/gnomengarde  and "logs"
+```

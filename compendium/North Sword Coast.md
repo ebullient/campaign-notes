@@ -8,26 +8,26 @@ tags:
 
 
 
-<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [Organizations](#Organizations)</span>
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [Factions](#Factions)</span>
 
 
 
 
-### Locations
+## Locations
 
 ```dataview
 list from #region/north-sword-coast
 where type = "location"
 ```
 
-### NPCs
+## NPCs
 
 ```dataview
 list from #region/north-sword-coast
 where type = "npc"
 ```
 
-### Factions
+## Factions
 
 ```dataview
 list from #region/north-sword-coast

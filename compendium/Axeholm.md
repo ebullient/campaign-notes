@@ -17,12 +17,15 @@ The place has been a non-stop hub of dwarf traffic as word spread that the fortr
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
-### NPCs
+## NPCs
 
 ```dataview
 list from #settlement/axeholm
 where type = "npc"
 ```
 
-### History
+## History
 
+```dataview
+list from #settlement/axeholm  and "logs"
+```

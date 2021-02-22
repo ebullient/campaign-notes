@@ -2,6 +2,7 @@
 type: location
 tags: 
 - type/town/ruin
+- ruin/conyberry
 - region/north-sword-coast/triboar-trail
 ---
 # Conyberry
@@ -15,11 +16,15 @@ Dirt road extending south leads to supposedly abandoned [Shrine](Shrine%20of%20S
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
-### NPCs
+## NPCs
 
 ```dataview
 list from #ruin/conyberry
 where type = "npc"
 ```
 
-### History
+## History
+
+```dataview
+list from #ruin/conyberry and "logs"
+```

@@ -21,4 +21,8 @@ where type = "npc"
 
 ## History
 
+```dataview
+list from #town/phandalin/tresendar-manor  and "logs"
+```
+
 #todo

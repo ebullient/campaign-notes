@@ -23,3 +23,7 @@ where type = "npc"
 ```
 
 ## History
+
+```dataview
+list from #settlement/butterskull-ranch and "logs"
+```

@@ -22,3 +22,6 @@ where type = "npc"
 ```
 
 ## History
+```dataview
+list from #ruin/shrine-of-savras   and "logs"
+```

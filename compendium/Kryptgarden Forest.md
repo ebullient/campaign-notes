@@ -11,11 +11,14 @@ Ancient forest tucked behind the Sword Mountains contains the ruins of bygone Dw
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
-### NPCs
+## NPCs
 
 ```dataview
 list from #region/north-sword-coast/kryptgarden-forest
 where type = "npc"
 ```
 
-### History
+## History
+```dataview
+list from #region/north-sword-coast/kryptgarden-forest  and "logs"
+```

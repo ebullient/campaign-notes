@@ -25,3 +25,7 @@ where type = "npc"
 ## History
 
 The party crossed Alderleaf farm fields on the way to and from the Redbrand Hideout.
+
+```dataview
+list from #town/phandalin/alderleaf-farm and "logs"
+```

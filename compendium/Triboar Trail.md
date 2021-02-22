@@ -13,11 +13,14 @@ The trail is not patrolled, and monster attacks are commonplace.
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
-### NPCs
+## NPCs
 
 ```dataview
 list from #region/north-sword-coast/triboar-trail
 where type = "npc"
 ```
 
-### History
+## History
+```dataview
+list from #region/north-sword-coast/triboar-trail   and "logs"
+```

@@ -13,11 +13,14 @@ The hills are haunted by ruthless barbarian tribes, giving others little reason 
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
-### NPCs
+## NPCs
 
 ```dataview
 list from #region/north-sword-coast/starmetal-hills
 where type = "npc"
 ```
 
-### History
+## History
+```dataview
+list from #region/north-sword-coast/starmetal-hills  and "logs"
+```

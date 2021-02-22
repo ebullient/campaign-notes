@@ -13,11 +13,14 @@ Many adventurers have died here, drawn by tales of ruined castles half-sunk in t
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
-### NPCs
+## NPCs
 
 ```dataview
 list from #region/north-sword-coast/mere-of-dead-men
 where type = "npc"
 ```
 
-### History
+## History
+```dataview
+list from #region/north-sword-coast/mere-of-dead-men   and "logs"
+```
