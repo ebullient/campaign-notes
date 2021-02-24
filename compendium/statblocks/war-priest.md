@@ -3,15 +3,7 @@ type: statblock
 tags: [statblock]
 ---
 # War Priest 
-&nbsp;  
-
-## History
-
-```dataview
-list from #monster/manticore 
-```
-
----
+<span class='nav'>[History](#History) [Notes](#Notes)</span>
 
 > ## War Priest
 >*Medium humanoid (any race), any alignment*
@@ -53,3 +45,9 @@ list from #monster/manticore
 > ### Reactions
 > **Guided Strike (Recharges after a Short or Long Rest).** The priest grants a +10 bonus to an attack roll made by itself or another creature within 30 feet of it. The priest can make this choice
 after the roll is made but before it hits or misses.
+
+## History
+
+```dataview
+list from #monster/war-priest 
+```

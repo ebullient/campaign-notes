@@ -3,16 +3,8 @@ type: statblock
 tags: [statblock]
 ---
 # Ankhegs
-&nbsp;  
-
-## History
-
-```dataview
-list from #monster/ankheg 
-```
-
----
-
+<span class='nav'>[History](#History) [Notes](#Notes)</span>
+ 
 ![ankheg](/[assets]/attachments/ankheg.jpeg#portrait)
 > ## Ankheg
 >*Large monstrosity, unaligned*
@@ -78,7 +70,15 @@ list from #monster/ankheg
 >&nbsp;  
 > ***3. Acid Expulsion.*** The ankheg swells up before blasting its acid blood from the many holes poked in it throughout the battle. Each creature within 30 feet of the ankheg must succeed on a DC 13 Dexterity saving throw or take acid damage equal to half of the ankheg's missing hit points.
 
-See also: 
+
+## History
+
+```dataview
+list from #monster/ankheg 
+```
+
+## Notes
+
 * https://youtu.be/y_zl8WWaSyI
 * https://homebrewery.naturalcrit.com/share/HJBh1P0QFB
 

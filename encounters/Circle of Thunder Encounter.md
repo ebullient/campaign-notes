@@ -6,7 +6,7 @@ tags:
 
 
 ### Prep
-- [ ] Update Roll20 for Xanth: +2 armor
+- [x] Update Roll20 for Xanth: +2 armor
 - [ ] Something distinctive about each anchorite
 - [ ] Evidence / foreshadowing: 
     - [ ] Letter from [Fheralai](../compendium/Fheralai%20Stormsworn.md)

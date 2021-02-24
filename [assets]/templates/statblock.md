@@ -2,6 +2,7 @@
 type: statblock
 tags: [statblock]
 ---
+<span class='nav'>[History](#History) [Notes](#Notes)</span>
 > ## Monster
 >*Medium humanoid, any alignment*
 >___
@@ -22,8 +23,16 @@ tags: [statblock]
 > ...
 >&nbsp;  
 > ...
->___
+>&nbsp;  
 > ### Actions
 > ...
 >&nbsp;  
 > ...
+
+## History
+
+```dataview
+list from #monster/...
+```
+
+## Notes

@@ -7,11 +7,12 @@ tags: [statblock]
 
 Blights are spreading through Neverwinter wood care of the Gulthias Tree that was planted and tended by [Grannoc](../Grannoc.md) at the [Woodland Manse](../Woodland%20Manse.md).
 
+<span class='nav'>[History](#History) [Notes](#Notes)</span>
 ## History
 
 ```dataview
 list from #monster/blights  
 ```
 
----
+## Notes
 
