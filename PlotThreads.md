@@ -1,5 +1,36 @@
 # Plot threads
 
+**DoIP Villians**
+
+- [x] Cryovain
+- [ ] Anchorites of Talos
+    - [ ] Gorthok
+    - [ ] Gulthias Tree & Blights
+- [ ] Stone Cold Reavers (dangling)
+- [ ] Manticore
+- [ ] Orcs
+
+**LMoP Villians**
+
+- [ ] Black Spider (rumor)
+    - [ ] Gildas "Glasstaff" and Simon (captured and escaped)
+- [ ] Cragmaw Goblins
+- [ ] Wizard at Old Owl Well (Red Thay)
+- [ ] ~~Cult of the Dragon~~
+- [x] Venomfang
+
+**Storm Lord's Wrath + Sleeping Dragons Villians**
+
+- [ ] Cult of Talos
+    - [ ] Fheralai Stormsworn
+    - [ ] Velleen Firecrow (Phandalin)
+- [ ] Cult of Myrkul
+    - [ ] Argus Skeel (Phandalin)
+    - [ ] Ularan Mortus
+- [ ] Dragons
+
+
+
 
 ## Mashup / context
 
