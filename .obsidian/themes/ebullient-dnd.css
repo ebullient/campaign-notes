@@ -717,6 +717,12 @@ svg.link {
 .timeline-card.player a.internal-link {
   color: var(--orange) !important;
 }
+.timeline-card.place a.internal-link {
+  color: var(--violet) !important;
+}
+.timeline-card.enemy a.internal-link {
+  color: var(--red) !important;
+}
 
 .timeline-card {
   background-color: var(--background-secondary-alt) !important;

@@ -1,6 +1,6 @@
 ---
-xtags: [timeline, doip]
+xtags: [timeline, doip, gm]
 ---
-# Day DD:
+# Who/what/when
 &nbsp;   
 <span class='ob-timelines'  data-class='npc' data-date='1498-MM-DD-00' data-title='TITLE'> D E S C R</span>

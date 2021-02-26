@@ -1,6 +1,6 @@
 # Index
 
-[Locations](Index.md#Locations) | [NPCs](Index.md#NPCs)
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs)  [Factions](Factions)</span>
 
 ## Locations
 
