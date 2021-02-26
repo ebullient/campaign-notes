@@ -1,6 +1,6 @@
 # Index
 
-<span class="nav">[Locations](#Locations) [NPCs](#NPCs)  [Factions](Factions)</span>
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs)  [Factions](#Factions)</span>
 
 ## Locations
 

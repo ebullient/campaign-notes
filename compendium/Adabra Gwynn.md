@@ -7,8 +7,7 @@ tags:
 - region/north-sword-coast/high-road
 ---
 # Adabra Gwynn
-![Adabra Gwynn](/[assets]/attachments/adabra-gwynn.jpeg#portrait)
-*Female human apothecary, neutral good*  
+![Adabra Gwynn](/[assets]/attachments/adabra-gwynn.jpeg#portrait)*Female human apothecary, neutral good*  
 *[Umbrage Hill](Umbrage%20Hill.md)*  
 
 Midwife, apothecary, potion maker.

@@ -15,47 +15,60 @@
   --font-size-h5: 20px;
   --font-size-h6: 19px;
 
-  --gray-dark: #282a36;
-  --gray: #44475a;
+  --gray-dark-alt: #212121;
+  --gray-dark: #1b1b1b;
+  --gray: #424242;
+  --gray-mid-darkest: #616161;
+  --gray-mid-dark: #9a9a9a;
+  --gray-mid: #dedede;
+  --gray-mid-light: #e0e0e0;
   --gray-light: #f8f8f2;
-  --violet: #bd93f9;
-  --blue: rgb(128, 151, 235);
-  --cyan: #8be9fd;
-  --green: #50fa7b;
-  --yellow: #f1fa8c;
-  --orange: #ffb86c;
-  --red: #ff5555;
-  --magenta: #ff79c6;
+
+  --violet: #9c27b0;
+  --deep-violet: #6a0080;
+  --blue: #03a9f4;
+  --deep-blue: #007ac1;
+  --cyan: #00bcd4;
+  --green: #4caf50;
+  --deep-green: #087f23;
+  --yellow: #ffc107;
+  --orange: #ff9800;
+  --red: #f44336;
+  --deep-red: #ba000d;
+  --magenta: #e91e63;
+
+  --transparent-light: rgba(0, 0, 0, 0.22);
+  --transparent-mid: rgba(0, 0, 0, 0.3);
+  --transparent-dark: rgba(0, 0, 0, 0.8);
 }
 
 .theme-dark {
-  --background-primary: #282a36;
-  --background-primary-alt: #44475a;
-  --background-secondary: #282a36;
-  --background-secondary-alt: #1a1e24;
+  --background-primary: var(--gray-dark);
+  --background-primary-alt: var(--gray);
+  --background-secondary: var(--gray-dark-alt);
+  --background-secondary-alt: var(--gray-dark);
 
-  --background-modifier-border: #333;
-  --background-modifier-form-field: rgba(0, 0, 0, 0.3);
-  --background-modifier-form-field-highlighted: rgba(0, 0, 0, 0.22);
-  --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
-  --background-modifier-success: #197300;
-  --background-modifier-error: #3d0000;
+  --background-modifier-border: var(--gray);
+  --background-modifier-form-field: var(--transparent-mid);
+  --background-modifier-form-field-highlighted: var(--transparent-light);
+  --background-modifier-box-shadow: var(--transparent-mid);
+  --background-modifier-success: var(--deep-green);
+  --background-modifier-error: var(--deep-red);
   --background-modifier-error-rgb: 61, 0, 0;
-  --background-modifier-error-hover: #470000;
-  --background-modifier-cover: rgba(0, 0, 0, 0.8);
+  --background-modifier-error-hover: var(--deep-violet);
+  --background-modifier-cover: var(--transparent-dark);
 
   --text-accent: var(--blue);
-  --text-accent-hover: var(--cyan);
-  --text-normal: #dcddde;
-  --text-muted: #999;
+  --text-accent-hover: var(--deep-blue);
+  --text-normal: var(--gray-mid);
+  --text-muted: var(--gray-mid-dark);
   --text-muted-rgb: 153, 153, 153;
-  --text-faint: #666;
+  --text-faint: var(--gray-mid-dark);
   --text-error: var(--red);
   --text-error-hover: var(--orange);
   --text-highlight-bg: rgba(255, 255, 0, 0.4);
   --text-highlight-bg-active: rgba(255, 128, 0, 0.4);
   --text-selection: rgba(23, 48, 77, 0.99);
-  --text-on-accent: #dcddde;
 
   --text-title-h1: var(--yellow);
   --text-title-h2: var(--green);
@@ -64,20 +77,24 @@
   --text-title-h5: var(--magenta);
   --text-title-h6: var(--text-muted);
 
-  --interactive-normal: #2a2a2a;
-  --interactive-hover: #303030;
-  --interactive-accent: var(--blue);
-  --interactive-accent-rgb: var(--blue);
-  --interactive-accent-hover: #4d3ca6;
-  --interactive-success: #197300;
+  /** background **/
+  --interactive-normal: var(--gray-dark-alt);
+  --interactive-hover: var(--gray-dark);
+  --interactive-accent: var(--deep-blue);
+  --interactive-accent-rgb: 0 122 193;
+  --interactive-accent-hover: var(--deep-violet);
 
-  --scrollbar-active-thumb-bg: rgba(0, 0, 0, 0.2);
+  /** foreground **/
+  --text-on-accent: #dcddde;
+  --interactive-success: var(--green);
+
+  --scrollbar-active-thumb-bg: var(--transparent-light);
   --scrollbar-bg: rgba(0, 0, 0, 0.05);
   --scrollbar-thumb-bg: rgba(0, 0, 0, 0.1);
 
   --highlight-mix-blend-mode: lighten;
 
-  --syntax-default: rgb(191, 193, 194);
+  --syntax-default: var(--text-normal);
   --syntax-red: var(--red);
   --syntax-orange: var(--orange);
   --syntax-yellow: var(--yellow);
@@ -183,6 +200,19 @@ h6 {
   font-size: 90%;
 }
 
+.markdown-preview-view h1:before {
+  content: "\00a7\00a0";
+  font-size: .6em;
+}
+.markdown-preview-view h2:before,
+.markdown-preview-view h3:before,
+.markdown-preview-view h4:before,
+.markdown-preview-view h5:before,
+.markdown-preview-view h6:before {
+  content: "\00a0\00a0\00a7\00a0";
+  font-size: .6em;
+}
+
 .markdown-preview-view h1 a.tag,
 .markdown-preview-view h2 a.tag,
 .markdown-preview-view h3 a.tag,
@@ -272,14 +302,14 @@ code,
 .cm-s-obsidian .cm-inline-code.cm-header,
 .cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
   color: var(--syntax-default) !important;
-  background-color: var(--background-secondary) !important;
+  background-color: var(--gray) !important;
 }
 
 /** Override from base stylesheet */
 .theme-dark :not(pre)>code[class*='language-'],
 .theme-dark pre[class*='language-'] {
   color: var(--syntax-default) !important;
-  background-color: var(--background-secondary) !important;
+  background-color: var(--gray) !important;
 }
 
 .markdown-preview-view code {
@@ -704,6 +734,21 @@ svg.link {
 .markdown-preview-view .timeline-container h5,
 .markdown-preview-view .timeline-container h6 {
   border-bottom: none;
+  margin: 6px 0 0 0;
+  font-size: 1.2em;
+}
+
+.markdown-preview-view .timeline-container .timeline-card p {
+  margin-bottom: 6px;
+}
+
+.markdown-preview-view .timeline-container h1:before,
+.markdown-preview-view .timeline-container h2:before,
+.markdown-preview-view .timeline-container h3:before,
+.markdown-preview-view .timeline-container h4:before,
+.markdown-preview-view .timeline-container h5:before,
+.markdown-preview-view .timeline-container h6:before {
+  display: none;
 }
 
 .markdown-preview-view .timeline-container h2 {
@@ -713,20 +758,19 @@ svg.link {
   border-color: var(--blue) !important;
 }
 
-
-.timeline-card.player a.internal-link {
+.theme-dark .timeline-card.player a.internal-link {
   color: var(--orange) !important;
 }
 .timeline-card.place a.internal-link {
-  color: var(--violet) !important;
+  color: var(--cyan) !important;
 }
 .timeline-card.enemy a.internal-link {
   color: var(--red) !important;
 }
 
-.timeline-card {
-  background-color: var(--background-secondary-alt) !important;
+.theme-dark .timeline-card {
+  background-color: var(--gray) !important;
 }
-.timeline::after {
-  background-color: var(--background-secondary-alt) !important;
+.theme-dark .timeline::after {
+  background-color: var(--gray) !important;
 }
