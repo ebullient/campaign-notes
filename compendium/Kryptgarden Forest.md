@@ -7,7 +7,9 @@ tags:
 # Kryptgarden Forest
 *Forest in the [North Sword Coast](North%20Sword%20Coast.md)*
 
-Ancient forest tucked behind the Sword Mountains contains the ruins of bygone Dwarven civilizations.
+This ancient forest tucked behind the Sword Mountains contains the ruins of bygone dwarven civilizations. 
+
+The ancient green dragon Claugiyliamatar, nicknamed the Old Gnawbone, also lairs in the woods. 
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 

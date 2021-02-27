@@ -18,3 +18,4 @@ tags:
 * Enemies: [Yargath](../compendium/Yargath.md), [Flenz](../compendium/Flenz.md), [Narux](../compendium/Narux.md), [Gorthok](../compendium/statblocks/gorthok.md)
 * Location: [Circle of Thunder](../compendium/Circle%20of%20Thunder.md)
 
+ 

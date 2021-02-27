@@ -12,9 +12,9 @@ tags:
 
 A woman bustled around her cart. The layers and hood of her robe made it hard to figure out her age. The best that could be determined is not a kid and not a crone.
 
-She will identify items for the party free of charge as a result of "The Splendiferous Bauble".
+She will identify items for the party for free as a result of "The Splendiferous Bauble".
 
-<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
+<span class="nav">[Details](Mabina%20Cawood.md#Details) [Relationships](Mabina%20Cawood.md#Relationships) [Secrets](Mabina%20Cawood.md#Secrets) [History](Mabina%20Cawood.md#History)</span>
 
 ## Details
 ![Wagon](/[assets]/attachments/mabina-wagon.png#portrait)*Student of Magic*, Commoner
@@ -35,7 +35,7 @@ Friends:
 
 ## Secrets
 
-Options for what she traded for the #loot/splendiferous-bauble:
+**Options** for what she traded for the #loot/splendiferous-bauble:
 * a legendary Ring of Djinni Summoning. She uses it to summon a female djinni named Desri from the Elemental Plane of Air. Desri casts the druid spell "Wind Walk" on herself, and her horse. --> What about the cart?
 
 

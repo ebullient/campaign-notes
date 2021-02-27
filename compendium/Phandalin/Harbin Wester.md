@@ -32,7 +32,7 @@ Many locks on his door, but now emerges when the party arrives. Likes "Lord Kyle
     * [Thel Dendrar](Thel%20Dendrar.md)
     * [Maccus Strongarm](Maccus%20Strongarm.md)
     * [Adabra Gwynn](../Adabra%20Gwynn.md)
-    * [Mabina](../Mabina.md)
+    * [Mabina](../Mabina%20Cawood.md)
 * Cares for rehabilitation of [Drusz](Drusz.md)
 
 ## Secrets

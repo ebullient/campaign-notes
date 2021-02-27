@@ -6,12 +6,14 @@ tags:
 - city/neverwinter
 ---
 # Neverwinter
-*{{placeType}}, {{town}}*
+*City of Skilled Hands*
 
-TL;DR description
+This city was badly damaged when Mount Hotenow erupted some fifty years ago. Rebuilding has begun under watchful eye (and with funds from) Lord Neverember.
 
 * **Population**
-* **Government** 
+* **Government** Lord Protector, Dagult Neverember, rules in the absence of an heir to Neverwinter’s crown.
+
+No legitimate heirs to the old Alagondar royal line are known to exist, and many believe that the line is ended. Lord Neverember, taking no chances, quietly pays off or disposes of anyone claiming a connection to the rulers of old.
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
