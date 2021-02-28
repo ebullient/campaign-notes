@@ -47,6 +47,8 @@ She has some kind of friendship or kinship with Harbin from an event that happen
 
 The party traded "The Splendiferous Bauble" to her for the Handy Haversack. She was able to trade it again herself, and was quite pleased to do so (though she would not tell the party what she obtained in return). She will identify items for the party free of charge as a result.
 
+![Mabina](../gm-story/npc-story-events.md#Mabina)
+
 ----
 
 From [02. A Rough Time in Phandalin](/pc-writing/02.%20A%20Rough%20Time%20in%20Phandalin.md)

@@ -13,5 +13,7 @@ Two **young dragons** made the Sword Coast their home at similar times, and fair
 list from #log/monster/dragon 
 ```
 
+![Dragons](../../gm-story/npc-story-events.md#Dragons)
+
 ## Notes: 
 https://www.dndbeyond.com/monsters/young-white-dragon

@@ -5,7 +5,9 @@ tags:
 ---
 # The Cult of Talos
 ![The symbol of Talos](/[assets]/attachments/talos-holy-symbol.jpg#portrait)
-Members are fervent religious cultists who worship [Talos](#Talos), the Stormlord. The cult is led by the priestess [Fheralai Stormsworn](../Fheralai%20Stormsworn.md). 
+Members are fervent religious cultists who worship [Talos](#Talos), the Stormlord. The cult is led by the priestess [Fheralai Stormsworn](../Fheralai%20Stormsworn.md).  
+
+They aim to put the region at the mercy of the Storm Lord by controlling the flow of resoures through the weekend. See [Plans](#Plans).
 
 **Beliefs**
 
@@ -20,7 +22,7 @@ Anchorites of Talos are special. In ancient times the human ancestors of these c
 
 In stormy weather, anchorites of Talos will gather on remote hilltops to "Call down the Thunder", and summon [Gorthok](/compendium/statblocks/gorthok.md), the thunder boar. When motivated, they can also summon a storm.
 
-<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History) [Plans](#Plans)</span>
 
 ## Talos
 ![Talos, Stormlord, The Destroyer](/[assets]/attachments/talos.jpg#portrait)
@@ -56,9 +58,9 @@ where type = "location"
 list from #group/faction/cult-of-talos  and "pc-logs"
 ```
 
-[Fheralai Stormsworn](../Fheralai%20Stormsworn.md) has been given a mission by their evil god of storms...
+![CoT](../../gm-story/npc-story-events.md#CoT)
 
-**Control flow of goods through the region**
+### Plans
 
 **Control the coast:**
 
@@ -79,6 +81,7 @@ list from #group/faction/cult-of-talos  and "pc-logs"
 
 - [ ] Make a deal with the Cragmaw Goblins, who control the east side of the forest and can pick off goods coming from the high road to the triboar trail
 - [ ] Continue working with the Many Arrows orc tribe to raid and disrupt trade on the eastern end of the Triboar Trail
+
 
 ## References
 
