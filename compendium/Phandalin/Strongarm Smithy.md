@@ -27,6 +27,6 @@ where type = "npc"
 ## History
 
 ```dataview
-list from #town/phandalin/smithy  and "logs"
+list from #town/phandalin/smithy  and "pc-logs"
 ```
 

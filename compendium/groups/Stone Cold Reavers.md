@@ -1,5 +1,5 @@
 ---
-type: npc
+type: faction
 tags:
 - npc/alive
 - iff/neutral
@@ -14,7 +14,7 @@ tags:
 Neutral evil human veterans who speak Common.
 sellswords (brigands, thieves)
 
-<span class="nav">[Details](#Details) | [Relationships](#Relationships) | [Secrets](#Secrets) | [History](#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *Mercenary*, Veteran
@@ -62,6 +62,9 @@ sellswords (brigands, thieves)
 ## Secrets
 
 ## History
+```dataview
+list from #group/mercenaries/stone-cold-reavers  and "pc-logs"
+```
 
 The Reavers faced the party at [Icespire Hold](Icespire%20Hold.md):
 

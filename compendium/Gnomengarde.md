@@ -24,5 +24,5 @@ where type = "npc"
 
 ## History
 ```dataview
-list from #settlement/gnomengarde  and "logs"
+list from #settlement/gnomengarde  and "pc-logs"
 ```

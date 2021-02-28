@@ -32,6 +32,9 @@ where type = "npc"
 ```
 
 ## History
+```dataview
+list from #group/faction/order-of-the-gauntlet  and "pc-logs"
+```
 
 The Order of the Gauntlet is a dedicated, tightly knit group of like-minded individuals driven by religious zeal or a finely honed sense of justice. Friendship and camaraderie are important to members of the Order of the Gauntlet, and they share a trust and a bond normally reserved for siblings.
 

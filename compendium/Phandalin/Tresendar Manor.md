@@ -22,7 +22,7 @@ where type = "npc"
 ## History
 
 ```dataview
-list from #town/phandalin/tresendar-manor  and "logs"
+list from #town/phandalin/tresendar-manor  and "pc-logs"
 ```
 
 #todo

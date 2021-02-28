@@ -14,7 +14,7 @@ A woman bustled around her cart. The layers and hood of her robe made it hard to
 
 She will identify items for the party for free as a result of "The Splendiferous Bauble".
 
-<span class="nav">[Details](Mabina%20Cawood.md#Details) [Relationships](Mabina%20Cawood.md#Relationships) [Secrets](Mabina%20Cawood.md#Secrets) [History](Mabina%20Cawood.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 ![Wagon](/[assets]/attachments/mabina-wagon.png#portrait)*Student of Magic*, Commoner
@@ -36,10 +36,12 @@ Friends:
 ## Secrets
 
 **Options** for what she traded for the #loot/splendiferous-bauble:
-* a legendary Ring of Djinni Summoning. She uses it to summon a female djinni named Desri from the Elemental Plane of Air. Desri casts the druid spell "Wind Walk" on herself, and her horse. --> What about the cart?
-
+* a legendary Ring of Djinni Summoning. She uses it to summon a female djinni named Desri from the Elemental Plane of Air. Desri casts the druid spell "Wind Walk" on herself, her horse, and (by special favor) her cart. 
 
 ## History
+```dataview
+list from #log/npc/mabina and "pc-logs"
+```
 
 She has some kind of friendship or kinship with Harbin from an event that happened long ago. Because of that event, Harbin trusts trading magic items with her. 
 
@@ -47,7 +49,7 @@ The party traded "The Splendiferous Bauble" to her for the Handy Haversack. She 
 
 ----
 
-From [02. A Rough Time in Phandalin](../../writing/02.%20A%20Rough%20Time%20in%20Phandalin.md)
+From [02. A Rough Time in Phandalin](/pc-writing/02.%20A%20Rough%20Time%20in%20Phandalin.md)
 
 > They kept talking, and Mabina asked them if they knew anything for sure about whether or not there was a dragon in the area. She used magic to hide herself, her cart, and her mule from would-be attackers, but a dragon might require some extra effort. Kyle was able to confirm that it was a dragon, and further, it was a young white dragon, as the party had a not so successful encounter with it already. 
 

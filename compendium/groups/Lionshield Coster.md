@@ -22,6 +22,10 @@ where type = "npc"
 
 ## History
 
+```dataview
+list from #group/faction/emerald-enclave  and "pc-logs"
+```
+
 Mercantile companies were organizations primarily focused on trade between the cities and nations of Faerûn and greater Toril. 
 
 Costers were companies that gathered smaller merchants together to form temporary or permanent alliances focused on safety and protection while traveling. Typical services provided included wagons, beasts of burden, guards, guides, and warehouse space.

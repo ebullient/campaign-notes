@@ -5,6 +5,7 @@ tags:
 - iff/unknown
 - settlement/butterskull-ranch
 - region/north-sword-coast/triboar-trail
+- todo
 ---
 # Alfonse "Big Al" Kalazorn
 *{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  

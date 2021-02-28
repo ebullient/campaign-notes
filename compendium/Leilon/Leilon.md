@@ -6,11 +6,11 @@ tags:
 - town/leilon
 ---
 # Leilon
-*Recovering town, [High Road](High%20Road.md)*
+*Recovering town, [High Road](../High%20Road.md)*
 
 Small town that is rebuilding itself after being abandoned for years. 
 
-Inhabitants hail from Neverwinter, and are in the paid service of the Lord Protector, who has tasked them with turning Leilon into a fortified settlement that can ward off threats from the [Mere of Dead Men](Mere%20of%20Dead%20Men.md).
+Inhabitants hail from Neverwinter, and are in the paid service of the Lord Protector, who has tasked them with turning Leilon into a fortified settlement that can ward off threats from the [Mere of Dead Men](../Mere%20of%20Dead%20Men.md).
 
 * **Population**
 * **Government** 

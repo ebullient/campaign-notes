@@ -26,5 +26,5 @@ where type = "npc"
 
 ## History
 ```dataview
-list from #city/neverwinter  and "logs"
+list from #city/neverwinter  and "pc-logs"
 ```

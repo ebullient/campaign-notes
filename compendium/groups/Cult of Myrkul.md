@@ -6,7 +6,7 @@ tags:
 # Cult of Myrkul
 *{{short description}}*  
 
-Members are fervent religious cultists who worship [Myrkul](#Myrkul), the god of death. The cult is led by the priest [[Ularan Mort. 
+Members are fervent religious cultists who worship [Myrkul](#Myrkul), the god of death. The cult is led by the priest [Ularan Mortus](../Ularan%20Mortus.md)å
 
 **Beliefs**
 
@@ -37,7 +37,9 @@ where type = "npc"
 ```
 
 ## History
-
+```dataview
+list from #group/faction/cult-of-myrkul  and "pc-logs"
+```
 
 ## References
 

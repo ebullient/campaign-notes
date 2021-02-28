@@ -37,7 +37,7 @@ TL;DR description / personality / motivation
 
 Thel was captured and held by the Redbrands, and almost sold into slavery.
 
-From the [Redbrand Hideout](../../encounters/Redbrand%20Hideout.md): 
+From the [Redbrand Hideout](/gm-story/encounters/Redbrand%20Hideout.md): 
 
 > Thel was brought here a few days ago, beat up, collared and dumped in the cell to be sold. He thought that was the end of it, but it was worse when his wife and children were brought in. 
 >

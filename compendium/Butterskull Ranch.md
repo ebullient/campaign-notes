@@ -4,13 +4,14 @@ tags:
 - type/farm
 - settlement/butterskull-ranch
 - region/north-sword-coast/triboar-trail
+- group/tribe/many-arrows
 ---
 # Butterskull Ranch
 *Farm and Ranch, [Triboar Trail](Triboar%20Trail.md)*
 
 TL;DR description
 
-* **Owner**
+* **Owner** [Alfonse "Big Al" Kalazorn](Alfonse%20Kalazorn.md)
 * **Location** Near [Conyberry](Conyberry.md)
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>

@@ -34,7 +34,7 @@ Member of the [[groups/Emerald Enclave]]
 
 * Friends 
     * [Quelline Alderleaf](phandalin/Quelline%20Alderleaf.md)
-    * [Xanth](Xanth.md)
+    * [Xanth](neverwinter-wood/Xanth.md)
 
 The druid may privately approach certain members of the group to urge them to join the Emerald Enclave. He speaks with those who exemplify the ideal of protecting the natural order. If a character agrees, Reidoth gives the individual the title of Springwarden.
 

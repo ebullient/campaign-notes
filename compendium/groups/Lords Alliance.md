@@ -32,6 +32,9 @@ where type = "npc"
 ```
 
 ## History
+```dataview
+list from #group/faction/lords-alliance  and "pc-logs"
+```
 
 **Leadership** Council of Lords  
 
@@ -53,3 +56,4 @@ The number of members on the Council changes according to status of member citie
 
 * [Faction Overview: Lords' Alliance](https://dnd.wizards.com/dungeons-and-dragons/story/faction/lordsalliance)
 * [Forgotten Realms Wiki: Lords' Alliance](https://forgottenrealms.fandom.com/wiki/Lords%27_Alliance)
+

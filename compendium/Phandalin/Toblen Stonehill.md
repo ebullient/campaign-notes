@@ -38,4 +38,4 @@ He is known to be helpful and talkative, especially to those that are respectful
 
 It was common knowledge that he came to Phandalin as a prospector, excited by the idea of finding one of the lost mines, but soon realized he knew a lot more about running an inn than he did about searching for mines, so he founded the Stonehill Inn instead. He was known to be helpful and talkative, especially to those that were respectful while on the inn’s grounds.
 
-[01. A Messy Morning](../../writing/01.%20A%20Messy%20Morning.md) is from Toblen's POV
+[01. A Messy Morning](/pc-writing/01.%20A%20Messy%20Morning.md) is from Toblen's POV

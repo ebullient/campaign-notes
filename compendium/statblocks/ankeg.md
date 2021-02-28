@@ -74,7 +74,7 @@ tags: [statblock]
 ## History
 
 ```dataview
-list from #monster/ankheg 
+list from #log/monster/ankheg 
 ```
 
 ## Notes

@@ -32,6 +32,9 @@ where type = "npc"
 ```
 
 ## History
+```dataview
+list from #group/faction/order-of-the-gauntlet  and "pc-logs"
+```
 
 The Zhentarim was initially formed as a mercenary company by the dark wizard Manshoon to support his rule over the Moonsea with the aim of spreading that control over all of Faerûn.
 

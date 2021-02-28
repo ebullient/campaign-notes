@@ -760,12 +760,19 @@ svg.link {
 
 .theme-dark .timeline-card.player a.internal-link {
   color: var(--orange) !important;
+  text-decoration: none;
 }
 .timeline-card.place a.internal-link {
   color: var(--cyan) !important;
+  text-decoration: none;
 }
 .timeline-card.enemy a.internal-link {
   color: var(--red) !important;
+  text-decoration: none;
+}
+.timeline-card.npc a.internal-link {
+  color: var(--violet) !important;
+  text-decoration: none;
 }
 
 .theme-dark .timeline-card {

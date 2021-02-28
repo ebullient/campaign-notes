@@ -4,8 +4,7 @@ tags:
 - group/faction/cult-of-talos
 ---
 # The Cult of Talos
-![The symbol of Talos](../../[assets]/attachments/talos-holy-symbol.jpg#portrait)
-
+![The symbol of Talos](/[assets]/attachments/talos-holy-symbol.jpg#portrait)
 Members are fervent religious cultists who worship [Talos](#Talos), the Stormlord. The cult is led by the priestess [Fheralai Stormsworn](../Fheralai%20Stormsworn.md). 
 
 **Beliefs**
@@ -19,12 +18,12 @@ Anchorites of Talos are special. In ancient times the human ancestors of these c
 * **Alignment** Chaotic evil
 * **Enemies** Emerald Enclave
 
-In stormy weather, anchorites of Talos will gather on remote hilltops to "Call down the Thunder", and summon [Gorthok](../statblocks/gorthok.md), the thunder boar. When motivated, they can also summon a storm.
+In stormy weather, anchorites of Talos will gather on remote hilltops to "Call down the Thunder", and summon [Gorthok](/compendium/statblocks/gorthok.md), the thunder boar. When motivated, they can also summon a storm.
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## Talos
-![Talos, Stormlord, The Destroyer](../../[assets]/attachments/talos.jpg#portrait)
+![Talos, Stormlord, The Destroyer](/[assets]/attachments/talos.jpg#portrait)
 
 Talos, also known as the Stormlord or the Destroyer, is a chaotic evil greater deity of storms, forest fires, earthquakes, tornadoes and destruction. While a popular deity, his name is invoked more often out of fear than reverence.
 
@@ -42,7 +41,7 @@ where type = "npc"
 NPCs tied to specific locations: 
 * Circle of Thunder: Flenz, Narux, Yargath
 * Tower of Storms: Moesko
-* Woodland Manse (Neverwinter Wood, dead): Grannoc, 3 additional, unnamed
+* Woodland Manse (Neverwinter Wood, dead): Grannoc, Drethna (female, spotted by party in patrol in boar shape), 2 additional unnamed
 
 ## Locations
 
@@ -53,9 +52,33 @@ where type = "location"
 
 ## History
 
-Clerics of Talos celebrated Talossan festivals with ceremonies that summoned lightning and storms.
-* **Calling Down the Thunder**: This ritual involved the sacrifice of an intelligent being by lightning.
-* **The Fury**: In this ceremony, the cleric prayed, made berserk attacks to wreak as much destruction as possible in a small amount of time, then prayed again.
+```dataview
+list from #group/faction/cult-of-talos  and "pc-logs"
+```
+
+[Fheralai Stormsworn](../Fheralai%20Stormsworn.md) has been given a mission by their evil god of storms...
+
+**Control flow of goods through the region**
+
+**Control the coast:**
+
+- [ ] Set up a base: caves of the [Thunder Cliffs](../Thunder%20Cliffs.md) 
+- [ ] Use magic to install dangerous reefs in the area
+- [ ] Moesko takes over the Tower of Storms, luring boats to their doom
+- [ ] Collect goods from the wrecked ships to fund their operation
+    * Imprison survivors to sell as slaves, feed to mosters, or use as sacrifices to Talos
+- [ ] Establish temples to Talos along the High Road to control flow of traffic and goods (whim of Storm Lord)
+
+**Disrupt supplies heading to the city from the forest**
+
+- [ ] Grannoc takes over Woodland Manse, plants the Gulthias Tree (Blights to disrupt and control all of Neverwinter Wood)
+- [x] Anchorites plant the totem at Logger's Camp (and possibly others)
+- [x] Attack Falcon's Lodge to gain control of the Eastern woods
+
+**Disrupt traffic on the Triboar trail**
+
+- [ ] Make a deal with the Cragmaw Goblins, who control the east side of the forest and can pick off goods coming from the high road to the triboar trail
+- [ ] Continue working with the Many Arrows orc tribe to raid and disrupt trade on the eastern end of the Triboar Trail
 
 ## References
 

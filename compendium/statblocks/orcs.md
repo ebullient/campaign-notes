@@ -4,7 +4,10 @@ tags: [statblock]
 ---
 # Orcs on the move
 ![orcs](../../[assets]/attachments/orcs.jpeg#portrait)
-Several tribes of orcs have been displaced and are on the move
+
+Orcs have been displaced and are on the move.
+
+Most are remnants of the [Many Arrows Orc Tribe](../groups/Many%20Arrows%20Orc%20Tribe.md).
 
 Reference: 
 * [The Monster’s Know What They Are Doing](http://themonstersknow.com/orcs-revisited/)
@@ -15,7 +18,7 @@ Reference:
 ## History
 
 ```dataview
-list from #monster/orc 
+list from #log/monster/orc 
 ```
 
 ## Notes

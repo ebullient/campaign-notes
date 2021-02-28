@@ -32,7 +32,7 @@ Friends:
 * [Linene Graywind](Linene%20Graywind.md)
 * [Elmar Barthen](Elmar%20Barthen.md)
 * [Maccus Strongarm](Maccus%20Strongarm.md)
-* [Xanth](../Xanth.md)
+* [Xanth](../neverwinter-wood/Xanth.md)
 
 Employs:
 * [George](George.md)

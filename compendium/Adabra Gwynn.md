@@ -5,9 +5,10 @@ tags:
 - iff/neutral
 - settlement/umbrage-hill
 - region/north-sword-coast/high-road
+- todo
 ---
 # Adabra Gwynn
-![Adabra Gwynn](/[assets]/attachments/adabra-gwynn.jpeg#portrait)*Female human apothecary, neutral good*  
+![Adabra Gwynn](/[assets]/attachments/adabra-gwynn.jpeg#portrait *Female human apothecary, neutral good*  
 *[Umbrage Hill](Umbrage%20Hill.md)*  
 
 Midwife, apothecary, potion maker.
@@ -44,4 +45,4 @@ Friends:
 ## History
 
 Somewhat entertained by the rescue attempt.
-> yes, they killed the manitcore, but they wrecked the bee hives and stirred up the cockatrice... and yes, they tried to help putting the hives back together again, but they left her with a manticore corpse to deal with, so...
+> yes, they killed the manticore, but they wrecked the bee hives and stirred up the cockatrice... and yes, they tried to help putting the hives back together again, but they left her with a corpse to deal with, so...

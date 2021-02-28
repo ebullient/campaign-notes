@@ -32,7 +32,7 @@ tags: [statblock]
 ## History
 
 ```dataview
-list from #monster/...
+list from #log/monster/...
 ```
 
 ## Notes

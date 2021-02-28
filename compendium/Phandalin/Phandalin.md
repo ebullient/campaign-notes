@@ -38,7 +38,7 @@ where type = "npc"
 
 ## History
 
-[01. A Messy Morning](../../writing/01.%20A%20Messy%20Morning.md)
+[01. A Messy Morning](/pc-writing/01.%20A%20Messy%20Morning.md)
 
 ```dataview
 list from #town/phandalin and "logs"

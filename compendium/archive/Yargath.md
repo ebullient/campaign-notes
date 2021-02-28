@@ -1,0 +1,33 @@
+---
+type: npc
+tags:
+- npc/alive
+- iff/enemy
+- landmark/circle-of-thunder
+- group/faction/cult-of-talos
+---
+# Yargath
+![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)*Male half-orc Anchorite of Talos, neutral evil*  
+*[Circle of Thunder](../neverwinter-wood/Circle%20of%20Thunder.md)*  
+
+Yargath was tall, and mean looking, with several missing teeth. He had shoulder-length, thin dark hair that wass held out of his face by a thin leather band. He used flowery speech and long words. 
+
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
+
+## Details
+*Cultist*, [Anchorite of Talos](../statblocks/anchorite-of-talos.md)
+
+He was ready to bring the wrath of the storm lord to bear, and to wipe out the weak and non-believers who have been moving into the area.  
+
+## Relationships
+
+* Anchorite in the [Cult of Talos](../groups/Cult%20of%20Talos.md)
+* Lived with [Flenz](../neverwinter-wood/Flenz.md) and [Narux](../neverwinter-wood/Narux.md) at the [Circle of Thunder](../neverwinter-wood/Circle%20of%20Thunder.md)
+* Took orders from [Fheralai Stormsworn](../Fheralai%20Stormsworn.md)
+* Worked with [Grannoc](../archive/Grannoc.md) and other anchorites to bring chaos and destruction to the region
+
+## Secrets
+
+## History
+
+Killed by Xanth the centaur -- [log-1498-09-15_current](/pc-logs/log-1498-09-15_current.md)

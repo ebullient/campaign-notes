@@ -22,5 +22,5 @@ where type = "npc"
 
 ## History
 ```dataview
-list from #region/north-sword-coast/kryptgarden-forest  and "logs"
+list from #region/north-sword-coast/kryptgarden-forest  and "pc-logs"
 ```

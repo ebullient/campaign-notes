@@ -49,5 +49,5 @@ after the roll is made but before it hits or misses.
 ## History
 
 ```dataview
-list from #monster/war-priest 
+list from #log/monster/war-priest 
 ```

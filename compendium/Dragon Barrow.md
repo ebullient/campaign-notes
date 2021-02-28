@@ -23,6 +23,9 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
-list from #landmark/dragon-barrow  and "logs"
+list from #landmark/dragon-barrow  and "pc-logs"
 ```
+
+Immeral retrieved Dragon Slayer from the Barrow, see [06. A Midnight Visitor](/pc-writing/06.%20A%20Midnight%20Visitor.md)

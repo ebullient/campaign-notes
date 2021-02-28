@@ -37,7 +37,7 @@ Mirna's family fled Thundertree when Mt. Hotenow exploded. They left behind a tr
 
 ## History
 
-From the Slave pens in [Redbrand Hideout](../../encounters/Redbrand%20Hideout.md): 
+From the Slave pens in [Redbrand Hideout](/gm-story/encounters/Redbrand%20Hideout.md): 
 
 > When the door is opened, you hear a petrified squeak, as a goblin in the center of the room is startled. It faints.
 >

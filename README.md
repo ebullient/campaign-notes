@@ -8,21 +8,21 @@ Built using Obsidian.md. Files can be referenced and even edited from github, bu
 * [Calendar](https://app.fantasy-calendar.com/calendars/4067bba61cefcf17988a8aa12789708a)
 
 ### Logs
-* The logs directory contains a running player-centric view of what has happened. 
+* The `pc-logs` directory contains a running player-centric view of what has happened. 
     * It should not reference `compendium` content
-    * It may reference `writing`
-* [logs/Game Time](logs/Game%20Time.md) -- the old single-page list from trello
+    * It may reference `pc-writing`
+* [pc-logs/Game Time](/pc-logs/Game%20Time.md) -- the old single-page list from trello
 
 ### Writing
 * Past session write-ups or fill-in entries
-* May reference `logs`
-* Must not link or reference `compendium` or `events`
+* May reference `pc-logs`
+* Must not link or reference `compendium` or `gm-story`
 
 ### GM Information
-* [Plot Threads](PlotThreads.md)
-* [Questions And Answers](Questions%20And%20Answers.md)
-* `events`: [GM ]
-* `references` contains general DM/GM references and notes gathered from other places
+* [Plot Threads](/gm-story/plot-threads.md)
+* [gm-story/plot-q-and-a](/gm-story/plot-q-and-a.md)
+* `gm-story`: Story notes and threads
+* `gm-reference` contains general DM/GM references and notes gathered from other places
 * `[assets]` contains both attachments (images), and small template files used for content creation.
 
 ### Compendium

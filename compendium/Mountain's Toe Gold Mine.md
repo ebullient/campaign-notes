@@ -8,7 +8,7 @@ tags:
 # Mountain's Toe Gold Mine
 *Gold Mine, [Sword Mountains](Sword%20Mountains.md)*
 
-* **Overseer** [[Don-Jon Raskin]]
+* **Overseer** [Don-Jon Raskin](Don-Jon%20Raskin.md)
 * **Location** 
 
 The Mountain’s Toe Gold Mine is owned by a business consortium in Neverwinter. The owners hired and sent a no-nonsense overseer

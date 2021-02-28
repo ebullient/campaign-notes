@@ -26,5 +26,5 @@ where type = "npc"
 
 ## History
 ```dataview
-list from #landmark/tower-of-storms   and "logs"
+list from #landmark/tower-of-storms   and "pc-logs"
 ```

@@ -23,3 +23,6 @@ where type = "npc"
 ```
 
 ## History
+```dataview
+list from #shop-tag   and "pc-logs"
+```

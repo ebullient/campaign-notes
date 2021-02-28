@@ -16,15 +16,18 @@ xtags:
 ## Places
 
 ```dataview
-list from #town/phandalin
+list from #town/...
 where type = "location"
 ```
 
 ## NPCs
 
 ```dataview
-list from #town/phandalin
+list from #town/...
 where type = "npc"
 ```
 
 ## History
+```dataview
+list from #town/...   and "pc-logs"
+```

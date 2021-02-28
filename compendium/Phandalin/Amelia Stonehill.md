@@ -34,7 +34,7 @@ TL;DR description / personality / motivation
 
 ## History
 
-From "[01. A Messy Morning](../../writing/01.%20A%20Messy%20Morning.md):
+From "[01. A Messy Morning](/pc-writing/01.%20A%20Messy%20Morning.md):
 
 > Toblen saw the two men sitting at the counter talking to his wife, Amelia. He couldn’t hear them over the murmur in the room, but their conversation was full of chuckles and wry glances, and that made him smile. Amelia was always pleased when their guests were entertaining.
 

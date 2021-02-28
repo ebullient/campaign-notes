@@ -24,5 +24,5 @@ where type = "npc"
 
 ## History
 ```dataview
-list from #ruin/dwarven-excavation  and "logs"
+list from #ruin/dwarven-excavation  and "pc-logs"
 ```

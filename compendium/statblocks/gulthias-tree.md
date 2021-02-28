@@ -32,7 +32,7 @@ tags: [statblock]
 ## History
 
 ```dataview
-list from #monster/gulthias-tree 
+list from #log/monster/gulthias-tree 
 ```
 
 ## Notes

@@ -25,5 +25,5 @@ where type = "npc"
 
 ## History
 ```dataview
-list from #settlement/umbrage-hill   and "logs"
+list from #settlement/umbrage-hill   and "pc-logs"
 ```

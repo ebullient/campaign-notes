@@ -32,5 +32,5 @@ where type = "npc"
 ## History
 
 ```dataview
-list from #town/phandalin/stonehill-inn  and "logs"
+list from #town/phandalin/stonehill-inn  and "pc-logs"
 ```

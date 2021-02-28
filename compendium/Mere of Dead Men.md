@@ -22,5 +22,5 @@ where type = "npc"
 
 ## History
 ```dataview
-list from #region/north-sword-coast/mere-of-dead-men   and "logs"
+list from #region/north-sword-coast/mere-of-dead-men   and "pc-logs"
 ```

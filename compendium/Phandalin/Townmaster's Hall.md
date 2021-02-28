@@ -24,8 +24,9 @@ where type = "npc"
 ```
 
 ## History
-[[Gildas Glasstaff]] had a brief stay in one of the holding cells, but escaped in the middle of the night (thanks to the help of Simon, his pet rat). Harbin, however, had traded his Staff to [[../Mabina Cawood]]...  #todo
+
+[Gildas Glasstaff](../Gildas%20Glasstaff.md) had a brief stay in one of the holding cells, but escaped in the middle of the night (thanks to the help of Simon, his pet rat). Harbin, however, had traded his Staff to [Mabina Cawood](../Mabina%20Cawood.md)...  #todo
 
 ```dataview
-list from #town/phandalin/townmaster-hall  and "logs"
+list from #town/phandalin/townmaster-hall  and "pc-logs"
 ```

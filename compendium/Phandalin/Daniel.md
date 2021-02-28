@@ -36,7 +36,7 @@ and fell in with [George](George.md) and [Seamus](Seamus.md) who had similar run
 
 ## History
 
-From [03. All is Well](../../writing/03.%20All%20is%20Well.md)
+From [03. All is Well](/pc-writing/03.%20All%20is%20Well.md)
 
 > "Those boys," Kyle said, "they are all looking for something to do now, you know. That's why they left their homes in the first place. I don't think we can offer them anything regular, and we certainly can't pay them. Can you think of anything they might be able to do?"
 >

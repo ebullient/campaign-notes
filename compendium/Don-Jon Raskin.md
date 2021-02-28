@@ -33,5 +33,5 @@ He has worked as a gold prospector, miner, fur trader, privateer, and whaler. He
 
 Don-Jon was bitten by a Wererat on the first visit to the mine. The party accompanied him to find [Reidoth the Druid](Reidoth%20the%20Druid.md) in [Thundertree](Thundertree.md) to cure him of the curse.
 
-* [Don-Jon's Predicament](../writing/04.%20Don-Jon's%20Predicament.md)
-* [Finding a Cure](../writing/05.%20Finding%20a%20Cure.md)
+* [Don-Jon's Predicament](/pc-writing/04.%20Don-Jon's%20Predicament.md)
+* [Finding a Cure](/pc-writing/05.%20Finding%20a%20Cure.md)

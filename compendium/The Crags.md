@@ -20,5 +20,5 @@ where type = "npc"
 
 ## History
 ```dataview
-list from #region/north-sword-coast/the-crags   and "logs"
+list from #region/north-sword-coast/the-crags   and "pc-logs"
 ```

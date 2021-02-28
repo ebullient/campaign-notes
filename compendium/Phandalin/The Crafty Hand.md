@@ -16,7 +16,7 @@ Mirna also sells potions and medicines made by Adabra Gwynn (a long-distance cra
 * **Owner** [Thel Dendrar](Thel%20Dendrar.md)
 * **Shopkeeper** [Mirna Dendrar](Mirna%20Dendrar.md)
 
-<span class="nav">[For Sale](#For\ Sale) | [NPCs](#NPCs) | [History](#History)</span>
+<span class="nav">[For Sale](#For\ Sale) | [NPCs](#NPCs) [History](#History)</span>
 
 ## For Sale
 
@@ -31,5 +31,5 @@ where type = "npc"
 
 ## History
 ```dataview
-list from #town/phandalin/woodshop  and "logs"
+list from #town/phandalin/woodshop  and "pc-logs"
 ```

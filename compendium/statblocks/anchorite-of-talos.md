@@ -40,7 +40,7 @@ tags: [statblock]
 ## History
 
 ```dataview
-list from #monster/anchorite-of-talos 
+list from #log/monster/anchorite-of-talos 
 ```
 
 ## Notes

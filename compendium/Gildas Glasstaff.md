@@ -4,7 +4,7 @@ tags:
 - npc/alive
 - iff/unknown
 ---
-# Gildas Glassstaff
+# Gildas "Glassstaff"
 *{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
 *{{location}}*  
 
@@ -40,7 +40,7 @@ A note discovered in the Redbrand Hideout:
 > I'm counting on you. Don't disappoint me.
 > 🕷️
 
-[03. All is Well](../writing/03.%20All%20is%20Well.md): 
+[03. All is Well](/pc-writing/03.%20All%20is%20Well.md): 
 
 > Riardon summarized their encounters in the hideout, with Gildas chipping in commentary, “My good gentlemen, there must be some misunderstanding. There may have been a few unfortunate events along the way, but my guests were always treated well.“ 
 > &nbsp;  

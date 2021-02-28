@@ -26,7 +26,7 @@ Fheralai is a fanatical young half-orc war priest. She plans to invade the Sword
 
 ## Relationships
 
-**Organization or Faction**
+**Faction** High Priestess of the [Cult of Talos](groups/Cult%20of%20Talos.md)
 
 ## Secrets
 
