@@ -7,13 +7,11 @@ tags:
   - region/north-sword-coast/neverwinter-wood
 ---
 # Woodland Manse
-*Ruined Manor, [Neverwinter Wood](Neverwinter%20Wood.md)*
+*Ruined Manor, Neverwinter Wood*
 
 A crumbling two-story manse all but hidden beneath thorny ivy. 
 
 The large house is set atop a six-foot-high stone foundation, and the main entrance has a balcony above it.  Pumpkins grow wild in patches around the manse.
-
-* **Location** Western section of Neverwinter Wood
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
