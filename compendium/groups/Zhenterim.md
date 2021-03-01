@@ -24,16 +24,21 @@ Zhenterim agents must often work in secret, and are frequently proficient in Dec
 
 <span class="nav">[NPCs](#NPCs) [History](#History) [Reference](#Reference)</span>
 
-## NPCs
-
+## Locations
 ```dataview
-list from #group/faction/zhenterim
+list from #group/faction/zhenterim 
+where type = "location"
+```
+
+## NPCs
+```dataview
+list from #group/faction/zhenterim 
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #group/faction/order-of-the-gauntlet  and "pc-logs"
+list from #group/faction/zhenterim  and "pc-logs"
 ```
 
 The Zhentarim was initially formed as a mercenary company by the dark wizard Manshoon to support his rule over the Moonsea with the aim of spreading that control over all of Faerûn.

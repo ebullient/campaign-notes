@@ -24,16 +24,21 @@ Alliance agents are required to be knowledgable in History, and can always rely 
 
 <span class="nav">[NPCs](#NPCs) [History](#History) [Reference](#Reference)</span>
 
-## NPCs
-
+## Locations
 ```dataview
-list from #group/faction/lords-alliance
+list from #group/faction/lords-alliance 
+where type = "location"
+```
+
+## NPCs
+```dataview
+list from #group/faction/lords-alliance 
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #group/faction/lords-alliance  and "pc-logs"
+list from #group/faction/lords-alliance and "pc-logs"
 ```
 
 **Leadership** Council of Lords  

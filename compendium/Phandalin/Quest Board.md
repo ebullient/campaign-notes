@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/landmark
 - town/phandalin/townmaster-hall
 ---
 # Quest Board

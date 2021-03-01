@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/landmark
 - landmark/thunder-cliffs
 - region/north-sword-coast
 ---

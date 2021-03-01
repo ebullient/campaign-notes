@@ -17,17 +17,21 @@ The tribe was rendered leaderless by Cryovain, its members scattered into differ
 
 <span class="nav">[NPCs](#NPCs) [History](#History) [References](#References)</span>
 
-## NPCs
-
+## Locations
 ```dataview
-list from #group/tribe/many-arrows
+list from #group/tribe/many-arrows 
+where type = "location"
+```
+
+## NPCs
+```dataview
+list from #group/tribe/many-arrows 
 where type = "npc"
 ```
 
 ## History
-
 ```dataview
-list from #group/tribe/many-arrows  and "pc-logs"
+list from #group/tribe/many-arrows and "pc-logs"
 ```
 
 They were lead by "Brughor Axe Biter", a savage brute more interested in murdering and looting than scouting. 

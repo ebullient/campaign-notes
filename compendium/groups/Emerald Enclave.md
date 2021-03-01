@@ -23,17 +23,21 @@ Those who serve the faction are masters of survival and can live off the land. T
 
 <span class="nav">[NPCs](#NPCs) [History](#History) [Reference](#Reference)</span>
 
-## NPCs
-
+## Locations
 ```dataview
-list from #group/faction/emerald-enclave
+list from #group/faction/emerald-enclave 
+where type = "location"
+```
+
+## NPCs
+```dataview
+list from #group/faction/emerald-enclave 
 where type = "npc"
 ```
 
 ## History
-
 ```dataview
-list from #group/faction/emerald-enclave  and "pc-logs"
+list from #group/faction/emerald-enclave and "pc-logs"
 ```
 
 ## References

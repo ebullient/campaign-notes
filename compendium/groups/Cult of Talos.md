@@ -7,15 +7,19 @@ tags:
 ![The symbol of Talos](/[assets]/attachments/talos-holy-symbol.jpg#portrait)
 Members are fervent religious cultists who worship [Talos](#Talos), the Stormlord. The cult is led by the priestess [Fheralai Stormsworn](../Fheralai%20Stormsworn.md).  
 
-They aim to put the region at the mercy of the Storm Lord by controlling the flow of resoures through the weekend. See [Plans](#Plans).
-
 **Beliefs**
 
 1. Life is a succession of random effects in a sea of chaos.
 2. Life is short, you could die at any moment.
 3. Grab what you can when you can.
 
-Anchorites of Talos are special. In ancient times the human ancestors of these cultists bred with orcs, and now all of their numbers are half-orcs. In order to visit the wrath of Talos on their enemies, the anchorites can shift into the form of a boar. They are often found in remote mountainous or forested areas. They are savage, wild, and somewhat unpredictable, just like the storms their god sends upon the face of the world.
+They aim to place the region at the mercy of the Storm Lord by controlling the flow of goods.  
+
+They have set up a base of operations in the caves of [Thunder Cliffs](../Thunder%20Cliffs.md), and have taken over the [Tower of Storms](../Tower%20of%20Storms.md). They collect goods from wrecked ships to fund their operation, and imprison survivors to either sell as slaves, feed to mosters, or use as sacrifices to Talos.
+
+Reclusive anchorites living in [Neverwinter Wood](../neverwinter-wood/Neverwinter%20Wood.md) are taking more aggressive steps to disrupt those dwelling in the woods. They have allied with the displaced [Many Arrows Orc Tribe](Many%20Arrows%20Orc%20Tribe.md) to 
+
+They plan to establish temples along the High Road, so they can call upon storms and lighting to disrupt trade at will.
 
 * **Alignment** Chaotic evil
 * **Enemies** Emerald Enclave
@@ -33,8 +37,13 @@ Priests of Talos are often travelling doomsayers, who warn of disasters to come 
 
 His followers are destroyers, raiders, looters and brigands.
 
-## NPCs
+## Locations
+```dataview
+list from #group/faction/cult-of-talos
+where type = "location"
+```
 
+## NPCs
 ```dataview
 list from #group/faction/cult-of-talos
 where type = "npc"
@@ -45,42 +54,14 @@ NPCs tied to specific locations:
 * Tower of Storms: Moesko
 * Woodland Manse (Neverwinter Wood, dead): Grannoc, Drethna (female, spotted by party in patrol in boar shape), 2 additional unnamed
 
-## Locations
-
-```dataview
-list from #group/faction/cult-of-talos
-where type = "location"
-```
-
 ## History
-
 ```dataview
 list from #group/faction/cult-of-talos  and "pc-logs"
 ```
 
 ![CoT](../../gm-story/npc-story-events.md#CoT)
 
-### Plans
-
-**Control the coast:**
-
-- [ ] Set up a base: caves of the [Thunder Cliffs](../Thunder%20Cliffs.md) 
-- [ ] Use magic to install dangerous reefs in the area
-- [ ] Moesko takes over the Tower of Storms, luring boats to their doom
-- [ ] Collect goods from the wrecked ships to fund their operation
-    * Imprison survivors to sell as slaves, feed to mosters, or use as sacrifices to Talos
-- [ ] Establish temples to Talos along the High Road to control flow of traffic and goods (whim of Storm Lord)
-
-**Disrupt supplies heading to the city from the forest**
-
-- [ ] Grannoc takes over Woodland Manse, plants the Gulthias Tree (Blights to disrupt and control all of Neverwinter Wood)
-- [x] Anchorites plant the totem at Logger's Camp (and possibly others)
-- [x] Attack Falcon's Lodge to gain control of the Eastern woods
-
-**Disrupt traffic on the Triboar trail**
-
-- [ ] Make a deal with the Cragmaw Goblins, who control the east side of the forest and can pick off goods coming from the high road to the triboar trail
-- [ ] Continue working with the Many Arrows orc tribe to raid and disrupt trade on the eastern end of the Triboar Trail
+Anchorites of Talos are special. In ancient times the human ancestors of these cultists bred with orcs, and now all of their numbers are half-orcs. In order to visit the wrath of Talos on their enemies, the anchorites can shift into the form of a boar. They are often found in remote mountainous or forested areas. They are savage, wild, and somewhat unpredictable, just like the storms their god sends upon the face of the world.
 
 
 ## References

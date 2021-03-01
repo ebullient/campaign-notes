@@ -13,17 +13,21 @@ The Lionshields are a merchant company based in Yartar. They ship finished goods
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
-## NPCs
-
+## Locations
 ```dataview
-list from #group/merchant/lionshield-coster
+list from #group/merchant/lionshield-coster 
+where type = "location"
+```
+
+## NPCs
+```dataview
+list from #group/merchant/lionshield-coster 
 where type = "npc"
 ```
 
 ## History
-
 ```dataview
-list from #group/faction/emerald-enclave  and "pc-logs"
+list from #group/merchant/lionshield-coster and "pc-logs"
 ```
 
 Mercantile companies were organizations primarily focused on trade between the cities and nations of Faerûn and greater Toril. 

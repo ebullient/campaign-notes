@@ -7,11 +7,12 @@ tags:
 - todo
 ---
 # Black Spider
-*Female drow {{role/occupation}}, {{alignment}}*  
-*Somewhere on the [North Sword Coast](North%20Sword%20Coast.md)*  
+*Female [drow](statblocks/drow.md) wizard, chaotic neutral*  
+*Somewhere on the [North Sword Coast](North%20Sword%20Coast.md)* 
 
 TL;DR description / personality / motivation
 #todo
+
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
@@ -23,17 +24,18 @@ TL;DR description / personality / motivation
 * **Flaws**
 * **Motivation**
 
+[Getting out of the underdark](https://www.dndbeyond.com/posts/323-a-light-in-the-darkness-playing-a-drow-character)
+
 ## Relationships
 
 **Organization or Faction**
 
 ## Secrets
 
+Follower of Zinzarena.   
+Zinzarena’s teachings encourage female drow to study arcane magic—something of a taboo in Menzoberrazan, as arcane magic is considered a lowly calling best suited for males
+
 ## History
-
-Modified from LMoP to be a drow woman
-
-A note discovered in the Redbrand Hideout:
 
 > Gildas --
 > &nbsp;

@@ -26,7 +26,6 @@ Lean and balding human man.
 
 Friends
 * [Daran Edermath](Daran%20Edermath.md)
-* [Linene Graywind](Linene%20Graywind.md)
 * [Maccus Strongarm](Maccus%20Strongarm.md)
 
 ## Secrets

@@ -1,8 +1,8 @@
 ---
 type: location
-xtags: 
-- type/...
-- region/...
+tags: 
+- type/manor/ruin
+- town/leilon/house-of-thalivar
 ---
 # House of Thalivar
 *{{placeType}}, , [Leilon](Leilon.md)*  

@@ -61,9 +61,21 @@ sellswords (brigands, thieves)
 
 ## Secrets
 
+## Locations
+```dataview
+list from #group/mercenaries/stone-cold-reavers 
+where type = "location"
+```
+
+## NPCs
+```dataview
+list from #group/mercenaries/stone-cold-reavers 
+where type = "npc"
+```
+
 ## History
 ```dataview
-list from #group/mercenaries/stone-cold-reavers  and "pc-logs"
+list from #group/mercenaries/stone-cold-reavers   and "pc-logs"
 ```
 
 The Reavers faced the party at [Icespire Hold](Icespire%20Hold.md):

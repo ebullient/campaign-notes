@@ -1,8 +1,8 @@
 ---
 type: location
-xtags: 
-- type/shop/...
-- town/...
+tags: 
+- type/shop
+- town/leilon/aubreys-peculiarities
 ---
 # Aubrey’s Peculiarities Shoppe
 *{{shopType}}, [Leilon](Leilon.md)*  

@@ -24,17 +24,21 @@ Harper agents are often proficient in Investigation, enabling them to be adept a
 
 <span class="nav">[NPCs](#NPCs) [History](#History) [Reference](#Reference)</span>
 
-## NPCs
-
+## Locations
 ```dataview
-list from #group/faction/harpers
+list from #group/faction/harpers 
+where type = "location"
+```
+
+## NPCs
+```dataview
+list from #group/faction/harpers 
 where type = "npc"
 ```
 
 ## History
-
 ```dataview
-list from #group/faction/emerald-enclave  and "pc-logs"
+list from #group/faction/harpers and "pc-logs"
 ```
 
 

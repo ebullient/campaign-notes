@@ -14,8 +14,19 @@ tags:
 Displaced from [Shrine of Savras](../Shrine%20of%20Savras.md) to [Mountain's Toe Gold Mine](../Mountain's%20Toe%20Gold%20Mine.md)
 
 
-## History
+## Locations
+```dataview
+list from #group/mercenaries/whiskered-gang 
+where type = "location"
+```
 
+## NPCs
+```dataview
+list from #group/mercenaries/whiskered-gang 
+where type = "npc"
+```
+
+## History
 ```dataview
 list from #group/mercenaries/whiskered-gang  and "pc-logs"
 ```

@@ -38,7 +38,6 @@ Linene lives not far from the Lionshield Coster
 	* [Daran Edermath](Daran%20Edermath.md)
 	* [Sister Garaele](Sister%20Garaele.md)
 	* [Mirna Dendrar](Mirna%20Dendrar.md)
-	* [Elmar Barthen](Elmar%20Barthen.md)
 
 ## Secrets
 

@@ -1,6 +1,7 @@
 ---
 type: location
 tags: 
+- type/landmark
 - landmark/wyvern-tor
 - region/north-sword-coast/triboar-trail
 ---
