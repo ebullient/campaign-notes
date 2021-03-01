@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/friend
-- town/phandalin/woodshop
+  - npc/alive
+  - iff/friend
+  - place/town/phandalin/woodshop
 ---
 # Daniel #todo
 *Male human Carpenter's apprentice, chaotic good*  
@@ -24,7 +24,7 @@ and fell in with [George](George.md) and [Seamus](Seamus.md) who had similar run
 * **Bonds**
 * **Flaws**
 
-#unexplored: How does Daniel feel about working with a family the Redbrand's captured and intended to sell into slavery?
+#story/unexplored: How does Daniel feel about working with a family the Redbrand's captured and intended to sell into slavery?
 
 ## Relationships
 

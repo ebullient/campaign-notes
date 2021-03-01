@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/friend
-- settlement/mountains-toe-mine 
+  - npc/alive
+  - iff/friend
+  - place/settlement/mountains-toe-mine
 ---
 # Don-Jon Raskin
 *Male human Overseer, neutral*  

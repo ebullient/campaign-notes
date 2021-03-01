@@ -1,9 +1,9 @@
 ---
 type: location
-tags: 
-- type/town/ruin
-- ruin/conyberry
-- region/north-sword-coast/triboar-trail
+tags:
+  - type/town/ruin
+  - place/ruin/conyberry
+  - region/north-sword-coast/triboar-trail
 ---
 # Conyberry
 *Ruined town, [Triboar Trail](Triboar%20Trail.md)*
@@ -19,12 +19,12 @@ Dirt road extending south leads to ruined [Shrine](Shrine%20of%20Savras.md) dedi
 ## NPCs
 
 ```dataview
-list from #ruin/conyberry
+list from #place/ruin/conyberry
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #ruin/conyberry and "logs"
+list from #place/ruin/conyberry and "logs"
 ```

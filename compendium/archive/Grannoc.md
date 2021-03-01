@@ -1,10 +1,10 @@
 ---
 type: npc
 tags:
-- npc/dead
-- iff/enemy
-- group/faction/cult-of-talos
-- ruin/woodland-manse 
+  - npc/dead
+  - iff/enemy
+  - group/faction/cult-of-talos
+  - place/ruin/woodland-manse
 ---
 # Grannoc (dead)
 ![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)*Male half-orc Anchorite of Talos, neutral evil*  

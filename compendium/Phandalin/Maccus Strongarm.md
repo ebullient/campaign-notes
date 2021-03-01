@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/unknown
-- town/phandalin/smithy
+  - npc/alive
+  - iff/unknown
+  - place/town/phandalin/smithy
 ---
 # Maccus Strongarm
 ![Maccus](/[assets]/attachments/maccus-strongarm.jpeg#portrait)

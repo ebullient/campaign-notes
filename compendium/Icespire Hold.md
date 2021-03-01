@@ -1,9 +1,9 @@
 ---
 type: location
 tags:
-- type/fortress
-- ruin/icespire-hold
-- region/north-sword-coast/sword-mountains
+  - type/fortress
+  - place/ruin/icespire-hold
+  - region/north-sword-coast/sword-mountains
 ---
 # Icespire Hold
 *Warlord Fortress, [Sword Mountains](Sword%20Mountains.md)*
@@ -15,13 +15,13 @@ Icespire Hold is an abandoned fortress perched on the icy northeast spur of Ices
 ## NPCs
 
 ```dataview
-list from #ruin/icespire-hold
+list from #place/ruin/icespire-hold
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #ruin/icespire-hold  and "pc-logs"
+list from #place/ruin/icespire-hold  and "pc-logs"
 ```
 
 The [Many Arrows Orc Tribe](groups/Many%20Arrows%20Orc%20Tribe.md) moved here from [Wyvern Tor](Wyvern%20Tor.md) when they discovered the abandoned fortress.

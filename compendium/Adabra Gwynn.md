@@ -1,11 +1,11 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/neutral
-- settlement/umbrage-hill
-- region/north-sword-coast/high-road
-- todo
+  - npc/alive
+  - iff/neutral
+  - place/settlement/umbrage-hill
+  - region/north-sword-coast/high-road
+  - todo
 ---
 # Adabra Gwynn
 ![Adabra Gwynn](/[assets]/attachments/adabra-gwynn.jpeg#portrait *Female human apothecary, neutral good*  

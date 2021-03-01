@@ -1,10 +1,10 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/unknown
-- town/phandalin/lionshield-coster
-- group/merchant/lionshield-coster
+  - npc/alive
+  - iff/unknown
+  - place/town/phandalin/lionshield-coster
+  - group/merchant/lionshield-coster
 ---
 # Linene Graywind
 ![Linene Graywind](/[assets]/attachments/linene-graywind.jpg#portrait)

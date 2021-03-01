@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/friend
-- town/phandalin/smithy
+  - npc/alive
+  - iff/friend
+  - place/town/phandalin/smithy
 ---
 # Seamus
 *Male human Apprentice Blacksmith, {{alignment}}*  

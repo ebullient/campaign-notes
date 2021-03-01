@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/friend
-- town/phandalin/woodshop
+  - npc/alive
+  - iff/friend
+  - place/town/phandalin/woodshop
 ---
 # Thel Dendrar
 ![Thel Dendrar](/[assets]/attachments/thel-dendrar.jpeg#portrait)

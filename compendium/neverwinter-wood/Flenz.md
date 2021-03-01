@@ -1,11 +1,11 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/enemy
-- group/faction/cult-of-talos
-- landmark/circle-of-thunder
-- region/north-sword-coast/neverwinter-wood
+  - npc/alive
+  - iff/enemy
+  - group/faction/cult-of-talos
+  - place/landmark/circle-of-thunder
+  - region/north-sword-coast/neverwinter-wood
 ---
 # Flenz
 ![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)*Male half-orc Anchorite of Talos, neutral evil*  

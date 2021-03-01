@@ -1,11 +1,11 @@
 ---
 type: npc
 tags:
-- npc/dead
-- iff/enemy
-- region/north-sword-coast 
-- ruin/shrine-of-savras
-- group/mercenaries/whiskered-gang
+  - npc/dead
+  - iff/enemy
+  - region/north-sword-coast
+  - place/ruin/shrine-of-savras
+  - group/mercenaries/whiskered-gang
 ---
 # Whiskered Gang
 *Mercenary group of Wererats, neutral evil*  

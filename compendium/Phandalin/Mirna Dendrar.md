@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/friend
-- town/phandalin/woodshop
+  - npc/alive
+  - iff/friend
+  - place/town/phandalin/woodshop
 ---
 # Mirna Dendrar
 ![Mirna Dendrar](/[assets]/attachments/mirna-dendrar.png#portrait)

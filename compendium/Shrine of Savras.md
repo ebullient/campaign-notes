@@ -1,11 +1,11 @@
 ---
 type: location
-tags: 
-- region/north-sword-coast/triboar-trail
-- type/shrine 
-- ruin/shrine-of-savras
-- group/mercenaries/whiskered-gang
-- group/tribe/many-arrows
+tags:
+  - region/north-sword-coast/triboar-trail
+  - type/shrine
+  - place/ruin/shrine-of-savras
+  - group/mercenaries/whiskered-gang
+  - group/tribe/many-arrows
 ---
 # Shrine of Savras
 *Ruined Shrine, [Triboar Trail](Triboar%20Trail.md)*
@@ -19,11 +19,11 @@ TL;DR description
 ## NPCs
 
 ```dataview
-list from #ruin/shrine-of-savras
+list from #place/ruin/shrine-of-savras
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #ruin/shrine-of-savras   and "pc-logs"
+list from #place/ruin/shrine-of-savras   and "pc-logs"
 ```

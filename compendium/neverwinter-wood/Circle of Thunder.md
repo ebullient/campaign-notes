@@ -1,10 +1,10 @@
 ---
 type: location
-tags: 
-- type/shrine
-- group/faction/cult-of-talos
-- landmark/circle-of-thunder
-- region/north-sword-coast/neverwinter-wood
+tags:
+  - type/shrine
+  - group/faction/cult-of-talos
+  - place/landmark/circle-of-thunder
+  - region/north-sword-coast/neverwinter-wood
 ---
 # Circle of Thunder
 *Ritual site for Talos, [Neverwinter Wood](Neverwinter%20Wood.md)*
@@ -19,12 +19,12 @@ Reclusive anchorites gather on this hill to make sacrifices to Talos the storm g
 ## NPCs
 
 ```dataview
-list from #landmark/circle-of-thunder
+list from #place/landmark/circle-of-thunder
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #landmark/circle-of-thunder and "logs"
+list from #place/landmark/circle-of-thunder and "logs"
 ```
 

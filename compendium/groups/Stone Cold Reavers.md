@@ -1,11 +1,11 @@
 ---
 type: faction
 tags:
-- npc/alive
-- iff/neutral
-- region/north-sword-coast 
-- ruin/icespire-hold
-- group/mercenaries/stone-cold-reavers
+  - npc/alive
+  - iff/neutral
+  - region/north-sword-coast
+  - place/ruin/icespire-hold
+  - group/mercenaries/stone-cold-reavers
 ---
 # Stone Cold Reavers
 *Mercenaries, neutral evil*  

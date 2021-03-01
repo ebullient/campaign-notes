@@ -1,9 +1,9 @@
 ---
 type: location
 tags:
-- type/town
-- town/phandalin
-- region/north-sword-coast
+  - type/town
+  - place/town/phandalin
+  - region/north-sword-coast
 ---
 # Phandalin
 *Small town, [Sword Coast](../North%20Sword%20Coast.md)*
@@ -25,14 +25,14 @@ Phandalin is not well known outside of the region.
 ## Places
 
 ```dataview
-list from #town/phandalin
+list from #place/town/phandalin
 where type = "location"
 ```
 
 ## NPCs
 
 ```dataview
-list from #town/phandalin
+list from #place/town/phandalin
 where type = "npc"
 ```
 
@@ -41,6 +41,6 @@ where type = "npc"
 [01. A Messy Morning](/pc-writing/01.%20A%20Messy%20Morning.md)
 
 ```dataview
-list from #town/phandalin and "logs"
+list from #place/town/phandalin and "logs"
 ```
 

@@ -1,9 +1,9 @@
 ---
 type: location
-tags: 
-- type/manor
-- settlement/falcons-lodge
-- region/north-sword-coast/neverwinter-wood
+tags:
+  - type/manor
+  - place/settlement/falcons-lodge
+  - region/north-sword-coast/neverwinter-wood
 ---
 # Falcon's Hunting Lodge
 *Rustic Manor, [Neverwinter Wood](Neverwinter%20Wood.md)*
@@ -20,7 +20,7 @@ and [Woodland Manse](Woodland%20Manse.md).
 ## NPCs
 
 ```dataview
-list from #settlement/falcons-lodge
+list from #place/settlement/falcons-lodge
 where type = "npc"
 ```
 
@@ -30,5 +30,5 @@ where type = "npc"
   
 ## History
 ```dataview
-list from #settlement/falcons-lodge  and "pc-logs"
+list from #place/settlement/falcons-lodge  and "pc-logs"
 ```

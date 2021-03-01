@@ -1,9 +1,9 @@
 ---
 type: location
-tags: 
-- type/town
-- region/north-sword-coast/high-road
-- town/leilon
+tags:
+  - type/town
+  - region/north-sword-coast/high-road
+  - place/town/leilon
 ---
 # Leilon
 *Recovering town, [High Road](../High%20Road.md)*
@@ -18,16 +18,14 @@ Inhabitants hail from Neverwinter, and are in the paid service of the Lord Prote
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
-
 ```dataview
-list from #town/leilon
+list from #place/town/leilon
 where type = "npc"
 ```
 
 ## History
-
 ```dataview
-list from #town/leilon and "logs"
+list from #place/town/leilon and "logs"
 ```
 
 

@@ -1,10 +1,10 @@
 ---
 type: location
-alias: ['umbrage-hill']
-tags: 
-- type/outpost
-- region/north-sword-coast
-- settlement/umbrage-hill
+alias: [ 'umbrage-hill' ]
+tags:
+  - type/outpost
+  - region/north-sword-coast
+  - place/settlement/umbrage-hill
 ---
 # Umbrage Hill
 *Windmill settlement, [North Sword Coast](North%20Sword%20Coast.md)*
@@ -19,11 +19,11 @@ TL;DR description
 ## NPCs
 
 ```dataview
-list from #settlement/umbrage-hill
+list from #place/settlement/umbrage-hill
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #settlement/umbrage-hill   and "pc-logs"
+list from #place/settlement/umbrage-hill   and "pc-logs"
 ```

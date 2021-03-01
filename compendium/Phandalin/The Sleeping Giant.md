@@ -1,12 +1,12 @@
 ---
 type: location
 tags:
-- type/shop/tavern
-- town/phandalin/sleeping-giant
+  - type/shop/tavern
+  - place/town/phandalin/sleeping-giant
 ---
 # The Sleeping Giant
 ![The Sleeping Giant](/[assets]/attachments/phandalin-sleeping-giant.jpeg#portrait)
-*Tavern, [Phandalin](Phandalin.md)*
+*Tavern, Phandalin*
 
 Sister Garaele regularly reports to her superiors in Neverwinter on events in and around Phandalin. The shrine is left untended when she is away.
 
@@ -18,11 +18,11 @@ Sister Garaele regularly reports to her superiors in Neverwinter on events in an
 ## NPCs
 
 ```dataview
-list from #town/phandalin/sleeping-giant
+list from #place/town/phandalin/sleeping-giant
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #town/phandalin/sleeping-giant  and "pc-logs"
+list from #place/town/phandalin/sleeping-giant  and "pc-logs"
 ```

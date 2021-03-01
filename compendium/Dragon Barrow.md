@@ -1,9 +1,9 @@
 ---
 type: location
-tags: 
-- type/burial-ground
-- landmark/dragon-barrow
-- region/north-sword-coast/high-road
+tags:
+  - type/landmark
+  - place/landmark/dragon-barrow
+  - region/north-sword-coast/high-road
 ---
 # Dragon Barrow
 *Burial mound near the [High Road](High%20Road)*
@@ -18,14 +18,14 @@ TL;DR description
 ## NPCs
 
 ```dataview
-list from #dragon-barrow
+list from #place/landmark/dragon-barrow
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #landmark/dragon-barrow  and "pc-logs"
+list from #place/landmark/dragon-barrow  and "pc-logs"
 ```
 
 Immeral retrieved Dragon Slayer from the Barrow, see [06. A Midnight Visitor](/pc-writing/06.%20A%20Midnight%20Visitor.md)

@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/neutral
-- town/phandalin/barthens-provisions
+  - npc/alive
+  - iff/neutral
+  - place/town/phandalin/barthens-provisions
 ---
 # Elmar Barthen
 ![Elmar Barthen](/[assets]/attachments/elmar_barthen.jpg#portrait)

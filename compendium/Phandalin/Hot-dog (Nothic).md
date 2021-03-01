@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/unknown
-- town/phandalin/tresendar-manor 
+  - npc/alive
+  - iff/unknown
+  - place/town/phandalin/tresendar-manor
 ---
 # Hot Dog (nothic)
 ![Hot Dog](/[assets]/attachments/nothic.png#portrait)

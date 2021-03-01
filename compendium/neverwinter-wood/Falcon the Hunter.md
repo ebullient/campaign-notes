@@ -1,10 +1,10 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/neutral
-- settlement/falcons-lodge 
-- region/north-sword-coast/neverwinter-wood
+  - npc/alive
+  - iff/neutral
+  - place/settlement/falcons-lodge
+  - region/north-sword-coast/neverwinter-wood
 ---
 # Falcon the Hunter
 ![Falcon](/[assets]/attachments/falcon.png#portrait)

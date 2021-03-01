@@ -1,10 +1,10 @@
 ---
 type: location
-tags: 
-- type/farm
-- settlement/butterskull-ranch
-- region/north-sword-coast/triboar-trail
-- group/tribe/many-arrows
+tags:
+  - type/farm
+  - place/settlement/butterskull-ranch
+  - region/north-sword-coast/triboar-trail
+  - group/tribe/many-arrows
 ---
 # Butterskull Ranch
 *Farm and Ranch, [Triboar Trail](Triboar%20Trail.md)*
@@ -19,12 +19,12 @@ TL;DR description
 ## NPCs found here
 
 ```dataview
-list from #settlement/butterskull-ranch
+list from #place/settlement/butterskull-ranch
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #settlement/butterskull-ranch and "logs"
+list from #place/settlement/butterskull-ranch and "logs"
 ```

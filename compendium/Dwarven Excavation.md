@@ -1,9 +1,9 @@
 ---
 type: location
-tags: 
-- type/ruin
-- ruin/dwarven-excavation
-- region/north-sword-coast
+tags:
+  - type/temple/ruin
+  - place/ruin/dwarven-excavation
+  - region/north-sword-coast
 ---
 # Dwarven Excavation Site
 *Excavation Site in the [Sword Mountains](Sword%20Mountains.md)*
@@ -18,11 +18,11 @@ While looking for gold in the mountains southwest of Phandalin, Dazlyn and Norbu
 ## NPCs
 
 ```dataview
-list from #ruin/dwarven-excavation
+list from #place/ruin/dwarven-excavation
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #ruin/dwarven-excavation  and "pc-logs"
+list from #place/ruin/dwarven-excavation  and "pc-logs"
 ```

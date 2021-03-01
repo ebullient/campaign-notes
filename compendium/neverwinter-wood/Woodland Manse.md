@@ -1,10 +1,10 @@
 ---
 type: location
-tags: 
-- type/manor/ruin
-- group/faction/cult-of-talos
-- ruin/woodland-manse
-- region/north-sword-coast/neverwinter-wood
+tags:
+  - type/manor/ruin
+  - group/faction/cult-of-talos
+  - place/ruin/woodland-manse
+  - region/north-sword-coast/neverwinter-wood
 ---
 # Woodland Manse
 *Ruined Manor, [Neverwinter Wood](Neverwinter%20Wood.md)*
@@ -20,12 +20,12 @@ The large house is set atop a six-foot-high stone foundation, and the main entra
 ## NPCs
 
 ```dataview
-list from #ruin/woodland-manse
+list from #place/ruin/woodland-manse
 where type = "npc"
 ```
 
 
 ## History
 ```dataview
-list from #ruin/woodland-manse  and "pc-logs"
+list from #place/ruin/woodland-manse  and "pc-logs"
 ```

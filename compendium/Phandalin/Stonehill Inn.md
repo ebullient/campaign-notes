@@ -1,12 +1,12 @@
 ---
 type: location
-alias: ['stonehill-inn']
+alias: [ 'stonehill-inn' ]
 tags:
-- type/shop/inn
-- town/phandalin/stonehill-inn
+  - type/shop/inn
+  - place/town/phandalin/stonehill-inn
 ---
 # Stonehill Inn
-*Inn, [Phandalin](Phandalin.md)*
+*Inn, Phandalin*
 
 The Stonehill Inn is just the place to find welcome in Phandalin. 
 
@@ -25,12 +25,12 @@ It has an upstairs floor with 6 rooms for visitors and guests of the inn.
 ## NPCs
 
 ```dataview
-list from #town/phandalin/stonehill-inn
+list from #place/town/phandalin/stonehill-inn
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #town/phandalin/stonehill-inn  and "pc-logs"
+list from #place/town/phandalin/stonehill-inn  and "pc-logs"
 ```

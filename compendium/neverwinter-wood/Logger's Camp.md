@@ -1,9 +1,9 @@
 ---
 type: location
-tags: 
-- type/outpost
-- settlement/loggers-camp
-- region/north-sword-coast/neverwinter-wood
+tags:
+  - type/outpost
+  - place/settlement/loggers-camp
+  - region/north-sword-coast/neverwinter-wood
 ---
 # Logger's Camp
 ![Loggers Camp](/[assets]/attachments/loggerscamp.jpg#portrait)
@@ -20,11 +20,11 @@ Tibor gets supplies from Phandalin to avoid paying taxes to Neverwinter, though 
 
 ## NPCs
 ```dataview
-list from #settlement/loggers-camp
+list from #place/settlement/loggers-camp
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #settlement/loggers-camp   and "pc-logs"
+list from #place/settlement/loggers-camp   and "pc-logs"
 ```

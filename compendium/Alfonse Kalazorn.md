@@ -1,11 +1,11 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/unknown
-- settlement/butterskull-ranch
-- region/north-sword-coast/triboar-trail
-- todo
+  - npc/alive
+  - iff/unknown
+  - place/settlement/butterskull-ranch
+  - region/north-sword-coast/triboar-trail
+  - todo
 ---
 # Alfonse "Big Al" Kalazorn
 *{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  

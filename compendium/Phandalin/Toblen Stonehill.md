@@ -1,13 +1,13 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/friend
-- town/phandalin/stonehill-inn
+  - npc/alive
+  - iff/friend
+  - place/town/phandalin/stonehill-inn
 ---
 # Toblen Stonehill
 *Male human Innkeeper, lawful good*  
-*[Stonehill Inn](Stonehill%20Inn.md), [Phandalin](Phandalin.md)*  
+*[Stonehill Inn](Stonehill%20Inn.md), Phandalin*  
 
 * Short, friendly, "ageless" human
 * Native of Triboar (a town to the east)

@@ -1,13 +1,13 @@
 ---
 type: location
 tags:
-- type/shop/trading-post
-- town/phandalin/lionshield-coster
-- group/merchant/lionshield-coster
+  - type/shop/trading-post
+  - place/town/phandalin/lionshield-coster
+  - group/merchant/lionshield-coster
 ---
 # Lionshield Coster
 ![Lionshield Coster](/[assets]/attachments/phandalin-lionshield-linene.jpeg#portrait)
-*Merchant company trading post, [Phandalin](Phandalin.md)*
+*Merchant company trading post, Phandalin*
 
 > Hanging above the front door of this modest trading post is a sign shaped like a wooden shield with a blue lion painted on it
 
@@ -21,7 +21,7 @@ tags:
 ## NPCs
 
 ```dataview
-list from #town/phandalin/lionshield-coster
+list from #place/town/phandalin/lionshield-coster
 where type = "npc"
 ```
 
@@ -30,5 +30,5 @@ where type = "npc"
 Linene keeps a supply of armor and weapons, all of which are for sale, but she won’t sell to anyone she thinks might be a threat to the town.
 
 ```dataview
-list from #town/phandalin/lionshield-coster  and "pc-logs"
+list from #place/town/phandalin/lionshield-coster  and "pc-logs"
 ```

@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/unknown
-- ruin/dwarven-excavation 
+  - npc/alive
+  - iff/unknown
+  - place/ruin/dwarven-excavation
 ---
 # Dazlyn Grayshard
 ![Dazlyn Grayshard](/[assets]/attachments/dazlyn-grayshard.jpeg#portrait)

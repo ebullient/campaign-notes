@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/unknown
-- town/phandalin/barthens-provisions
+  - npc/alive
+  - iff/unknown
+  - place/town/phandalin/barthens-provisions
 ---
 # Thistle
 *Female human clerk, {{alignment}}*  

@@ -1,10 +1,10 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/unknown
-- settlement/loggers-camp 
-- region/north-sword-coast/neverwinter-wood
+  - npc/alive
+  - iff/unknown
+  - place/settlement/loggers-camp
+  - region/north-sword-coast/neverwinter-wood
 ---
 # Tibor Wester
 *Male human overseer, {{alignment}}*  

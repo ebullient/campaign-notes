@@ -1,10 +1,10 @@
 ---
 type: location
-tags: 
-- type/city
-- city/luskan
-- region/north-sword-coast
-- group/faction/bregan-daerthe
+tags:
+  - type/city
+  - place/city/luskan
+  - region/north-sword-coast
+  - group/faction/bregan-daerthe
 ---
 # Luskan
 *City of Sails, [North Sword Coast](North%20Sword%20Coast.md)*  
@@ -21,11 +21,11 @@ Luskan, despite the presence of the Ten Towns was considered by many to be civil
 ## NPCs
 
 ```dataview
-list from #city/luskan
+list from #place/city/luskan
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #city/luskan   and "pc-logs"
+list from #place/city/luskan   and "pc-logs"
 ```

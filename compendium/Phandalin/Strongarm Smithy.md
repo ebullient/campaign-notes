@@ -1,11 +1,11 @@
 ---
 type: location
-tags: 
-- type/shop/blacksmith
-- town/phandalin/smithy
+tags:
+  - type/shop/blacksmith
+  - place/town/phandalin/smithy
 ---
 # Strongarm Smithy
-*Blacksmith, [Phandalin](Phandalin.md)*  
+*Blacksmith, Phandalin*  
 
 
 * **Owner** [Maccus Strongarm](Maccus%20Strongarm.md)
@@ -20,13 +20,13 @@ tags:
 ## NPCs
 
 ```dataview
-list from #town/phandalin/smithy
+list from #place/town/phandalin/smithy
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #town/phandalin/smithy  and "pc-logs"
+list from #place/town/phandalin/smithy  and "pc-logs"
 ```
 

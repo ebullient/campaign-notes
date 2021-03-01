@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/friend
-- town/phandalin/edermath-orchard
+  - npc/alive
+  - iff/friend
+  - place/town/phandalin/edermath-orchard
 ---
 # George
 *Male human farmer (fighter), neutral good*  
@@ -24,7 +24,7 @@ and fell in with [Daniel](Daniel.md) and [Seamus](Seamus.md) who had similar run
 * **Bonds**
 * **Flaws**
 
-#unexplored: How does George feel about working with a devout ex-military half-elf in an apple orchard?! 
+#story/unexplored: How does George feel about working with a devout ex-military half-elf in an apple orchard?! 
 
 ## Relationships
 

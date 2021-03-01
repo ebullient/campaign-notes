@@ -1,14 +1,14 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/friend
-- town/phandalin/stonehill-inn
+  - npc/alive
+  - iff/friend
+  - place/town/phandalin/stonehill-inn
 ---
 # Amelia Stonehill
 ![Adabra Gwynn](/[assets]/attachments/amelia-stonehill.jpeg#portrait)
 *Female human, Innkeeper's wife, lawful good*  
-*[Stonehill Inn](Stonehill%20Inn.md), [Phandalin](Phandalin.md)*
+*[Stonehill Inn](Stonehill%20Inn.md), Phandalin*
  
 TL;DR description / personality / motivation
 

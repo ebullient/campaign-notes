@@ -1,12 +1,12 @@
 ---
 type: location
 tags:
-- type/municipal
-- town/phandalin/townmaster-hall
+  - type/municipal
+  - place/town/phandalin/townmaster-hall
 ---
 # Townmaster's Hall
 ![Townmaster's Hall](/[assets]/attachments/phandalin-townmaster.jpeg#portrait)
-*Common building, [Phandalin](Phandalin.md)*
+*Common building, Phandalin*
 
 The townmaster’s hall has sturdy stone walls, a pitched wooden roof, and a bell tower at the back. The job board next to the front door features a sparse number of notices, all written in Common, and in the same hand.
 
@@ -19,7 +19,7 @@ The townmaster’s hall has a small but serviceable jail in the cellar with two 
 ## NPCs
 
 ```dataview
-list from #town/phandalin/townmaster-hall
+list from #place/town/phandalin/townmaster-hall
 where type = "npc"
 ```
 
@@ -28,5 +28,5 @@ where type = "npc"
 [Gildas Glasstaff](../Gildas%20Glasstaff.md) had a brief stay in one of the holding cells, but escaped in the middle of the night (thanks to the help of Simon, his pet rat). Harbin, however, had traded his Staff to [Mabina Cawood](../Mabina%20Cawood.md)...  #todo
 
 ```dataview
-list from #town/phandalin/townmaster-hall  and "pc-logs"
+list from #place/town/phandalin/townmaster-hall  and "pc-logs"
 ```

@@ -1,10 +1,10 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/unknown
-- town/phandalin/shrine-of-luck
-- group/faction/harpers
+  - npc/alive
+  - iff/unknown
+  - place/town/phandalin/shrine-of-luck
+  - group/faction/harpers
 ---
 # Sister Garaele
 *Female elf cleric, Harper Agent, chaotic good*  

@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/friend
-- town/phandalin/townmaster-hall
+  - npc/alive
+  - iff/friend
+  - place/town/phandalin/townmaster-hall
 ---
 # Drusz
 ![Drusz](/[assets]/attachments/drusz.png#portrait)

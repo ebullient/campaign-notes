@@ -1,10 +1,10 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/unknown
-- town/phandalin/miners-exchange
-- group/faction/zhenterim
+  - npc/alive
+  - iff/unknown
+  - place/town/phandalin/miners-exchange
+  - group/faction/zhenterim
 ---
 # Halia Thornton
 ![Halia Thornton](/[assets]/attachments/halia-thornton.jpg#portrait)
@@ -12,7 +12,7 @@ tags:
 *[Phandalin Miner's Exchange](Phandalin%20Miner's%20Exchange.md)*  
 
 Fierce. Calculating.
-She wants her guild to be the governing body of the village. #notexplored
+She wants her guild to be the governing body of the village. #story/unexplored
 
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>

@@ -1,14 +1,14 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/unknown
-- town/phandalin/alderleaf-farm
+  - npc/alive
+  - iff/unknown
+  - place/town/phandalin/alderleaf-farm
 ---
 # Carp Alderleaf
 ![Carp Alderleaf](/[assets]/attachments/carp-alderleaf.jpg#portrait)
 *Male halfling farmboy, chaotic good*  
-*[Alderleaf Farm](Alderleaf%20Farm.md), [Phandalin](Phandalin.md)*  
+*[Alderleaf Farm](Alderleaf%20Farm.md), Phandalin*  
 
 Spirited and precocious halfling 10-year-old. Enchanted by the idea of being an adventurer.
 

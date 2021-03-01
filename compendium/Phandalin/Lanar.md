@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/unknown
-- town/phandalin/stonehill-inn 
+  - npc/alive
+  - iff/unknown
+  - place/town/phandalin/stonehill-inn
 ---
 # Lanar
 ![Lanar](/[assets]/attachments/lanar-miner.jpeg#portrait)

@@ -1,11 +1,11 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/friend
-- ruin/thundertree
-- region/north-sword-coast
-- group/faction/emerald-enclave
+  - npc/alive
+  - iff/friend
+  - place/ruin/thundertree
+  - region/north-sword-coast
+  - group/faction/emerald-enclave
 ---
 # Reidoth the Druid
 ![Reidoth](/[assets]/attachments/reidoth.jpeg#portrait)*Male human druid, neutral good*  

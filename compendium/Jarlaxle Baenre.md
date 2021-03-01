@@ -1,10 +1,10 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/unknown
-- group/faction/bregan-daerthe
-- city/luskan
+  - npc/alive
+  - iff/unknown
+  - group/faction/bregan-daerthe
+  - place/city/luskan
 ---
 # Jarlaxle Baenre
 ![Jarlaxle-5e](../[assets]/attachments/Jarlaxle-5e.png#portrait)*Male [drow](statblocks/drow.md) Leader of [Bregan D'aerthe](groups/Bregan%20Daerthe.md), chaotic neutral*  

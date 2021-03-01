@@ -1,9 +1,9 @@
 ---
 type: location
-tags: 
-- type/landmark
-- landmark/thunder-cliffs
-- region/north-sword-coast
+tags:
+  - type/landmark
+  - place/landmark/thunder-cliffs
+  - region/north-sword-coast
 ---
 # Thunder Cliffs
 *Bluffs overlooking the Sea of Swords, [North Sword Coast](North%20Sword%20Coast.md)*  
@@ -17,11 +17,11 @@ The Thunder Cliffs were named by the people in the area for the sounds that the 
 ## NPCs
 
 ```dataview
-list from #landmark/thunder-cliffs
+list from #place/landmark/thunder-cliffs
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #landmark/thunder-cliffs   and "pc-logs"
+list from #place/landmark/thunder-cliffs   and "pc-logs"
 ```

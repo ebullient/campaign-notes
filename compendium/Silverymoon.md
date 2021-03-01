@@ -1,9 +1,9 @@
 ---
 type: location
-tags: 
-- type/city
-- city/silverymoon
-- region/northwest/silver-marches
+tags:
+  - type/city
+  - place/city/silverymoon
+  - region/northwest/silver-marches
 ---
 # Silverymoon
 *The gem of the North, Confederacy of Silver Marches*  
@@ -20,14 +20,14 @@ Silverymoon was often dubbed "the Gem of the North", for it resembled and emulat
 ## NPCs
 
 ```dataview
-list from #city/silverymoon
+list from #place/city/silverymoon
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #city/silverymoon   and "pc-logs"
+list from #place/city/silverymoon   and "pc-logs"
 ```
 
 The [Harpers](groups/Harpers.md) have a presence here.

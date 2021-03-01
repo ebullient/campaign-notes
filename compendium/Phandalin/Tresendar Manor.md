@@ -1,11 +1,11 @@
 ---
 type: location
-tags: 
-- town/phandalin/tresendar-manor
-- type/manor
+tags:
+  - place/town/phandalin/tresendar-manor
+  - type/manor
 ---
 # Tresendar Manor
-*Ruined manor, [Phandalin](Phandalin.md)*
+*Ruined manor, Phandalin*
 
 Home to [Hot-dog (Nothic)](Hot-dog%20(Nothic).md). 
 Cleared of Redbrands.
@@ -15,14 +15,14 @@ Cleared of Redbrands.
 ## NPCs
 
 ```dataview
-list from #town/phandalin/tresendar-manor
+list from #place/town/phandalin/tresendar-manor
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #town/phandalin/tresendar-manor  and "pc-logs"
+list from #place/town/phandalin/tresendar-manor  and "pc-logs"
 ```
 
 #todo

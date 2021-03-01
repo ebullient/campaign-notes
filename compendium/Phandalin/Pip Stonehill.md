@@ -1,14 +1,14 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/unknown
-- town/phandalin/stonehill-inn
+  - npc/alive
+  - iff/unknown
+  - place/town/phandalin/stonehill-inn
 ---
 # Pip Stonehill
 ![Pip Stonehill](/[assets]/attachments/pip-stonehill.jpeg#portrait)
 *Male human boy, Innkeeper's son, neutral good*  
-*[Stonehill Inn](Stonehill%20Inn.md), [Phandalin](Phandalin.md)*  
+*[Stonehill Inn](Stonehill%20Inn.md), Phandalin*  
 
 Energetic boy; lanky and ungraceful. Energetic. Helps his parents at the Inn when not running around with [Carp Alderleaf](Carp%20Alderleaf.md).
 

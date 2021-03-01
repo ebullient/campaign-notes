@@ -1,9 +1,9 @@
 ---
 type: location
-tags: 
-- type/town
-- region/north-sword-coast/triboar-trail
-- town/pentill
+tags:
+  - type/town
+  - region/north-sword-coast/triboar-trail
+  - place/town/pentill
 ---
 # Penthill
 *{{placeType}}, {{town}}*
@@ -19,11 +19,11 @@ Site of Igor's Challenge
 ## NPCs
 
 ```dataview
-list from #town/pentill
+list from #place/town/pentill
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #town/pentill   and "pc-logs"
+list from #place/town/pentill   and "pc-logs"
 ```

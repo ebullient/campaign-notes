@@ -1,11 +1,11 @@
 ---
 type: location
-tags: 
-- type/shop/carpenter
-- town/phandalin/woodshop
+tags:
+  - type/shop/carpenter
+  - place/town/phandalin/woodshop
 ---
 # The Crafty Hand
-*Carpenter's shop, [Phandalin](Phandalin.md)*  
+*Carpenter's shop, Phandalin*  
 
 Thel is a fine woodwoorker, and the shop has several fine pieces of workmanship on display. 
 
@@ -25,11 +25,11 @@ Mirna also sells potions and medicines made by Adabra Gwynn (a long-distance cra
 ## NPCs
 
 ```dataview
-list from #town/phandalin/woodshop
+list from #place/town/phandalin/woodshop
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #town/phandalin/woodshop  and "pc-logs"
+list from #place/town/phandalin/woodshop  and "pc-logs"
 ```

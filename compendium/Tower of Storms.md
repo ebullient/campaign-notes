@@ -1,10 +1,10 @@
 ---
 type: location
-tags: 
-- type/shrine
-- region/north-sword-coast/high-road
-- landmark/tower-of-storms
-- group/faction/cult-of-talos
+tags:
+  - type/shrine
+  - region/north-sword-coast/high-road
+  - place/landmark/tower-of-storms
+  - group/faction/cult-of-talos
 ---
 # Tower of Storms
 *Lighthouse, Temple of Talos, [High Road](High%20Road.md)*
@@ -20,11 +20,11 @@ The source of the beacon’s eerie green light is Moesko’s own heart, which wa
 ## NPCs
 
 ```dataview
-list from #landmark/tower-of-storms
+list from #place/landmark/tower-of-storms
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #landmark/tower-of-storms   and "pc-logs"
+list from #place/landmark/tower-of-storms   and "pc-logs"
 ```

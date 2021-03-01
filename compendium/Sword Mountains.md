@@ -1,9 +1,9 @@
 ---
 type: location
-tags: 
-- type/region/mountains
-- region/north-sword-coast/sword-mountains
-- landmark/icespire-peak
+tags:
+  - type/region/mountains
+  - region/north-sword-coast/sword-mountains
+  - place/landmark/icespire-peak
 ---
 # Sword Mountains
 *Mountain range in the [North Sword Coast](North%20Sword%20Coast.md)*

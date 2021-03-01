@@ -1,9 +1,9 @@
 ---
 type: location
-tags: 
-- type/city
-- region/north-sword-coast 
-- city/neverwinter
+tags:
+  - type/city
+  - region/north-sword-coast
+  - place/city/neverwinter
 ---
 # Neverwinter
 *City of Skilled Hands*
@@ -20,11 +20,11 @@ No legitimate heirs to the old Alagondar royal line are known to exist, and many
 ## NPCs
 
 ```dataview
-list from #city/neverwinter
+list from #place/city/neverwinter
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #city/neverwinter  and "pc-logs"
+list from #place/city/neverwinter  and "pc-logs"
 ```

@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/unknown
-- town/phandalin/sleeping-giant
+  - npc/alive
+  - iff/unknown
+  - place/town/phandalin/sleeping-giant
 ---
 # Grista
 ![Grista](/[assets]/attachments/grista.jpeg#portrait)

@@ -1,12 +1,12 @@
 ---
 type: faction
 tags:
-- npc/alive
-- iff/neutral
-- region/north-sword-coast/sword-mountains
-- ruin/icespire-hold
-- ruin/shrine-of-savras
-- group/tribe/many-arrows
+  - npc/alive
+  - iff/neutral
+  - region/north-sword-coast/sword-mountains
+  - place/ruin/icespire-hold
+  - place/ruin/shrine-of-savras
+  - group/tribe/many-arrows
 ---
 # Many Arrows
 *Orc tribe*  

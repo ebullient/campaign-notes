@@ -1,9 +1,9 @@
 ---
 type: location
-tags: 
-- type/fortress
-- settlement/axeholm
-- region/north-sword-coast/sword-mountains
+tags:
+  - type/fortress
+  - place/settlement/axeholm
+  - region/north-sword-coast/sword-mountains
 ---
 # Axeholm
 *Resettled Dwarven stronghold, [Sword Mountains](Sword%20Mountains.md)*
@@ -20,12 +20,12 @@ The place has been a non-stop hub of dwarf traffic as word spread that the fortr
 ## NPCs
 
 ```dataview
-list from #settlement/axeholm
+list from #place/settlement/axeholm
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #settlement/axeholm  and "pc-logs"
+list from #place/settlement/axeholm  and "pc-logs"
 ```

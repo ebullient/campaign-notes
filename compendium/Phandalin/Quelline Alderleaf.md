@@ -1,14 +1,14 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/friend
-- town/phandalin/alderleaf-farm
+  - npc/alive
+  - iff/friend
+  - place/town/phandalin/alderleaf-farm
 ---
 # Qelline Alderleaf
 ![Qelline Alderleaf](/[assets]/attachments/qelline-alderleaf.jpeg#portrait)
 *Female Halfling Farmer, Neutral good*  
-*[Alderleaf Farm](Alderleaf%20Farm.md), [Phandalin](Phandalin.md)*  
+*[Alderleaf Farm](Alderleaf%20Farm.md), Phandalin*  
 
 Pragmatic and wise farmer who seems to know everything going on in the town. 
 

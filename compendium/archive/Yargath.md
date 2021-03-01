@@ -1,10 +1,10 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/enemy
-- landmark/circle-of-thunder
-- group/faction/cult-of-talos
+  - npc/alive
+  - iff/enemy
+  - place/landmark/circle-of-thunder
+  - group/faction/cult-of-talos
 ---
 # Yargath
 ![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)*Male half-orc Anchorite of Talos, neutral evil*  

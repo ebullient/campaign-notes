@@ -1,12 +1,12 @@
 ---
 type: location
-tags: 
-- type/shop/general-store
-- town/phandalin/barthens-provisions
+tags:
+  - type/shop/general-store
+  - place/town/phandalin/barthens-provisions
 ---
 # Barthen's Provisions
 ![Barthen's Provisions](/[assets]/attachments/phandalin-barthens-provisions.jpeg#portrait)
-*General Store, [Phandalin](Phandalin.md)*  
+*General Store, Phandalin*  
 
 The shelves of this general store stock most ordinary goods and supplies, including backpacks, bedrolls, rope, and rations. Barthen’s doesn’t stock weapons or armor, but characters can purchase other adventuring gear here, with the exception of items that cost more than 25 gp.
 
@@ -22,12 +22,12 @@ Elmar employs a couple of young clerks ([Ander](Ander.md) and [[Thistle]]) who h
 ## NPCs
 
 ```dataview
-list from #town/phandalin/barthens-provisions
+list from #place/town/phandalin/barthens-provisions
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #town/phandalin/barthens-provisions  and "pc-logs"
+list from #place/town/phandalin/barthens-provisions  and "pc-logs"
 ```

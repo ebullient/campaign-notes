@@ -1,9 +1,9 @@
 ---
 type: location
-tags: 
-- region/north-sword-coast/sword-mountains
-- settlement/mountains-toe-mine
-- type/mine
+tags:
+  - region/north-sword-coast/sword-mountains
+  - place/settlement/mountains-toe-mine
+  - type/mine
 ---
 # Mountain's Toe Gold Mine
 *Gold Mine, [Sword Mountains](Sword%20Mountains.md)*
@@ -20,12 +20,12 @@ Don-Jon is still there, with a crew of dwarves that survived the Whiskered Gang,
 ## NPCs
 
 ```dataview
-list from #settlement/mountains-toe-mine
+list from #place/settlement/mountains-toe-mine
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #settlement/mountains-toe-mine and "logs"
+list from #place/settlement/mountains-toe-mine and "logs"
 ```

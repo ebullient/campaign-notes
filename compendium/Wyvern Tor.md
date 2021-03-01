@@ -1,9 +1,9 @@
 ---
 type: location
-tags: 
-- type/landmark
-- landmark/wyvern-tor
-- region/north-sword-coast/triboar-trail
+tags:
+  - type/landmark
+  - place/landmark/wyvern-tor
+  - region/north-sword-coast/triboar-trail
 ---
 # Wyvern Tor
 *Landmark, [Triboar Trail](Triboar%20Trail.md)*  
@@ -17,12 +17,12 @@ Wyvern Tor is a towering crag in the rugged hills northeast of the Sword Mountai
 ## NPCs
 
 ```dataview
-list from #landmark/wyvern-tor
+list from #place/landmark/wyvern-tor
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #landmark/wyvern-tor   and "pc-logs"
+list from #place/landmark/wyvern-tor   and "pc-logs"
 ```
 The [Many Arrows Orc Tribe](groups/Many%20Arrows%20Orc%20Tribe.md) had a hidden camp in a cave on the Tor's hillside. The cave is now abandoned.

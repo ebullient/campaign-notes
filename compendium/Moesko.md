@@ -1,10 +1,10 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/enemy
-- landmark/tower-of-storms
-- group/faction/cult-of-talos
+  - npc/alive
+  - iff/enemy
+  - place/landmark/tower-of-storms
+  - group/faction/cult-of-talos
 ---
 # Moesko
 ![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)*Male half-orc Anchorite of Talos, neutral evil*  

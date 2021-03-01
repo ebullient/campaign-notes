@@ -1,9 +1,9 @@
 ---
 type: npc
 tags:
-- npc/alive
-- iff/friend
-- town/phandalin/townmaster-hall
+  - npc/alive
+  - iff/friend
+  - place/town/phandalin/townmaster-hall
 ---
 # Harbin Wester
 ![Harbin Wester](/[assets]/attachments/harbin-wester.jpg#portrait)
