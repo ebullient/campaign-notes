@@ -8,7 +8,7 @@ tags:
 # Maccus Strongarm
 ![Maccus](/[assets]/attachments/maccus-strongarm.jpeg#portrait)
 *Male human Blacksmith, neutral good*  
-*[Phandalin](Phandalin.md)*  
+*Phandalin*  
 
 TL;DR description / personality / motivation
 
@@ -35,3 +35,6 @@ Friends with:
 
 ## History
 
+```dataview
+list from #place/town/phandalin/smithy and "pc-logs"
+```

@@ -18,18 +18,21 @@ The tribe was rendered leaderless by Cryovain, its members scattered into differ
 <span class="nav">[NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Locations
+
 ```dataview
 list from #group/tribe/many-arrows 
 where type = "location"
 ```
 
 ## NPCs
+
 ```dataview
 list from #group/tribe/many-arrows 
 where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #group/tribe/many-arrows and "pc-logs"
 ```

@@ -27,8 +27,8 @@ where type = "npc"
 
 ## History
 
-Linene keeps a supply of armor and weapons, all of which are for sale, but she won’t sell to anyone she thinks might be a threat to the town.
-
 ```dataview
 list from #place/town/phandalin/lionshield-coster  and "pc-logs"
 ```
+
+Linene keeps a supply of armor and weapons, all of which are for sale, but she won’t sell to anyone she thinks might be a threat to the town.

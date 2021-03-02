@@ -6,7 +6,7 @@ tags:
   - region/north-sword-coast/high-road
 ---
 # Dragon Barrow
-*Burial mound near the [High Road](High%20Road)*
+*Burial mound near the High Road*
 
 TL;DR description
 

@@ -2,12 +2,12 @@
 type: location
 tags:
   - type/shrine
-  - region/north-sword-coast/high-road
+  - region/north-sword-coast
   - place/landmark/tower-of-storms
   - group/faction/cult-of-talos
 ---
 # Tower of Storms
-*Lighthouse, Temple of Talos, [High Road](High%20Road.md)*
+*Lighthouse, Temple of Talos, North Sword Coast*
 
 [Moesko](Moesko.md) uses the tower's pulsing beacon to draw ships to their doom as sacrifices to [Talos, the Storm Lord](groups/Cult%20of%20Talos.md). The light acts as an irresistible lure to passing seafarers who sail too close to shore. 
 
@@ -25,6 +25,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #place/landmark/tower-of-storms   and "pc-logs"
 ```

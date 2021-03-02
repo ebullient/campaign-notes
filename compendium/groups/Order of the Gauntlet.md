@@ -25,18 +25,21 @@ Bearers of the Gauntlet are holy warriors on a righteous quest to crush evil and
 <span class="nav">[NPCs](#NPCs) [History](#History) [Reference](#Reference)</span>
 
 ## Locations
+
 ```dataview
 list from #group/faction/order-of-the-gauntlet 
 where type = "location"
 ```
 
 ## NPCs
+
 ```dataview
 list from #group/faction/order-of-the-gauntlet 
 where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #group/faction/order-of-the-gauntlet  and "pc-logs"
 ```

@@ -31,4 +31,8 @@ Opportunist.
 
 ## History
 
+```dataview
+list from #place/settlement/loggers-camp   and "pc-logs"
+```
+
 > Tibor employs skilled loggers to find the best trees, chop them down, and haul them back to the camp to be sent downriver. He gets his supplies from Phandalin so that he doesn’t have to pay the outlandish "devastation tax" that Neverwinter applies on essential goods. The challenge lies in getting the supplies safely through Neverwinter Wood, which is why Harbin uses adventurers to make deliveries.

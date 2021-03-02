@@ -32,3 +32,6 @@ TL;DR description / personality / motivation
 
 ## History
 
+```dataview
+list from #place/landmark/circle-of-thunder and "pc-logs"
+```

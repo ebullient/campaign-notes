@@ -7,7 +7,7 @@ tags:
   - place/settlement/umbrage-hill
 ---
 # Umbrage Hill
-*Windmill settlement, [North Sword Coast](North%20Sword%20Coast.md)*
+*Windmill settlement, North Sword Coast*
 
 TL;DR description
 
@@ -24,6 +24,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #place/settlement/umbrage-hill   and "pc-logs"
 ```

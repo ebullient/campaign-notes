@@ -7,7 +7,7 @@ tags:
 ---
 # Daniel #todo
 *Male human Carpenter's apprentice, chaotic good*  
-*[Phandalin](Phandalin.md)*  
+*Phandalin*  
 
 TL;DR description / personality / motivation
 
@@ -35,6 +35,10 @@ and fell in with [George](George.md) and [Seamus](Seamus.md) who had similar run
 ## Secrets
 
 ## History
+
+```dataview
+list from #log/npc/daniel and "pc-logs"
+```
 
 From [03. All is Well](/pc-writing/03.%20All%20is%20Well.md)
 

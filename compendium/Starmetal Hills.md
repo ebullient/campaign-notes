@@ -5,7 +5,7 @@ tags:
 - region/north-sword-coast/starmetal-hills
 ---
 # Starmetal Hills
-*Range of hills in the [North Sword Coast](North%20Sword%20Coast.md)*
+*Range of hills in the North Sword Coast*
 
 Range of rocky knolls is so named because the area has been an impact site of a number of meteor showers over millennia.
 
@@ -21,6 +21,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #region/north-sword-coast/starmetal-hills  and "pc-logs"
 ```

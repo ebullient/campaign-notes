@@ -1,10 +1,11 @@
 ---
 type: npc
+alias: [glasstaff]
 tags:
 - npc/alive
 - iff/unknown
 ---
-# Gildas "Glassstaff"
+# Gildas "Glasstaff"
 *{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
 *{{location}}*  
 
@@ -29,6 +30,11 @@ Hireling of the [Black Spider](Black%20Spider.md)
 ## Secrets
 
 ## History
+
+```dataview
+list from #log/npc/glasstaff and "pc-logs"
+```
+
 Modified from Iarno, disconnected from Lord's Alliance.
 
 A note discovered in the Redbrand Hideout:

@@ -29,4 +29,3 @@ where type = "npc"
 ```dataview
 list from #place/town/phandalin/smithy  and "pc-logs"
 ```
-

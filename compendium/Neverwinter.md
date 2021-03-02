@@ -6,7 +6,7 @@ tags:
   - place/city/neverwinter
 ---
 # Neverwinter
-*City of Skilled Hands*
+*City of Skilled Hands, North Sword Coast*
 
 This city was badly damaged when Mount Hotenow erupted some fifty years ago. Rebuilding has begun under watchful eye (and with funds from) Lord Neverember.
 
@@ -25,6 +25,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #place/city/neverwinter  and "pc-logs"
 ```

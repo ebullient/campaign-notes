@@ -30,3 +30,6 @@ Shield dwarf prospector
 
 ## History
 
+```dataview
+list from #log/npc/dazlyn-grayshard and "pc-logs"
+```

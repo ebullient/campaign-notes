@@ -8,8 +8,8 @@ tags:
   - todo
 ---
 # Adabra Gwynn
-![Adabra Gwynn](/[assets]/attachments/adabra-gwynn.jpeg#portrait *Female human apothecary, neutral good*  
-*[Umbrage Hill](Umbrage%20Hill.md)*  
+![Adabra Gwynn](/[assets]/attachments/adabra-gwynn.jpeg#portrait) *Female human apothecary, neutral good*  
+*Umbrage Hill*
 
 Midwife, apothecary, potion maker.
 
@@ -43,6 +43,10 @@ Friends:
 ## Secrets
 
 ## History
+
+```dataview
+list from #log/npc/adabra-gwynn and "pc-logs"
+```
 
 Somewhat entertained by the rescue attempt.
 > yes, they killed the manticore, but they wrecked the bee hives and stirred up the cockatrice... and yes, they tried to help putting the hives back together again, but they left her with a corpse to deal with, so...

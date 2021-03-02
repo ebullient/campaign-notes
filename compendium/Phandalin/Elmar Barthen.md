@@ -8,7 +8,7 @@ tags:
 # Elmar Barthen
 ![Elmar Barthen](/[assets]/attachments/elmar_barthen.jpg#portrait)
 *Male human shopkeeper, lawful good*  
-*[Barthen's Provisions](Barthen's%20Provisions.md)*  
+*Barthen's Provisions, Phandalin*  
 
 Lean and balding human man. 
 
@@ -31,5 +31,9 @@ Friends
 ## Secrets
 
 ## History
+
+```dataview
+list from #place/town/phandalin/barthens-provisions and "pc-logs"
+```
 
 "Redbrands are making it hard on everyone, shaking down local businesses and undermining the Townmaster's authority." (and maybe mumble something about wishing Harbin Wester weren't so determined to hide under the bed)?

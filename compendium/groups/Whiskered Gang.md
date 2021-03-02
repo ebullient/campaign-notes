@@ -9,24 +9,27 @@ tags:
 ---
 # Whiskered Gang
 *Mercenary group of Wererats, neutral evil*  
-*[North Sword Coast](North%20Sword%20Coast.md)*  
+*, North Sword Coast*  
 
 Displaced from [Shrine of Savras](../Shrine%20of%20Savras.md) to [Mountain's Toe Gold Mine](../Mountain's%20Toe%20Gold%20Mine.md)
 
 
 ## Locations
+
 ```dataview
 list from #group/mercenaries/whiskered-gang 
 where type = "location"
 ```
 
 ## NPCs
+
 ```dataview
 list from #group/mercenaries/whiskered-gang 
 where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #group/mercenaries/whiskered-gang  and "pc-logs"
 ```

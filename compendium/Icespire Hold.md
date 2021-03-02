@@ -6,7 +6,7 @@ tags:
   - region/north-sword-coast/sword-mountains
 ---
 # Icespire Hold
-*Warlord Fortress, [Sword Mountains](Sword%20Mountains.md)*
+*Warlord Fortress, Sword Mountains*
 
 Icespire Hold is an abandoned fortress perched on the icy northeast spur of Icespire Peak.
 
@@ -20,6 +20,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #place/ruin/icespire-hold  and "pc-logs"
 ```

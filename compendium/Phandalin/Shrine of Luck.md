@@ -23,6 +23,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #place/town/phandalin/shrine-of-luck  and "pc-logs"
 ```

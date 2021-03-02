@@ -8,7 +8,7 @@ tags:
 # Mirna Dendrar
 ![Mirna Dendrar](/[assets]/attachments/mirna-dendrar.png#portrait)
 *Female human Shopkeeper, lawful good*  
-*[The Crafty Hand](The%20Crafty%20Hand.md)*  
+*The Crafty Hand*  
 
 TL;DR
 
@@ -28,14 +28,18 @@ TL;DR
 * Married to [Thel Dendrar](Thel%20Dendrar.md)
 * Two children: [[Nars Dendrar]] and [[Nilsa Dendrar]]
 * Friends with
-    * [Adabra Gwynn](../Adabra%20Gwynn.md)
-    * [Amelia Stonehill](Amelia%20Stonehill.md)
+  * [Adabra Gwynn](../Adabra%20Gwynn.md)
+  * [Amelia Stonehill](Amelia%20Stonehill.md)
 
 ## Secrets
 
 Mirna's family fled Thundertree when Mt. Hotenow exploded. They left behind a treasured family heirloom, which she has offered the party should they come across it.
 
 ## History
+
+```dataview
+list from #place/town/phandalin/woodshop and "pc-logs"
+```
 
 From the Slave pens in [Redbrand Hideout](/gm-story/encounters/Redbrand%20Hideout.md): 
 

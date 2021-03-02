@@ -30,3 +30,6 @@ TL;DR description / personality / motivation
 
 ## History
 
+```dataview
+list from #log/npc/ularan-mortus and "pc-logs"
+```

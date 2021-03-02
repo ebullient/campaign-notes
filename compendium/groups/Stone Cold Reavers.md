@@ -9,7 +9,7 @@ tags:
 ---
 # Stone Cold Reavers
 *Mercenaries, neutral evil*  
-*[North Sword Coast](North%20Sword%20Coast.md)*  
+*, North Sword Coast*  
 
 Neutral evil human veterans who speak Common.
 sellswords (brigands, thieves)
@@ -62,18 +62,21 @@ sellswords (brigands, thieves)
 ## Secrets
 
 ## Locations
+
 ```dataview
 list from #group/mercenaries/stone-cold-reavers 
 where type = "location"
 ```
 
 ## NPCs
+
 ```dataview
 list from #group/mercenaries/stone-cold-reavers 
 where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #group/mercenaries/stone-cold-reavers   and "pc-logs"
 ```

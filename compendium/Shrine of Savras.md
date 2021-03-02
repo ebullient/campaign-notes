@@ -8,7 +8,7 @@ tags:
   - group/tribe/many-arrows
 ---
 # Shrine of Savras
-*Ruined Shrine, [Triboar Trail](Triboar%20Trail.md)*
+*Ruined Shrine, Triboar Trail*
 
 TL;DR description
 
@@ -24,6 +24,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
-list from #place/ruin/shrine-of-savras   and "pc-logs"
+list from #place/ruin/shrine-of-savras and "pc-logs"
 ```

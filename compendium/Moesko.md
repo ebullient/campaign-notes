@@ -33,3 +33,6 @@ The source of the beacon’s eerie green light is Moesko’s own heart, which wa
 
 ## History
 
+```dataview
+list from #log/npc/moesko and "pc-logs"
+```

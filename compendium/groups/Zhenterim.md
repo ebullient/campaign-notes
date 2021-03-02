@@ -25,18 +25,21 @@ Zhenterim agents must often work in secret, and are frequently proficient in Dec
 <span class="nav">[NPCs](#NPCs) [History](#History) [Reference](#Reference)</span>
 
 ## Locations
+
 ```dataview
 list from #group/faction/zhenterim 
 where type = "location"
 ```
 
 ## NPCs
+
 ```dataview
 list from #group/faction/zhenterim 
 where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #group/faction/zhenterim  and "pc-logs"
 ```

@@ -5,7 +5,7 @@ tags:
 - region/north-sword-coast/the-crags
 ---
 # The Crags
-*Range of hills in the [North Sword Coast](North%20Sword%20Coast.md)*
+*Range of hills in the , North Sword Coast*
 
 Rocky, windswept hills are dotted with old mines and invested with monsters.
 
@@ -19,6 +19,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #region/north-sword-coast/the-crags   and "pc-logs"
 ```

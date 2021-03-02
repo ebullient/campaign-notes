@@ -8,7 +8,7 @@ tags:
 # Amelia Stonehill
 ![Adabra Gwynn](/[assets]/attachments/amelia-stonehill.jpeg#portrait)
 *Female human, Innkeeper's wife, lawful good*  
-*[Stonehill Inn](Stonehill%20Inn.md), Phandalin*
+*Stonehill Inn, Phandalin*
  
 TL;DR description / personality / motivation
 
@@ -27,12 +27,16 @@ TL;DR description / personality / motivation
 * Married to [Toblen Stonehill](Toblen%20Stonehill.md)
 * Mother of [Pip Stonehill](Pip%20Stonehill.md)
 * Friends:
-    * [Mirna Dendrar](Mirna%20Dendrar.md)
-    * [Quelline Alderleaf](Quelline%20Alderleaf.md)
+  * [Mirna Dendrar](Mirna%20Dendrar.md)
+  * [Quelline Alderleaf](Quelline%20Alderleaf.md)
 
 ## Secrets
 
 ## History
+
+```dataview
+list from #place/town/phandalin/stonehill-inn   and "pc-logs"
+```
 
 From "[01. A Messy Morning](/pc-writing/01.%20A%20Messy%20Morning.md):
 

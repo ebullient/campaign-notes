@@ -18,12 +18,14 @@ Inhabitants hail from Neverwinter, and are in the paid service of the Lord Prote
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
+
 ```dataview
 list from #place/town/leilon
 where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #place/town/leilon and "logs"
 ```

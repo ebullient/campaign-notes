@@ -7,7 +7,7 @@ tags:
   - group/tribe/many-arrows
 ---
 # Butterskull Ranch
-*Farm and Ranch, [Triboar Trail](Triboar%20Trail.md)*
+*Farm and Ranch, Triboar Trail*
 
 TL;DR description
 
@@ -17,7 +17,6 @@ TL;DR description
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs found here
-
 ```dataview
 list from #place/settlement/butterskull-ranch
 where type = "npc"

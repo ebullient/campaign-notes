@@ -27,7 +27,7 @@ where type = "npc"
 ## History
 
 ```dataview
-list from #place/city/silverymoon   and "pc-logs"
+list from #place/city/silverymoon and "pc-logs"
 ```
 
 The [Harpers](groups/Harpers.md) have a presence here.

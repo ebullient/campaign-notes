@@ -7,7 +7,7 @@ tags:
 ---
 # Logger's Camp
 ![Loggers Camp](/[assets]/attachments/loggerscamp.jpg#portrait)
-*Logging encampment, [Neverwinter Wood](Neverwinter%20Wood.md)*
+*Logging encampment, Neverwinter Wood*
 
 One of several logging camps that uses the Neverwinter River to supply wood to Neverwinter.
 
@@ -19,12 +19,14 @@ Tibor gets supplies from Phandalin to avoid paying taxes to Neverwinter, though 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
+
 ```dataview
 list from #place/settlement/loggers-camp
 where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #place/settlement/loggers-camp   and "pc-logs"
 ```

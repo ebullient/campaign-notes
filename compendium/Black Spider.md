@@ -8,7 +8,7 @@ tags:
 ---
 # Black Spider
 *Female [drow](statblocks/drow.md) wizard, chaotic neutral*  
-*Somewhere on the [North Sword Coast](North%20Sword%20Coast.md)* 
+*Somewhere on the North Sword Coast*
 
 TL;DR description / personality / motivation
 #todo
@@ -36,6 +36,10 @@ Follower of Zinzarena.
 Zinzarena’s teachings encourage female drow to study arcane magic—something of a taboo in Menzoberrazan, as arcane magic is considered a lowly calling best suited for males
 
 ## History
+
+```dataview
+list from #log/npc/black-spider and "pc-logs"
+```
 
 > Gildas --
 > &nbsp;

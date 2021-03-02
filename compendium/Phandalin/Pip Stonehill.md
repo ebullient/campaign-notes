@@ -31,4 +31,8 @@ Best friend is [Carp Alderleaf](Carp%20Alderleaf.md)
 
 ## History
 
+```dataview
+list from #place/town/phandalin/stonehill-inn and "pc-logs"
+```
+
 > Pip, Amelia and Toblen’s son, came into the common room after running a few last-minute errands for his parents. He told his mother, John, and Kyle that his friend Carp found a secret tunnel! Carp almost got caught by the people using it, but Carp is good at hiding, so they didn’t see him.

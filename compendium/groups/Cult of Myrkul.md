@@ -29,18 +29,21 @@ Myrkul, The Lord of Bones, Old Lord Skull, the Reaper Myrkul is an ancient god, 
 Myrkul became the god of death and the dead, and ruled over the City of the Dead for centuries until he, in turn, was slain. In time Myrkul returned, for can death itself
 
 ## Locations
+
 ```dataview
 list from #group/faction/cult-of-myrkul
 where type = "location"
 ```
 
 ## NPCs
+
 ```dataview
 list from #group/faction/cult-of-myrkul
 where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #group/faction/cult-of-myrkul  and "pc-logs"
 ```

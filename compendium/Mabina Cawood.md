@@ -8,7 +8,7 @@ tags:
 ---
 # Mabina Cawood
 ![Mabina](/[assets]/attachments/mabina.jpg#portrait)*Female human Merchant, chaotic good*  
-*[North Sword Coast](North%20Sword%20Coast.md)*  
+*North Sword Coast*  
 
 A woman bustled around her cart. The layers and hood of her robe made it hard to figure out her age. The best that could be determined is not a kid and not a crone.
 
@@ -39,6 +39,7 @@ Friends:
 * a legendary Ring of Djinni Summoning. She uses it to summon a female djinni named Desri from the Elemental Plane of Air. Desri casts the druid spell "Wind Walk" on herself, her horse, and (by special favor) her cart. 
 
 ## History
+
 ```dataview
 list from #log/npc/mabina and "pc-logs"
 ```

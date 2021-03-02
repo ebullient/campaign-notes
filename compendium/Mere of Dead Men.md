@@ -5,7 +5,7 @@ tags:
 - region/north-sword-coast/mere-of-dead-men
 ---
 # Mere of Dead Men
-*Creepy place along the [High Road](High%20Road.md), [North Sword Coast](North%20Sword%20Coast.md)*
+*Creepy place along the High Road, North Sword Coast*
 
 Travelers on the High Road, which skirts the mere to the east, must resist being lured into this cold, desolate swamp by bobbing will-o’-wisps.
 
@@ -21,6 +21,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #region/north-sword-coast/mere-of-dead-men   and "pc-logs"
 ```

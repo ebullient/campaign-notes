@@ -5,7 +5,7 @@ tags:
 - region/north-sword-coast/high-road
 ---
 # High Road
-*Trade road, [North Sword Coast](North%20Sword%20Coast.md)*
+*Trade road, North Sword Coast*
 
 This highway hugs the coast, connecting Neverwinter to the coastal cities of Luskan to the north and Waterdeep to the south. 
 
@@ -23,6 +23,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #region/north-sword-coast/high-road  and "pc-logs"
 ```

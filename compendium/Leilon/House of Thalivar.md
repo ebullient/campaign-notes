@@ -5,7 +5,7 @@ tags:
   - place/town/leilon/house-of-thalivar
 ---
 # House of Thalivar
-*{{placeType}}, , [Leilon](Leilon.md)*  
+*{{placeType}}, , Leilon*  
 
 TL;DR description
 
@@ -15,13 +15,13 @@ TL;DR description
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
+
 ```dataview
 list from #place/town/leilon/house-of-thalivar
 where type = "npc"
 ```
 
 ## History
-The party crossed Alderleaf farm fields on the way to and from the Redbrand Hideout.
 
 ```dataview
 list from #place/town/leilon/house-of-thalivar and "logs"

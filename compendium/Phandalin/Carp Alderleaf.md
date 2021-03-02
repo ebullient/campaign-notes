@@ -33,4 +33,8 @@ Lives and helps out at [Alderleaf Farm](Alderleaf%20Farm.md) when not running ar
 
 ## History
 
+```dataview
+list from #place/town/phandalin/alderleaf-farm and "pc-logs"
+```
+
 Showed the party how to find the back entrance to the RedBrand Hideout.

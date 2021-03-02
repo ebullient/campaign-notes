@@ -35,6 +35,7 @@ Reclusive wanderers and omen-readers of the wild, centaurs avoid conflict but fi
 > ***Longbow.** Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 
 ## History
+
 ```dataview
 list from #log/monster/centaur  
 ```

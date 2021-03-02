@@ -5,7 +5,7 @@ tags:
 - region/north-sword-coast/neverwinter-wood
 ---
 # Agatha's Lair
-*Banshee territory, [Neverwinter Wood](Neverwinter%20Wood.md)*  
+*Banshee territory, Neverwinter Wood*  
 
 There is an area in the forest that grows darker. Heavy vines and thick layers of moss drape the branches, and the air is noticeably colder than it was in the ruined village. And it is silent. 
 
@@ -24,6 +24,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #shop-tag   and "pc-logs"
 ```

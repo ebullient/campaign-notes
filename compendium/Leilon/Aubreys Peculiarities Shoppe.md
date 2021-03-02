@@ -5,7 +5,7 @@ tags:
   - place/town/leilon/aubreys-peculiarities
 ---
 # Aubrey’s Peculiarities Shoppe
-*{{shopType}}, [Leilon](Leilon.md)*  
+*{{shopType}}, Leilon*  
 
 
 
@@ -18,13 +18,13 @@ A painted tryptic above the counter shows three adventurers: a dark-skinned warr
 ## For Sale
 
 ## NPCs
+
 ```dataview
 list from #place/town/leilon/aubreys-peculiarities
 where type = "npc"
 ```
 
 ## History
-The party crossed Alderleaf farm fields on the way to and from the Redbrand Hideout.
 
 ```dataview
 list from #place/town/leilon/aubreys-peculiarities and "logs"

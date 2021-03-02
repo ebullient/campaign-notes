@@ -6,7 +6,7 @@ tags:
   - region/north-sword-coast/sword-mountains
 ---
 # Gnomengarde
-*Rock Gnome Recluse enclave, [Sword Mountains](Sword%20Mountains.md)*
+*Rock Gnome Recluse enclave, Sword Mountains*
 
 TL;DR description
 
@@ -23,6 +23,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #place/settlement/gnomengarde  and "pc-logs"
 ```

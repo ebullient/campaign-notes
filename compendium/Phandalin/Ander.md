@@ -7,7 +7,7 @@ tags:
 ---
 # Ander
 *Male human clerk, {{alignment}}*  
-*[Barthen's Provisions](Barthen's%20Provisions.md)*  
+*Barthen's Provisions*  
 
 He has curly blonde hair and bright hazel eyes. Late teens, early twenties, strong.
 
@@ -33,5 +33,9 @@ Helps load and unload wagons, and waits on customers when Barthen isn’t around
 ## Secrets
 
 ## History
+
+```dataview
+list from #place/town/phandalin/barthens-provisions and "pc-logs"
+```
 
 * Thorin bought an amulet from Ander (Elmar was busy)

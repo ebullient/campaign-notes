@@ -6,7 +6,7 @@ tags:
   - region/north-sword-coast/neverwinter-wood
 ---
 # Falcon's Hunting Lodge
-*Rustic Manor, [Neverwinter Wood](Neverwinter%20Wood.md)*
+*Rustic Manor, Neverwinter Wood*
 
 TL;DR description
 
@@ -29,6 +29,7 @@ where type = "npc"
     * Corwin, an elderly, world-weary cook
   
 ## History
+
 ```dataview
 list from #place/settlement/falcons-lodge  and "pc-logs"
 ```

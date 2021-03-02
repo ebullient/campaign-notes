@@ -30,4 +30,8 @@ Elsa has a square face, with short auburn hair and amber eyes.
 
 ## History
 
+```dataview
+list from #place/town/phandalin/stonehill-inn   and "pc-logs"
+```
+
 > Oh, you're adventurers, are you? Have you met Daran Edermath? He's an adventurer, too!  From what I know, he came and founded his orchard when he got tired of running around saving things. The stories he tells.. 

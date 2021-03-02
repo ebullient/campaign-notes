@@ -6,7 +6,7 @@ tags:
   - region/north-sword-coast/neverwinter-wood
 ---
 # Thundertree
-*Ruined town, [North Sword Coast](North%20Sword%20Coast.md)*
+*Ruined town near Neverwinter Wood, North Sword Coast*
 
 TL;DR description
 
@@ -22,6 +22,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #place/ruin/thundertree   and "pc-logs"
 ```

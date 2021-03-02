@@ -24,6 +24,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #place/town/pentill   and "pc-logs"
 ```

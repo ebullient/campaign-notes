@@ -31,4 +31,3 @@ where type = "npc"
 list from #region/north-sword-coast
 where type = "faction"
 ```
-

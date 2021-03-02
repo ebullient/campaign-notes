@@ -30,3 +30,6 @@ Party befriended the nothic rather than killing him.
 
 ## History
 
+```dataview
+list from #log/monster/nothic  and "pc-logs"
+```

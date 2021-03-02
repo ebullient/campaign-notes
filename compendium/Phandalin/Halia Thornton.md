@@ -9,7 +9,7 @@ tags:
 # Halia Thornton
 ![Halia Thornton](/[assets]/attachments/halia-thornton.jpg#portrait)
 *Female human Guildmaster, lawful neutral*  
-*[Phandalin Miner's Exchange](Phandalin%20Miner's%20Exchange.md)*  
+*Phandalin Miner's Exchange*  
 
 Fierce. Calculating.
 She wants her guild to be the governing body of the village. #story/unexplored
@@ -21,7 +21,7 @@ She wants her guild to be the governing body of the village. #story/unexplored
 ![Halia's home](/[assets]/attachments/phandalin-miners-exchange.jpeg#portrait)
 *Guild Merchant, Faction Agent*, Commoner
 
-Thornton owned a house to the southeast of the Miner's Exchange.
+Thornton owns a house to the southeast of the Miner's Exchange.
 
 * **Trait**
 * **Ideals**

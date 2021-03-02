@@ -38,12 +38,14 @@ Priests of Talos are often travelling doomsayers, who warn of disasters to come 
 His followers are destroyers, raiders, looters and brigands.
 
 ## Locations
+
 ```dataview
 list from #group/faction/cult-of-talos
 where type = "location"
 ```
 
 ## NPCs
+
 ```dataview
 list from #group/faction/cult-of-talos
 where type = "npc"
@@ -55,6 +57,7 @@ NPCs tied to specific locations:
 * Woodland Manse (Neverwinter Wood, dead): Grannoc, Drethna (female, spotted by party in patrol in boar shape), 2 additional unnamed
 
 ## History
+
 ```dataview
 list from #group/faction/cult-of-talos  and "pc-logs"
 ```

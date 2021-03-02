@@ -8,10 +8,10 @@ tags:
 # Harbin Wester
 ![Harbin Wester](/[assets]/attachments/harbin-wester.jpg#portrait)
 *Male human townmaster, {{alignment}}*  
-*[Townmaster's Hall](Townmaster's%20Hall.md)*  
+*Townmaster's Hall*  
 
 Thin voice, but rational. Still fearful.
-Pompous, middle-aged banker. 
+Pompous, middle-aged banker.
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
@@ -29,15 +29,19 @@ Many locks on his door, but now emerges when the party arrives. Likes "Lord Kyle
 
 * Brother, [Tibor Wester](../neverwinter-wood/Tibor%20Wester.md), runs a logging camp
 * Friends: 
-    * [Thel Dendrar](Thel%20Dendrar.md)
-    * [Maccus Strongarm](Maccus%20Strongarm.md)
-    * [Adabra Gwynn](../Adabra%20Gwynn.md)
-    * [Mabina](../Mabina%20Cawood.md)
+  * [Thel Dendrar](Thel%20Dendrar.md)
+  * [Maccus Strongarm](Maccus%20Strongarm.md)
+  * [Adabra Gwynn](../Adabra%20Gwynn.md)
+  * [Mabina](../Mabina%20Cawood.md)
 * Cares for rehabilitation of [Drusz](Drusz.md)
 
 ## Secrets
 
 ## History
+
+```dataview
+list from #log/npc/harbin-wester and "pc-logs"
+```
 
 Was terrified of the dragon. Would only go outside to get food and post new notices. If someone knocked on his door, he would reply:  “If you’re a dragon, know that I’m far too thin and bony to make a good meal!” 
 

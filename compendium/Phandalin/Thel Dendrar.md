@@ -8,7 +8,7 @@ tags:
 # Thel Dendrar
 ![Thel Dendrar](/[assets]/attachments/thel-dendrar.jpeg#portrait)
 *Male human carpenter, lawful good*  
-*[The Crafty Hand](The%20Crafty%20Hand.md)*  
+*The Crafty Hand*  
 
 TL;DR description / personality / motivation
 
@@ -34,6 +34,10 @@ TL;DR description / personality / motivation
 ## Secrets
 
 ## History
+
+```dataview
+list from #log/npc/thel-dendrar and "pc-logs"
+```
 
 Thel was captured and held by the Redbrands, and almost sold into slavery.
 

@@ -30,6 +30,7 @@ where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #place/town/phandalin/woodshop  and "pc-logs"
 ```

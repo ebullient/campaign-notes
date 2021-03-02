@@ -24,6 +24,7 @@ where type = "npc"
 
 
 ## History
+
 ```dataview
 list from #place/ruin/woodland-manse  and "pc-logs"
 ```

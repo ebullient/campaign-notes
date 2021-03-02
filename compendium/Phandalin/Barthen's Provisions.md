@@ -12,7 +12,7 @@ The shelves of this general store stock most ordinary goods and supplies, includ
 
 * **Owner** [Elmar Barthen](Elmar%20Barthen.md)
 
-Elmar employs a couple of young clerks ([Ander](Ander.md) and [[Thistle]]) who help load and unload wagons, and who wait on customers when Barthen isn’t around.
+Elmar employs a couple of young clerks ([Ander](Ander.md) and [Thistle](Thistle.md)) who help load and unload wagons, and who wait on customers when Barthen isn’t around.
 
 <span class="nav">[For Sale](#For\ Sale) [NPCs](#NPCs) [History](#History)</span>
 

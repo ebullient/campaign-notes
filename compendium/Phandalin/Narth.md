@@ -8,7 +8,7 @@ tags:
 # Narth
 ![Narth](/[assets]/attachments/narth.jpeg#portrait)
 *Male human farmer, neutral good*  
-*[Phandalin](Phandalin.md)*  
+*Phandalin*  
 
 TL;DR description / personality / motivation
 
@@ -29,6 +29,10 @@ Friends with [Freda](Freda.md)
 ## Secrets
 
 ## History
+
+```dataview
+list from #place/town/phandalin/stonehill-inn and "pc-logs"
+```
 
 > Freda, a weaver, and an old farmer named Narth, were sitting together by the fire chatting over their morning meal. 
 	> * Narth fretted a bit over Sister Garaele, who came back from a trip out of town wounded and exhausted.

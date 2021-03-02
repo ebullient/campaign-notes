@@ -1,5 +1,6 @@
 ---
 type: npc
+alias: [big-al-kalazorn]
 tags:
   - npc/alive
   - iff/unknown
@@ -30,6 +31,10 @@ TL;DR description / personality / motivation
 ## Secrets
 
 ## History
+
+```dataview
+list from #log/npc/big-al-kalazorn and "pc-logs"
+```
 
 > Alfonse Kalazorn used to be the sheriff of Triboar, a town to the east, where he was known as Big Al Kalazorn. He retired a decade ago, but retirement didn’t sit well with him. Looking for a new challenge, he claimed a plot of fertile land five miles east of Conyberry and turned it into a cattle and horse ranch. 
 

@@ -8,7 +8,7 @@ tags:
 # Grista
 ![Grista](/[assets]/attachments/grista.jpeg#portrait)
 *Female dwarf barkeep, {{alignment}}*  
-*[The Sleeping Giant](The%20Sleeping%20Giant.md)*  
+*The Sleeping Giant*  
 
 Surly.
 
@@ -31,3 +31,6 @@ Surly.
 
 ## History
 
+```dataview
+list from #place/town/phandalin/sleeping-giant and "pc-logs"
+```

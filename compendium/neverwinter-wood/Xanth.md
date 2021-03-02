@@ -39,6 +39,10 @@ He made an enemy of an adventurer, once. He isn't sure whether or not it was his
 
 ## History
 
+```dataview
+list from #log/npc/xanth   and "pc-logs"
+```
+
 Lives deep in Neverwinter Wood. When the Anchorites of Talos started summoning lightning and thunder, he headed to Thundertree, at first, to find Reidoth, but detected the dragon and changed his mind. He passed the party on his way south to Daran Edermath from Thundertree.
 
 From [05. Finding a Cure](/pc-writing/05.%20Finding%20a%20Cure.md)

@@ -24,8 +24,7 @@ list from #place/town/phandalin/miners-exchange
 where type = "npc"
 ```
 
-
-## History 
+## History
 
 ```dataview
 list from #place/town/phandalin/miners-exchange  and "pc-logs"

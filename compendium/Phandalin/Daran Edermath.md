@@ -43,5 +43,9 @@ Daran is a member of the [Order of the Gauntlet](../groups/Order%20of%20the%20Ga
 
 ## History
 
+```dataview
+list from #log/npc/daran-edermath and "pc-logs"
+```
+
 Daran served as a marshal and herald for many years in the lands of the Dragon Coast, far to the southeast. Upon retiring, he returned to the Neverwinter region, his original home. 
 

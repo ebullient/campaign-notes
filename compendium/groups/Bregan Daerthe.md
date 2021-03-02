@@ -27,18 +27,21 @@ By 1483 DR, the drow agent Beniago, disguised as a human, was High Captain Kurth
 <span class="nav">[NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Locations
+
 ```dataview
 list from #group/faction/bregan-daerthe
 where type = "location"
 ```
 
 ## NPCs
+
 ```dataview
 list from #group/faction/bregan-daerthe
 where type = "npc"
 ```
 
 ## History
+
 ```dataview
 list from #group/faction/bregan-daerthe  and "pc-logs"
 ```

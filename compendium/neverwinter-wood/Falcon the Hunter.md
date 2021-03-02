@@ -41,4 +41,8 @@ Falcon moves with the casual confidence of one who fears nothing, and he greets 
 
 ## History
 
+```dataview
+list from #log/npc/falcon and "pc-logs"
+```
+
 Falcon’s real name is Gustaf Stellern, but he has long since abandoned it. His hunting skills have earned him the name he now bears. 
