@@ -5,7 +5,7 @@ tags: [statblock]
 # Drow
 <span class='nav'>[History](#History) [Notes](#Notes)</span>
 
->## Drow
+># Drow
 >*Medium humanoid (elf) , neutral evil*
 >___
 > - **Armor Class** 15 (Chain Shirt)
@@ -30,7 +30,7 @@ tags: [statblock]
 >
 >***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >&nbsp;  
-> ### Actions
+> ## Actions
 > ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >&nbsp;  
 > ***Hand Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.

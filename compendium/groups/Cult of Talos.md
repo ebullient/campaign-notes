@@ -15,9 +15,9 @@ Members are fervent religious cultists who worship [Talos](#Talos), the Stormlor
 
 They aim to place the region at the mercy of the Storm Lord by controlling the flow of goods.  
 
-They have set up a base of operations in the caves of [Thunder Cliffs](../Thunder%20Cliffs.md), and have taken over the [Tower of Storms](../Tower%20of%20Storms.md). They collect goods from wrecked ships to fund their operation, and imprison survivors to either sell as slaves, feed to mosters, or use as sacrifices to Talos.
+They have set up a base of operations in the caves of Thunder Cliffs, and have taken over the Tower of Storms. They collect goods from wrecked ships to fund their operation, and imprison survivors to either sell as slaves, feed to mosters, or use as sacrifices to Talos.
 
-Reclusive anchorites living in [Neverwinter Wood](../neverwinter-wood/Neverwinter%20Wood.md) are taking more aggressive steps to disrupt those dwelling in the woods. They have allied with the displaced [Many Arrows Orc Tribe](Many%20Arrows%20Orc%20Tribe.md) to 
+Reclusive anchorites living in Neverwinter Wood are taking more aggressive steps to disrupt those dwelling in the woods. They have allied with the displaced [Many Arrows Orc Tribe](Many%20Arrows%20Orc%20Tribe.md).
 
 They plan to establish temples along the High Road, so they can call upon storms and lighting to disrupt trade at will.
 

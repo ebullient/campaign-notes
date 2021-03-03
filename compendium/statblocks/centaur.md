@@ -6,7 +6,7 @@ tags: [statblock]
 Reclusive wanderers and omen-readers of the wild, centaurs avoid conflict but fight fiercely when pressed. They roam the vast Wilderness, keeping far from borders, laws, and the company of other creatures.
 
 <span class='nav'>[History](#History) [Notes](#Notes)</span>
-> ## Centaur
+> # Centaur
 >*Large monstrosity, neutral good*
 >___
 > - **Armor Class** 12
@@ -22,10 +22,10 @@ Reclusive wanderers and omen-readers of the wild, centaurs avoid conflict but fi
 > - **Languages** Elvish, Sylvan
 > - **Challenge** 2 (450 XP)
 >___
-> ### Traits
+> ## Traits
 > ***Charge.*** If the centaur moves at least 30 ft. straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
 >&nbsp;  
-> ### Actions
+> ## Actions
 > *Multiattack.* The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.
 >&nbsp;  
 > ***Pike.** Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage.

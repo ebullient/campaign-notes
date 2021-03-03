@@ -6,8 +6,7 @@ tags:
   - region/north-sword-coast/neverwinter-wood
 ---
 # Logger's Camp
-![Loggers Camp](/[assets]/attachments/loggerscamp.jpg#portrait)
-*Logging encampment, Neverwinter Wood*
+![Loggers Camp](/[assets]/attachments/loggerscamp.jpg#portrait)*Logging encampment, Neverwinter Wood*
 
 One of several logging camps that uses the Neverwinter River to supply wood to Neverwinter.
 

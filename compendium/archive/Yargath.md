@@ -20,9 +20,14 @@ Yargath was tall, and mean looking, with several missing teeth. He had shoulder-
 He was ready to bring the wrath of the storm lord to bear, and to wipe out the weak and non-believers who have been moving into the area.  
 
 ## Relationships
-
 * Anchorite in the [Cult of Talos](../groups/Cult%20of%20Talos.md)
-* Lived with [Flenz](../neverwinter-wood/Flenz.md) and [Narux](../neverwinter-wood/Narux.md) at the [Circle of Thunder](../neverwinter-wood/Circle%20of%20Thunder.md)
+* Lives at the [Circle of Thunder](Circle%20of%20Thunder.md)
+
+```dataview
+list from #place/landmark/circle-of-thunder
+where type = "npc"
+```
+
 * Took orders from [Fheralai Stormsworn](../Fheralai%20Stormsworn.md)
 * Worked with [Grannoc](../archive/Grannoc.md) and other anchorites to bring chaos and destruction to the region
 

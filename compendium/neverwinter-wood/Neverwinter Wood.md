@@ -21,5 +21,5 @@ where type = "npc"
 ## History
 
 ```dataview
-list from #region/north-sword-coast/neverwinter-wood and "logs"
+list from #region/north-sword-coast/neverwinter-wood and "pc-logs"
 ```

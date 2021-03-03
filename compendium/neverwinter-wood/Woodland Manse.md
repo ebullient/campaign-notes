@@ -22,7 +22,6 @@ list from #place/ruin/woodland-manse
 where type = "npc"
 ```
 
-
 ## History
 
 ```dataview

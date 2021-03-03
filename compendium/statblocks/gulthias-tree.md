@@ -5,7 +5,7 @@ tags: [statblock]
 # Gulthias Tree
 <span class='nav'>[History](#History) [Notes](#Notes)</span>
 
-> ## Guthias Tree
+> # Guthias Tree
 >*Huge plant, neutral evil*
 >___
 > - **Armor Class** 15
@@ -23,10 +23,10 @@ tags: [statblock]
 > - **Languages** Common
 > - **Challenge** 3 (700 XP)
 >___
-> ### Traits
+> ## Traits
 > ***Undying.*** Unless completely uprooted, the Gulthias tree will regrow from its roots to regain 1hp every 24 hours.
 >&nbsp;  
-> ### Actions
+> ## Actions
 > ***Summoning.*** On any night when the moon is blood red, the Gulthias tree can spawn 2d6 twig blights, 1d6 needle blights, OR 1d4 vine blights.
  
 ## History

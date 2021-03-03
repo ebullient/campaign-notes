@@ -13,7 +13,7 @@ The ancient dwarven fortress is only 15 miles south of Phandalin, and had been s
 The place has been a non-stop hub of dwarf traffic as word spread that the fortress was open again. In the first group of dwarves heading to Axeholm: [Dazlyn Grayshard](Dazlyn%20Grayshard.md) and [Norbus Ironrune](Norbus%20Ironrune.md).
 
 * **Owner** #todo
-* **Location** South of [Phandalin](phandalin/Phandalin.md)
+* **Location** South of Phandalin
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 

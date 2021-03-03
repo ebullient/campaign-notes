@@ -3,7 +3,7 @@ type: statblock
 tags: [statblock]
 ---
 <span class='nav'>[History](#History) [Notes](#Notes)</span>
-> ## Monster
+> # Monster
 >*Medium humanoid, any alignment*
 >___
 > - **Armor Class** 10

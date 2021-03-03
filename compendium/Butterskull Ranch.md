@@ -25,5 +25,5 @@ where type = "npc"
 ## History
 
 ```dataview
-list from #place/settlement/butterskull-ranch and "logs"
+list from #place/settlement/butterskull-ranch and "pc-logs"
 ```

@@ -3,7 +3,6 @@ tags:
 - encounter
 ---
 # Altered Circle of Thunder
-&nbsp;
 
 ### Prep
 - [x] Update Roll20 for Xanth: +2 armor

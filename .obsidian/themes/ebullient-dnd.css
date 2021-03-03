@@ -24,9 +24,10 @@
   --gray-mid-light: #e0e0e0;
   --gray-light: #f8f8f2;
 
+  --gray-blue: #8cd0f0;
   --violet: #d05ce3;
   --deep-violet: #6a0080;
-  --blue: #03a9f4;
+  --blue: #29b6f6;
   --deep-blue: #007ac1;
   --cyan: #00bcd4;
   --green: #4caf50;
@@ -200,16 +201,13 @@ h6 {
   font-size: 90%;
 }
 
-.markdown-preview-view h1:before {
-  content: "\00a7\00a0";
-  font-size: .6em;
-}
+.markdown-preview-view h1:before,
 .markdown-preview-view h2:before,
 .markdown-preview-view h3:before,
 .markdown-preview-view h4:before,
 .markdown-preview-view h5:before,
 .markdown-preview-view h6:before {
-  content: "\00a0\00a0\00a7\00a0";
+  content: "\00a7\00a0";
   font-size: .6em;
 }
 
@@ -326,74 +324,7 @@ code,
 SYNTAX HIGHLIGHTER COLORS
 ----------------------------------------------------------------*/
 
-.theme-dark .token.comment,
-.theme-dark .token.prolog,
-.theme-dark .token.doctype,
-.theme-dark .token.cdata,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-comment {
-  color: var(--syntax-grey) !important;
-}
 
-.theme-dark .token.punctuation,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-bracket {
-  color: var(--syntax-default) !important;
-}
-
-.theme-dark .token.constant,
-.theme-dark .token.symbol,
-.theme-dark .token.deleted,
-.theme-dark .token.tag,
-.theme-dark .token.property,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-property,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-tag,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-def {
-  color: var(--syntax-blue) !important;
-}
-
-.theme-dark .token.boolean,
-.theme-dark .token.number,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-number {
-  color: var(--syntax-orange) !important;
-}
-
-.theme-dark .token.selector,
-.theme-dark .token.attr-name,
-.theme-dark .token.char,
-.theme-dark .token.inserted,
-.theme-dark .token.string,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-string,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-string-2 {
-  color: var(--syntax-green);
-}
-
-.theme-dark .token.operator,
-.theme-dark .token.entity,
-.theme-dark .token.url,
-.theme-dark .language-css .token.string,
-.theme-dark .style .token.string,
-.theme-dark .token.variable,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-operator,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-quote,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-variable,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-variable-2,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-variable-3 {
-  color: var(--syntax-cyan) !important;
-}
-
-.theme-dark .token.atrule,
-.theme-dark .token.attr-value,
-.theme-dark .token.function .theme-dark .token.class-name {
-  color: var(--syntax-yellow);
-}
-
-.theme-dark .token.regex,
-.theme-dark .token.important,
-.theme-dark .token.builtin,
-.theme-dark .token.keyword,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-builtin,
-.cm-s-obsidian pre.HyperMD-codeblock span.cm-keyword {
-  color: var(--syntax-violet) !important;
-}
 
 /*----------------------------------------------------------------
 BLOCK QUOTES

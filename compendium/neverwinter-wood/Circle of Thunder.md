@@ -26,6 +26,6 @@ where type = "npc"
 ## History
 
 ```dataview
-list from #place/landmark/circle-of-thunder and "logs"
+list from #place/landmark/circle-of-thunder and "pc-logs"
 ```
 

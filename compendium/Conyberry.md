@@ -26,5 +26,5 @@ where type = "npc"
 ## History
 
 ```dataview
-list from #place/ruin/conyberry and "logs"
+list from #place/ruin/conyberry and "pc-logs"
 ```

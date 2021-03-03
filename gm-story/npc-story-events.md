@@ -7,11 +7,11 @@ tags: [timeline, doip, gm]
 
 ### CoT
 
-* 1498-08-08: Anchorites place totem at Logger's Camp<span class='ob-timelines' data-class='enemy' data-date='1498-08-08-00' data-title="Anchorites place totem at Logger's Camp"></span> ^15b5f7
+* 1498-08-08: Anchorites place totem at Logger's Camp<span class='ob-timelines' data-class='enemy' data-date='1498-08-08-00' data-title="Anchorites place totem at Logger's Camp"></span>
 * 1498-08-17: Anchorite on patrol in boar shape<span class='ob-timelines' data-class='enemy' data-date='1498-08-17-00' data-title='Anchorite spotted while on patrol in boar form'></span>
 * 1498-08-24: Gorthok spied from Dragon Barrow <span class='ob-timelines' data-class='enemy' data-date='1498-08-24-00' data-title='Anchorites of Talos summon Gorthok'></span> 
-* 1498-09-13: Gorthok used to attack Falcon's Lodge<span class='ob-timelines' data-class='enemy' data-date='1498-09-13-00' data-title='Anchorites of Talos summon Gorthok; Orc(Splinter-6) destroyed'>Gorthok knocks down the palisade at Falcon's Lodge. Another Orc band dispatched except for orc-hero and 3 friends.</span> 
-* 1498-09-15: Yargath on patrol with Orc(Splinter-7). All destroyed.<span class='ob-timelines' data-class='enemy' data-date='1498-09-15-00' data-title='Yargath and Orc(Splinter-7) destroyed while on patrol'></span>
+* 1498-09-13: Anchorites of Talos summon Gorthok <span class='ob-timelines' data-class='enemy' data-date='1498-09-13-00' data-title='Anchorites of Talos summon Gorthok'></span>
+* 1498-09-15: Yargath on patrol with Orc(Splinter-8)<span class='ob-timelines' data-class='enemy' data-date='1498-09-15-00' data-title='Yargath on patrol with Orc(Splinter-8); Yargath destroyed'></span>
 
 ### Dragons
 
@@ -56,6 +56,8 @@ tags: [timeline, doip, gm]
 * 1498-09-04: Orcs(Splinter-6) attack Phandalin <span class='ob-timelines' data-class='enemy' data-date='1498-09-04-00' data-title='Orcs(Splinter-6) attack Phandalin; mostly destroyed (orc-hero)'></span>  
     Late in the evening. All killed but one, who claimed to be raiding only for supplies. Party gave him money and let him go.
 * 1498-09-12: Orcs(Splinter-2) are destroyed at Woodland Manse<span class='ob-timelines' data-class='enemy' data-date='1498-09-12-00' data-title='Grannoc and Orcs(Splinter-2) are destroyed'></span>
+* 1498-09-13: Orcs(Splinter-7) and Gorthok attack Falcon's Lodge<span class='ob-timelines' data-class='enemy' data-date='1498-09-13-00' data-title="Orcs(Splinter-7) and Gorthok attack Falcon's Lodge">Gorthok knocks down the palisade at Falcon's Lodge. Orc(Splinter-7) destroyed except for orc-hero and 3 friends.</span> 
+* 1498-09-15: Yargath on patrol with Orc(Spliter-8) (above)
 
 ### Xanth
 

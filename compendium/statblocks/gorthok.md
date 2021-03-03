@@ -11,7 +11,7 @@ Summoned from the [Circle of Thunder](../neverwinter-wood/Circle%20of%20Thunder.
 
 <span class='nav'>[History](#History) [Notes](#Notes)</span>
 
-> ## Gorthok the Thunder Boar
+> # Gorthok the Thunder Boar
 >*Huge monstrosity, chaotic evil*
 >___
 > - **Armor Class** 15 (natural armor)
@@ -28,18 +28,17 @@ Summoned from the [Circle of Thunder](../neverwinter-wood/Circle%20of%20Thunder.
 > - **Languages** —
 > - **Challenge** 6 (2300 XP)
 >___
-> ### Traits
-> **Relentless (Recharges after a Short or Long Rest).** If Gorthok takes 27 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
+> ## Traits
+> ***Relentless (Recharges after a Short or Long Rest).*** If Gorthok takes 27 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 > &nbsp;  
-> ### Actions
-> **Multiattack.** Gorthok makes two melee attacks: one with its lightning tusks and one with its thunder hooves.  
+> ## Actions
+> ***Multiattack.*** Gorthok makes two melee attacks: one with its lightning tusks and one with its thunder hooves.  
 > &nbsp;  
-> **Lightning Tusks.** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 7 (2d6) lightning damage.  
+> ***Lightning Tusks.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 7 (2d6) lightning damage.  
 > &nbsp;  
-> **Thunder Hooves**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 7 (2d6) thunder damage.  
+> ***Thunder Hooves.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 7 (2d6) thunder damage.  
 > &nbsp;  
-> **Lightning Bolt (Recharge 6).** Gorthok shoots a bolt of lightning at one creature it can see within 120 feet of it. The target must make a DC 15 Dexterity saving throw, taking 18 (4d8) lightning
-damage on a failed save, or half as much damage on a successful one.
+> ***Lightning Bolt (Recharge 6).*** Gorthok shoots a bolt of lightning at one creature it can see within 120 feet of it. The target must make a DC 15 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed save, or half as much damage on a successful one.
 
 ## History
 

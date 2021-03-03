@@ -11,9 +11,8 @@ Growing by leaps and bounds as dwarves resettle in Axeholm. The Miner's Exchange
 
 The Lord Protector of Neverwinter, Dagult Neverember, recently hired a group of his citizens to rebuild the town, a construction project now well underway. They hope to create a fortified waypoint for travelers and merchants that can ward off the threats of the surrounding wilderness.
 
-## Principal actors
+## Principal actors: Cults
 
-### CULTS
 * **[Cult of Talos](compendium/groups/Cult%20of%20Talos.md)**  
     [Fheralai Stormsworn](../compendium/Fheralai%20Stormsworn.md), the high priestess of Talos, rouses the half-orc anchorites of Neverwinter Wood:  she has been given a mission by their evil god of storms, and it’s time to start shaking up the Sword Coast!
     * "the Stormlord is going to come and wipe out the weak and the nonbelievers"
@@ -29,7 +28,7 @@ The Lord Protector of Neverwinter, Dagult Neverember, recently hired a group of 
 
 ## Secondary actors
 
-### DRAGONS
+### Dragons
 * **[Cryovain](/compendium/statblocks/dragon.md)**  
     The young white dragon was driven south by powerful dragons. Found a partly destroyed mountaintop stronghold and made it her own.
     * Cryovain displaced [Many Arrows Orc Tribe](../compendium/groups/Many%20Arrows%20Orc%20Tribe.md) from Icespire Hold
@@ -44,6 +43,11 @@ The Lord Protector of Neverwinter, Dagult Neverember, recently hired a group of 
 * [Jarlaxle Baenre](../compendium/Jarlaxle%20Baenre.md) (Divine Contention) has much to gain if Leilon’s rebuilding is successful, and even more to lose if the followers of Myrkul or Talos control the High Road. 
 
 ### Orcs
+Displaced Many Arrows tribe allied with CoT
+
+### Other
+
+- [ ] [Dazlyn Grayshard](../Dazlyn%20Grayshard.md) and [Norbus Ironrune](../Norbus%20Ironrune.md) claimed a gold mine nead the [Dwarven Excavation](../Dwarven%20Excavation.md) site, as well as the site itself. They tried to claim [Axeholm](../Axeholm.md), as well, but Harbin pre-empted Halia and asked the [Lords Alliance](../groups/Lords%20Alliance.md) to help resolve the issue.
 
 ## Rough timeline
 
@@ -67,16 +71,9 @@ The Lord Protector of Neverwinter, Dagult Neverember, recently hired a group of 
 **Disrupt traffic on the Triboar trail**
 
 - [ ] Work with the Many Arrows orc tribe (natural allies) to raid and disrupt trade on the eastern end of the Triboar Trail
-- [ ] Encourage/support Cragmaw Goblins
+- [ ] Encourage/support Cragmaw Goblins ?? (Black Spider?!)
 
-### Black Spider, independent
-
-- [ ] On a quest to find powerful magical items in lost mines
-- [ ] Made a deal w/ Cragmaw Goblins to establish a smuggling ring (goblins fear drow)
-- [ ] "Redbrand" + Goblin smuggling ring connected w/ Cult of Talos; Black Spider behind the Scenes
-- [ ] What happened w/ Glassstaff?
-
-### Party disrupts Cult of Talos plans...
+### Party disrupts Cult of Talos plans (... now ...)
 
 - [ ] Destroyed (some? most?) cult members in Neverwinter Wood (Grannoc + 3, Yargath, ..)
 - [ ] Destroyed splinters of the Many Arrows orc tribe
@@ -84,7 +81,7 @@ The Lord Protector of Neverwinter, Dagult Neverember, recently hired a group of 
 - [ ] Alerted Emerald Enclave to presense of Gulthias Tree
 - [ ] Started finding/collecting magical items before Black Spider can
 
-### Agents in Phandalin
+### Agents in Phandalin (.. in flight ...)
 - [ ] Bregan D'aerthe: ...
 - [ ] Cult of Talos: 
 - [ ] Harpers: Sister Garaele, Mabina
@@ -93,7 +90,7 @@ The Lord Protector of Neverwinter, Dagult Neverember, recently hired a group of 
 - [ ] Order of the Gauntlet: Daran Edermath
 - [ ] Zhenterim: Halia Thornton
 
-### Cult of Myrkul arrives
+### Cult of Myrkul arrives (... someday ...)
 
 .....
 

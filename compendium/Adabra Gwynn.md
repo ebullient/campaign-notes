@@ -30,7 +30,7 @@ Mirna sells her potions and poultices in town.
 * **Bonds**
 * **Flaws**
 
-#### Umbrage Hill
+### Umbrage Hill
 
 Millstone on the ground floor grinds herbs and other ingredients for poultices and potions. Quarters are on 2nd floor. Loft on 3rd floor.
 

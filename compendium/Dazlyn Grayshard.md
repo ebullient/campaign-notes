@@ -6,8 +6,7 @@ tags:
   - place/ruin/dwarven-excavation
 ---
 # Dazlyn Grayshard
-![Dazlyn Grayshard](/[assets]/attachments/dazlyn-grayshard.jpeg#portrait)
-*Male dwarf prospector, {{alignment}}*  
+![Dazlyn Grayshard](/[assets]/attachments/dazlyn-grayshard.jpeg#portrait)*Male dwarf prospector, {{alignment}}*  
 *[Dwarven Excavation](Dwarven%20Excavation.md)*
 
 Shield dwarf prospector

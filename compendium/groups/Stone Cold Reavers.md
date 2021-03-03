@@ -9,7 +9,7 @@ tags:
 ---
 # Stone Cold Reavers
 *Mercenaries, neutral evil*  
-*, North Sword Coast*  
+*North Sword Coast*  
 
 Neutral evil human veterans who speak Common.
 sellswords (brigands, thieves)

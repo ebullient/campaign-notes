@@ -27,5 +27,5 @@ where type = "npc"
 ## History
 
 ```dataview
-list from #place/settlement/mountains-toe-mine and "logs"
+list from #place/settlement/mountains-toe-mine and "pc-logs"
 ```

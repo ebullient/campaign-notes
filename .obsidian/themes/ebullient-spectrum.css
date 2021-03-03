@@ -1,0 +1,896 @@
+@charset "UTF-8";
+/*
+* Tested with Obsidian v0.10.11 
+*
+* Author: Wiktoria Mielcarek (Braweria) 
+* Name: Spectrum 
+* Licence: MIT 
+* GitHub Repo: https://github.com/Braweria/Spectrum 
+* Version: 0.14.3
+
+! CONTENT
+*.............1. Variables
+*.............2. Textarea
+*................. Body
+*................. Paragraph
+*.............3. Text Decorations
+*................. Bold
+*................. Emphasis
+*................. Highlight
+*................. Links
+*................. Headings
+*................. Text Cursor Indicator
+*................. Tags
+*................. Attachments
+*.............4. Workspace
+*................. Ribbon
+*................. Handle Bars
+*................. Nav
+*................. Header Container
+*................. Scrollbar
+*................. Folders
+*.............5. Tables
+*.............6. Codeblocks
+*................. Mermaid
+*................. Codingblocks
+*.............7. Embed Notes
+*.............8. Vault Launch Progress Bar
+*.............9. Footnotes
+*............10. Listings
+*................. List
+*................. Task List
+*............11. Graph
+*............12. Query
+*............13. Blockquotes
+*............14. Kanban
+*............15. Floating Images
+*............16. Eisenhower Matrix
+
+*............100. Other People's Plugins
+*................. Daily Planner
+
+*/
+/*
+*..........................1. Variables */
+:root,
+.theme-dark {
+  --gray-dark-alt: #212121;
+  --gray-dark: #1b1b1b;
+  --gray: #424242;
+  --gray-mid-darkest: #616161;
+  --gray-mid-dark: #9a9a9a;
+  --gray-mid: #dedede;
+  --gray-mid-light: #e0e0e0;
+  --gray-light: #f8f8f2;
+  --gray-blue: #8cd0f0;
+  --bright-1: #8dc0f0;
+  --bright-2: #69e0f0;
+  --bright-3: #5fedde;
+  --bright-4: #81f7bc;
+  --bright-5: #b9fb93;
+  --bright-6: #f9f871;
+  --dark-1: #8cd0f0;
+  --dark-2: #84b6e5;
+  --dark-3: #8999d3;
+  --dark-4: #927cb7;
+  --dark-5: #995e94;
+  --dark-6: #964069;
+  --deep-violet: #6a0080;
+  --deep-blue: #007ac1;
+  --deep-green: #087f23;
+  --red: #f44336;
+  --deep-red: #ba000d;
+  --main-node: var(--dark-3);
+  --main-node-hover: var(--dark-4);
+  --tags: var(--dark-5);
+  --external-link: var(--gray-blue);
+  --external-link-hidden: rgba(131, 197, 235, 0.3);
+  --main-background: var(--gray-dark-alt);
+  --secondary-background: var(--gray-dark);
+  --attachments: var(--deep-blue);
+  --text-title-h1: var(--bright-6);
+  --text-title-h2: var(--bright-5);
+  --text-title-h3: var(--bright-4);
+  --text-title-h4: var(--bright-3);
+  --text-title-h5: var(--bright-2);
+  --text-title-h6: var(--bright-1);
+  --accent-1: var(--dark-6);
+  --accent-2: var(--dark-5);
+  --accent-3: var(--dark-4);
+  --accent-4: var(--dark-3);
+  --accent-5: var(--dark-2);
+  --accent-6: var(--dark-1);
+  /* Overriding Obsidian Variables */
+  --default-font: 'Fira Sans', 'Optima', 'Roboto', Helvetica Neue, Helvetica, Arial, sans-serif;
+  --font-monospace: 'Fira Code', 'Source Code Pro', monospace;
+  --font-tags: Architects Daughter, Helvetica Neue, Helvetica, Arial, sans-serif;
+  --font-header: var(--font-tags);
+  --text-normal: var(--gray-mid);
+  --background-primary: var(--main-background);
+  --background-secondary: var(--secondary-background);
+}
+
+/*
+*..........................2. Textarea */
+.cm-s-obsidian,
+body {
+  line-height: 1.7rem;
+}
+
+.markdown-preview-view div p {
+  margin-bottom: 1.5rem;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer,
+.markdown-source-view.is-readable-line-width .CodeMirror {
+  max-width: 750px;
+}
+
+/* 
+*..........................3. Text Decorations */
+.cm-s-obsidian .cm-strong,
+strong {
+  color: var(--accent-4);
+  font-weight: 600;
+}
+
+.cm-em,
+em {
+  color: var(--accent-3);
+}
+
+.cm-s-obsidian span.cm-formatting-highlight,
+.cm-s-obsidian span.cm-highlight,
+.markdown-preview-view mark {
+  background: #e672cc;
+  background: #f5a1e3;
+  color: var(--background-primary);
+  font-weight: 600;
+}
+
+.markdown-preview-view mark {
+  padding: 0 0.5rem;
+}
+
+mark .cm-s-obsidian .cm-strong,
+mark strong {
+  color: var(--background-primary);
+  color: #3d0731;
+  font-weight: 900;
+}
+
+mark .cm-em,
+mark em {
+  color: #8a1370;
+}
+
+a {
+  color: var(--external-link);
+}
+
+.cm-s-obsidian span.cm-hmd-internal-link.cm-overlay {
+  color: var(--external-link);
+  font-weight: 900;
+}
+
+.cm-s-obsidian span.cm-formatting-link {
+  color: var(--external-link);
+  font-weight: 500;
+}
+
+.cm-s-obsidian span.cm-url,
+.cm-s-obsidian span.cm-formatting-link.cm-link {
+  color: var(--external-link-hidden);
+}
+
+.cm-s-obsidian span.cm-link,
+.cm-s-obsidian span.cm-hmd-internal-link,
+.cm-s-obsidian span.cm-formatting.cm-url,
+.external-link {
+  color: var(--external-link);
+}
+
+a:hover {
+  color: var(--external-link-hidden);
+}
+
+span.nav {
+  border-top: 1px solid var(--background-modifier-border);
+  border-bottom: 1px solid var(--background-modifier-border);
+  clear: right;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.cm-header,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-header);
+  font-weight: 500;
+}
+
+.cm-header-1,
+h1 {
+  color: var(--text-title-h1);
+  font-variant: common-ligatures small-caps;
+}
+
+blockquote .cm-header-1,
+blockquote h1 {
+  color: var(--text-title-h2);
+  font-variant: common-ligatures;
+}
+
+.cm-header-2,
+h2 {
+  color: var(--text-title-h2);
+}
+
+.cm-header-3,
+h3 {
+  color: var(--text-title-h3);
+}
+
+.cm-header-4,
+h4 {
+  color: var(--text-title-h4);
+}
+
+.cm-header-5,
+h5 {
+  color: var(--text-title-h5);
+}
+
+.cm-header-6,
+.markdown-preview-view h6 {
+  color: var(--text-title-h6);
+}
+
+.markdown-preview-view h1:before,
+.markdown-preview-view h2:before,
+.markdown-preview-view h3:before,
+.markdown-preview-view h4:before,
+.markdown-preview-view h5:before,
+.markdown-preview-view h6:before {
+  content: "\00a7\00a0";
+  font-size: .6em;
+}
+
+.markdown-preview-view h1 code,
+.markdown-preview-view h2 code,
+.markdown-preview-view h3 code,
+.markdown-preview-view h4 code,
+.markdown-preview-view h5 code,
+.markdown-preview-view h6 code {
+  font-weight: normal;
+  font-size: 75%;
+}
+
+.cm-s-obsidian .cm-inline-code.cm-header {
+  font-weight: normal;
+  font-size: 90%;
+}
+
+.markdown-preview-view h1 a.tag,
+.markdown-preview-view h2 a.tag,
+.markdown-preview-view h3 a.tag,
+.markdown-preview-view h4 a.tag,
+.markdown-preview-view h5 a.tag,
+.markdown-preview-view h6 a.tag {
+  font-weight: normal;
+  font-size: 65%;
+  font-variant: common-ligatures;
+}
+
+.cm-s-obsidian .cm-header.cm-hashtag {
+  font-weight: normal;
+  font-size: 90%;
+  font-variant: common-ligatures small-caps;
+}
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  margin: 10px 0 5px 0;
+}
+
+h1:first-of-type {
+  padding-bottom: 0px !important;
+  margin-bottom: -20px !important;
+}
+
+.CodeMirror-cursor,
+.CodeMirror div.CodeMirror-secondarycursor {
+  border-color: var(--main-node);
+}
+
+.cm-s-obsidian span.cm-hashtag,
+.tag {
+  color: var(--tags);
+  font-family: var(--font-tags);
+}
+
+.nav-file-tag {
+  background: none;
+  border: 1px solid var(--attachments);
+  color: var(--attachments);
+  font-weight: 400;
+}
+
+/* 
+*..........................4. Workspace */
+.workspace-ribbon.mod-left.is-collapsed,
+.workspace-ribbon.mod-right.is-collapsed {
+  border: 0;
+}
+
+.workspace-ribbon-collapse-btn {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.workspace-ribbon {
+  background: var(--background-secondary);
+}
+
+.workspace-ribbon.mod-left {
+  display: flex;
+}
+
+.workspace-ribbon.mod-left .side-dock-actions {
+  order: 1;
+}
+
+.workspace-ribbon.mod-left .workspace-ribbon-collapse-btn {
+  order: 2;
+}
+
+.workspace-ribbon.mod-left .side-dock-settings {
+  order: 3;
+}
+
+.workspace-split.mod-left-split > .workspace-leaf-resize-handle,
+.workspace-split.mod-right-split > .workspace-leaf-resize-handle {
+  background: var(--background-secondary);
+}
+
+.workspace-split.mod-horizontal > * > .workspace-leaf-resize-handle {
+  background: var(--main-background);
+}
+
+.workspace-split.mod-left-split > .workspace-leaf-resize-handle:hover,
+.workspace-split.mod-right-split > .workspace-leaf-resize-handle:hover,
+.workspace-split.mod-horizontal > * > .workspace-leaf-resize-handle:hover {
+  background: var(--main-node);
+}
+
+.nav-action-button.is-active,
+.nav-action-button.is-active .widget-icon {
+  background-color: var(--main-node);
+  color: var(--background-secondary);
+  fill: var(--background-secondary);
+}
+
+.nav-action-button.is-active:hover {
+  color: var(--secondary-background);
+  background: var(--main-node-hover);
+}
+
+.nav-action-button:hover,
+.nav-action-button:hover .widget-icon {
+  color: var(--main-node-hover);
+  fill: var(--main-node-hover);
+}
+
+.workspace-split.mod-root
+> .workspace-leaf:last-of-type
+.workspace-leaf-content,
+.workspace-split.mod-root
+> .workspace-leaf:first-of-type
+.workspace-leaf-content {
+  border-radius: 0;
+}
+
+.workspace-split.mod-right-split .workspace-tabs .workspace-leaf {
+  border-radius: 0;
+}
+
+.workspace-split.mod-root
+> .workspace-leaf:first-of-type:last-of-type
+.view-header,
+.view-header {
+  border-bottom: 0px;
+}
+
+.workspace-tab-header-container,
+.workspace-tab-container-before.is-before-active,
+.workspace-tab-container-after.is-after-active,
+.workspace-tab-header.is-before-active,
+.workspace-tab-header.is-after-active,
+.workspace-tab-container-before.is-before-active .workspace-tab-header-inner,
+.workspace-tab-container-after.is-after-active .workspace-tab-header-inner,
+.workspace-tab-header.is-before-active .workspace-tab-header-inner,
+.workspace-tab-header.is-after-active .workspace-tab-header-inner {
+  background: var(--background-secondary);
+}
+
+.workspace-tab-header-container {
+  padding-top: 10px;
+  height: auto;
+}
+
+.workspace-tab-header.is-active
+.workspace-tab-header-inner
+.workspace-tab-header-inner-icon
+svg
+path {
+  stroke: var(--main-node);
+}
+
+.workspace-split.mod-left-split .workspace-tabs .workspace-leaf {
+  border-top-left-radius: 0;
+}
+
+.workspace-leaf.mod-active .view-header {
+  border-bottom: 2px solid var(--main-node);
+}
+
+::-webkit-scrollbar {
+  width: 2px;
+  background-color: var(--main-background);
+}
+
+.nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content::before {
+  content: '';
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 15.43 12' height='13px'%3E%3Cpath style='fill:%23999999' d='M6.15,1a.67.67,0,0,1,.5.21L8.22,2.78a2.69,2.69,0,0,0,1.92.79h3.57a.72.72,0,0,1,.72.72v6a.71.71,0,0,1-.72.71h-12A.71.71,0,0,1,1,10.29V1.71A.71.71,0,0,1,1.71,1H6.15m0-1H1.71A1.72,1.72,0,0,0,0,1.71v8.58A1.72,1.72,0,0,0,1.71,12h12a1.72,1.72,0,0,0,1.72-1.71v-6a1.72,1.72,0,0,0-1.72-1.72H10.14a1.7,1.7,0,0,1-1.21-.5L7.36.5A1.72,1.72,0,0,0,6.15,0Z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 24px;
+  height: 15px;
+}
+
+.nav-folder .nav-folder-title .nav-folder-title-content::before {
+  content: '';
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 18.12 12' height='13px'%3E%3Cpath style='fill:%23999999' d='M16.11,4H16a1.76,1.76,0,0,0-1.75-1.43H10.51a1.8,1.8,0,0,1-1.25-.5L7.63.5A1.8,1.8,0,0,0,6.37,0H1.78A1.75,1.75,0,0,0,0,1.71v8.58A1.75,1.75,0,0,0,1.78,12H14.61a2,2,0,0,0,1.88-1.3l1.5-4A2,2,0,0,0,16.11,4ZM1,1.71A.75.75,0,0,1,1.78,1H6.37a.83.83,0,0,1,.57.22L8.56,2.79a2.83,2.83,0,0,0,1.95.78h3.71a.78.78,0,0,1,.71.43H4.39A2,2,0,0,0,2.51,5.3L1,9.3a.06.06,0,0,0,0,0ZM17.05,6.35,16,9.15l-.45,1.2a1,1,0,0,1-.94.65H2.89a1,1,0,0,1-.83-.43A1,1,0,0,1,2,9.65l1.5-4A1,1,0,0,1,4.39,5H16.11a1,1,0,0,1,.83.43A1,1,0,0,1,17.05,6.35Z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 24px;
+  height: 13px;
+}
+
+/*
+*..........................5. Tables */
+table {
+  width: 100%;
+}
+
+table thead tr {
+  background: #00000034;
+}
+
+table tbody tr:nth-child(even) {
+  background: #00000034;
+}
+
+table tbody tr:hover {
+  background: #afafaf10;
+}
+
+/*
+*..........................6. Codeblocks */
+.mermaid {
+  display: flex;
+  width: calc(100% + 900px);
+  justify-content: center;
+  position: relative;
+  left: -50%;
+}
+
+.nodes {
+  transform: translate(0px, 10px);
+}
+
+.cm-s-obsidian div.HyperMD-codeblock-begin-bg,
+.cm-s-obsidian div.HyperMD-codeblock-end-bg,
+.cm-s-obsidian div.HyperMD-codeblock-bg,
+.cm-s-obsidian span.cm-inline-code {
+  background: var(--secondary-background);
+  border-color: black;
+}
+
+.cm-s-obsidian pre.HyperMD-codeblock-begin {
+  padding-top: 0.5rem;
+}
+
+.cm-s-obsidian div.HyperMD-codeblock-end-bg {
+  border-bottom: 1px solid black;
+}
+
+.cm-s-obsidian pre.HyperMD-codeblock,
+.cm-s-obsidian span.cm-inline-code {
+  color: #928b78;
+}
+
+.markdown-preview-view code {
+  color: #c1b594;
+}
+
+.theme-dark pre {
+  position: relative;
+}
+
+.theme-dark pre[class*='language-'] {
+  background: var(--secondary-background);
+  border: 1px solid black;
+}
+
+.theme-dark pre[class*='language-']::after {
+  content: attr(class);
+  position: absolute;
+  right: 1rem;
+  bottom: 0.5rem;
+}
+
+.cm-s-obsidian .CodeMirror-code {
+  padding-right: 0;
+}
+
+/*
+*..........................7. Embed Notes */
+.internal-embed.is-loaded:not(.image-embed) {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.internal-embed.is-loaded .markdown-embed {
+  border: 0px solid black;
+  margin: 0;
+}
+
+.markdown-embed .markdown-preview-view {
+  padding-top: 10px !important;
+}
+
+/*
+*..........................8. Vault Launch Progress Bar */
+.progress-bar-subline {
+  position: absolute;
+  background-color: var(--main-node);
+  height: 8px;
+}
+
+.progress-bar-line {
+  position: absolute;
+  opacity: 0.4;
+  background-color: #ffbf007c;
+  width: 150%;
+  height: 8px;
+}
+
+/*
+*..........................9. Footnotes */
+.footnote-backref {
+  color: var(--main-node);
+}
+
+.footnote-backref:hover {
+  color: var(--main-node-hover);
+}
+
+.footnotes li::marker {
+  color: var(--main-node);
+}
+
+.footnote-ref {
+  font-size: 0.7rem;
+}
+
+/*
+*..........................10. Listings */
+.cm-hmd-list-indent .cm-tab,
+ul ul {
+  position: relative;
+}
+
+.cm-hmd-list-indent .cm-tab::before,
+ul ul::before {
+  content: '';
+  border-left: 1px solid var(--main-node);
+  position: absolute;
+  left: -15px;
+  top: 0;
+  bottom: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+ul li::marker {
+  color: white;
+}
+
+.markdown-preview-view ul > li.task-list-item.is-checked {
+  text-decoration: none;
+}
+
+.markdown-preview-view .task-list-item-checkbox {
+  -webkit-appearance: none;
+  box-sizing: border-box;
+  border: 1px solid var(--text-muted);
+  border-radius: 2px;
+  position: relative;
+  width: 1.3em;
+  height: 1.3em;
+  margin: 0;
+  outline: none;
+  margin-right: 4px;
+  margin-bottom: 2px;
+  cursor: pointer;
+  vertical-align: baseline;
+  margin-right: 1rem;
+  filter: none;
+}
+
+.markdown-preview-view li .task-list-item-checkbox:checked::before {
+  content: '✔';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 150%;
+  height: 160%;
+  line-height: 0;
+  font-size: 1.5rem;
+  color: var(--main-node);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.markdown-preview-view li li .task-list-item-checkbox:checked::before {
+  color: var(--accent-1);
+}
+
+.markdown-preview-view li li li .task-list-item-checkbox:checked::before {
+  color: var(--accent-2);
+}
+
+.markdown-preview-view li li li li .task-list-item-checkbox:checked::before {
+  color: var(--accent-3);
+}
+
+.markdown-preview-view li li li li li .task-list-item-checkbox:checked::before {
+  color: var(--accent-4);
+}
+
+.markdown-preview-view li li li li li li .task-list-item-checkbox:checked::before {
+  color: var(--accent-5);
+}
+
+.markdown-preview-view li li li li li li li .task-list-item-checkbox:checked::before {
+  color: var(--accent-6);
+}
+
+/*
+*..........................11. Graph */
+.view-content iframe {
+  background: var(--secondary-background);
+}
+
+.graph-view.color-fill {
+  color: var(--main-node);
+}
+
+.theme-dark .graph-view.color-fill-unresolved {
+  color: var(--main-node);
+  opacity: 0.5;
+}
+
+* .theme-dark .graph-view.color-fill-tag {
+  color: var(--tags);
+}
+
+.theme-dark .graph-view.color-fill-attachment {
+  color: var(--attachments);
+}
+
+.graph-view.color-line {
+  color: #676767;
+}
+
+.graph-view.color-line-highlight,
+.graph-view.color-fill-highlight {
+  color: #fe6a26;
+}
+
+/*
+*..........................12. Query */
+.search-result-file-matched-text {
+  background: #d44521;
+}
+
+.tree-item-self .tree-item-inner .search-result-file-matched-text {
+  background: none;
+}
+
+.internal-query .internal-query-header {
+  background: #00000034;
+}
+
+.internal-query
+.search-results-children
+.tree-item.search-result:nth-child(odd) {
+  background: #00000034;
+}
+
+/*
+*..........................13. Blockquotes */
+.markdown-preview-view blockquote {
+  border-color: #8f60e6;
+  border-width: 1px;
+  border-radius: 5px;
+}
+
+/*
+*..........................14. Kanban */
+.kanban ul {
+  display: flex;
+  flex-direction: row;
+  border: 2px solid var(--secondary-background);
+  background-color: #1b1b1b54;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.kanban ul li {
+  flex: 1;
+  list-style: none;
+}
+
+.kanban ul ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0rem;
+  margin-right: 2.5rem;
+  margin-top: 1rem;
+  border-radius: 0;
+  border: 0;
+  background: none;
+}
+
+.kanban ul ul li {
+  width: 100%;
+  display: block;
+  background: var(--secondary-background);
+  margin-bottom: 5px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.kanban ul ul li:nth-child(even) {
+  background: var(--main-background);
+}
+
+.kanban ul ul li:hover {
+  background: #afafaf10;
+}
+
+.kanban ul ul li .task-list-item-checkbox {
+  margin-left: 1.5rem;
+}
+
+.kanban ul ul ul {
+  margin-right: 0;
+}
+
+.kanban ul ul::before {
+  border-left: 0;
+}
+
+/*
+*..........................15. Floating Images */
+img[alt~='float-right'],
+div[alt~='float-right'] {
+  float: right;
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+img[alt~='float-left'],
+div[alt~='float-left'] {
+  float: left;
+  margin-right: 1rem;
+  margin-top: 1rem;
+}
+
+div[src$="#portrait"] {
+  float: right;
+  margin-left: 5px;
+  width: 200px;
+}
+
+/*
+*..........................16. Eisenhower Matrix */
+.markdown-preview-view.matrix table tr {
+  display: flex;
+}
+
+.markdown-preview-view.matrix table tr th,
+.markdown-preview-view.matrix table tr td {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.markdown-preview-view.matrix table tr th > *,
+.markdown-preview-view.matrix table tr td > * {
+  width: 100%;
+  height: 100%;
+  background-color: var(--main-background);
+}
+
+.markdown-preview-view.matrix table tr td {
+  background-color: var(--main-background);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(1) td:nth-child(1) > * {
+  border-color: var(--accent-1);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(1) td:nth-child(1):hover {
+  background-color: var(--accent-1);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(1) td:nth-child(2) > * {
+  border-color: var(--accent-2);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(1) td:nth-child(2):hover {
+  background-color: var(--accent-2);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(2) td:nth-child(1) > * {
+  border-color: var(--accent-4);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(2) td:nth-child(1):hover {
+  background-color: var(--accent-4);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(2) td:nth-child(2) > * {
+  border-color: var(--accent-5);
+}
+
+.markdown-preview-view.matrix table tr:nth-child(2) td:nth-child(2):hover {
+  background-color: var(--accent-5);
+}
+
+/*
+*..........................100. Other People's Plugins */
+/** Day Planner */
+/*** Progress Bar */
+.day-planner .day-planner-progress-bar {
+  background: var(--secondary-background);
+  background: #cfcfcf;
+}

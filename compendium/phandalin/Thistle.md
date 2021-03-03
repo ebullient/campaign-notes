@@ -1,0 +1,37 @@
+---
+type: npc
+tags:
+  - npc/alive
+  - iff/unknown
+  - place/town/phandalin/barthens-provisions
+---
+# Thistle
+*Female human clerk, {{alignment}}*  
+*Barthen's Provisions*  
+
+Thistle has an angular face, with braided golden hair and dark hazel eyes. She is lean, but strong, and does her fair share with the wagons.
+
+<span class="nav">[Details](Thistle.md#Details) [Relationships](Thistle.md#Relationships) [Secrets](Thistle.md#Secrets) [History](Thistle.md#History)</span>
+
+## Details
+*{{Background}}*, Commoner
+
+* **Trait**
+* **Ideals**
+* **Bonds**
+* **Flaws**
+
+## Relationships
+
+**Organization or Faction**
+
+* Works for [Elmar Barthen](Elmar%20Barthen.md)
+* [Ander](Ander.md) is her older brother
+
+## Secrets
+
+## History
+
+```dataview
+list from #place/town/phandalin/barthens-provisions and "pc-logs"
+```

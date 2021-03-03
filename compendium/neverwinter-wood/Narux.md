@@ -24,9 +24,13 @@ TL;DR description / personality / motivation
 * **Flaws**
 
 ## Relationships
-
-* Lives with [Flenz](Flenz.md) and [Yargath](../archive/Yargath.md) at the [Circle of Thunder](Circle%20of%20Thunder.md)
 * Anchorite in the [Cult of Talos](../groups/Cult%20of%20Talos.md)
+* Lives at the [Circle of Thunder](Circle%20of%20Thunder.md)
+
+```dataview
+list from #place/landmark/circle-of-thunder
+where type = "npc"
+```
 
 ## Secrets
 

@@ -5,7 +5,7 @@ tags: [statblock]
 # War Priest 
 <span class='nav'>[History](#History) [Notes](#Notes)</span>
 
-> ## War Priest
+> # War Priest
 >*Medium humanoid (any race), any alignment*
 >___
 > - **Armor Class** 18 (plate)
@@ -22,7 +22,7 @@ tags: [statblock]
 > - **Languages** any two languages
 > - **Challenge** 9 (5000 XP)
 >___
-> ### Traits
+> ## Traits
 > **Spellcasting.** The priest is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared:  
 > &nbsp;  
 > - Cantrips (at will): light, mending, sacred Jame, spare the dying
@@ -32,12 +32,12 @@ tags: [statblock]
 > - 4th level (3 slots): banishment, freedom of movement, guardian of faith, stoneskin
 > - 5th level (1 slot): flame strike, mass cure wounds, hold monster
 >
-> ### Actions
+> ## Actions
 > **Multiattack.** The priest makes two melee attacks.  
 > &nbsp;  
 > **Maul.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
 > &nbsp;  
-> ### Reactions
+> ## Reactions
 > **Guided Strike (Recharges after a Short or Long Rest).** The priest grants a +10 bonus to an attack roll made by itself or another creature within 30 feet of it. The priest can make this choice
 after the roll is made but before it hits or misses.
 

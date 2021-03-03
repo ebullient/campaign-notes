@@ -30,7 +30,7 @@ Through her own magical means, Mabina and her wagon traverse the North Sword Coa
 
 Mabina is a member of the [Harpers](groups/Harpers.md)
 Friends:
-* [Harbin Wester](Harbin%20Wester.md)
+* [Harbin Wester](phandalin/Harbin%20Wester.md)
 * [Sister Garaele](phandalin/Sister%20Garaele.md)
 
 ## Secrets
