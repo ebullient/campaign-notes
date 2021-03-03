@@ -8,8 +8,9 @@ tags:
   - region/north-sword-coast/neverwinter-wood
 ---
 # Narux (anchorite)
-![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)*Male half-orc Anchorite of Talos, neutral evil*   
-*[Circle of Thunder](Circle%20of%20Thunder.md)*  
+<span class="subhead">![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)
+Male half-orc Anchorite of Talos, neutral evil  
+[Circle of Thunder](Circle%20of%20Thunder.md), Neverwinter Wood</span> 
 
 TL;DR description / personality / motivation
 
@@ -25,7 +26,6 @@ TL;DR description / personality / motivation
 
 ## Relationships
 * Anchorite in the [Cult of Talos](../groups/Cult%20of%20Talos.md)
-* Lives at the [Circle of Thunder](Circle%20of%20Thunder.md)
 
 ```dataview
 list from #place/landmark/circle-of-thunder

@@ -6,8 +6,9 @@ tags:
   - place/town/phandalin/barthens-provisions
 ---
 # Elmar Barthen
-![Elmar Barthen](/[assets]/attachments/elmar_barthen.jpg#portrait)*Male human shopkeeper, lawful good*  
-*Barthen's Provisions, Phandalin*  
+<span class="subhead">![Elmar Barthen](/[assets]/attachments/elmar_barthen.jpg#portrait)
+Male human shopkeeper, lawful good  
+Barthen's Provisions, Phandalin</span>
 
 Lean and balding human man. 
 

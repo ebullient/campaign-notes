@@ -5,7 +5,8 @@ tags:
   - place/town/phandalin/barthens-provisions
 ---
 # Barthen's Provisions
-![Barthen's Provisions](/[assets]/attachments/phandalin-barthens-provisions.jpeg#portrait)*General Store, Phandalin*  
+<span class="subhead">![Barthen's Provisions](/[assets]/attachments/phandalin-barthens-provisions.jpeg#portrait)
+General Store, Phandalin</span>
 
 The shelves of this general store stock most ordinary goods and supplies, including backpacks, bedrolls, rope, and rations. Barthen’s doesn’t stock weapons or armor, but characters can purchase other adventuring gear here, with the exception of items that cost more than 25 gp.
 

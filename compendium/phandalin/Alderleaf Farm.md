@@ -5,7 +5,8 @@ tags:
   - type/farm
 ---
 # Alderleaf Farm
-![Alderleaf farm](/[assets]/attachments/phandalin-alderleaf-farm.jpeg#portrait)*Farm, Phandalin*
+<span class="subhead">![Alderleaf farm](/[assets]/attachments/phandalin-alderleaf-farm.jpeg#portrait)
+Farm, Phandalin</span>
 
 TL;DR description
 

@@ -6,8 +6,8 @@ tags:
   - place/town/phandalin/barthens-provisions
 ---
 # Ander
-*Male human clerk, {{alignment}}*  
-*Barthen's Provisions*  
+<span class="subhead">Male human clerk, {{alignment}}  
+Barthen's Provisions</span>
 
 He has curly blonde hair and bright hazel eyes. Late teens, early twenties, strong.
 

@@ -6,7 +6,7 @@ tags:
   - place/town/leilon
 ---
 # Leilon
-*Recovering town, [High Road](../High%20Road.md)*
+<span class="subhead">Recovering town, High Road</span>
 
 Small town that is rebuilding itself after being abandoned for years. 
 

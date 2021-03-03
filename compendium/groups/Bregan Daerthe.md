@@ -4,7 +4,7 @@ tags:
 - group/faction/bregan-daerthe
 ---
 # Bregan D'aerthe
-*Mercenary and mercantile band, (BRAY-gan DAIRTH)*  
+<span class="subhead">Mercenary and mercantile band, (BRAY-gan DAIRTH)</span>  
 
 Bregan D'aerthe was primarily a mercenary and mercantile band. Members, both individuals and the band as a whole, were available for hire to the highest bidder
 

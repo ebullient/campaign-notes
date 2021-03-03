@@ -4,7 +4,8 @@ tags:
 - group/faction/zhenterim
 ---
 # Zhenterim
-![Banner](../../[assets]/attachments/zhentarim-symbol.png#portrait)*The Black Network*  
+<span class="subhead">![Banner](../../[assets]/attachments/zhentarim-symbol.png#portrait)
+The Black Network</span> 
 
 A shadowy organization that seeks to exert secret control over the North through wealth and influence. The Zhentarim seeks to become omnipresent and inescapable, more wealthy and powerful, and most importantly, untouchable. 
 

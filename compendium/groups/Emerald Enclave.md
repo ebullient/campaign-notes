@@ -4,7 +4,7 @@ tags:
 - group/faction/emerald-enclave
 ---
 # Emerald Enclave
-![Banner](/[assets]/attachments/emerald-enclave-symbol.png#portrait)
+<span class="subhead">![Banner](/[assets]/attachments/emerald-enclave-symbol.png#portrait)</span>
 
 The Emerald Enclave is a far-ranging group that opposes threats to the natural world and helps others survive in the wilderness. 
 

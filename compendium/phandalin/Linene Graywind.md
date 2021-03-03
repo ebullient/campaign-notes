@@ -7,8 +7,9 @@ tags:
   - group/merchant/lionshield-coster
 ---
 # Linene Graywind
-![Linene Graywind](/[assets]/attachments/linene-graywind.jpg#portrait)*Human woman, Trading post master, lawful good*  
-*[Lionshield Coster](Lionshield%20Coster.md)*  
+<span class="subhead">![Linene Graywind](/[assets]/attachments/linene-graywind.jpg#portrait)
+Human woman, Trading post master, lawful good  
+[Lionshield Coster](Lionshield%20Coster.md), Phandalin</span> 
 
 A fit, but middle-aged, human woman. Is familiar in use of all weapons she sells.
 Sharp-tongued human woman. Honorable. 

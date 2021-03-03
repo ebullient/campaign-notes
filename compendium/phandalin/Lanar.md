@@ -6,8 +6,9 @@ tags:
   - place/town/phandalin/stonehill-inn
 ---
 # Lanar
-![Lanar](/[assets]/attachments/lanar-miner.jpeg#portrait)*Male human Miner, {{alignment}}*  
-*[Stonehill Inn](Stonehill%20Inn.md)*  
+<span class="subhead">![Lanar](/[assets]/attachments/lanar-miner.jpeg#portrait)
+Male human Miner, {{alignment}}  
+[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
 
 TL;DR description / personality / motivation
 

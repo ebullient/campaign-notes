@@ -4,7 +4,7 @@ tags:
 - group/faction/lords-alliance
 ---
 # The Lords' Alliance
-![Banner](/[assets]/attachments/lords-alliance-banner.png#portrait)  
+<span class="subhead">![Banner](/[assets]/attachments/lords-alliance-banner.png#portrait)</span>  
 
 Coalition of rulers from cities and towns across Faerûn (primarily in the North), who collectively agree that some solidarity is needed to keep evil at bay.
 

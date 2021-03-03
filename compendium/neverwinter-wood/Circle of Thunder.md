@@ -7,7 +7,7 @@ tags:
   - region/north-sword-coast/neverwinter-wood
 ---
 # Circle of Thunder
-*Ritual site for Talos, Neverwinter Wood*
+<span class="subhead">Ritual site for Talos, Neverwinter Wood</span>
 
 Reclusive anchorites gather on this hill to make sacrifices to Talos the storm god. A circle of standing stones atop the hill helps to focus the anchorites’ magic to make the summoning of Gorthok possible.
 

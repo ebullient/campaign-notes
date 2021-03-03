@@ -6,8 +6,8 @@ tags:
   - place/town/phandalin/edermath-orchard
 ---
 # George
-*Male human farmer (fighter), neutral good*  
-*Edermath Orchard*  
+<span class="subhead">Male human farmer (fighter), neutral  
+Edermath Orchard, Phandalin</span>
 
 TL;DR description / personality / motivation
 

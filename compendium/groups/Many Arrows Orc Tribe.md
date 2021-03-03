@@ -9,7 +9,7 @@ tags:
   - group/tribe/many-arrows
 ---
 # Many Arrows
-*Orc tribe*  
+<span class="subhead">Orc tribe</span>
 
 Vicious orc tribe that raided the eastern end of the Triboar Trail. 
 

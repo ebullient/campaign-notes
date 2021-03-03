@@ -4,7 +4,7 @@ tags:
 - group/merchant/lionshield-coster
 ---
 # Lionshield Coster
-*Merchant company*  
+<span class="subhead">Merchant company</span>
 
 The Lionshields are a merchant company based in Yartar. They ship finished goods, like armor and weapons, to Phandalin and other small settlements and towns in the region.
 

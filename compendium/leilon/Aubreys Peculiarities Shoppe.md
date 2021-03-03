@@ -5,7 +5,7 @@ tags:
   - place/town/leilon/aubreys-peculiarities
 ---
 # Aubrey’s Peculiarities Shoppe
-*{{shopType}}, Leilon*  
+<span class="subhead">{{shopType}}, Leilon</span>  
 
 
 

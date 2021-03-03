@@ -6,7 +6,8 @@ tags:
   - group/merchant/lionshield-coster
 ---
 # Lionshield Coster
-![Lionshield Coster](/[assets]/attachments/phandalin-lionshield-linene.jpeg#portrait)*Merchant company trading post, Phandalin*
+<span class="subhead">![Lionshield Coster](/[assets]/attachments/phandalin-lionshield-linene.jpeg#portrait)
+Merchant company trading post, Phandalin</span>
 
 > Hanging above the front door of this modest trading post is a sign shaped like a wooden shield with a blue lion painted on it
 

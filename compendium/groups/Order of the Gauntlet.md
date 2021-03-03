@@ -4,7 +4,7 @@ tags:
 - group/faction/order-of-the-gauntlet
 ---
 # Order of the Gauntlet
-![Banner](/[assets]/attachments/order-gauntlet-symbol.png#portrait)
+<span class="subhead">![Banner](/[assets]/attachments/order-gauntlet-symbol.png#portrait)</span>
 
 A devout and vigilant group that seeks to protect others from the depredations of evildoers. The order is always vigilant, ready to smite evil, enforce justice, and enact retribution against any who try to subjugate or harm others. 
 

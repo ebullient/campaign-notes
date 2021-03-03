@@ -7,8 +7,9 @@ tags:
   - group/faction/order-of-the-gauntlet
 ---
 # Daran Edermath
-![Daran Edermath](/[assets]/attachments/daran-edermath.jpeg#portrait)*Male half-elf orchard-keeper, lawful good*  
-*Edermath Orchard, Phandalin*  
+<span class="subhead">![Daran Edermath](/[assets]/attachments/daran-edermath.jpeg#portrait)
+Male half-elf orchard-keeper, lawful good  
+Edermath Orchard, Phandalin</span>
 
 A fit, silver-haired _half-elf_ well over a hundred years old. He lives in a tidy little cottage beside the apple orchard.
 

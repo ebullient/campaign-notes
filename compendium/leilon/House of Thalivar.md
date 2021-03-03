@@ -5,7 +5,7 @@ tags:
   - place/town/leilon/house-of-thalivar
 ---
 # House of Thalivar
-*{{placeType}}, , Leilon*  
+<span class="subhead">{{placeType}}, Leilon</span>
 
 TL;DR description
 

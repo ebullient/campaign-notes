@@ -6,8 +6,9 @@ tags:
   - place/town/phandalin/smithy
 ---
 # Maccus Strongarm
-![Maccus](/[assets]/attachments/maccus-strongarm.jpeg#portrait)*Male human Blacksmith, neutral good*  
-*Phandalin*  
+<span class="subhead">![Maccus](/[assets]/attachments/maccus-strongarm.jpeg#portrait)
+Male human Blacksmith, neutral good  
+Strongarm Smithy, Phandalin</span>
 
 TL;DR description / personality / motivation
 

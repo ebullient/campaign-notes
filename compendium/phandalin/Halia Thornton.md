@@ -7,14 +7,15 @@ tags:
   - group/faction/zhenterim
 ---
 # Halia Thornton
-![Halia Thornton](/[assets]/attachments/halia-thornton.jpg#portrait)*Female human Guildmaster, lawful neutral*  
-*Phandalin Miner's Exchange*  
+<span class="subhead">![Halia Thornton](/[assets]/attachments/halia-thornton.jpg#portrait)
+Female human Guildmaster, lawful neutral  
+Phandalin Miner's Exchange</span>  
 
 Fierce. Calculating.
 She wants her guild to be the governing body of the village. #story/unexplored
 
 
-<span class="nav">[Details](Halia%20Thornton.md#Details) [Relationships](Halia%20Thornton.md#Relationships) [Secrets](Halia%20Thornton.md#Secrets) [History](Halia%20Thornton.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 ![Halia's home](/[assets]/attachments/phandalin-miners-exchange.jpeg#portrait)*Guild Merchant, Faction Agent*, Commoner

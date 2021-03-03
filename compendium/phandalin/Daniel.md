@@ -6,8 +6,8 @@ tags:
   - place/town/phandalin/woodshop
 ---
 # Daniel #todo
-*Male human Carpenter's apprentice, chaotic good*  
-*Phandalin*  
+<span class="subhead">Male human Carpenter's apprentice, chaotic good  
+Phandalin</span>
 
 TL;DR description / personality / motivation
 

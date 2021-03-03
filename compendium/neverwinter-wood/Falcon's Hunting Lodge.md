@@ -6,7 +6,7 @@ tags:
   - region/north-sword-coast/neverwinter-wood
 ---
 # Falcon's Hunting Lodge
-*Rustic Manor, Neverwinter Wood*
+<span class="subhead">Rustic Manor, Neverwinter Wood</span>
 
 TL;DR description
 

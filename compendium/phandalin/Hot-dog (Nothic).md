@@ -6,8 +6,9 @@ tags:
   - place/town/phandalin/tresendar-manor
 ---
 # Hot Dog (nothic)
-![Hot Dog](/[assets]/attachments/nothic.png#portrait)*Nothic, neutral evil*  
-*[Tresendar Manor](Tresendar%20Manor.md)*  
+<span class="subhead">![Hot Dog](/[assets]/attachments/nothic.png#portrait)
+Nothic, neutral evil  
+[Tresendar Manor](Tresendar%20Manor.md), Phandalin</span>  
 
 Nothic living under the old Tresendar Manor. Was bribed and allowed to continue to live there (to pretend anyone else from living there).
 

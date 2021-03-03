@@ -6,8 +6,9 @@ tags:
   - place/town/phandalin/woodshop
 ---
 # Mirna Dendrar
-![Mirna Dendrar](/[assets]/attachments/mirna-dendrar.png#portrait)*Female human Shopkeeper, lawful good*  
-*The Crafty Hand*  
+<span class="subhead">![Mirna Dendrar](/[assets]/attachments/mirna-dendrar.png#portrait)
+Female human Shopkeeper, lawful good
+*The Crafty Hand  
 
 TL;DR
 

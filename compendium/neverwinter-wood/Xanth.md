@@ -6,8 +6,8 @@ tags:
 - region/north-sword-coast/neverwinter-wood
 ---
 # Xanth
-*Male centaur, neutral good*  
-*[Neverwinter Wood](Neverwinter%20Wood.md)*  
+<span class="subhead">Male centaur, neutral good  
+[Neverwinter Wood](Neverwinter%20Wood.md)</span>
 
 Xanth is very intelligent. While quiet, he is very inquisitive. He learned Common, which is somewhat unusual for a Centaur, so he could converse more easily with humans like Reidoth.  He seems a little slender for a Centaur, but not unnaturally so.
 

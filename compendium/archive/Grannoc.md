@@ -7,8 +7,9 @@ tags:
   - place/ruin/woodland-manse
 ---
 # Grannoc (dead)
-![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)*Male half-orc Anchorite of Talos, neutral evil*  
-*Woodland Manse*  
+<span class="subhead">![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)
+Male half-orc Anchorite of Talos, neutral evil  
+[Woodland Manse](../neverwinter-wood/Woodland%20Manse.md), Neverwinter Wood</span>
 
 Grannoc had hoped Talos will answer his prayers and rain destruction down upon Falcon’s Hunting Lodge.
 

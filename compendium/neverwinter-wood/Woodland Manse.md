@@ -7,7 +7,7 @@ tags:
   - region/north-sword-coast/neverwinter-wood
 ---
 # Woodland Manse
-*Ruined Manor, Neverwinter Wood*
+<span class="subhead">Ruined Manor, Neverwinter Wood</span>
 
 A crumbling two-story manse all but hidden beneath thorny ivy. 
 

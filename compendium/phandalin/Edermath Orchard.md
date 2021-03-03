@@ -5,7 +5,8 @@ tags:
   - place/town/phandalin/edermath-orchard
 ---
 # Edermath Orchard
-![Edermath Orchard](/[assets]/attachments/phandalin-edermath-orchard.jpeg#portrait)*Orchard, Phandalin*  
+<span class="subhead">![Edermath Orchard](/[assets]/attachments/phandalin-edermath-orchard.jpeg#portrait)
+Orchard, Phandalin</span>
 
 An apple orchard located just outside of the ruined town walls on the Northwest edge of Phandalin.
 

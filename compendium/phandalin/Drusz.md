@@ -6,8 +6,9 @@ tags:
   - place/town/phandalin/townmaster-hall
 ---
 # Drusz
-![Drusz](/[assets]/attachments/drusz.png#portrait) *Male goblin {{role/occupation}}, {{alignment}}*  
-*[Townmaster's Hall](Townmaster's%20Hall.md)*  
+<span class="subhead">![Drusz](/[assets]/attachments/drusz.png#portrait)
+Male goblin {{role/occupation}}, {{alignment}}  
+Phandalin</span>  
 
 Drusz is a goblin that was badly abused and bullied by Bugbear's in the Redbrand Hideout.
 

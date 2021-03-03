@@ -6,8 +6,9 @@ tags:
   - place/town/phandalin/stonehill-inn
 ---
 # Amelia Stonehill
-![Adabra Gwynn](/[assets]/attachments/amelia-stonehill.jpeg#portrait)*Female human, Innkeeper's wife, lawful good*  
-*Stonehill Inn, Phandalin*
+<span class="subhead">![Adabra Gwynn](/[assets]/attachments/amelia-stonehill.jpeg#portrait)
+Female human, Innkeeper's wife, lawful good  
+Stonehill Inn, Phandalin</span>
  
 TL;DR description / personality / motivation
 

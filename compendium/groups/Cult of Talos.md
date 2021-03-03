@@ -4,8 +4,9 @@ tags:
 - group/faction/cult-of-talos
 ---
 # The Cult of Talos
-![The symbol of Talos](/[assets]/attachments/talos-holy-symbol.jpg#portrait)
-Members are fervent religious cultists who worship [Talos](#Talos), the Stormlord. The cult is led by the priestess [Fheralai Stormsworn](../Fheralai%20Stormsworn.md).  
+<span class="subhead">![The symbol of Talos](/[assets]/attachments/talos-holy-symbol.jpg#portrait)</span>
+    
+Members are fervent religious cultists who worship [Talos](#Talos), the Stormlord. The cult is led by the priestess [Fheralai Stormsworn](../Fheralai%20Stormsworn.md). 
 
 **Beliefs**
 

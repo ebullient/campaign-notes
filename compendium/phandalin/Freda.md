@@ -6,8 +6,8 @@ tags:
   - place/town/phandalin/stonehill-inn
 ---
 # Freda (weaver)
-*Female human weaver, neutral good*  
-*[Stonehill Inn](Stonehill%20Inn.md), Phandalin*  
+<span class="subhead">Female human weaver, neutral good  
+[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>  
 
 TL;DR description / personality / motivation
 

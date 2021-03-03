@@ -8,8 +8,8 @@ tags:
   - group/mercenaries/stone-cold-reavers
 ---
 # Stone Cold Reavers
-*Mercenaries, neutral evil*  
-*North Sword Coast*  
+<span class="subhead">Mercenaries, neutral evil  
+North Sword Coast</span>
 
 Neutral evil human veterans who speak Common.
 sellswords (brigands, thieves)

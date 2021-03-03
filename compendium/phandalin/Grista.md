@@ -6,13 +6,14 @@ tags:
   - place/town/phandalin/sleeping-giant
 ---
 # Grista
-![Grista](/[assets]/attachments/grista.jpeg#portrait)*Female dwarf barkeep, {{alignment}}*  
-*The Sleeping Giant, Phandalin*  
+<span class="subhead">![Grista](/[assets]/attachments/grista.jpeg#portrait)
+Female dwarf barkeep, {{alignment}}  
+[[The Sleeping Giant]], Phandalin</span> 
 
 Surly.
 
 
-<span class="nav">[Details](Grista.md#Details) [Relationships](Grista.md#Relationships) [Secrets](Grista.md#Secrets) [History](Grista.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *{{Background}}*, Commoner
