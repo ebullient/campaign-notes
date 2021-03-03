@@ -7,7 +7,7 @@ tags:
   - group/faction/bregan-daerthe
 ---
 # Luskan
-*City of Sails, North Sword Coast*
+<span class="subhead">*City of Sails, North Sword Coast*</span>
 
 Luskan, also known as the City of Sails, was a port city at the mouth of the River Mirar on the Sword Coast North. 
 

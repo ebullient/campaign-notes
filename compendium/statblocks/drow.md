@@ -3,8 +3,8 @@ type: statblock
 tags: [statblock]
 ---
 # Drow
-<span class='nav'>[History](#History) [Notes](#Notes)</span>
 
+<span class='nav'>[History](#History) [Notes](#Notes)</span>
 ># Drow
 >*Medium humanoid (elf) , neutral evil*
 >___

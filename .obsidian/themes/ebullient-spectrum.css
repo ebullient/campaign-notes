@@ -215,7 +215,7 @@ h6 {
 }
 
 .cm-header-1,
-h1 {
+.workspace-leaf-content[data-type=markdown] h1 {
   color: var(--text-title-h1);
   font-variant: common-ligatures small-caps;
 }
@@ -227,27 +227,27 @@ blockquote h1 {
 }
 
 .cm-header-2,
-h2 {
+.workspace-leaf-content[data-type=markdown] h2 {
   color: var(--text-title-h2);
 }
 
 .cm-header-3,
-h3 {
+.workspace-leaf-content[data-type=markdown] h3 {
   color: var(--text-title-h3);
 }
 
 .cm-header-4,
-h4 {
+.workspace-leaf-content[data-type=markdown] h4 {
   color: var(--text-title-h4);
 }
 
 .cm-header-5,
-h5 {
+.workspace-leaf-content[data-type=markdown] h5 {
   color: var(--text-title-h5);
 }
 
 .cm-header-6,
-.markdown-preview-view h6 {
+.workspace-leaf-content[data-type=markdown] .markdown-preview-view h6 {
   color: var(--text-title-h6);
 }
 
@@ -261,12 +261,12 @@ h5 {
   font-size: .6em;
 }
 
-.markdown-preview-view h1 code,
-.markdown-preview-view h2 code,
-.markdown-preview-view h3 code,
-.markdown-preview-view h4 code,
-.markdown-preview-view h5 code,
-.markdown-preview-view h6 code {
+.workspace-leaf-content[data-type=markdown] .markdown-preview-view h1 code,
+.workspace-leaf-content[data-type=markdown] .markdown-preview-view h2 code,
+.workspace-leaf-content[data-type=markdown] .markdown-preview-view h3 code,
+.workspace-leaf-content[data-type=markdown] .markdown-preview-view h4 code,
+.workspace-leaf-content[data-type=markdown] .markdown-preview-view h5 code,
+.workspace-leaf-content[data-type=markdown] .markdown-preview-view h6 code {
   font-weight: normal;
   font-size: 75%;
 }
@@ -276,12 +276,12 @@ h5 {
   font-size: 90%;
 }
 
-.markdown-preview-view h1 a.tag,
-.markdown-preview-view h2 a.tag,
-.markdown-preview-view h3 a.tag,
-.markdown-preview-view h4 a.tag,
-.markdown-preview-view h5 a.tag,
-.markdown-preview-view h6 a.tag {
+.workspace-leaf-content[data-type=markdown] .markdown-preview-view h1 a.tag,
+.workspace-leaf-content[data-type=markdown] .markdown-preview-view h2 a.tag,
+.workspace-leaf-content[data-type=markdown] .markdown-preview-view h3 a.tag,
+.workspace-leaf-content[data-type=markdown] .markdown-preview-view h4 a.tag,
+.workspace-leaf-content[data-type=markdown] .markdown-preview-view h5 a.tag,
+.workspace-leaf-content[data-type=markdown] .markdown-preview-view h6 a.tag {
   font-weight: normal;
   font-size: 65%;
   font-variant: common-ligatures;
@@ -290,7 +290,7 @@ h5 {
 .cm-s-obsidian .cm-header.cm-hashtag {
   font-weight: normal;
   font-size: 90%;
-  font-variant: common-ligatures small-caps;
+  font-variant: common-ligatures;
 }
 
 .markdown-preview-view h1,
@@ -302,9 +302,9 @@ h5 {
   margin: 10px 0 5px 0;
 }
 
-h1:first-of-type {
-  padding-bottom: 0px !important;
-  margin-bottom: -20px !important;
+span.subhead {
+  display: block;
+  margin-top: -20px;
 }
 
 .CodeMirror-cursor,
@@ -605,12 +605,12 @@ table tbody tr:hover {
 /*
 *..........................10. Listings */
 .cm-hmd-list-indent .cm-tab,
-ul ul {
+.workspace-leaf-content[data-type=markdown] ul ul {
   position: relative;
 }
 
 .cm-hmd-list-indent .cm-tab::before,
-ul ul::before {
+.workspace-leaf-content[data-type=markdown] ul ul::before {
   content: '';
   border-left: 1px solid var(--main-node);
   position: absolute;
@@ -619,11 +619,11 @@ ul ul::before {
   bottom: 0;
 }
 
-ul li {
+.workspace-leaf-content[data-type=markdown] ul li {
   margin-bottom: 10px;
 }
 
-ul li::marker {
+.workspace-leaf-content[data-type=markdown] ul li::marker {
   color: white;
 }
 
@@ -893,4 +893,14 @@ div[src$="#portrait"] {
 .day-planner .day-planner-progress-bar {
   background: var(--secondary-background);
   background: #cfcfcf;
+}
+
+.workspace-leaf-content[data-type=dangling-links] {
+  padding-top: 0px;
+  font-size: .9em;
+  color: var(--text-muted);
+}
+
+.workspace-leaf-content[data-type=dangling-links] ul {
+  padding-inline-start: 18px;
 }

@@ -1,5 +1,5 @@
 # Dragons on the Sword Coast
-![cryovain](/[assets]/attachments/cryovain.jpeg#portrait)
+<span class="subhead">![cryovain](/[assets]/attachments/cryovain.jpeg#portrait)</span>
 
 Two **young dragons** made the Sword Coast their home at similar times, and fairly closely togehter.
 * **Cryovain**, a young white dragon, displaced a tribe of orcs from a fortress atop Icespire Peak.

@@ -7,8 +7,8 @@ tags:
   - group/faction/cult-of-talos
 ---
 # Moesko
-![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)*Male half-orc Anchorite of Talos, neutral evil*  
-*[Tower of Storms](Tower%20of%20Storms.md)*  
+<span class="subhead">![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)*Male half-orc Anchorite of Talos, neutral evil*  
+*[Tower of Storms](Tower%20of%20Storms.md)*</span>
 
 Moesko uses the tower's pulsing beacon to draw ships to their doom as sacrifices to [Talos](groups/Cult%20of%20Talos.md#Talos), the Storm Lord. 
 

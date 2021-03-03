@@ -6,7 +6,7 @@ tags:
   - type/mine
 ---
 # Mountain's Toe Gold Mine
-*Gold Mine, Sword Mountains*
+<span class="subhead">*Gold Mine, Sword Mountains*</span>
 
 * **Overseer** [Don-Jon Raskin](Don-Jon%20Raskin.md)
 * **Location** 

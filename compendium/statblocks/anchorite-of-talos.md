@@ -3,6 +3,7 @@ type: statblock
 tags: [statblock]
 ---
 # Anchorite of Talos
+
 <span class='nav'>[History](#History) [Notes](#Notes)</span>
 
 ![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)

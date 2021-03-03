@@ -8,8 +8,8 @@ tags:
   - todo
 ---
 # Adabra Gwynn
-![Adabra Gwynn](/[assets]/attachments/adabra-gwynn.jpeg#portrait) *Female human apothecary, neutral good*  
-*Umbrage Hill*
+<span class="subhead">![Adabra Gwynn](/[assets]/attachments/adabra-gwynn.jpeg#portrait) *Female human apothecary, neutral good*  
+*Umbrage Hill*</span>
 
 Midwife, apothecary, potion maker.
 

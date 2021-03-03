@@ -5,7 +5,9 @@ tags:
 - region/north-sword-coast
 ---
 # North Sword Coast
-*A northwest region of the [Sword Coast](../[assets]/attachments/Sword-Coast-Map_HighRes.jpg)*
+<span class="subhead">*A northwest region of the Sword Coast*
+
+- [Map of Sword Coast](../[assets]/attachments/Sword-Coast-Map_HighRes.jpg))
 
 <span class="nav">[Locations](#Locations) [NPCs](#NPCs) [Factions](#Factions)</span>
 

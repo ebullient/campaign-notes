@@ -7,8 +7,8 @@ tags:
 - todo
 ---
 # Black Spider
-*Female [drow](statblocks/drow.md) wizard, chaotic neutral*  
-*Somewhere on the North Sword Coast*
+<span class="subhead">*Female [drow](statblocks/drow.md) wizard, chaotic neutral*  
+*Somewhere on the North Sword Coast*</span>
 
 TL;DR description / personality / motivation
 #todo

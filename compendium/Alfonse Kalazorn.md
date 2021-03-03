@@ -9,8 +9,8 @@ tags:
   - todo
 ---
 # Alfonse "Big Al" Kalazorn
-*{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
-*[Butterskull Ranch](Butterskull%20Ranch.md)*  
+<span class="subhead">*{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
+*[Butterskull Ranch](Butterskull%20Ranch.md)*</span>
 
 TL;DR description / personality / motivation
 

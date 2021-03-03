@@ -5,7 +5,7 @@ tags:
 - region/north-sword-coast/kryptgarden-forest
 ---
 # Kryptgarden Forest
-*Forest in the North Sword Coast*
+<span class="subhead">*Forest in the North Sword Coast*</span>
 
 This ancient forest tucked behind the Sword Mountains contains the ruins of bygone dwarven civilizations. 
 

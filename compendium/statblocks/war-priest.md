@@ -3,6 +3,7 @@ type: statblock
 tags: [statblock]
 ---
 # War Priest 
+
 <span class='nav'>[History](#History) [Notes](#Notes)</span>
 
 > # War Priest

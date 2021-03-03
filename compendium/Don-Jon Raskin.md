@@ -6,8 +6,8 @@ tags:
   - place/settlement/mountains-toe-mine
 ---
 # Don-Jon Raskin
-*Male human Overseer, neutral*  
-*Mountain's Toe Gold Mine*
+<span class="subhead">*Male human Overseer, neutral*  
+*Mountain's Toe Gold Mine*</span>
 
 Full of bluster and stories of his great exploits, Don-Jon Raskin walks and talks like a giant. 
 

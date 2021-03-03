@@ -7,8 +7,8 @@ tags:
 - group/faction/harpers
 ---
 # Mabina Cawood
-![Mabina](/[assets]/attachments/mabina.jpg#portrait)*Female human Merchant, chaotic good*  
-*North Sword Coast*  
+<span class="subhead">![Mabina](/[assets]/attachments/mabina.jpg#portrait)*Female human Merchant, chaotic good*  
+*North Sword Coast*</span>
 
 A woman bustled around her cart. The layers and hood of her robe made it hard to figure out her age. The best that could be determined is not a kid and not a crone.
 

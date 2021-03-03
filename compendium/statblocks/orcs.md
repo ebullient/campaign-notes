@@ -3,7 +3,7 @@ type: statblock
 tags: [statblock]
 ---
 # Orcs on the move
-![orcs](../../[assets]/attachments/orcs.jpeg#portrait)
+<span class="subhead">![orcs](../../[assets]/attachments/orcs.jpeg#portrait)</span>
 
 Orcs have been displaced and are on the move.
 

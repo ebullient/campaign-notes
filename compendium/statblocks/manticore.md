@@ -3,7 +3,7 @@ type: statblock
 tags: [statblock]
 ---
 # Manticores
-![manticore](/[assets]/attachments/manticore.jpeg#portrait)
+<span class="subhead">![manticore](/[assets]/attachments/manticore.jpeg#portrait)</span>
 
 Manticores living in the Sword Mountains were disturbed by the arrival of Cryovain.
 

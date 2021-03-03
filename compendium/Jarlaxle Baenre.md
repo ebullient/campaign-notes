@@ -7,8 +7,8 @@ tags:
   - place/city/luskan
 ---
 # Jarlaxle Baenre
-![Jarlaxle-5e](../[assets]/attachments/Jarlaxle-5e.png#portrait)*Male [drow](statblocks/drow.md) Leader of [Bregan D'aerthe](groups/Bregan%20Daerthe.md), chaotic neutral*  
-*Luskan*
+<span class="subhead">![Jarlaxle-5e](../[assets]/attachments/Jarlaxle-5e.png#portrait)*Male drow Leader of [Bregan D'aerthe](groups/Bregan%20Daerthe.md), chaotic neutral*  
+*Luskan*</span>
 
 a male drow of considerable wealth and power, is the secret lord of Luskan and the head of the Bregan D’aerthe, a faction of renegade drow. 
 

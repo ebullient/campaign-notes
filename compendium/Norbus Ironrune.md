@@ -6,8 +6,8 @@ tags:
   - place/ruin/dwarven-excavation
 ---
 # Norbus Ironrune
-![Norbus Ironrune](/[assets]/attachments/norbus-ironrune.jpeg#portrait)*Male dwarf prospector, {{alignment}}*  
-*[Dwarven Excavation](Dwarven%20Excavation.md)*  
+<span class="subhead">![Norbus Ironrune](/[assets]/attachments/norbus-ironrune.jpeg#portrait)*Male dwarf prospector, {{alignment}}*  
+*[Dwarven Excavation](Dwarven%20Excavation.md)*</span>
 
 TL;DR description / personality / motivation
 

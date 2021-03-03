@@ -3,8 +3,8 @@ type: statblock
 tags: [statblock]
 ---
 # Gulthias Tree
-<span class='nav'>[History](#History) [Notes](#Notes)</span>
 
+<span class='nav'>[History](#History) [Notes](#Notes)</span>
 > # Guthias Tree
 >*Huge plant, neutral evil*
 >___

@@ -6,8 +6,8 @@ tags:
 - iff/unknown
 ---
 # Gildas "Glasstaff"
-*{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
-*{{location}}*  
+<span class="subhead">*{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
+*{{location}}*</span>
 
 TL;DR description / personality / motivation
 #todo

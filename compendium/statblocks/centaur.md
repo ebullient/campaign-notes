@@ -3,6 +3,7 @@ type: statblock
 tags: [statblock]
 ---
 # Centaurs
+
 Reclusive wanderers and omen-readers of the wild, centaurs avoid conflict but fight fiercely when pressed. They roam the vast Wilderness, keeping far from borders, laws, and the company of other creatures.
 
 <span class='nav'>[History](#History) [Notes](#Notes)</span>
