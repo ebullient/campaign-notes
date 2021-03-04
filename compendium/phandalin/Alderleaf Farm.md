@@ -4,9 +4,9 @@ tags:
   - place/town/phandalin/alderleaf-farm
   - type/farm
 ---
+![Alderleaf farm](/[assets]/attachments/phandalin-alderleaf-farm.jpeg#portrait)
 # Alderleaf Farm
-<span class="subhead">![Alderleaf farm](/[assets]/attachments/phandalin-alderleaf-farm.jpeg#portrait)
-Farm, Phandalin</span>
+<span class="subhead">Farm, Phandalin</span>
 
 TL;DR description
 

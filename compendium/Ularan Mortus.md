@@ -7,8 +7,8 @@ tags:
 - todo
 ---
 # Ularan Mortus
-*Male {{race}} priest, {{alignment}}*  
-*{{location}}*  
+<span class="subhead">Male {{race}} priest, {{alignment}}  
+{{location}}</span>
 
 TL;DR description / personality / motivation
 

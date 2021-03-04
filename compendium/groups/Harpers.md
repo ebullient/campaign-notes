@@ -3,8 +3,8 @@ type: faction
 tags:
 - group/faction/harpers
 ---
+![Banner](/[assets]/attachments/harpers-symbol.png#portrait)
 # The Harpers
-<span class="subhead">![Banner](/[assets]/attachments/harpers-symbol.png#portrait)</span>
 
 The Harpers, or *Those Who Harp*, are a scattered network of adventurers and spies who advocate equality and covertly oppose the abuse of power. The Harpers gather information throughout the land to thwart tyrants. They aid the weak, the poor, and the oppressed. 
 
@@ -22,7 +22,7 @@ The Harpers are dedicated to promoting good, preserving history (including art a
 
 Harper agents are often proficient in Investigation, enabling them to be adept at snooping and spying. They often seek aid from other Harpers, sympathetic bards and innkeepers, rangers, and the clergy of gods' that are aligned with the Harpers' ideals.
 
-<span class="nav">[NPCs](#NPCs) [History](#History) [Reference](#Reference)</span>
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Locations
 

@@ -12,5 +12,5 @@ Large cities use temple bells to mark the hours
 
 
 ## Calendar
-![calendar-of-harptos](../[assets]/attachments/calendar-of-harptos.jpg)
+![calendar-of-harptos](/[assets]/attachments/calendar-of-harptos.jpg)
 

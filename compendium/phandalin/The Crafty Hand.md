@@ -5,7 +5,7 @@ tags:
   - place/town/phandalin/woodshop
 ---
 # The Crafty Hand
-*Carpenter's shop, Phandalin*  
+<span class="subhead">Carpenter's shop, Phandalin</span>
 
 Thel is a fine woodwoorker, and the shop has several fine pieces of workmanship on display. 
 
@@ -18,7 +18,7 @@ Mirna also sells potions and medicines made by Adabra Gwynn (a long-distance cra
 
 <span class="nav">[For Sale](The%20Crafty%20Hand.md#For%5C%20Sale Sale) | [NPCs](The%20Crafty%20Hand.md#NPCs) [History](The%20Crafty%20Hand.md#History)</span>
 
-## For Sale
+## Selling
 
 * Potions of healing cost 50gp
 

@@ -5,10 +5,10 @@ tags:
   - iff/unknown
   - place/town/phandalin/sleeping-giant
 ---
+![Grista](/[assets]/attachments/grista.jpeg#portrait)
 # Grista
-<span class="subhead">![Grista](/[assets]/attachments/grista.jpeg#portrait)
-Female dwarf barkeep, {{alignment}}  
-[[The Sleeping Giant]], Phandalin</span> 
+<span class="subhead">Female dwarf barkeep, {{alignment}}  
+[The Sleeping Giant](The%20Sleeping%20Giant.md), Phandalin</span> 
 
 Surly.
 

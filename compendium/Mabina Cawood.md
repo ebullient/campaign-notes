@@ -6,9 +6,10 @@ tags:
 - region/north-sword-coast
 - group/faction/harpers
 ---
+![Mabina](/[assets]/attachments/mabina.jpg#portrait)
 # Mabina Cawood
-<span class="subhead">![Mabina](/[assets]/attachments/mabina.jpg#portrait)*Female human Merchant, chaotic good*  
-*North Sword Coast*</span>
+<span class="subhead">Female human Merchant, chaotic good  
+Sword Coast North</span>
 
 A woman bustled around her cart. The layers and hood of her robe made it hard to figure out her age. The best that could be determined is not a kid and not a crone.
 
@@ -19,7 +20,7 @@ She will identify items for the party for free as a result of "The Splendiferous
 ## Details
 ![Wagon](/[assets]/attachments/mabina-wagon.png#portrait)*Student of Magic*, Commoner
 
-Through her own magical means, Mabina and her wagon traverse the North Sword Coast, trading magical items. Trade in magical items is a dicey busines, but it is one that Mabina loves with all her heart.
+Through her own magical means, Mabina and her wagon traverse the Sword Coast North, trading magical items. Trade in magical items is a dicey busines, but it is one that Mabina loves with all her heart.
 
 * **Ideals** Magic should be used to protect and improve the lives of the common people
 * **Bonds** I had a rival all throughout my training, we still compete.

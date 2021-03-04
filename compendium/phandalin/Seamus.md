@@ -6,12 +6,12 @@ tags:
   - place/town/phandalin/smithy
 ---
 # Seamus
-*Male human Apprentice Blacksmith, {{alignment}}*  
-*[Strongarm Smithy](Strongarm%20Smithy.md)*  
+<span class="subhead">Male human Apprentice Blacksmith, {{alignment}}  
+[Strongarm Smithy](Strongarm%20Smithy.md), Phandalin</span>
 
 TL;DR description / personality / motivation #todo
 
-<span class="nav">[Details](Seamus.md#Details) [Relationships](Seamus.md#Relationships) [Secrets](Seamus.md#Secrets) [History](Seamus.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *Farmer, Criminal*, Redbrand Bandit

@@ -2,11 +2,11 @@
 type: location
 xtags: 
 - type/town
-- town/...
-- region/...
+- {{town-tag}}
+- region/name
 ---
 # {{Title}}
-*{{townSize}}, {{context}}*  
+<span class="subhead">{{townSize}}, {{context}}</span>
 
 * **Population**
 * **Government**
@@ -16,18 +16,18 @@ xtags:
 ## Places
 
 ```dataview
-list from #town/...
+list from #{{town-tag}}
 where type = "location"
 ```
 
 ## NPCs
 
 ```dataview
-list from #town/...
+list from #{{town-tag}}
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #town/...   and "pc-logs"
+list from #{{town-tag}} and "pc-logs"
 ```

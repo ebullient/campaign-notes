@@ -6,7 +6,7 @@ tags:
   - region/north-sword-coast/sword-mountains
 ---
 # Axeholm
-<span class="subhead">*Resettled Dwarven stronghold, Sword Mountains*</span>
+<span class="subhead">Resettled Dwarven stronghold, Sword Mountains</span>
 
 The ancient dwarven fortress is only 15 miles south of Phandalin, and had been sealed for years. Old stories and rumors said it was haunted (it was). 
 

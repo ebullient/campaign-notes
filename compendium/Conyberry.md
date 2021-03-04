@@ -6,7 +6,7 @@ tags:
   - region/north-sword-coast/triboar-trail
 ---
 # Conyberry
-<span class="subhead">*Ruined town, Triboar Trail*</span>
+<span class="subhead">Ruined town, Triboar Trail</span>
 
 Abandoned town, sacked by barbarians years ago. Now lies in ruins.
 

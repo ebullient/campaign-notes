@@ -15,7 +15,7 @@ Vicious orc tribe that raided the eastern end of the Triboar Trail.
 
 The tribe was rendered leaderless by Cryovain, its members scattered into different smaller roving bands.
 
-<span class="nav">[NPCs](#NPCs) [History](#History) [References](#References)</span>
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Locations
 

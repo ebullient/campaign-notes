@@ -6,14 +6,15 @@ tags:
   - place/town/phandalin/alderleaf-farm
 ---
 # Qelline Alderleaf
-![Qelline Alderleaf](/[assets]/attachments/qelline-alderleaf.jpeg#portrait)*Female Halfling Farmer, Neutral good*  
-*Alderleaf Farm, Phandalin*  
+<span class="subhead">![Qelline Alderleaf](/[assets]/attachments/qelline-alderleaf.jpeg#portrait)
+Female Halfling Farmer, Neutral good  
+Alderleaf Farm, Phandalin</span>
 
 Pragmatic and wise farmer who seems to know everything going on in the town. 
 
 Qelline is a kind soul, always willing to let travelers stay in the hayloft in her barn. 
 
-<span class="nav">[Details](Quelline%20Alderleaf.md#Details) [Relationships](Quelline%20Alderleaf.md#Relationships) [Secrets](Quelline%20Alderleaf.md#Secrets) [History](Quelline%20Alderleaf.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *Farmer*, Commoner

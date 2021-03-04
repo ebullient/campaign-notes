@@ -5,17 +5,17 @@ tags:
   - iff/friend
   - place/town/phandalin/stonehill-inn
 ---
+![Amelia Stonehill](/[assets]/attachments/amelia-stonehill.jpeg#portrait)
 # Amelia Stonehill
-<span class="subhead">![Adabra Gwynn](/[assets]/attachments/amelia-stonehill.jpeg#portrait)
-Female human, Innkeeper's wife, lawful good  
+<span class="subhead">Female human, Innkeeper's wife, lawful good  
 Stonehill Inn, Phandalin</span>
  
 TL;DR description / personality / motivation
 
-<span class="nav">[Details](Amelia%20Stonehill.md#Details) [Relationships](Amelia%20Stonehill.md#Relationships) [Secrets](Amelia%20Stonehill.md#Secrets) [History](Amelia%20Stonehill.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*{{Background}}*, Commoner
+<span class="subhead">{{Background}}, Commoner</span>
 
 * **Trait**
 * **Ideals**

@@ -1,0 +1,35 @@
+.markdown-preview-view .timeline-container h1:before,
+.markdown-preview-view .timeline-container h2:before,
+.markdown-preview-view .timeline-container h3:before,
+.markdown-preview-view .timeline-container h4:before,
+.markdown-preview-view .timeline-container h5:before,
+.markdown-preview-view .timeline-container h6:before {
+  display: none;
+}
+.timeline-card a.internal-link {
+  text-decoration: none;
+}
+
+.theme-dark .markdown-preview-view .timeline-container h2 {
+  color: var(--gray-mid-dark);
+}
+.theme-dark .timeline-card.enemy a.internal-link {
+  color: var(--dark-6);
+}
+.theme-dark .timeline-card.npc a.internal-link {
+  color: var(--dark-3);
+}
+.theme-dark .timeline-card.player a.internal-link {
+  color: var(--bright-4);
+}
+.theme-dark .timeline-card.place a.internal-link {
+  color: var(--bright-2);
+}
+
+.theme-dark .timeline-card.enemy a.internal-link:hover,
+.theme-dark .timeline-card.npc a.internal-link:hover,
+.theme-dark .timeline-card.player a.internal-link:hover,
+.theme-dark .timeline-card.place a.internal-link:hover,
+.theme-dark .timeline-card a.internal-link:hover {
+    color: var(--bright-6);
+}

@@ -3,8 +3,9 @@ type: faction
 tags:
 - group/faction/emerald-enclave
 ---
+![Banner](/[assets]/attachments/emerald-enclave-symbol.png#portrait)
 # Emerald Enclave
-<span class="subhead">![Banner](/[assets]/attachments/emerald-enclave-symbol.png#portrait)</span>
+
 
 The Emerald Enclave is a far-ranging group that opposes threats to the natural world and helps others survive in the wilderness. 
 
@@ -21,7 +22,7 @@ The enclave works to restore and preserve the natural order by keeping the eleme
 
 Those who serve the faction are masters of survival and can live off the land. They are often proficient in Nature, and can seek assistance from woodsmen, hunters, rangers, barbarian tribes, druid circles, and priests who revere the gods of nature.
 
-<span class="nav">[NPCs](#NPCs) [History](#History) [Reference](#Reference)</span>
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Locations
 

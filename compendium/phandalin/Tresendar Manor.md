@@ -4,8 +4,9 @@ tags:
   - place/town/phandalin/tresendar-manor
   - type/manor
 ---
+![Tresendar Manor](/[assets]/attachments/phandalin-tresendar-manor.jpeg#portrait)
 # Tresendar Manor
-*Ruined manor, Phandalin*
+<span class="subhead">Ruined manor, Phandalin</span>
 
 Home to [Hot-dog (Nothic)](Hot-dog%20(Nothic).md). 
 Cleared of Redbrands.

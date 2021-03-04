@@ -4,15 +4,15 @@ tags:
   - type/farm
   - place/town/phandalin/edermath-orchard
 ---
+![Edermath Orchard](/[assets]/attachments/phandalin-edermath-orchard.jpeg#portrait)
 # Edermath Orchard
-<span class="subhead">![Edermath Orchard](/[assets]/attachments/phandalin-edermath-orchard.jpeg#portrait)
-Orchard, Phandalin</span>
+<span class="subhead">Orchard, Phandalin</span>
 
 An apple orchard located just outside of the ruined town walls on the Northwest edge of Phandalin.
 
 * **Owner** [Daran Edermath](Daran%20Edermath.md)
 
-<span class="nav">[NPCs](Edermath%20Orchard.md#NPCs) [History](Edermath%20Orchard.md#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
 

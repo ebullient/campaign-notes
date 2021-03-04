@@ -4,10 +4,12 @@ tags:
   - npc/alive
   - iff/unknown
   - place/ruin/dwarven-excavation
+  - place/settlement/axeholm
 ---
+![Norbus Ironrune](/[assets]/attachments/norbus-ironrune.jpeg#portrait)
 # Norbus Ironrune
-<span class="subhead">![Norbus Ironrune](/[assets]/attachments/norbus-ironrune.jpeg#portrait)*Male dwarf prospector, {{alignment}}*  
-*[Dwarven Excavation](Dwarven%20Excavation.md)*</span>
+<span class="subhead">Male dwarf prospector, {{alignment}}  
+Axeholm, Sword Mountains</span>
 
 TL;DR description / personality / motivation
 
@@ -24,6 +26,7 @@ TL;DR description / personality / motivation
 ## Relationships
 
 * Works with [Dazlyn Grayshard](Dazlyn%20Grayshard.md)
+* Worked on [Dwarven Excavation](Dwarven%20Excavation.md) site
 
 ## Secrets
 

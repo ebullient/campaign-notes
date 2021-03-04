@@ -3,8 +3,8 @@ type: faction
 tags:
 - group/faction/lords-alliance
 ---
+![Banner](/[assets]/attachments/lords-alliance-banner.png#portrait)
 # The Lords' Alliance
-<span class="subhead">![Banner](/[assets]/attachments/lords-alliance-banner.png#portrait)</span>  
 
 Coalition of rulers from cities and towns across Faerûn (primarily in the North), who collectively agree that some solidarity is needed to keep evil at bay.
 
@@ -22,7 +22,7 @@ The Lords' Alliance includes the strongest mercantile powers of the North. They 
 
 Alliance agents are required to be knowledgable in History, and can always rely on the aid of the governments that are part of the Alliance, plus other leaders and groups who uphold the Alliance's ideals.
 
-<span class="nav">[NPCs](#NPCs) [History](#History) [Reference](#Reference)</span>
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Locations
 

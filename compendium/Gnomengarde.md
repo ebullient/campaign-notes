@@ -6,7 +6,7 @@ tags:
   - region/north-sword-coast/sword-mountains
 ---
 # Gnomengarde
-<span class="subhead">*Rock Gnome Recluse enclave, Sword Mountains*</span>
+<span class="subhead">Rock Gnome Recluse enclave, Sword Mountains</span>
 
 TL;DR description
 

@@ -5,18 +5,18 @@ tags:
   - place/town/phandalin/lionshield-coster
   - group/merchant/lionshield-coster
 ---
+![Lionshield Coster](/[assets]/attachments/phandalin-lionshield-linene.jpeg#portrait)
 # Lionshield Coster
-<span class="subhead">![Lionshield Coster](/[assets]/attachments/phandalin-lionshield-linene.jpeg#portrait)
-Merchant company trading post, Phandalin</span>
+<span class="subhead">Merchant company trading post, Phandalin</span>
 
 > Hanging above the front door of this modest trading post is a sign shaped like a wooden shield with a blue lion painted on it
 
 * **Owner** [Linene Graywind](Linene%20Graywind.md) is the master of the trading post, which is owned by the [Lionshield Coster merchant company](../groups/Lionshield%20Coster.md).
 * **Location** Across from the Townmaster's Hall, next to the Town Green
 
-<span class="nav">[For Sale](Lionshield%20Coster.md#For%5C%20Sale Sale) [NPCs](Lionshield%20Coster.md#NPCs) [History](Lionshield%20Coster.md#History)</span>
+<span class="nav">[Selling](#Selling) [NPCs](#NPCs) [History](#History)</span>
 
-## For Sale
+## Selling
 
 ## NPCs
 

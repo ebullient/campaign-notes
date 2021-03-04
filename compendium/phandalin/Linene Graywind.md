@@ -6,9 +6,9 @@ tags:
   - place/town/phandalin/lionshield-coster
   - group/merchant/lionshield-coster
 ---
+![Linene Graywind](/[assets]/attachments/linene-graywind.jpg#portrait)
 # Linene Graywind
-<span class="subhead">![Linene Graywind](/[assets]/attachments/linene-graywind.jpg#portrait)
-Human woman, Trading post master, lawful good  
+<span class="subhead">Human woman, Trading post master, lawful good  
 [Lionshield Coster](Lionshield%20Coster.md), Phandalin</span> 
 
 A fit, but middle-aged, human woman. Is familiar in use of all weapons she sells.
@@ -18,7 +18,7 @@ Master of the Phandalin post of [Lionshield Coster](Lionshield%20Coster.md)
 
 The Lionshield Coster won’t sell weapons to anyone she thinks might be a threat to the town willing to share news about what is going on in the town with customers.
 
-<span class="nav">[Details](Linene%20Graywind.md#Details) [Relationships](Linene%20Graywind.md#Relationships) [Secrets](Linene%20Graywind.md#Secrets) [History](Linene%20Graywind.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 ![Linene's Home](/[assets]/attachments/phandalin-lionshield-linene.jpeg#portrait)*{{Background}}*, Commoner

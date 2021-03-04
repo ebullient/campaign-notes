@@ -11,7 +11,7 @@ tags:
 
 TL;DR description / personality / motivation
 
-<span class="nav">[Details](Freda.md#Details) [Relationships](Freda.md#Relationships) [Secrets](Freda.md#Secrets) [History](Freda.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *{{Background}}*, Commoner

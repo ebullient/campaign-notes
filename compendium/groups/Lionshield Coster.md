@@ -11,7 +11,7 @@ The Lionshields are a merchant company based in Yartar. They ship finished goods
 * [Linene Graywind](../phandalin/Linene%20Graywind.md) is the master of the trading post in Phandalin.
 * The nearest trading post is "The Lion's Share" in Triboar, run by Narth Tezrin and Alaestra Ulgar
 
-<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Locations
 

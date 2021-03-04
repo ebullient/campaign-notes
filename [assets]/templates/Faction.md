@@ -1,10 +1,10 @@
 ---
 type: faction
 xtags:
-- group/...
+- {{factionTag}}
 ---
 # {{Title}}
-*{{short description}}*  
+<span class="subhead">{{short description}}</span>
 
 TL;DR 
 
@@ -21,17 +21,27 @@ More...
 * **Enemies** 
 
 
-<span class="nav">[NPCs](#NPCs) [History](#History) [References](#References)</span>
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
+
+## Locations
+
+```dataview
+list from #{{factionTag}}
+where type = "location"
+```
 
 ## NPCs
 
 ```dataview
-list from #shop-tag
+list from #{{factionTag}}
 where type = "npc"
 ```
 
 ## History
 
+```dataview
+list from #{{factionTag}}  and "pc-logs"
+```
 
 ## References
 

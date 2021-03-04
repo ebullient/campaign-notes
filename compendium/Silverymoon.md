@@ -6,7 +6,7 @@ tags:
   - region/northwest/silver-marches
 ---
 # Silverymoon
-*The gem of the North, Confederacy of Silver Marches*  
+<span class="subhead">The gem of the North, Confederacy of Silver Marches</span>
 
 Silverymoon was often dubbed "the Gem of the North", for it resembled and emulated the (formerly) lost elven city of Myth Drannor in many respects. It is one of the few civilized places in the middle of the rough and untamed wilderness that is the North of Faerûn. 
 

@@ -6,9 +6,9 @@ tags:
   - place/landmark/circle-of-thunder
   - group/faction/cult-of-talos
 ---
+![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)
 # Yargath
-<span class="subhead">![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)
-Male half-orc Anchorite of Talos, neutral evil  
+<span class="subhead">Male half-orc Anchorite of Talos, neutral evil  
 [Circle of Thunder](../neverwinter-wood/Circle%20of%20Thunder.md), Neverwinter Wood</span>
 
 Yargath was tall, and mean looking, with several missing teeth. He had shoulder-length, thin dark hair that wass held out of his face by a thin leather band. He used flowery speech and long words. 

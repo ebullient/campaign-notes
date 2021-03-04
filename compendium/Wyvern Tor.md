@@ -6,7 +6,7 @@ tags:
   - region/north-sword-coast/triboar-trail
 ---
 # Wyvern Tor
-*Landmark, Triboar Trail*  
+<span class="subhead">Landmark, Triboar Trail</span>
 
 Wyvern Tor is a towering crag in the rugged hills northeast of the Sword Mountains, and is easily seen by any on the Triboar Trail near the vicinity of Conyberry. 
 

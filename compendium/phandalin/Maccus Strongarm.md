@@ -5,14 +5,14 @@ tags:
   - iff/unknown
   - place/town/phandalin/smithy
 ---
+![Maccus](/[assets]/attachments/maccus-strongarm.jpeg#portrait)
 # Maccus Strongarm
-<span class="subhead">![Maccus](/[assets]/attachments/maccus-strongarm.jpeg#portrait)
-Male human Blacksmith, neutral good  
+<span class="subhead">Male human Blacksmith, neutral good  
 Strongarm Smithy, Phandalin</span>
 
 TL;DR description / personality / motivation
 
-<span class="nav">[Details](Maccus%20Strongarm.md#Details) [Relationships](Maccus%20Strongarm.md#Relationships) [Secrets](Maccus%20Strongarm.md#Secrets) [History](Maccus%20Strongarm.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *{{Background}}*, Commoner

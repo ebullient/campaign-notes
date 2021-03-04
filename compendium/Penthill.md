@@ -6,7 +6,7 @@ tags:
   - place/town/pentill
 ---
 # Penthill
-*{{placeType}}, {{town}}*
+<span class="subhead">{{placeType}}, {{town}}</span>
 
 Off the east edge of the current map
 Site of Igor's Challenge

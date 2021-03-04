@@ -1,0 +1,14 @@
+.subhead {
+  font-style: italic;
+  font-weight: 400;
+  font-size: .9em;
+  line-height: 1.2em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.theme-dark .subhead {
+  color: var(--gray-blue);
+}
+.theme-light .subhead {
+  color: var(--gray-dark-1);
+}

@@ -2,10 +2,10 @@
 type: location
 xtags: 
 - type/...
-- region/...
+- {{regionTag}}
 ---
 # {{Title}}
-*{{placeType}}, {{town}}*  
+<span class="subhead">{{placeType}}, {{town}}</span>
 
 TL;DR description
 
@@ -17,11 +17,11 @@ TL;DR description
 ## NPCs
 
 ```dataview
-list from #shop-tag
+list from #{{regionTag}}
 where type = "npc"
 ```
 
 ## History
 ```dataview
-list from #shop-tag   and "pc-logs"
+list from #{{regionTag}} and "pc-logs"
 ```

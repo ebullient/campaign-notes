@@ -20,8 +20,7 @@ More...
 * **Allegiances** 
 * **Enemies** 
 
-
-<span class="nav">[NPCs](#NPCs) [History](#History) [References](#References)</span>
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Myrkul
 

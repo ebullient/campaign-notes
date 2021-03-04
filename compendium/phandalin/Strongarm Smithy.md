@@ -5,7 +5,7 @@ tags:
   - place/town/phandalin/smithy
 ---
 # Strongarm Smithy
-*Blacksmith, Phandalin*  
+<span class="subhead">Blacksmith, Phandalin</span>
 
 
 * **Owner** [Maccus Strongarm](Maccus%20Strongarm.md)
@@ -15,7 +15,7 @@ tags:
 
 <span class="nav">[For Sale](Strongarm%20Smithy.md#For%5C%20Sale Sale) [NPCs](Strongarm%20Smithy.md#NPCs) [History](Strongarm%20Smithy.md#History)</span>
 
-## For Sale
+## Selling
 
 ## NPCs
 

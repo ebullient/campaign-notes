@@ -6,9 +6,9 @@ tags:
   - place/town/phandalin/miners-exchange
   - group/faction/zhenterim
 ---
+![Halia Thornton](/[assets]/attachments/halia-thornton.jpg#portrait)
 # Halia Thornton
-<span class="subhead">![Halia Thornton](/[assets]/attachments/halia-thornton.jpg#portrait)
-Female human Guildmaster, lawful neutral  
+<span class="subhead">Female human Guildmaster, lawful neutral  
 Phandalin Miner's Exchange</span>  
 
 Fierce. Calculating.

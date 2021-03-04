@@ -5,14 +5,14 @@ tags:
   - iff/unknown
   - place/town/phandalin/alderleaf-farm
 ---
+![Carp Alderleaf](/[assets]/attachments/carp-alderleaf.jpg#portrait)
 # Carp Alderleaf
-<span class="subhead">![Carp Alderleaf](/[assets]/attachments/carp-alderleaf.jpg#portrait)
-Male halfling farmboy, chaotic good  
+<span class="subhead">Male halfling farmboy, chaotic good  
 Alderleaf Farm, Phandalin</span>
 
 Spirited and precocious halfling 10-year-old. Enchanted by the idea of being an adventurer.
 
-<span class="nav">[Details](Carp%20Alderleaf.md#Details) [Relationships](Carp%20Alderleaf.md#Relationships) [Secrets](Carp%20Alderleaf.md#Secrets) [History](Carp%20Alderleaf.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 ![Alderleaf farm](/[assets]/attachments/phandalin-alderleaf-farm.jpeg#portrait)*{{Background}}*, Commoner

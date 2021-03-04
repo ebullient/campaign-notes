@@ -9,15 +9,15 @@ tags:
   - todo
 ---
 # Alfonse "Big Al" Kalazorn
-<span class="subhead">*{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
-*[Butterskull Ranch](Butterskull%20Ranch.md)*</span>
+<span class="subhead">{{gender}} {{race}} {{role/occupation}}, {{alignment}}  
+[Butterskull Ranch](Butterskull%20Ranch.md), Triboar Trail</span>
 
 TL;DR description / personality / motivation
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*{{Background}}*, Commoner
+<span class="subhead">{{Background}}, Commoner</span>
 
 * **Trait**
 * **Ideals**

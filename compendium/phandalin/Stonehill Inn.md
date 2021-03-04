@@ -6,7 +6,7 @@ tags:
   - place/town/phandalin/stonehill-inn
 ---
 # Stonehill Inn
-*Inn, Phandalin*
+<span class="subhead">Inn, Phandalin</span>
 
 The Stonehill Inn is just the place to find welcome in Phandalin. 
 

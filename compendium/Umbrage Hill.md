@@ -7,7 +7,7 @@ tags:
   - place/settlement/umbrage-hill
 ---
 # Umbrage Hill
-*Windmill settlement, North Sword Coast*
+<span class="subhead">Windmill settlement, Sword Coast North</span>
 
 TL;DR description
 

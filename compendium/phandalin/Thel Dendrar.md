@@ -5,13 +5,14 @@ tags:
   - iff/friend
   - place/town/phandalin/woodshop
 ---
+![Thel Dendrar](/[assets]/attachments/thel-dendrar.jpeg#portrait)
 # Thel Dendrar
-![Thel Dendrar](/[assets]/attachments/thel-dendrar.jpeg#portrait)*Male human carpenter, lawful good*  
-*The Crafty Hand*  
+<span class="subhead">Male human carpenter, lawful good  
+The Crafty Hand, Phandalin</span> 
 
 TL;DR description / personality / motivation
 
-<span class="nav">[Details](Thel%20Dendrar.md#Details) [Relationships](Thel%20Dendrar.md#Relationships) [Secrets](Thel%20Dendrar.md#Secrets) [History](Thel%20Dendrar.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *Craftsman*, Commoner

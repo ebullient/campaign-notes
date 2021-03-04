@@ -4,8 +4,9 @@ tags:
   - type/shop/trading-post
   - place/town/phandalin/miners-exchange
 ---
+![Miner's Exchange](/[assets]/attachments/phandalin-miners-exchange.jpeg#portrait)
 # Phandalin Miner's Exchange
-![Miner's Exchange](/[assets]/attachments/phandalin-miners-exchange.jpeg#portrait)*Trading post, Phandalin*
+<span class="subhead">Trading post, Phandalin</span>
 
 Miners come here to have valuable finds weighted and measured, to exchange for gps. Great place to meet people who spend a lot of time out and about the countryside surrounding Phandalin. 
 

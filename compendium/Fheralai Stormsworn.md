@@ -7,8 +7,8 @@ tags:
 - todo
 ---
 # Fheralai Stormsworn
-<span class="subhead">*Female half-orc war priest, {{alignment}}*  
-*{{location}}*</span>
+<span class="subhead">Female half-orc war priest, {{alignment}}  
+{{location}}</span>
 
 Fheralai is a fanatical young half-orc war priest. She plans to invade the Sword Coast
 

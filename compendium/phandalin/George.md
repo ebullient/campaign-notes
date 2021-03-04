@@ -11,7 +11,7 @@ Edermath Orchard, Phandalin</span>
 
 TL;DR description / personality / motivation
 
-<span class="nav">[Details](George.md#Details) [Relationships](George.md#Relationships) [Secrets](George.md#Secrets) [History](George.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *Farmer, Criminal*, Redbrand Bandit

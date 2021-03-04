@@ -11,7 +11,7 @@ Stonehill Inn, Phandalin</span>
 
 Bredon is the cook at the Stonehill Inn
 
-<span class="nav">[Details](Bredon.md#Details) [Relationships](Bredon.md#Relationships) [Secrets](Bredon.md#Secrets) [History](Bredon.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *{{Background}}*, Commoner

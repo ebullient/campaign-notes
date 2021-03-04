@@ -8,7 +8,7 @@ tags:
   - group/tribe/many-arrows
 ---
 # Shrine of Savras
-*Ruined Shrine, Triboar Trail*
+<span class="subhead">Ruined Shrine, Triboar Trail</span>
 
 TL;DR description
 

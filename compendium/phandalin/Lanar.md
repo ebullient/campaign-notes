@@ -5,14 +5,14 @@ tags:
   - iff/unknown
   - place/town/phandalin/stonehill-inn
 ---
+![Lanar](/[assets]/attachments/lanar-miner.jpeg#portrait)
 # Lanar
-<span class="subhead">![Lanar](/[assets]/attachments/lanar-miner.jpeg#portrait)
-Male human Miner, {{alignment}}  
+<span class="subhead">Male human Miner, {{alignment}}  
 [Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
 
 TL;DR description / personality / motivation
 
-<span class="nav">[Details](Lanar.md#Details) [Relationships](Lanar.md#Relationships) [Secrets](Lanar.md#Secrets) [History](Lanar.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *Craftsman*, Commoner

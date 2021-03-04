@@ -5,13 +5,14 @@ tags:
   - iff/unknown
   - place/town/phandalin/stonehill-inn
 ---
+![Narth](/[assets]/attachments/narth.jpeg#portrait)
 # Narth
-![Narth](/[assets]/attachments/narth.jpeg#portrait)*Male human farmer, neutral good*  
-*[Stonehill Inn](Stonehill%20Inn.md), Phandalin*  
+<span class="subhead">Male human farmer, neutral good  
+[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
 
 TL;DR description / personality / motivation
 
-<span class="nav">[Details](Narth.md#Details) [Relationships](Narth.md#Relationships) [Secrets](Narth.md#Secrets) [History](Narth.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *Farmer*, Commoner

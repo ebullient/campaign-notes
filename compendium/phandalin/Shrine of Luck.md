@@ -4,8 +4,9 @@ tags:
   - type/shrine
   - place/town/phandalin/shrine-of-luck
 ---
+![Shrine of Luck](/[assets]/attachments/phandalin-shrine-garaele.jpeg#portrait)
 # Shrine of Luck
-![Shrine of Luck](/[assets]/attachments/phandalin-shrine-garaele.jpeg#portrait)*Shrine, Phandalin*
+<span class="subhead">Shrine, Phandalin</span>
 
 Phandalin’s only temple is a shrine made of stones taken from the nearby ruins. It is dedicated to Tymora (goddess of luck and good fortune).
 

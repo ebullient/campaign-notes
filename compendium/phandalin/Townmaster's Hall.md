@@ -4,8 +4,9 @@ tags:
   - type/municipal
   - place/town/phandalin/townmaster-hall
 ---
+![Townmaster's Hall](/[assets]/attachments/phandalin-townmaster.jpeg#portrait)
 # Townmaster's Hall
-![Townmaster's Hall](/[assets]/attachments/phandalin-townmaster.jpeg#portrait)*Common building, Phandalin*
+<span class="subhead">Common building, Phandalin</span>
 
 The townmaster’s hall has sturdy stone walls, a pitched wooden roof, and a bell tower at the back. The job board next to the front door features a sparse number of notices, all written in Common, and in the same hand.
 

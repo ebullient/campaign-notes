@@ -24,7 +24,7 @@ Bregan D'aerthe was founded by the houseless rogue [Jarlaxle Baenre](../Jarlaxle
 
 By 1483 DR, the drow agent Beniago, disguised as a human, was High Captain Kurth. Bregan D'aerthe also had its eyes set on the city of Neverwinter. It retained a number of agents in the city in order to maintain an understanding of the forces at play and pounce on an opportunity for profit, should it arise.
 
-<span class="nav">[NPCs](#NPCs) [History](#History) [References](#References)</span>
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Locations
 

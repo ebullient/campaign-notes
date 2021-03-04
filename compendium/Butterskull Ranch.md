@@ -7,7 +7,7 @@ tags:
   - group/tribe/many-arrows
 ---
 # Butterskull Ranch
-<span class="subhead">*Farm and Ranch, Triboar Trail*</span>
+<span class="subhead">*Farm and Ranch, Triboar Trail</span>
 
 TL;DR description
 

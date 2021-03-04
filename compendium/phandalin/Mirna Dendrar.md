@@ -5,15 +5,15 @@ tags:
   - iff/friend
   - place/town/phandalin/woodshop
 ---
+![Mirna Dendrar](/[assets]/attachments/mirna-dendrar.png#portrait)
 # Mirna Dendrar
-<span class="subhead">![Mirna Dendrar](/[assets]/attachments/mirna-dendrar.png#portrait)
-Female human Shopkeeper, lawful good
-*The Crafty Hand  
+<span class="subhead">Female human Shopkeeper, lawful good
+[The Crafty Hand](The%20Crafty%20Hand.md), Phandalin</span> 
 
 TL;DR
 
 
-<span class="nav">[Details](Mirna%20Dendrar.md#Details) [Relationships](Mirna%20Dendrar.md#Relationships) [Secrets](Mirna%20Dendrar.md#Secrets) [History](Mirna%20Dendrar.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *{{Background}}*, Commoner

@@ -5,7 +5,7 @@ tags:
   - place/town/phandalin/townmaster-hall
 ---
 # Quest Board
-*Quest board outside [Townmaster's Hall](Townmaster's%20Hall.md), Phandalin*
+<span class="subhead">Quest board outside [Townmaster's Hall](Townmaster's%20Hall.md), Phandalin</span>
 
 Currently posted: 
 - [ ] Test quest on quest board

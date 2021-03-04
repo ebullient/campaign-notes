@@ -6,11 +6,11 @@ tags:
   - region/north-sword-coast
 ---
 # Dwarven Excavation Site
-<span class="subhead">*Excavation Site in the Sword Mountains*</span>
+<span class="subhead">Excavation Site in the Sword Mountains</span>
 
 While looking for gold in the mountains southwest of Phandalin, Dazlyn and Norbus decided to explore a nearby canyon and found evidence of an ancient dwarven settlement buried by an avalanche. They unearthed an old temple of Abbathor, the evil dwarven god of greed.
 
-* **Prospectors** [[Dazlyn Grayshard]] and [[Norbus Ironrune]]
+* **Prospectors** [Dazlyn Grayshard](Dazlyn%20Grayshard.md) and [Norbus Ironrune](Norbus%20Ironrune.md)
 * **Location** South of Phandalin
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>

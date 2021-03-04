@@ -5,7 +5,7 @@ tags:
 - region/north-sword-coast/neverwinter-wood
 ---
 # Neverwinter Wood
-<span class="subhead">Forest near Neverwinter in the North Sword Coast</span>
+<span class="subhead">Forest near Neverwinter in the Sword Coast North</span>
 
 Forest east of Neverwinter seems to have a magical quality about it, or at least an air of magical secrecy. It is a deep, but not pristine, woods. There are plenty of ruins in the woods.
 

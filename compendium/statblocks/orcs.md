@@ -2,10 +2,10 @@
 type: statblock
 tags: [statblock]
 ---
-# Orcs on the move
-<span class="subhead">![orcs](../../[assets]/attachments/orcs.jpeg#portrait)</span>
+![orcs](/[assets]/attachments/orcs.jpeg#portrait)
+# Orcs
 
-Orcs have been displaced and are on the move.
+Orcs in the area have been displaced and are on the move.
 
 Most are remnants of the [Many Arrows Orc Tribe](../groups/Many%20Arrows%20Orc%20Tribe.md).
 

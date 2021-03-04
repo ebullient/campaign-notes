@@ -3,9 +3,9 @@ type: faction
 tags:
 - group/faction/cult-of-talos
 ---
+![The symbol of Talos](/[assets]/attachments/talos-holy-symbol.jpg#portrait)
 # The Cult of Talos
-<span class="subhead">![The symbol of Talos](/[assets]/attachments/talos-holy-symbol.jpg#portrait)</span>
-    
+
 Members are fervent religious cultists who worship [Talos](#Talos), the Stormlord. The cult is led by the priestess [Fheralai Stormsworn](../Fheralai%20Stormsworn.md). 
 
 **Beliefs**
@@ -27,7 +27,7 @@ They plan to establish temples along the High Road, so they can call upon storms
 
 In stormy weather, anchorites of Talos will gather on remote hilltops to "Call down the Thunder", and summon [Gorthok](/compendium/statblocks/gorthok.md), the thunder boar. When motivated, they can also summon a storm.
 
-<span class="nav">[NPCs](#NPCs) [History](#History) [Plans](#Plans)</span>
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Talos
 ![Talos, Stormlord, The Destroyer](/[assets]/attachments/talos.jpg#portrait)

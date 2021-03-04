@@ -5,7 +5,7 @@ tags:
 - region/north-sword-coast/triboar-trail
 ---
 # Triboar Trail
-*Trade road, North Sword Coast*
+<span class="subhead">Trade road, Sword Coast North</span>
 
 This path south of Neverwinter Wood is the safest route between Neverwinter and the town of Triboar, located in the Dessarin Valley to the east (off the map).
 

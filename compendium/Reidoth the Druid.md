@@ -7,9 +7,10 @@ tags:
   - region/north-sword-coast
   - group/faction/emerald-enclave
 ---
+![Reidoth](/[assets]/attachments/reidoth.jpeg#portrait)
 # Reidoth the Druid
-![Reidoth](/[assets]/attachments/reidoth.jpeg#portrait)*Male human druid, neutral good*  
-*Thundertree*  
+<span class="subhead">Male human druid, neutral good  
+Thundertree</span>
 
 Reidoth has a cottage in the ruins of a town called Thundertree just west of the Neverwinter Wood, about 50 miles northwest of Phandalin.
 

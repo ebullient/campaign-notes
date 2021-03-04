@@ -6,7 +6,7 @@ tags:
   - region/north-sword-coast
 ---
 # Phandalin
-*Small town, North Sword Coast*
+<span class="subhead">Small town, Sword Coast North</span>
 
 Nestled in the foothills of the Sword Mountains, morning mist would often lurk between the town’s buildings and swirl across the narrow, uneven roads until the sun crested a nearby ridge and chased it away.
 

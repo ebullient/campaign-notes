@@ -2,8 +2,8 @@
 type: statblock
 tags: [statblock]
 ---
+![Gorthok](/[assets]/attachments/gorthok.png#portrait)
 # Gorthok the Thunderboar
-<span class="subhead">![Gorthok](/[assets]/attachments/gorthok.png#portrait)</span>
 
 Gorthok is a *primal nature spirit* that takes the form of a boar as big as an elephant, with lightning that dances along its tusks. Gorthok serves the will of Talos, god of storms, and can be summoned during stormy weather to do the bidding of Talos’s evil followers. Like its patron deity, Gorthok revels in destruction.
 

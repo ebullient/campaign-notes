@@ -5,15 +5,15 @@ tags:
   - iff/friend
   - place/town/phandalin/townmaster-hall
 ---
+![Harbin Wester](/[assets]/attachments/harbin-wester.jpg#portrait)
 # Harbin Wester
-<span class="subhead">![Harbin Wester](/[assets]/attachments/harbin-wester.jpg#portrait)
-Male human townmaster, {{alignment}}  
-[[Townmaster's Hall]], Phandalin</span> 
+<span class="subhead">Male human townmaster, {{alignment}}  
+[Townmaster's Hall](Townmaster's%20Hall.md), Phandalin</span> 
 
 Thin voice, but rational. Still fearful.
 Pompous, middle-aged banker.
 
-<span class="nav">[Details](Harbin%20Wester.md#Details) [Relationships](Harbin%20Wester.md#Relationships) [Secrets](Harbin%20Wester.md#Secrets) [History](Harbin%20Wester.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 ![Harbin's home](/[assets]/attachments/phandalin-townmaster.jpeg#portrait)*Banker*, Commoner

@@ -6,7 +6,7 @@ tags:
   - place/landmark/icespire-peak
 ---
 # Sword Mountains
-*Mountain range in the North Sword Coast*
+<span class="subhead">Mountain range in the Sword Coast North</span>
 
 Steep, craggy, snow-capped mountains are home to scattered tribes of orcs and monsters.
 
@@ -29,5 +29,5 @@ where type = "npc"
 ## History
 
 ```dataview
-list from #region/north-sword-coast/sword-mountains   and "pc-logs"
+list from #region/north-sword-coast/sword-mountains and "pc-logs"
 ```

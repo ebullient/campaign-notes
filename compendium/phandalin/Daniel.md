@@ -7,11 +7,11 @@ tags:
 ---
 # Daniel #todo
 <span class="subhead">Male human Carpenter's apprentice, chaotic good  
-Phandalin</span>
+[The Crafty Hand](The%20Crafty%20Hand.md), Phandalin</span>
 
 TL;DR description / personality / motivation
 
-<span class="nav">[Details](Daniel.md#Details) [Relationships](Daniel.md#Relationships) [Secrets](Daniel.md#Secrets) [History](Daniel.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *Farmer, Criminal*, Redbrand Bandit

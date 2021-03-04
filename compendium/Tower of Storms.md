@@ -7,7 +7,7 @@ tags:
   - group/faction/cult-of-talos
 ---
 # Tower of Storms
-*Lighthouse, Temple of Talos, North Sword Coast*
+<span class="subhead">Lighthouse, Temple of Talos, Sword Coast North</span>
 
 [Moesko](Moesko.md) uses the tower's pulsing beacon to draw ships to their doom as sacrifices to [Talos, the Storm Lord](groups/Cult%20of%20Talos.md). The light acts as an irresistible lure to passing seafarers who sail too close to shore. 
 

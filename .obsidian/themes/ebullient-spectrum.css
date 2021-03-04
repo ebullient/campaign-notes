@@ -52,17 +52,27 @@
 */
 /*
 *..........................1. Variables */
-:root,
+:root {
+  --gray-light-5: #fafafa;
+  --gray-light-4: #f5f5f5;
+  --gray-light-3: #eeeeee;
+  --gray-light-2: #e0e0e0;
+  --gray-light-1: #bdbdbd;
+  --gray: #9e9e9e;
+  --gray-dark-1: #757575;
+  --gray-dark-2: #616161;
+  --gray-dark-3: #424242;
+  --gray-dark-4: #212121;
+  --gray-dark-5: #1b1b1b;
+  /* Overriding Obsidian Variables */
+  --default-font: 'Fira Sans', 'Optima', 'Roboto', Helvetica Neue, Helvetica, Arial, sans-serif;
+  --font-monospace: 'Fira Code', 'Source Code Pro', monospace;
+  --font-tags: Architects Daughter, Helvetica Neue, Helvetica, Arial, sans-serif;
+  --font-header: var(--font-tags);
+}
+
 .theme-dark {
-  --gray-dark-alt: #212121;
-  --gray-dark: #1b1b1b;
-  --gray: #424242;
-  --gray-mid-darkest: #616161;
-  --gray-mid-dark: #9a9a9a;
-  --gray-mid: #dedede;
-  --gray-mid-light: #e0e0e0;
-  --gray-light: #f8f8f2;
-  --gray-blue: #8cd0f0;
+  --gray-blue: #B0C4DE;
   --bright-1: #8dc0f0;
   --bright-2: #69e0f0;
   --bright-3: #5fedde;
@@ -75,19 +85,16 @@
   --dark-4: #927cb7;
   --dark-5: #995e94;
   --dark-6: #964069;
-  --deep-violet: #6a0080;
-  --deep-blue: #007ac1;
-  --deep-green: #087f23;
-  --red: #f44336;
-  --deep-red: #ba000d;
   --main-node: var(--dark-3);
   --main-node-hover: var(--dark-4);
+  --attachments: var(--bright-4);
   --tags: var(--dark-5);
   --external-link: var(--gray-blue);
   --external-link-hidden: rgba(131, 197, 235, 0.3);
-  --main-background: var(--gray-dark-alt);
-  --secondary-background: var(--gray-dark);
-  --attachments: var(--deep-blue);
+  --main-background: var(--gray-dark-4);
+  --secondary-background: var(--gray-dark-5);
+  --background-primary: var(--main-background);
+  --background-secondary: var(--secondary-background);
   --text-title-h1: var(--bright-6);
   --text-title-h2: var(--bright-5);
   --text-title-h3: var(--bright-4);
@@ -100,14 +107,56 @@
   --accent-4: var(--dark-3);
   --accent-5: var(--dark-2);
   --accent-6: var(--dark-1);
-  /* Overriding Obsidian Variables */
-  --default-font: 'Fira Sans', 'Optima', 'Roboto', Helvetica Neue, Helvetica, Arial, sans-serif;
-  --font-monospace: 'Fira Code', 'Source Code Pro', monospace;
-  --font-tags: Architects Daughter, Helvetica Neue, Helvetica, Arial, sans-serif;
-  --font-header: var(--font-tags);
-  --text-normal: var(--gray-mid);
+  --text-normal: var(--gray-light-2);
+  --text-muted: var(--gray);
+  --text-faint: var(--gray-dark-2);
+  --text-accent: var(--main-node);
+  --text-accent-hover: var(--main-node-hover);
+}
+
+.theme-light {
+  --gray-blue: #748b99;
+  --bright-1: #3f7dee;
+  --bright-2: #cd73df;
+  --bright-3: #ff75b4;
+  --bright-4: #ff9583;
+  --bright-5: #ffc764;
+  --bright-6: #f9f871;
+  --dark-1: #3f7dee;
+  --dark-2: #7171dd;
+  --dark-3: #8d65c9;
+  --dark-4: #9e59b3;
+  --dark-5: #a8509d;
+  --dark-6: #ac4988;
+  --main-node: var(--dark-3);
+  --main-node-hover: var(--dark-4);
+  --attachments: var(--bright-4);
+  --tags: var(--dark-5);
+  --external-link: var(--gray-blue);
+  --external-link-hidden: rgba(131, 197, 235, 0.3);
+  --main-background: var(--gray-light-5);
+  --secondary-background: var(--gray-light-4);
   --background-primary: var(--main-background);
   --background-secondary: var(--secondary-background);
+  --background-primary-alt: var(--gray-light-3);
+  --background-secondary-alt: var(--gray-light-4);
+  --text-title-h1: var(--dark-1);
+  --text-title-h2: var(--dark-2);
+  --text-title-h3: var(--dark-3);
+  --text-title-h4: var(--dark-4);
+  --text-title-h5: var(--dark-5);
+  --text-title-h6: var(--dark-6);
+  --accent-1: var(--dark-6);
+  --accent-2: var(--dark-5);
+  --accent-3: var(--dark-4);
+  --accent-4: var(--dark-3);
+  --accent-5: var(--dark-2);
+  --accent-6: var(--dark-1);
+  --text-normal: var(--gray-dark-3);
+  --text-muted: var(--gray-dark-2);
+  --text-faint: var(--gray);
+  --text-accent: var(--main-node);
+  --text-accent-hover: var(--main-node-hover);
 }
 
 /*
@@ -170,12 +219,12 @@ a {
 
 .cm-s-obsidian span.cm-hmd-internal-link.cm-overlay {
   color: var(--external-link);
-  font-weight: 900;
+  font-weight: 400;
 }
 
 .cm-s-obsidian span.cm-formatting-link {
   color: var(--external-link);
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .cm-s-obsidian span.cm-url,
@@ -623,8 +672,12 @@ table tbody tr:hover {
   margin-bottom: 10px;
 }
 
-.workspace-leaf-content[data-type=markdown] ul li::marker {
+.theme-dark .workspace-leaf-content[data-type=markdown] ul li::marker {
   color: white;
+}
+
+.theme-light .workspace-leaf-content[data-type=markdown] ul li::marker {
+  color: var(--gray-dark-5);
 }
 
 .markdown-preview-view ul > li.task-list-item.is-checked {
@@ -899,6 +952,16 @@ div[src$="#portrait"] {
   padding-top: 0px;
   font-size: .9em;
   color: var(--text-muted);
+}
+
+.workspace-leaf-content[data-type=dangling-links] .view-content {
+  padding-top: 0px;
+}
+
+.workspace-leaf-content[data-type=dangling-links] h3 {
+  margin-top: 0px;
+  font-family: var(--default-font);
+  font-weight: normal;
 }
 
 .workspace-leaf-content[data-type=dangling-links] ul {

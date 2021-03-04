@@ -7,9 +7,10 @@ tags:
   - region/north-sword-coast/high-road
   - todo
 ---
+![Adabra Gwynn](/[assets]/attachments/adabra-gwynn.jpeg#portrait)
 # Adabra Gwynn
-<span class="subhead">![Adabra Gwynn](/[assets]/attachments/adabra-gwynn.jpeg#portrait) *Female human apothecary, neutral good*  
-*Umbrage Hill*</span>
+<span class="subhead">Female human apothecary, neutral good  
+Umbrage Hill</span>
 
 Midwife, apothecary, potion maker.
 
@@ -23,7 +24,7 @@ Mirna sells her potions and poultices in town.
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*[Outlander](https://5ebackgrounds.com/outlander/), Commoner*
+<span class="subhead">[Outlander](https://5ebackgrounds.com/outlander/), Commoner</span>
 
 * **Trait**
 * **Ideals**

@@ -4,10 +4,12 @@ tags:
   - npc/alive
   - iff/unknown
   - place/ruin/dwarven-excavation
+  - place/settlement/axeholm
 ---
+![Dazlyn Grayshard](/[assets]/attachments/dazlyn-grayshard.jpeg#portrait)
 # Dazlyn Grayshard
-<span class="subhead">![Dazlyn Grayshard](/[assets]/attachments/dazlyn-grayshard.jpeg#portrait)*Male dwarf prospector, {{alignment}}*  
-*[Dwarven Excavation](Dwarven%20Excavation.md)*</span>
+<span class="subhead">Male dwarf prospector, {{alignment}}  
+Axeholm, Sword Mountains</span>
 
 Shield dwarf prospector
 
@@ -24,6 +26,7 @@ Shield dwarf prospector
 ## Relationships
 
 * Works with [Norbus Ironrune](Norbus%20Ironrune)
+* Worked on [Dwarven Excavation](Dwarven%20Excavation.md) site
 
 ## Secrets
 

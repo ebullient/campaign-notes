@@ -6,7 +6,7 @@ tags:
   - region/north-sword-coast/neverwinter-wood
 ---
 # Thundertree
-*Ruined town near Neverwinter Wood, North Sword Coast*
+<span class="subhead">Ruined town near Neverwinter Wood, Sword Coast North</span>
 
 TL;DR description
 

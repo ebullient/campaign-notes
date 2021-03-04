@@ -5,14 +5,14 @@ tags:
   - iff/unknown
   - place/town/phandalin/stonehill-inn
 ---
+![Elsa](/[assets]/attachments/elsa.jpeg#portrait)
 # Elsa (barmaid)
-<span class="subhead">![Elsa](/[assets]/attachments/elsa.jpeg#portrait)
-Human female bar-maid, chaotic good  
+<span class="subhead">Human female bar-maid, chaotic good  
 [Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
 
 Elsa has a square face, with short auburn hair and amber eyes.
 
-<span class="nav">[Details](Elsa.md#Details) [Relationships](Elsa.md#Relationships) [Secrets](Elsa.md#Secrets) [History](Elsa.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *{{Background}}*, Commoner

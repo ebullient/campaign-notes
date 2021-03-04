@@ -5,7 +5,7 @@ tags:
 - region/north-sword-coast/the-crags
 ---
 # The Crags
-*Range of hills in the , North Sword Coast*
+<span class="subhead">Range of hills in the Sword Coast North</span>
 
 Rocky, windswept hills are dotted with old mines and invested with monsters.
 

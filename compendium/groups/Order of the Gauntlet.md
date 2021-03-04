@@ -3,8 +3,8 @@ type: faction
 tags:
 - group/faction/order-of-the-gauntlet
 ---
+![Banner](/[assets]/attachments/order-gauntlet-symbol.png#portrait)
 # Order of the Gauntlet
-<span class="subhead">![Banner](/[assets]/attachments/order-gauntlet-symbol.png#portrait)</span>
 
 A devout and vigilant group that seeks to protect others from the depredations of evildoers. The order is always vigilant, ready to smite evil, enforce justice, and enact retribution against any who try to subjugate or harm others. 
 
@@ -22,7 +22,7 @@ Bearers of the Gauntlet are holy warriors on a righteous quest to crush evil and
 
  Order agents tend to be proficient in Religion, and frequently seek aid from law enforcement friendly to the order's ideals, and the clergy of the order's patron gods.
 
-<span class="nav">[NPCs](#NPCs) [History](#History) [Reference](#Reference)</span>
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Locations
 

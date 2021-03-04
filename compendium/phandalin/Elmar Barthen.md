@@ -5,14 +5,14 @@ tags:
   - iff/neutral
   - place/town/phandalin/barthens-provisions
 ---
+![Elmar Barthen](/[assets]/attachments/elmar_barthen.jpg#portrait)
 # Elmar Barthen
-<span class="subhead">![Elmar Barthen](/[assets]/attachments/elmar_barthen.jpg#portrait)
-Male human shopkeeper, lawful good  
-Barthen's Provisions, Phandalin</span>
+<span class="subhead">Male human shopkeeper, lawful good  
+[Barthen's Provisions](Barthen's%20Provisions.md), Phandalin</span>
 
 Lean and balding human man. 
 
-<span class="nav">[Details](Elmar%20Barthen.md#Details) [Relationships](Elmar%20Barthen.md#Relationships) [Secrets](Elmar%20Barthen.md#Secrets) [History](Elmar%20Barthen.md#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 *{{Background}}*, Commoner
