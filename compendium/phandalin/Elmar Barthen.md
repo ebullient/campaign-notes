@@ -7,15 +7,15 @@ tags:
 ---
 ![Elmar Barthen](/[assets]/attachments/elmar_barthen.jpg#portrait)
 # Elmar Barthen
-<span class="subhead">Male human shopkeeper, lawful good  
+<span class="subhead">Male human shopkeeper, lawful good
 [Barthen's Provisions](Barthen's%20Provisions.md), Phandalin</span>
 
-Lean and balding human man. 
+Lean and balding human man.
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*{{Background}}*, Commoner
+<span class="subhead">Background, Commoner</span>
 
 * **Trait**
 * **Ideals**

@@ -16,7 +16,7 @@ Grannoc had hoped Talos will answer his prayers and rain destruction down upon F
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*Cultist*, [Anchorite of Talos](../statblocks/anchorite-of-talos.md)
+<span class="subhead">Cultist, [Anchorite of Talos](../statblocks/anchorite-of-talos.md)</span>
 
 ## Relationships
 

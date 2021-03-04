@@ -17,8 +17,9 @@ She will identify items for the party for free as a result of "The Splendiferous
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
+![Wagon](/[assets]/attachments/mabina-wagon.png#portrait)
 ## Details
-![Wagon](/[assets]/attachments/mabina-wagon.png#portrait)*Student of Magic*, Commoner
+<span class="subhead">Student of Magic, Commoner</span>
 
 Through her own magical means, Mabina and her wagon traverse the Sword Coast North, trading magical items. Trade in magical items is a dicey busines, but it is one that Mabina loves with all her heart.
 

@@ -16,7 +16,7 @@ A fit, silver-haired _half-elf_ well over a hundred years old. He lives in a tid
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*Soldier, Faction Agent*, Veteran
+<span class="subhead">Soldier, Faction Agent, Veteran</span>
 
 * **Trait**
 * **Ideals**

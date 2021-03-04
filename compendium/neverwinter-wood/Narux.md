@@ -17,7 +17,7 @@ TL;DR description / personality / motivation
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*Cultist*, [Anchorite of Talos](../statblocks/anchorite-of-talos.md)
+<span class="subhead">Cultist, [Anchorite of Talos](../statblocks/anchorite-of-talos.md)</span>
 
 * **Trait**
 * **Ideals**

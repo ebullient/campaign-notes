@@ -15,7 +15,7 @@ TL;DR description / personality / motivation
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*Craftsman*, Commoner
+<span class="subhead">Craftsman, Commoner</span>
 
 * **Trait**
 * **Ideals**

@@ -23,7 +23,7 @@ TL;DR description / personality / motivation
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*{{Background}}*, Rogue
+<span class="subhead">Noble, Criminal, Rogue</span>
 
 Slender, handsome, and tightly muscled, Jarlaxle was the dandy of Menzoberranzan, though he now spends most of his time on the surface, either in Luskan or elsewhere on the Sword Coast.
 

@@ -17,7 +17,7 @@ Qelline is a kind soul, always willing to let travelers stay in the hayloft in h
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*Farmer*, Commoner
+<span class="subhead">Farmer, Commoner</span>
 
 She has a weak spot for rangers. She loves hearing their stories, which tend to involve close encounters with monstrous beasts in the wilderness. Toblen thinks she has a secret wish to wander off into the forested hinterlands.
 

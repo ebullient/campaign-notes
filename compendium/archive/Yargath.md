@@ -16,7 +16,7 @@ Yargath was tall, and mean looking, with several missing teeth. He had shoulder-
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*Cultist*, [Anchorite of Talos](../statblocks/anchorite-of-talos.md)
+<span class="subhead">Cultist, [Anchorite of Talos](../statblocks/anchorite-of-talos.md)</span>
 
 He was ready to bring the wrath of the storm lord to bear, and to wipe out the weak and non-believers who have been moving into the area.  
 

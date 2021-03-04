@@ -16,9 +16,9 @@ She wants her guild to be the governing body of the village. #story/unexplored
 
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
-
+![Halia's home](/[assets]/attachments/phandalin-miners-exchange.jpeg#portrait)
 ## Details
-![Halia's home](/[assets]/attachments/phandalin-miners-exchange.jpeg#portrait)*Guild Merchant, Faction Agent*, Commoner
+<span class="subhead">Guild Merchant, Faction Agent, Commoner</span>
 
 Thornton owns a house to the southeast of the Miner's Exchange.
 

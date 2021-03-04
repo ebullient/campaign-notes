@@ -8,7 +8,7 @@ tags:
 ![Mirna Dendrar](/[assets]/attachments/mirna-dendrar.png#portrait)
 # Mirna Dendrar
 <span class="subhead">Female human Shopkeeper, lawful good
-[The Crafty Hand](The%20Crafty%20Hand.md), Phandalin</span> 
+[The Crafty Hand](The%20Crafty%20Hand.md), Phandalin</span>
 
 TL;DR
 
@@ -16,7 +16,7 @@ TL;DR
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*{{Background}}*, Commoner
+<span class="subhead">Background, Commoner</span>
 
 * **Trait**
 * **Ideals**
@@ -41,10 +41,10 @@ Mirna's family fled Thundertree when Mt. Hotenow exploded. They left behind a tr
 list from #place/town/phandalin/woodshop and "pc-logs"
 ```
 
-From the Slave pens in [Redbrand Hideout](/gm-story/encounters/Redbrand%20Hideout.md): 
+From the Slave pens in [Redbrand Hideout](/gm-story/encounters/Redbrand%20Hideout.md):
 
 > When the door is opened, you hear a petrified squeak, as a goblin in the center of the room is startled. It faints.
 >
-> This long room is partitioned into three areas, with iron bars walling off the north and south. Filthy straw lines the floors of those cells, the hinged doors of which are secured by chains and padlocks. A women and two teenage girls are in the south cell, while a human man is confined to the north. All are dressed in plain gray tunics and have iron collars fitted around their necks. 
+> This long room is partitioned into three areas, with iron bars walling off the north and south. Filthy straw lines the floors of those cells, the hinged doors of which are secured by chains and padlocks. A women and two teenage girls are in the south cell, while a human man is confined to the north. All are dressed in plain gray tunics and have iron collars fitted around their necks.
 >
 > Thel is in the North cell, Mirna and her two teenage children, thirteen-year-old Nars and eighteen-year-old Nilsa are in the south cell.

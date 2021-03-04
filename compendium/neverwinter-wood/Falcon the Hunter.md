@@ -20,7 +20,7 @@ He loves good wine and treats other people as he would like to be treated — fa
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*Noble*, Commoner
+<span class="subhead">Noble, Sharpshooter/Expert</span>
 
 Falcon abhors city life, preferring a rustic existence and simple pleasures. His lodge has all the creature comforts he requires, though he never turns down a good bottle of wine (or even a bad one) from a visitor.
 

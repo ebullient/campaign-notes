@@ -7,7 +7,7 @@ tags:
 ---
 ![Elsa](/[assets]/attachments/elsa.jpeg#portrait)
 # Elsa (barmaid)
-<span class="subhead">Human female bar-maid, chaotic good  
+<span class="subhead">Human female bar-maid, chaotic good
 [Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
 
 Elsa has a square face, with short auburn hair and amber eyes.
@@ -15,7 +15,7 @@ Elsa has a square face, with short auburn hair and amber eyes.
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*{{Background}}*, Commoner
+<span class="subhead">Background, Commoner</span>
 
 * **Trait**
 * **Ideals**
@@ -34,4 +34,4 @@ Elsa has a square face, with short auburn hair and amber eyes.
 list from #place/town/phandalin/stonehill-inn   and "pc-logs"
 ```
 
-> Oh, you're adventurers, are you? Have you met Daran Edermath? He's an adventurer, too!  From what I know, he came and founded his orchard when he got tired of running around saving things. The stories he tells.. 
+> Oh, you're adventurers, are you? Have you met Daran Edermath? He's an adventurer, too!  From what I know, he came and founded his orchard when he got tired of running around saving things. The stories he tells..

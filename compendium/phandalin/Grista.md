@@ -7,8 +7,8 @@ tags:
 ---
 ![Grista](/[assets]/attachments/grista.jpeg#portrait)
 # Grista
-<span class="subhead">Female dwarf barkeep, {{alignment}}  
-[The Sleeping Giant](The%20Sleeping%20Giant.md), Phandalin</span> 
+<span class="subhead">Female dwarf barkeep, {{alignment}}
+[The Sleeping Giant](The%20Sleeping%20Giant.md), Phandalin</span>
 
 Surly.
 
@@ -16,7 +16,7 @@ Surly.
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*{{Background}}*, Commoner
+<span class="subhead">Background, Commoner</span>
 
 * **Trait**
 * **Ideals**

@@ -18,7 +18,7 @@ Reidoth has a cottage in the ruins of a town called Thundertree just west of the
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*Hermit, Faction Agent*, Commoner
+<span class="subhead">Hermit, Faction Agent, Commoner</span>
 
 At least level 5 druid: Speak with Animals, Greater Restoration
 

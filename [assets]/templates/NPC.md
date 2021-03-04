@@ -7,7 +7,7 @@ xtags:
 - location
 ---
 # {{Name}}
-<span class="subhead">{{gender}} {{race}} {{role/occupation}}, {{alignment}}  
+<span class="subhead">{{gender}} {{race}} {{role/occupation}}, {{alignment}}
 {{location}}</span>
 
 TL;DR description / personality / motivation
@@ -15,7 +15,7 @@ TL;DR description / personality / motivation
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*{{Background}}*, Commoner
+<span class="subhead">Background, Commoner</span>
 
 * **Ideals**
 * **Bonds**

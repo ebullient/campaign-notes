@@ -14,7 +14,7 @@ TL;DR description / personality / motivation
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*Farmer, Criminal*, Redbrand Bandit
+<span class="subhead">Farmer, Criminal, Redbrand Bandit</span>
 
 Seamus was a member of the Redbrands. He left his family farm because ... 
 and fell in with [George](George.md) and [Seamus](Seamus.md) who had similar runaway backgrounds and likewise felt uneasy with what the Redbrands were doing.

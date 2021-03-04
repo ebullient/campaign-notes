@@ -17,7 +17,7 @@ He is known to be helpful and talkative, especially to those that are respectful
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*Innkeeper*, Commoner
+<span class="subhead">Innkeeper, Commoner</span>
 
 
 * **Trait**

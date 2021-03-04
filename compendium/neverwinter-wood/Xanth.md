@@ -14,7 +14,7 @@ Xanth is very intelligent. While quiet, he is very inquisitive. He learned Commo
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*[Outlander](https://5ebackgrounds.com/outlander/), [Centaur](/compendium/statblocks/centaur.md)*
+<span class="subhead">[Outlander](https://5ebackgrounds.com/outlander/), [Centaur](/compendium/statblocks/centaur.md)</span>
 
 Xanth lives deep in Neverwinter Wood, but travels throughout, as he has a fierce desire to protect his home. Reidoth is his closest ally in this effort, but he has a longstanding friendship with Daran Edermath, as well.
 

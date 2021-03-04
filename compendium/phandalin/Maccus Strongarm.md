@@ -7,7 +7,7 @@ tags:
 ---
 ![Maccus](/[assets]/attachments/maccus-strongarm.jpeg#portrait)
 # Maccus Strongarm
-<span class="subhead">Male human Blacksmith, neutral good  
+<span class="subhead">Male human Blacksmith, neutral good
 Strongarm Smithy, Phandalin</span>
 
 TL;DR description / personality / motivation
@@ -15,7 +15,7 @@ TL;DR description / personality / motivation
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*{{Background}}*, Commoner
+<span class="subhead">Background, Commoner</span>
 
 * **Trait**
 * **Ideals**

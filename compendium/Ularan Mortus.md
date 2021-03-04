@@ -7,7 +7,7 @@ tags:
 - todo
 ---
 # Ularan Mortus
-<span class="subhead">Male {{race}} priest, {{alignment}}  
+<span class="subhead">Male {{race}} priest, {{alignment}}
 {{location}}</span>
 
 TL;DR description / personality / motivation
@@ -15,7 +15,7 @@ TL;DR description / personality / motivation
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-*{{Background}}*, Commoner
+<span class="subhead">Background, Commoner</span>
 
 * **Ideals**
 * **Bonds**
