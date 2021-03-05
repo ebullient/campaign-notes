@@ -15,7 +15,7 @@ Enough wealth is hidden in nearby streams and valleys to support many independen
 * **Owner** [Halia Thornton](Halia%20Thornton.md)
 * **Location** Southern edge of Phandalin
 
-<span class="nav">[NPCs](Phandalin%20Miner's%20Exchange.md#NPCs) [History](Phandalin%20Miner's%20Exchange.md#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
 

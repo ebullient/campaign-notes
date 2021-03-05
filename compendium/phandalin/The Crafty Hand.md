@@ -16,7 +16,7 @@ Mirna also sells potions and medicines made by Adabra Gwynn (a long-distance cra
 * **Owner** [Thel Dendrar](Thel%20Dendrar.md)
 * **Shopkeeper** [Mirna Dendrar](Mirna%20Dendrar.md)
 
-<span class="nav">[For Sale](The%20Crafty%20Hand.md#For%5C%20Sale Sale) | [NPCs](The%20Crafty%20Hand.md#NPCs) [History](The%20Crafty%20Hand.md#History)</span>
+<span class="nav">[Selling](#Selling) [NPCs](#NPCs) [History](#History)</span>
 
 ## Selling
 

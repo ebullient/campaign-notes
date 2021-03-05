@@ -29,7 +29,7 @@ Thornton owns a house to the southeast of the Miner's Exchange.
 
 ## Relationships
 
-She is an agent of the [Zhenterim](../groups/Zhenterim.md), and is working slowly to bring Phandalin under her control. She can become a valuable patron to adventurers who don’t cross her.
+**Faction** She is an agent of the [Zhenterim](../groups/Zhenterim.md), and is working slowly to bring Phandalin under her control. She can become a valuable patron to adventurers who don’t cross her.
 
 ## Secrets
 

@@ -14,7 +14,7 @@ The Townmaster, [Harbin Wester](Harbin%20Wester.md), serves as judge in minor di
 
 The townmaster’s hall has a small but serviceable jail in the cellar with two cells. Harbin carries the keys to the cell doors.
 
-<span class="nav">[NPCs](Townmaster's%20Hall.md#NPCs) [History](Townmaster's%20Hall.md#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
 

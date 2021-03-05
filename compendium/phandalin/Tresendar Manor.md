@@ -11,7 +11,7 @@ tags:
 Home to [Hot-dog (Nothic)](Hot-dog%20(Nothic).md). 
 Cleared of Redbrands.
 
-<span class="nav">[NPCs](Tresendar%20Manor.md#NPCs) [History](Tresendar%20Manor.md#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
 

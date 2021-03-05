@@ -4,6 +4,8 @@
 * https://build.revivaloforda.com/
 * https://www.kickstarter.com/projects/1024146278/dungeon-alchemisttm
 
+* https://www.enworld.org/threads/list-of-all-personality-traits-ideals-bonds-flaws.469002/
+
 ## Names
 * https://www.fantasynamegenerators.com/
 

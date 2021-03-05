@@ -26,11 +26,11 @@ Sister Garaele regularly reports to her superiors in Neverwinter on events in an
 
 ## Relationships
 
-Sister Garaele is a member of the [Harpers](../groups/Harpers.md), a scattered network of adventurers and spies who advocate equality and covertly oppose the abuse of power. 
-
 Friends:
 * [Linene Graywind](Linene%20Graywind.md)
 * [Daran Edermath](Daran%20Edermath.md)
+
+**Faction** Sister Garaele is a member of the [Harpers](../groups/Harpers.md), a scattered network of adventurers and spies who advocate equality and covertly oppose the abuse of power. 
 
 ## Secrets
 

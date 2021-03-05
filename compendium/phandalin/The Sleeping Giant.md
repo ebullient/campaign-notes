@@ -13,7 +13,7 @@ Sister Garaele regularly reports to her superiors in Neverwinter on events in an
 * **Barkeep** [Grista](Grista.md)
 * **Location** Eastern edge of Phandalin
 
-<span class="nav">[NPCs](The%20Sleeping%20Giant.md#NPCs) [History](The%20Sleeping%20Giant.md#History)</span>
+<span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
 
