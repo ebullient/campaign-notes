@@ -7,7 +7,6 @@ tags:
   - place/landmark/circle-of-thunder
   - region/north-sword-coast/neverwinter-wood
 ---
-![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)
 # Narux (anchorite)
 <span class="subhead">Male half-orc Anchorite of Talos, chaotic evil  
 [Circle of Thunder](Circle%20of%20Thunder.md), Neverwinter Wood</span> 
