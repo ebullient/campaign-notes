@@ -34,9 +34,15 @@ In stormy weather, anchorites of Talos will gather on remote hilltops to "Call d
 
 Talos, also known as the Stormlord or the Destroyer, is a chaotic evil greater deity of storms, forest fires, earthquakes, tornadoes and destruction. While a popular deity, his name is invoked more often out of fear than reverence.
 
-Priests of Talos are often travelling doomsayers, who warn of disasters to come and accept charity in exchange for blessings of protection.
+Priests in the church -- who are wont to pursue wealth and often commit acts of random violence -- frequently extort sailors and farmers by threatening them with Talos' wrath. The clerics, meanwhile, are committed evangelists who convert new followers by either scaring them or enticing them with raw power -- intimidation tactics which are made all the more terrifying because the clerics often multiclass or cross-train as barbarians, sorcerers, wizards or stormlords. Talos' worshipers feel emboldened not just by his status as a greater deity, but his destructive power and chaotic nature.
 
-His followers are destroyers, raiders, looters and brigands.
+His followers are destroyers, raiders, looters and brigands. 
+
+There is a small church dedicated to his worship, consisting of followers who are utterly obsessed with destruction. 
+
+Druids and rangers potentially have vast stores of knowledge about him, as his evil actions affect nature first and foremost.
+
+https://www.cbr.com/dungeons-dragons-talos-storm-lord/
 
 ## Locations
 
