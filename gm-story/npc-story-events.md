@@ -7,6 +7,10 @@ tags: [timeline, doip, gm]
 
 ### CoT
 
+* 1498-04-15: Fheralai visited by Storm Lord in a dream<span class='ob-timelines' data-class='enemy' data-date='1498-06-27-00' data-title=""></span>
+* 1498-04-15: Fheralai visited by Storm Lord in a dream<span class='ob-timelines' data-class='enemy' data-date='1498-06-27-00' data-title=""></span>
+
+* 1498-06-27: Moesko claims Tower of Storms<span class='ob-timelines' data-class='enemy' data-date='1498-06-27-00' data-title="Moesko claims Tower of Storms"></span>
 * 1498-08-08: Anchorites place totem at Logger's Camp<span class='ob-timelines' data-class='enemy' data-date='1498-08-08-00' data-title="Anchorites place totem at Logger's Camp"></span>
 * 1498-08-17: Anchorite on patrol in boar shape<span class='ob-timelines' data-class='enemy' data-date='1498-08-17-00' data-title='Anchorite spotted while on patrol in boar form'></span>
 * 1498-08-24: Gorthok spied from Dragon Barrow <span class='ob-timelines' data-class='enemy' data-date='1498-08-24-00' data-title='Anchorites of Talos summon Gorthok'></span> 
@@ -14,8 +18,8 @@ tags: [timeline, doip, gm]
 * 1498-09-04: Fheralai received report from Yargath<span class='ob-timelines' data-class='enemy' data-date='1498-09-04-00' data-title='Fheralai received report from Yargath'></span>
 * 1498-09-08: Fheralai sent messages to Yargath and Grannoc<span class='ob-timelines' data-class='enemy' data-date='1498-09-08-00' data-title='Fheralai sent messages to Yargath and Grannoc'></span>
 * 1498-09-12: Messenger finds Woodland Manse under attack. <span class='ob-timelines' data-class='enemy' data-date='1498-09-12-00' data-title="Messenger finds Woodland Manse under attack">Fharalai's letters both delivered to Yargath; Yargath knows fate of WM</span>
-* 1498-09-12: <span class='ob-timelines' data-class='enemy' data-date='1498-09-12-00' data-title='Anchorites at Woodland Manse destroyed'>Grannoc and 3 other anchorites destroyed.</span>
-* 1498-09-13: Yargath, Flenz and Narux summon Gorthok <span class='ob-timelines' data-class='enemy' data-date='1498-09-13-00' data-title="Yargath, Flenz and Narux summon Gorthok to attack Falcon's Lodge"></span>
+* 1498-09-12: Grannoc destroyed at WM<span class='ob-timelines' data-class='enemy' data-date='1498-09-12-00' data-title='Anchorites at Woodland Manse destroyed'>Grannoc and 3 other anchorites destroyed.</span>
+* 1498-09-13: Yargath, Flenz and Narux summon Gorthok <span class='ob-timelines' data-class='enemy' data-date='1498-09-13-00' data-title="Yargath, Flenz and Narux summon Gorthok"></span>
 * 1498-09-15: Yargath on patrol with Orc(Splinter-8)<span class='ob-timelines' data-class='enemy' data-date='1498-09-15-00' data-title='Yargath on patrol with Orc(Splinter-8); Yargath destroyed.'>Yargath was carrying Fheralai's note to him.</span>
 * 1498-09-22: Fheralai expects reports<span class='ob-timelines' data-class='enemy' data-date='1498-09-22-00' data-title='Fheralai expects reports from Yargath and Grannoc'></span>
 
@@ -61,7 +65,7 @@ tags: [timeline, doip, gm]
 * 1498-08-14: Orcs(Splinter-5) attack party near Gnomengarde <span class='ob-timelines' data-class='enemy' data-date='1498-08-14-00' data-title='Orcs(Splinter-5) attack near Gnomengarde; destroyed'></span>
 * 1498-09-04: Orcs(Splinter-6) attack Phandalin <span class='ob-timelines' data-class='enemy' data-date='1498-09-04-00' data-title='Orcs(Splinter-6) attack Phandalin; mostly destroyed (orc-hero)'></span>  
     Late in the evening. All killed but one, who claimed to be raiding only for supplies. Party gave him money and let him go.
-* 1498-09-12: Orcs(Splinter-2) are destroyed at Woodland Manse<span class='ob-timelines' data-class='enemy' data-date='1498-09-12-00' data-title='Grannoc and Orcs(Splinter-2) are destroyed'></span>
+* 1498-09-12: Orcs(Splinter-2) are destroyed at Woodland Manse<span class='ob-timelines' data-class='enemy' data-date='1498-09-12-00' data-title='Orcs(Splinter-2) are destroyed'></span>
 * 1498-09-13: Orcs(Splinter-7) and Gorthok attack Falcon's Lodge<span class='ob-timelines' data-class='enemy' data-date='1498-09-13-00' data-title="Orcs(Splinter-7) and Gorthok attack Falcon's Lodge">Gorthok knocks down the palisade at Falcon's Lodge. Orc(Splinter-7) destroyed except for orc-hero and 3 friends.</span> 
 * 1498-09-15: Yargath on patrol with Orc(Spliter-8) (above)
 

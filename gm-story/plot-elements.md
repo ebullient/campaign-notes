@@ -60,8 +60,8 @@ Displaced Many Arrows tribe allied with CoT
 
 - [ ] Set up a base: caves of the [Thunder Cliffs](/compendium/Thunder%20Cliffs.md) 
 - [ ] Use magic to install dangerous reefs in the area
-- [ ] Moesko takes over the Tower of Storms, luring boats to their doom
-- [ ] Establish temples to Talos along the High Road to control flow of traffic and goods (whim of Storm Lord)
+- [x] Moesko takes over the Tower of Storms, luring boats to their doom
+- [ ] Establish temples to Talos along the High Road to control flow of traffic and goods (whim of Storm Lord)  -- up next
 
 **Disrupt supplies heading to the city from the forest**
 
