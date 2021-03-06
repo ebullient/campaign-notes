@@ -8,7 +8,7 @@ tags:
 ![Maccus](/[assets]/attachments/maccus-strongarm.jpeg#portrait)
 # Maccus Strongarm
 <span class="subhead">Male human Blacksmith, neutral good
-Strongarm Smithy, Phandalin</span>
+[Strongarm Smithy](Strongarm%20Smithy.md), Phandalin</span>
 
 TL;DR description / personality / motivation
 

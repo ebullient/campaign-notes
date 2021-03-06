@@ -7,7 +7,7 @@ tags:
 ---
 # Ander
 <span class="subhead">Male human clerk, {{alignment}}  
-Barthen's Provisions</span>
+[Barthen's Provisions](Barthen's%20Provisions.md)</span>
 
 He has curly blonde hair and bright hazel eyes. Late teens, early twenties, strong.
 

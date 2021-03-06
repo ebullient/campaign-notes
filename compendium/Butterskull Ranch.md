@@ -7,12 +7,12 @@ tags:
   - group/tribe/many-arrows
 ---
 # Butterskull Ranch
-<span class="subhead">*Farm and Ranch, Triboar Trail</span>
+<span class="subhead">Farm and Ranch, Triboar Trail</span>
 
 TL;DR description
 
 * **Owner** [Alfonse "Big Al" Kalazorn](Alfonse%20Kalazorn.md)
-* **Location** Near [Conyberry](Conyberry.md)
+* **Location** Directly off of the Triboar trail near Conyberry. 
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 

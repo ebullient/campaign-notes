@@ -7,7 +7,7 @@ tags:
 ---
 # Bredon (cook)
 <span class="subhead">Male human cook, lawful neutral
-Stonehill Inn, Phandalin</span>
+[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
 
 Bredon is the cook at the Stonehill Inn
 

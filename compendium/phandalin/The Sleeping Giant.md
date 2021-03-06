@@ -8,10 +8,7 @@ tags:
 # The Sleeping Giant
 <span class="subhead">Tavern, Phandalin</span>
 
-Sister Garaele regularly reports to her superiors in Neverwinter on events in and around Phandalin. The shrine is left untended when she is away.
-
 * **Barkeep** [Grista](Grista.md)
-* **Location** Eastern edge of Phandalin
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 

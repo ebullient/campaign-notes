@@ -8,7 +8,7 @@ tags:
 ![Amelia Stonehill](/[assets]/attachments/amelia-stonehill.jpeg#portrait)
 # Amelia Stonehill
 <span class="subhead">Female human, Innkeeper's wife, lawful good  
-Stonehill Inn, Phandalin</span>
+[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
  
 TL;DR description / personality / motivation
 

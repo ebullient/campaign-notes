@@ -26,8 +26,6 @@ TL;DR description / personality / motivation
 
 ## Relationships
 
-**Organizations**
-
 ## Secrets
 
 ## History

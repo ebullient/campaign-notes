@@ -9,7 +9,7 @@ tags:
 ![Halia Thornton](/[assets]/attachments/halia-thornton.jpg#portrait)
 # Halia Thornton
 <span class="subhead">Female human Guildmaster, lawful neutral  
-Phandalin Miner's Exchange</span>  
+[Phandalin Miner's Exchange](Phandalin%20Miner's%20Exchange.md), Phandalin</span>  
 
 Fierce. Calculating.
 She wants her guild to be the governing body of the village. #story/unexplored

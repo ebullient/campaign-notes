@@ -7,7 +7,7 @@ tags:
 ---
 # Thistle
 <span class="subhead">Female human clerk, {{alignment}}
-Barthen's Provisions, Phandalin<span class="subhead">
+[Barthen's Provisions](Barthen's%20Provisions.md), Phandalin</span>
 
 Thistle has an angular face, with braided golden hair and dark hazel eyes. She is lean, but strong, and does her fair share with the wagons.
 

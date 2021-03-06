@@ -5,10 +5,10 @@ tags:
   - iff/friend
   - place/town/phandalin/alderleaf-farm
 ---
+![Qelline Alderleaf](/[assets]/attachments/qelline-alderleaf.jpeg#portrait)
 # Qelline Alderleaf
-<span class="subhead">![Qelline Alderleaf](/[assets]/attachments/qelline-alderleaf.jpeg#portrait)
-Female Halfling Farmer, Neutral good  
-Alderleaf Farm, Phandalin</span>
+<span class="subhead">Female Halfling Farmer, Neutral good  
+[Alderleaf Farm](Alderleaf%20Farm.md), Phandalin</span>
 
 Pragmatic and wise farmer who seems to know everything going on in the town. 
 

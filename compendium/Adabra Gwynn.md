@@ -5,12 +5,11 @@ tags:
   - iff/neutral
   - place/settlement/umbrage-hill
   - region/north-sword-coast/high-road
-  - todo
 ---
 ![Adabra Gwynn](/[assets]/attachments/adabra-gwynn.jpeg#portrait)
 # Adabra Gwynn
 <span class="subhead">Female human apothecary, neutral good  
-Umbrage Hill</span>
+Umbrage Hill, Sword Coast North</span>
 
 Midwife, apothecary, potion maker.
 
@@ -19,7 +18,7 @@ Midwife, apothecary, potion maker.
 * Devotee of Chauntea, goddess of agriculture
 
 Potions of healing cost 50gp
-Mirna sells her potions and poultices in town.
+[Mirna Dendrar](phandalin/Mirna%20Dendrar.md) sells her potions and poultices in town at [The Crafty Hand](phandalin/The%20Crafty%20Hand.md).
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
@@ -31,7 +30,7 @@ Mirna sells her potions and poultices in town.
 * **Bonds**
 * **Flaws**
 
-### Umbrage Hill
+### Living at Umbrage Hill
 
 Millstone on the ground floor grinds herbs and other ingredients for poultices and potions. Quarters are on 2nd floor. Loft on 3rd floor.
 

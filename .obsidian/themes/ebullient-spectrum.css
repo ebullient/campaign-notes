@@ -65,7 +65,7 @@
   --gray-dark-4: #212121;
   --gray-dark-5: #1b1b1b;
   /* Overriding Obsidian Variables */
-  --default-font: 'Fira Sans', 'Optima', 'Roboto', Helvetica Neue, Helvetica, Arial, sans-serif;
+  --default-font: 'PT Sans', Helvetica Neue, Helvetica, Arial, sans-serif;
   --font-monospace: 'Fira Code', 'Source Code Pro', monospace;
   --font-tags: Architects Daughter, Helvetica Neue, Helvetica, Arial, sans-serif;
   --font-header: var(--font-tags);
@@ -88,7 +88,7 @@
   --main-node: var(--dark-3);
   --main-node-hover: var(--dark-4);
   --attachments: var(--bright-4);
-  --tags: var(--dark-5);
+  --tags: var(--bright-2);
   --external-link: var(--gray-blue);
   --external-link-hidden: rgba(131, 197, 235, 0.3);
   --main-background: var(--gray-dark-4);

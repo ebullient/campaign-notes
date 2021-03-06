@@ -8,7 +8,7 @@ tags:
 ![Thel Dendrar](/[assets]/attachments/thel-dendrar.jpeg#portrait)
 # Thel Dendrar
 <span class="subhead">Male human carpenter, lawful good  
-The Crafty Hand, Phandalin</span> 
+[The Crafty Hand](The%20Crafty%20Hand.md), Phandalin</span> 
 
 TL;DR description / personality / motivation
 
