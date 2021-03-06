@@ -36,11 +36,17 @@ It defines a 365-day year divided into 12 months of 30 days - or 3 tendays - eac
 ### Greengrass
 <span class='ob-timelines' data-date='1498-05-00-00' data-title='Greengrass'></span>
 
+https://forgottenrealms.fandom.com/wiki/Greengrass
+
 ### Summer Solstice
 <span class='ob-timelines' data-date='1498-06-20-00' data-title='Summer Solstice'></span>
 
 ### Midsummer
 <span class='ob-timelines' data-date='1498-08-00-00' data-title='Midsummer'></span>
+
+https://forgottenrealms.fandom.com/wiki/Midsummer
+
+It was a time when love advanced, and it was said the deities themselves took a hand to ensure good weather. If bad weather was experienced on this night it was considered an extremely bad omen.
 
 ### Autumn Equinox
 <span class='ob-timelines' data-date='1498-09-21-00' data-title='Autumn Equinox'></span>

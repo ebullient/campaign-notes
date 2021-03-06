@@ -44,6 +44,7 @@ The Lord Protector of Neverwinter, Dagult Neverember, recently hired a group of 
 * [Jarlaxle Baenre](/compendium/Jarlaxle%20Baenre.md) (Divine Contention) has much to gain if Leilon’s rebuilding is successful, and even more to lose if the followers of Myrkul or Talos control the High Road. 
 
 ### Orcs
+
 Displaced Many Arrows tribe allied with CoT
 
 ### Other
@@ -54,24 +55,24 @@ Displaced Many Arrows tribe allied with CoT
 
 ### Cult of Talos prepares... 
 
-- [ ] Fheralai Stormsworn emerges as High Priestess of Cult of Talos
+- [x] Fheralai Stormsworn emerges as High Priestess of Cult of Talos
 
 **Control the coast:**
 
-- [ ] Set up a base: caves of the [Thunder Cliffs](/compendium/Thunder%20Cliffs.md) 
-- [ ] Use magic to install dangerous reefs in the area
+- [x] Set up a base: caves of the [Thunder Cliffs](/compendium/Thunder%20Cliffs.md) 
+- [x] Use magic to install dangerous reefs in the area
 - [x] Moesko takes over the Tower of Storms, luring boats to their doom
 - [ ] Establish temples to Talos along the High Road to control flow of traffic and goods (whim of Storm Lord)  -- up next
 
 **Disrupt supplies heading to the city from the forest**
 
-- [ ] Grannoc takes over Woodland Manse, plants the Gulthias Tree (Blights to disrupt and control all of Neverwinter Wood)
+- [x] Grannoc takes over Woodland Manse, plants the Gulthias Tree (Blights to disrupt and control all of Neverwinter Wood)
 - [x] Anchorites plant the totem at Logger's Camp (and possibly others)
 - [x] Attack Falcon's Lodge to gain control of the Eastern woods
 
 **Disrupt traffic on the Triboar trail**
 
-- [ ] Work with the Many Arrows orc tribe (natural allies) to raid and disrupt trade on the eastern end of the Triboar Trail
+- [x] Work with the Many Arrows orc tribe (natural allies) to raid and disrupt trade on the eastern end of the Triboar Trail
 - [ ] Encourage/support Cragmaw Goblins ?? (Black Spider?!)
 
 ### Party disrupts Cult of Talos plans (... now ...)
