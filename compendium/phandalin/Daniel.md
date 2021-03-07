@@ -6,10 +6,15 @@ tags:
   - place/town/phandalin/woodshop
 ---
 # Daniel #todo
-<span class="subhead">Male human Carpenter's apprentice, chaotic good  
-[The Crafty Hand](The%20Crafty%20Hand.md), Phandalin</span>
+<span class="subhead">[The Crafty Hand](The%20Crafty%20Hand.md), Phandalin</span>
 
 TL;DR description / personality / motivation
+
+> *Male human Carpenter's apprentice, chaotic good*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
@@ -18,11 +23,6 @@ TL;DR description / personality / motivation
 
 Seamus was a member of the Redbrands. He left his family farm because ... 
 and fell in with [George](George.md) and [Seamus](Seamus.md) who had similar runaway backgrounds and likewise felt uneasy with what the Redbrands were doing.
-
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 #story/unexplored: How does Daniel feel about working with a family the Redbrand's captured and intended to sell into slavery?
 

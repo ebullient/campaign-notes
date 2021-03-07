@@ -8,10 +8,15 @@ tags:
 ---
 ![Falcon](/[assets]/attachments/falcon.png#portrait)
 # Falcon the Hunter
-<span class="subhead">Male human noble, neutral good  
-[Falcon's Hunting Lodge](Falcon's%20Hunting%20Lodge.md), Neverwinter Wood</span>
+<span class="subhead">[Falcon's Hunting Lodge](Falcon's%20Hunting%20Lodge.md), Neverwinter Wood</span>
 
 He stands 6 feet, 6 inches tall, and has black hair and broad shoulders. His eyes are as blue, cold, and sharp as ice, and he sports a neatly trimmed beard. 
+
+> *Male human Noble, Sharpshooter/Expert, neutral good*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 He wears a fur-lined cloak over his studded leather armor.
 
@@ -20,16 +25,10 @@ He loves good wine and treats other people as he would like to be treated — fa
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Noble, Sharpshooter/Expert</span>
 
 Falcon abhors city life, preferring a rustic existence and simple pleasures. His lodge has all the creature comforts he requires, though he never turns down a good bottle of wine (or even a bad one) from a visitor.
 
 Falcon moves with the casual confidence of one who fears nothing, and he greets every concern with nonplussed indifference. 
-
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 ## Relationships
 

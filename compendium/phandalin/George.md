@@ -6,10 +6,15 @@ tags:
   - place/town/phandalin/edermath-orchard
 ---
 # George
-<span class="subhead">Male human farmer (fighter), neutral  
-Edermath Orchard, Phandalin</span>
+<span class="subhead">Edermath Orchard, Phandalin</span>
 
 TL;DR description / personality / motivation
+
+> *Male human farmer (fighter), neutral*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
@@ -18,11 +23,6 @@ TL;DR description / personality / motivation
 
 Seamus was a member of the Redbrands. He left his family farm because ... 
 and fell in with [Daniel](Daniel.md) and [Seamus](Seamus.md) who had similar runaway backgrounds and likewise felt uneasy with what the Redbrands were doing.
-
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 #story/unexplored: How does George feel about working with a devout ex-military half-elf in an apple orchard?! 
 

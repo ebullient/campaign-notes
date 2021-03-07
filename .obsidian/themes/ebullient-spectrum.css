@@ -1,11 +1,11 @@
 @charset "UTF-8";
 /*
-* Tested with Obsidian v0.10.11 
+* Tested with Obsidian v0.10.11
 *
-* Author: Wiktoria Mielcarek (Braweria) 
-* Name: Spectrum 
-* Licence: MIT 
-* GitHub Repo: https://github.com/Braweria/Spectrum 
+* Author: Wiktoria Mielcarek (Braweria)
+* Name: Spectrum
+* Licence: MIT
+* GitHub Repo: https://github.com/Braweria/Spectrum
 * Version: 0.14.3
 
 ! CONTENT
@@ -95,6 +95,7 @@
   --secondary-background: var(--gray-dark-5);
   --background-primary: var(--main-background);
   --background-secondary: var(--secondary-background);
+
   --text-title-h1: var(--bright-6);
   --text-title-h2: var(--bright-5);
   --text-title-h3: var(--bright-4);
@@ -175,7 +176,7 @@ body {
   max-width: 750px;
 }
 
-/* 
+/*
 *..........................3. Text Decorations */
 .cm-s-obsidian .cm-strong,
 strong {
@@ -374,7 +375,7 @@ span.subhead {
   font-weight: 400;
 }
 
-/* 
+/*
 *..........................4. Workspace */
 .workspace-ribbon.mod-left.is-collapsed,
 .workspace-ribbon.mod-right.is-collapsed {

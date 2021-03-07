@@ -1,0 +1,8 @@
+span.nav {
+  border-top: 1px solid var(--gray-dark-3);
+  border-bottom: 1px solid var(--gray-dark-3);
+  clear: right;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

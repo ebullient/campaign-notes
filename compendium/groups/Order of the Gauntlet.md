@@ -8,17 +8,15 @@ tags:
 
 A devout and vigilant group that seeks to protect others from the depredations of evildoers. The order is always vigilant, ready to smite evil, enforce justice, and enact retribution against any who try to subjugate or harm others. 
 
-**Beliefs**
-
-1. Faith is the greatest weapon against evil—faith in one’s god, one’s friends, and one’s self.
-2. Battling evil is an extraordinary task that requires extraordinary strength and bravery.
-3. Punishing an evil act is just. Punishing an evil thought is not.
-
-Bearers of the Gauntlet are holy warriors on a righteous quest to crush evil and promote justice, and they never hide in the shadows.
-
+* **Beliefs**
+    1. Faith is the greatest weapon against evil—faith in one’s god, one’s friends, and one’s self.
+    2. Battling evil is an extraordinary task that requires extraordinary strength and bravery.
+    3. Punishing an evil act is just. Punishing an evil thought is not.
 * **Alignment** Lawful good
 * **Allegiances** Harpers
 * **Enemies** Cult of the Dragon
+
+Bearers of the Gauntlet are holy warriors on a righteous quest to crush evil and promote justice, and they never hide in the shadows.
 
  Order agents tend to be proficient in Religion, and frequently seek aid from law enforcement friendly to the order's ideals, and the clergy of the order's patron gods.
 

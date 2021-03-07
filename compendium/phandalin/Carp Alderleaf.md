@@ -7,22 +7,21 @@ tags:
 ---
 ![Carp Alderleaf](/[assets]/attachments/carp-alderleaf.jpg#portrait)
 # Carp Alderleaf
-<span class="subhead">Male halfling farmboy, chaotic good  
-[Alderleaf Farm](Alderleaf%20Farm.md), Phandalin</span>
+<span class="subhead">[Alderleaf Farm](Alderleaf%20Farm.md), Phandalin</span>
 
 Spirited and precocious halfling 10-year-old. Enchanted by the idea of being an adventurer.
+
+> *Male halfling Farmboy, chaotic good*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 ![Alderleaf farm](/[assets]/attachments/phandalin-alderleaf-farm.jpeg#portrait)
 ## Details
-<span class="subhead">{{Background}}, Commoner</span>
 
-Lives and helps out at [Alderleaf Farm](Alderleaf%20Farm.md) when not running around with [Pip Stonehill](Pip%20Stonehill.md)
-
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
+Lives and helps out at [Alderleaf Farm](Alderleaf%20Farm.md) when not running around with [Pip Stonehill](Pip%20Stonehill.md).
 
 ## Relationships
 

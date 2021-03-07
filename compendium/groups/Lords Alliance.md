@@ -8,17 +8,15 @@ tags:
 
 Coalition of rulers from cities and towns across Faerûn (primarily in the North), who collectively agree that some solidarity is needed to keep evil at bay.
 
-**Beliefs**
-
-1. If civilization is to survive, all must unite against the dark forces that threaten it.
-2. Glory comes from protecting one’s home and honoring its leaders.
-3. The best defense is a strong offense.
-
-The Lords' Alliance includes the strongest mercantile powers of the North. They maintain strong trade ties, and provide both military support, and a forum for peaceful airing of differences.
-
+* **Beliefs**
+    1. If civilization is to survive, all must unite against the dark forces that threaten it.
+    2. Glory comes from protecting one’s home and honoring its leaders.
+    3. The best defense is a strong offense.
 * **Alignment** lawful good
 * **Allegiances** The Harpers, The Emerald Enclave, The Order of the Gauntlet
 * **Enemies** Red Wizards of Thay
+
+The Lords' Alliance includes the strongest mercantile powers of the North. They maintain strong trade ties, and provide both military support, and a forum for peaceful airing of differences.
 
 Alliance agents are required to be knowledgable in History, and can always rely on the aid of the governments that are part of the Alliance, plus other leaders and groups who uphold the Alliance's ideals.
 

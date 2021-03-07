@@ -7,21 +7,20 @@ tags:
   - region/north-sword-coast/neverwinter-wood
 ---
 # Tibor Wester
-<span class="subhead">Male human overseer, {{alignment}}
-[Logger's Camp](Logger's%20Camp.md), Neverwinter Wood</span>
+<span class="subhead">[Logger's Camp](Logger's%20Camp.md), Neverwinter Wood</span>
 
-COWARD.
-Opportunist.
+COWARD. Opportunist.
+
+> *Male human overseer, {{alignment}}*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Background, Commoner</span>
 
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 ## Relationships
 

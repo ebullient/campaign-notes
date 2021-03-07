@@ -7,20 +7,20 @@ tags:
 ---
 ![Lanar](/[assets]/attachments/lanar-miner.jpeg#portrait)
 # Lanar
-<span class="subhead">Male human Miner, {{alignment}}  
-[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
+<span class="subhead">[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
 
 TL;DR description / personality / motivation
+
+> *Male human Miner, Craftsman, {{alignment}}*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Craftsman, Commoner</span>
 
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 ## Relationships
 

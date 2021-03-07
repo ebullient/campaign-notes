@@ -6,22 +6,22 @@ tags:
   - place/town/phandalin/barthens-provisions
 ---
 # Ander
-<span class="subhead">Male human clerk, {{alignment}}  
-[Barthen's Provisions](Barthen's%20Provisions.md)</span>
+<span class="subhead">[Barthen's Provisions](Barthen's%20Provisions.md)</span>
 
 He has curly blonde hair and bright hazel eyes. Late teens, early twenties, strong.
+
+> *Male human Clerk, {{alignment}}*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 Helps load and unload wagons, and waits on customers when Barthen isn’t around
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">{{Background}}, Commoner</span>
 
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 ## Relationships
 

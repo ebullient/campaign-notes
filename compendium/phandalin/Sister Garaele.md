@@ -7,22 +7,22 @@ tags:
   - group/faction/harpers
 ---
 # Sister Garaele
-<span class="subhead">Female elf cleric, Harper Agent, chaotic good  
-[Shrine of Luck](Shrine%20of%20Luck.md), Phandalin</span>
+<span class="subhead">[Shrine of Luck](Shrine%20of%20Luck.md), Phandalin</span>
 
 Cleric/Acolyte of Tymora (zealous).
+
+> *Female elf Cleric, Faction Agent, chaotic good*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 Sister Garaele regularly reports to her superiors in Neverwinter on events in and around Phandalin. The shrine is left untended when she is away.
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Acolyte, Faction Agent, Commoner</span>
 
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 ## Relationships
 

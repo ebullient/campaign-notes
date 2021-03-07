@@ -9,17 +9,15 @@ tags:
 
 A shadowy organization that seeks to exert secret control over the North through wealth and influence. The Zhentarim seeks to become omnipresent and inescapable, more wealthy and powerful, and most importantly, untouchable. 
 
-**Beliefs**
-
-1. The Zhentarim is your family. You watch out for it, and it watches out for you.
-2. You are the master of your own destiny. Never be less than what you deserve to be.
-3. Everything—and everyone—has a price.
-
-The public face of the organization appears much more benign, offering the best mercenaries money can buy. However, the cost of doing business with the Black Network can be high.
-
+* **Beliefs**
+    1. The Zhentarim is your family. You watch out for it, and it watches out for you.
+    2. You are the master of your own destiny. Never be less than what you deserve to be.
+    3. Everything—and everyone—has a price.
 * **Alignment** Chaotic neutral; Lawful, Neutral, or Chaotic evil
 * **Alliances** Church of Bane, 
 * **Enemies** Harpers, Lords' Alliance, Cult of the Dragon
+
+The public face of the organization appears much more benign, offering the best mercenaries money can buy. However, the cost of doing business with the Black Network can be high.
 
 Zhenterim agents must often work in secret, and are frequently proficient in Deception. They seek aid from wizards, mercenaries, merchants, and priesthoods allied with the Zhenterim.
 

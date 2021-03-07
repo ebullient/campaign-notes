@@ -7,10 +7,10 @@ tags: [timeline, doip, gm]
 
 ### CoT
 
-* 1496-04-15: Grannoc claims Woodland Manse and plants the Gulthias Tree<span class='ob-timelines' data-class='enemy' data-date='1498-06-27-00' data-title="Grannoc claims Woodland Manse">Plants the Gulthias Tree</span>
-* 1498-04-15: Fheralai visited by Storm Lord in a dream<span class='ob-timelines' data-class='enemy' data-date='1498-06-27-00' data-title="Fheralai visited by Storm Lord in a dream"></span>
+* 1496-04-15: Grannoc claims Woodland Manse and plants the Gulthias Tree<span class='ob-timelines' data-class='enemy' data-date='1496-04-15-00' data-title="Grannoc claims Woodland Manse">Plants the Gulthias Tree</span>
+* 1498-04-15: Fheralai visited by Storm Lord in a dream<span class='ob-timelines' data-class='enemy' data-date='1498-04-15-00' data-title="Fheralai visited by Storm Lord in a dream"></span>
 * 1498-05-00: Fheralai consolidates leadership. <span class='ob-timelines' data-class='enemy' data-date='1498-05-00-00' data-title="Fheralai consolidates leadership">Rallies the anchorites</span>
-* 1498-06-02: Caves discovered in Thunder Cliffs. <span class='ob-timelines' data-class='enemy' data-date='1498-05-00-00' data-title="Fheralai creates her base">Caves at the base of Thunder Cliffs claimed by Fheralai (displaced pirates). Magically created reefs to snag ships sailing the coast.</span>
+* 1498-06-02: Caves discovered in Thunder Cliffs. <span class='ob-timelines' data-class='enemy' data-date='1498-06-02-00' data-title="Fheralai creates her base">Caves at the base of Thunder Cliffs claimed by Fheralai (displaced pirates). Magically created reefs to snag ships sailing the coast.</span>
 * 1498-06-27: Moesko claims Tower of Storms<span class='ob-timelines' data-class='enemy' data-date='1498-06-27-00' data-title="Moesko claims Tower of Storms"></span>
 * 1498-08-08: Anchorites place totem at Logger's Camp<span class='ob-timelines' data-class='enemy' data-date='1498-08-08-00' data-title="Anchorites place totem at Logger's Camp"></span>
 * 1498-08-17: Anchorite on patrol in boar shape<span class='ob-timelines' data-class='enemy' data-date='1498-08-17-00' data-title='Anchorite spotted while on patrol in boar form'></span>

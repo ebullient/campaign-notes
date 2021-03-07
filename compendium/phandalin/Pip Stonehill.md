@@ -7,20 +7,20 @@ tags:
 ---
 ![Pip Stonehill](/[assets]/attachments/pip-stonehill.jpeg#portrait)
 # Pip Stonehill
-<span class="subhead">Male human boy, Innkeeper's son, neutral good
-[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
+<span class="subhead">[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
 
 Energetic boy; lanky and ungraceful. Energetic. Helps his parents at the Inn when not running around with [Carp Alderleaf](Carp%20Alderleaf.md).
+
+> *Male human boy, Innkeeper's son, neutral good*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Background, Commoner</span>
 
-**Ideals**
-**Bonds**
-**Flaws**
-**Motivation**
 
 ## Relationships
 

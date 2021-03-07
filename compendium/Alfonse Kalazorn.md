@@ -9,20 +9,18 @@ tags:
   - todo
 ---
 # Alfonse "Big Al" Kalazorn
-<span class="subhead">{{gender}} {{race}} {{role/occupation}}, {{alignment}}  
-[Butterskull Ranch](Butterskull%20Ranch.md), Triboar Trail</span>
+<span class="subhead">[Butterskull Ranch](Butterskull%20Ranch.md), Triboar Trail</span>
 
-TL;DR description / personality / motivation
+> *Male human, Rancher, lawful good*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">{{Background}}, Commoner</span>
 
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 ## Relationships
 

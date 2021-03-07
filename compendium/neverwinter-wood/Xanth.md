@@ -6,24 +6,23 @@ tags:
 - region/north-sword-coast/neverwinter-wood
 ---
 # Xanth
-<span class="subhead">Male centaur, neutral good  
-[Neverwinter Wood](Neverwinter%20Wood.md)</span>
+<span class="subhead">[Neverwinter Wood](Neverwinter%20Wood.md)</span>
 
 Xanth is very intelligent. While quiet, he is very inquisitive. He learned Common, which is somewhat unusual for a Centaur, so he could converse more easily with humans like Reidoth.  He seems a little slender for a Centaur, but not unnaturally so.
+
+> *Male centaur, [Outlander](https://5ebackgrounds.com/outlander/), [Samurai Fighter](http://dnd5e.wikidot.com/fighter:samurai), neutral good*  
+> * **Trait** I place no stock in wealthy or well-mannered folk. Money and manners won’t save you from a hungry owlbear.
+> * **Ideals** The natural world is more important than all the constructs of civilization.
+> * **Bonds** An injury to the unspoiled wilderness of my home is an injury to me.
+> * **Flaws** I am slow to trust members of other races, tribes, and societies.
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">[Outlander](https://5ebackgrounds.com/outlander/), [Samurai Fighter](http://dnd5e.wikidot.com/fighter:samurai), [Centaur](/compendium/statblocks/centaur.md)</span>
 
 Xanth lives deep in Neverwinter Wood, but travels throughout, as he has a fierce desire to protect his home. Reidoth is his closest ally in this effort, but he has a longstanding friendship with Daran Edermath, as well.
 
 He wears a bronze armlet on his left arm, and is a skilled dancer (in Centaur dances, of course).
-
-* **Trait** I place no stock in wealthy or well-mannered folk. Money and manners won’t save you from a hungry owlbear.
-* **Ideals** The natural world is more important than all the constructs of civilization.
-* **Bonds** An injury to the unspoiled wilderness of my home is an injury to me.
-* **Flaws** I am slow to trust members of other races, tribes, and societies.
 
 ## Relationships
 

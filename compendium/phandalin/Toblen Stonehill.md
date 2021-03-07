@@ -6,31 +6,28 @@ tags:
   - place/town/phandalin/stonehill-inn
 ---
 # Toblen Stonehill
-<span class="subhead">Male human Innkeeper, lawful good  
-[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
+<span class="subhead">[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
 
-* Short, friendly, "ageless" human
-* Native of Triboar (a town to the east)
+Short, friendly, "ageless" human
 
 He is known to be helpful and talkative, especially to those that are respectful while on the inn’s grounds.
+
+> *Male human Innkeeper, lawful good*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Innkeeper, Commoner</span>
-
-
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
+Native of Triboar (a town to the east)
 
 ## Relationships
 
 * Married to [Amelia Stonehill](Amelia%20Stonehill.md)
 * Father of [Pip Stonehill](Pip%20Stonehill.md)
-* Friends
-    * [Thel Dendrar](Thel%20Dendrar.md)
+* Friends:  [Thel Dendrar](Thel%20Dendrar.md)
 
 ## Secrets
 

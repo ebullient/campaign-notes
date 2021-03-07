@@ -8,14 +8,10 @@ tags:
 
 Members are fervent religious cultists who worship [Myrkul](#Myrkul), the god of death. The cult is led by the priest [Ularan Mortus](../Ularan%20Mortus.md)å
 
-**Beliefs**
-
-1. ..
-2. ..
-3. ..
-
-More...
-
+* **Beliefs**
+    1. ..
+    2. ..
+    3. ..
 * **Alignment** 
 * **Allegiances** 
 * **Enemies** 

@@ -9,25 +9,23 @@ tags:
 ---
 ![Reidoth](/[assets]/attachments/reidoth.jpeg#portrait)
 # Reidoth the Druid
-<span class="subhead">Male human druid, neutral good  
-Thundertree</span>
+<span class="subhead">Thundertree</span>
 
 Reidoth has a cottage in the ruins of a town called Thundertree just west of the Neverwinter Wood, about 50 miles northwest of Phandalin.
 
+> *Male human Druid, Hermit, Faction Agent, neutral good*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Hermit, Faction Agent, Commoner</span>
 
 At least level 5 druid: Speak with Animals, Greater Restoration
 
 If he is threatened while in Thundertree, Reidoth will transform into a gray squirrel and scurry out of the cottage through a crack in the wall. He will vanish into the woods and wait for the hostile creatures to leave. His watch post contains nothing of value.
-
-**Ideals**
-**Bonds**
-**Flaws**
-**Motivation**
 
 ## Relationships
 

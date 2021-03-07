@@ -8,20 +8,21 @@ tags:
 ---
 ![Dazlyn Grayshard](/[assets]/attachments/dazlyn-grayshard.jpeg#portrait)
 # Dazlyn Grayshard
-<span class="subhead">Male dwarf prospector, {{alignment}}
-Axeholm, Sword Mountains</span>
+<span class="subhead">Axeholm, Sword Mountains</span>
 
 Shield dwarf prospector
+
+> *Male dwarf prospector, {{alignment}}*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 <span class="subhead">Background, Commoner</span>
 
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 ## Relationships
 

@@ -6,22 +6,22 @@ tags:
   - place/settlement/mountains-toe-mine
 ---
 # Don-Jon Raskin
-<span class="subhead">Male human Overseer, neutral
-Mountain's Toe Gold Mine</span>
+<span class="subhead">Mountain's Toe Gold Mine, Sword Mountains</span>
 
 Full of bluster and stories of his great exploits, Don-Jon Raskin walks and talks like a giant.
+
+> *Male human Overseer, neutral*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 He has worked as a gold prospector, miner, fur trader, privateer, and whaler. He even ran a trading post on the outskirts of Neverwinter for a few seasons.
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Background, Commoner</span>
 
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 ## Relationships
 

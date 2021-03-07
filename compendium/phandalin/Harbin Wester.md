@@ -13,6 +13,12 @@ tags:
 Thin voice, but rational. Still fearful.
 Pompous, middle-aged banker.
 
+> *{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
+
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 ![Harbin's home](/[assets]/attachments/phandalin-townmaster.jpeg#portrait)
 ## Details

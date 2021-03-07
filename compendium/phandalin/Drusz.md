@@ -7,22 +7,23 @@ tags:
 ---
 ![Drusz](/[assets]/attachments/drusz.png#portrait)
 # Drusz
-<span class="subhead">Male goblin {{role/occupation}}, {{alignment}}
-Phandalin</span>
+<span class="subhead">Phandalin</span>
 
 Drusz is a goblin that was badly abused and bullied by Bugbear's in the Redbrand Hideout.
+
+> *Male goblin {{role/occupation}}, {{alignment}}*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 His name is actually Drusz. He's quietly recovering from his abuse while staying with Harbin (and apparently playing chess).
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Background, Commoner</span>
 
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
+
 
 ## Relationships
 

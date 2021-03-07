@@ -8,11 +8,12 @@ tags:
 
 Members are fervent religious cultists who worship [Talos](#Talos), the Stormlord. The cult is led by the priestess [Fheralai Stormsworn](../Fheralai%20Stormsworn.md). 
 
-**Beliefs**
-
-1. Life is a succession of random effects in a sea of chaos.
-2. Life is short, you could die at any moment.
-3. Grab what you can when you can.
+* **Beliefs**
+    1. Life is a succession of random effects in a sea of chaos.
+    2. Life is short, you could die at any moment.
+    3. Grab what you can when you can.
+* **Alignment** Chaotic evil
+* **Enemies** Emerald Enclave
 
 They aim to place the region at the mercy of the Storm Lord by controlling the flow of goods.  
 
@@ -21,9 +22,6 @@ They have set up a base of operations in the caves of Thunder Cliffs, and have t
 Reclusive anchorites living in Neverwinter Wood are taking more aggressive steps to disrupt those dwelling in the woods. They have allied with the displaced [Many Arrows Orc Tribe](Many%20Arrows%20Orc%20Tribe.md).
 
 They plan to establish temples along the High Road, so they can call upon storms and lighting to disrupt trade at will.
-
-* **Alignment** Chaotic evil
-* **Enemies** Emerald Enclave
 
 In stormy weather, anchorites of Talos will gather on remote hilltops to "Call down the Thunder", and summon [Gorthok](/compendium/statblocks/gorthok.md), the thunder boar. When motivated, they can also summon a storm.
 

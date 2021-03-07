@@ -7,20 +7,20 @@ tags:
 ---
 ![Narth](/[assets]/attachments/narth.jpeg#portrait)
 # Narth
-<span class="subhead">Male human farmer, neutral good  
-[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
+<span class="subhead">[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
 
 TL;DR description / personality / motivation
+
+> *Male human Farmer, neutral good*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Farmer, Commoner</span>
 
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 ## Relationships
 

@@ -8,20 +8,20 @@ tags:
 ---
 ![Norbus Ironrune](/[assets]/attachments/norbus-ironrune.jpeg#portrait)
 # Norbus Ironrune
-<span class="subhead">Male dwarf prospector, {{alignment}}
-Axeholm, Sword Mountains</span>
+<span class="subhead">Axeholm, Sword Mountains</span>
 
 TL;DR description / personality / motivation
+
+> *Male dwarf prospector, {{alignment}}*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Background, Commoner</span>
 
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 ## Relationships
 

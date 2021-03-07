@@ -6,10 +6,15 @@ tags:
   - place/town/phandalin/smithy
 ---
 # Seamus
-<span class="subhead">Male human Apprentice Blacksmith, {{alignment}}  
-[Strongarm Smithy](Strongarm%20Smithy.md), Phandalin</span>
+<span class="subhead">[Strongarm Smithy](Strongarm%20Smithy.md), Phandalin</span>
 
 TL;DR description / personality / motivation #todo
+
+> *Male human Apprentice Blacksmith, {{alignment}}*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
@@ -18,11 +23,6 @@ TL;DR description / personality / motivation #todo
 
 Seamus was a member of the Redbrands. He left his family farm because ... 
 and fell in with [Daniel](Daniel.md) and [George](George.md) who had similar runaway backgrounds and likewise felt uneasy with what the Redbrands were doing.
-
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 ## Relationships
 

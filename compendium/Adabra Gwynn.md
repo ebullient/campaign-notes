@@ -8,27 +8,26 @@ tags:
 ---
 ![Adabra Gwynn](/[assets]/attachments/adabra-gwynn.jpeg#portrait)
 # Adabra Gwynn
-<span class="subhead">Female human apothecary, neutral good  
-Umbrage Hill, Sword Coast North</span>
+<span class="subhead">Umbrage Hill, Sword Coast North</span>
 
 Midwife, apothecary, potion maker.
+Fiercely independent
 
-* Fiercely independent
-* Keeps several hives of bees
-* Devotee of Chauntea, goddess of agriculture
+> *Female human apothecary, [Outlander](https://5ebackgrounds.com/outlander/), neutral good*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 Potions of healing cost 50gp
-[Mirna Dendrar](phandalin/Mirna%20Dendrar.md) sells her potions and poultices in town at [The Crafty Hand](phandalin/The%20Crafty%20Hand.md).
+[Mirna Dendrar](compendium/phandalin/Mirna%20Dendrar.md) sells her potions and poultices in town at [The Crafty Hand](/compendium/phandalin/The%20Crafty%20Hand.md).
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">[Outlander](https://5ebackgrounds.com/outlander/), Commoner</span>
 
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
+* Keeps several hives of bees
+* Devotee of Chauntea, goddess of agriculture
 
 ### Living at Umbrage Hill
 
@@ -37,8 +36,8 @@ Millstone on the ground floor grinds herbs and other ingredients for poultices a
 ## Relationships
 
 Friends: 
-* [Harbin Wester](phandalin/Harbin%20Wester.md)
-* [Mirna Dendrar](phandalin/Mirna%20Dendrar.md)
+* [Harbin Wester](/compendium/phandalin/Harbin%20Wester.md)
+* [Mirna Dendrar](/compendium/phandalin/Mirna%20Dendrar.md)
 
 ## Secrets
 

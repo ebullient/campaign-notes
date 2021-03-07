@@ -7,24 +7,24 @@ tags:
 ---
 ![Qelline Alderleaf](/[assets]/attachments/qelline-alderleaf.jpeg#portrait)
 # Qelline Alderleaf
-<span class="subhead">Female Halfling Farmer, Neutral good  
-[Alderleaf Farm](Alderleaf%20Farm.md), Phandalin</span>
+<span class="subhead">[Alderleaf Farm](Alderleaf%20Farm.md), Phandalin</span>
 
 Pragmatic and wise farmer who seems to know everything going on in the town. 
+
+> *Female Halfling Farmer, Neutral good*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 Qelline is a kind soul, always willing to let travelers stay in the hayloft in her barn. 
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Farmer, Commoner</span>
 
 She has a weak spot for rangers. She loves hearing their stories, which tend to involve close encounters with monstrous beasts in the wilderness. Toblen thinks she has a secret wish to wander off into the forested hinterlands.
 
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 ## Relationships
 

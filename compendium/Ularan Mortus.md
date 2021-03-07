@@ -7,24 +7,24 @@ tags:
 - todo
 ---
 # Ularan Mortus
-<span class="subhead">Male {{race}} priest, {{alignment}}
-{{location}}</span>
+<span class="subhead">{{location}}</span>
 
 TL;DR description / personality / motivation
+
+> *Male {{race}} priest, {{alignment}}*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Background, Commoner</span>
 
-* **Ideals**
-* **Bonds**
-* **Flaws**
-* **Motivation**
 
 ## Relationships
 
-**Organization or Faction**
+**Faction** Leader of [Cult of Myrkul](compendium/groups/Cult%20of%20Myrkul.md) 
 
 ## Secrets
 

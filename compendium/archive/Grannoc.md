@@ -8,21 +8,26 @@ tags:
 ---
 ![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)
 # Grannoc (dead)
-<span class="subhead">Male half-orc Anchorite of Talos, neutral evil  
-[Woodland Manse](../neverwinter-wood/Woodland%20Manse.md), Neverwinter Wood</span>
+<span class="subhead">[Woodland Manse](../neverwinter-wood/Woodland%20Manse.md), Neverwinter Wood</span>
 
 Grannoc had hoped Talos will answer his prayers and rain destruction down upon Falcon’s Hunting Lodge.
+
+> *Male half-orc Anchorite of Talos, neutral evil*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Cultist, [Anchorite of Talos](../statblocks/anchorite-of-talos.md)</span>
+<span class="subhead">Cultist, [Anchorite of Talos](/compendium/statblocks/anchorite-of-talos.md)</span>
 
 ## Relationships
 
-Grannoc was an [anchorite](../groups/Cult%20of%20Talos.md), a devout follower of Talos.
+Grannoc was an [anchorite](/compendium/groups/Cult%20of%20Talos.md), a devout follower of Talos.
 
-Took direction from High Priestess [Fheralai Stormsworn](../Fheralai%20Stormsworn.md)
+Took direction from High Priestess [Fheralai Stormsworn](/compendium/Fheralai%20Stormsworn.md)
 
 ## Secrets
 

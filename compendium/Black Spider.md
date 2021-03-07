@@ -7,22 +7,20 @@ tags:
 - todo
 ---
 # Black Spider
-<span class="subhead">Female drow wizard, chaotic neutral
-Somewhere on the Sword Coast North</span>
+<span class="subhead">Somewhere on the Sword Coast North</span>
 
 TL;DR description / personality / motivation
 #todo
 
+> *Female drow wizard, chaotic neutral*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Background, Commoner</span>
-
-* **Ideals**
-* **Bonds**
-* **Flaws**
-* **Motivation**
 
 [Getting out of the underdark](https://www.dndbeyond.com/posts/323-a-light-in-the-darkness-playing-a-drow-character)
 

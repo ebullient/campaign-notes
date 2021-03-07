@@ -8,10 +8,16 @@ tags:
 ---
 ![Mabina](/[assets]/attachments/mabina.jpg#portrait)
 # Mabina Cawood
-<span class="subhead">Female human Merchant, chaotic good  
+<span class="subhead">  
 Sword Coast North</span>
 
 A woman bustled around her cart. The layers and hood of her robe made it hard to figure out her age. The best that could be determined is not a kid and not a crone.
+
+> *Female human Merchant, chaotic good*  
+> * **Ideals** Magic should be used to protect and improve the lives of the common people
+> * **Bonds** I had a rival all throughout my training, we still compete.
+> * **Flaws** I can get so distracted by the mystery and wonder of magic that I can forget I'm supposed to be fighting another Wizard.
+> * **Motivation** When exposed to some new piece of magic, I can't help by try to figure out what it does and how it works.
 
 She will identify items for the party for free as a result of "The Splendiferous Bauble".
 
@@ -22,11 +28,6 @@ She will identify items for the party for free as a result of "The Splendiferous
 <span class="subhead">Student of Magic, Commoner</span>
 
 Through her own magical means, Mabina and her wagon traverse the Sword Coast North, trading magical items. Trade in magical items is a dicey busines, but it is one that Mabina loves with all her heart.
-
-* **Ideals** Magic should be used to protect and improve the lives of the common people
-* **Bonds** I had a rival all throughout my training, we still compete.
-* **Flaws** I can get so distracted by the mystery and wonder of magic that I can forget I'm supposed to be fighting another Wizard.
-* **Motivation** When exposed to some new piece of magic, I can't help by try to figure out what it does and how it works.
 
 ## Relationships
 

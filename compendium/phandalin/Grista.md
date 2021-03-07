@@ -12,6 +12,12 @@ tags:
 
 Surly.
 
+> *{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
+
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

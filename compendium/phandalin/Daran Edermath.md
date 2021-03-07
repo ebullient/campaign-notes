@@ -8,20 +8,21 @@ tags:
 ---
 ![Daran Edermath](/[assets]/attachments/daran-edermath.jpeg#portrait)
 # Daran Edermath
-<span class="subhead">Male half-elf orchard-keeper, lawful good  
-[Edermath Orchard](Edermath%20Orchard.md), Phandalin</span>
+<span class="subhead">[Edermath Orchard](Edermath%20Orchard.md), Phandalin</span>
 
 A fit, silver-haired _half-elf_ well over a hundred years old. He lives in a tidy little cottage beside the apple orchard.
+
+> *Male half-elf orchard-keeper, lawful good*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 <span class="subhead">Soldier, Faction Agent, Veteran</span>
 
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
 
 ## Relationships
 

@@ -6,21 +6,21 @@ tags:
 - iff/unknown
 ---
 # Gildas "Glasstaff"
-<span class="subhead">{{gender}} {{race}} {{role/occupation}}, {{alignment}}
-{{location}}</span>
+<span class="subhead">{{location}}</span>
 
 TL;DR description / personality / motivation
 #todo
 
+> *{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
+> * **Trait**
+> * **Ideals**
+> * **Bonds**
+> * **Flaws**
+
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Background, Commoner</span>
 
-* **Ideals**
-* **Bonds**
-* **Flaws**
-* **Motivation**
 
 ## Relationships
 
