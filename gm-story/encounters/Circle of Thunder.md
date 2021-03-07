@@ -7,16 +7,17 @@ tags:
 ### Prep
 - [x] Update Roll20 for Xanth: +2 armor
 - [x] Something distinctive about each anchorite
-- [ ] Evidence / foreshadowing: 
+- [x] Evidence / foreshadowing: 
     - [x] Letter from [Fheralai](/compendium/Fheralai%20Stormsworn.md)
-    - [ ] Letter from Fheralai to Grannoc
+    - [x] Letter from Fheralai to Grannoc
 
 ## Essentials
 * Allies: Party + [Xanth](/compendium/neverwinter-wood/Xanth.md)  
 * Enemies: 
-  * [Yargath](/compendium/archive/Yargath.md)
-  * [Flenz](/compendium/neverwinter-wood/Flenz.md)
-  * [Narux](/compendium/neverwinter-wood/Narux.md)
+  * [Anchorites](/compendium/statblocks/anchorite-of-talos.md)
+    * [Yargath](/compendium/archive/Yargath.md)
+    * [Flenz](/compendium/neverwinter-wood/Flenz.md)
+    * [Narux](/compendium/neverwinter-wood/Narux.md)
   * [Gorthok](/compendium/statblocks/gorthok.md)
 * Location: [Circle of Thunder](/compendium/neverwinter-wood/Circle%20of%20Thunder.md)
 
@@ -127,8 +128,12 @@ The basket in the niche above the slate contains a bottle of ink, quills, a stub
 ---
 
 ## Hilltop Encounter Sheet
+
 * **Twig Blights** -- Small and scrappy, poor STR, good DEX and CON. Don't have high mobility, compensate with numbers. ==Vulnerable to fire and Hew==
     * WILL RUN FROM FIRE
     * They will follow a retreating foe, but will not dash. They will surround an enemy if they can.
-* Narux and Flenz
-[Gorthok](/compendium/statblocks/gorthok.md) appears out of nowhere in the middle of the circle with a large thunderclap once both anchorites are dead.
+* [Narux and Flenz](/compendium/statblocks/anchorite-of-talos.md)
+    - First round: One will bless the other
+    - Each will cast lightning bolt as soon as they can hit more than one target (they can each only do this once...)
+    - They have no ranged attacks, will talk/threaten with godly harm if surrounded by only ranged opponents.
+* [Gorthok](/compendium/statblocks/gorthok.md) appears out of nowhere in the middle of the circle with a large thunderclap once both anchorites are dead.
