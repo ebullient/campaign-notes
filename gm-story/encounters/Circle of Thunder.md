@@ -30,15 +30,18 @@ tags:
 
 > Atop the hill is a ring of eight upright stone structures, each one consisting of two 10-foot-high vertical stone slabs spaced 5 feet apart and topped with a 3-foot-thick flat lintel stone.
 
-These uprights can be toppled by creatures with a combined Strength score of 80 or higher. -- the party + xanth can do this.
+Note: These uprights can be toppled by creatures with a combined Strength score of 80 or higher. -- the entire party + xanth can do this.
 
-> As you approach the hilltop, the movement begins to make sense: two humanoid figures are doing some kind of ceremonial dance around a carcass of some kind in the center of the henge. They are surrounded by a ring of smaller creatures, who are also dancing.
+> As you approach the hilltop, the movement begins to make sense: two humanoid figures are doing some kind of ceremonial dance around a carcass of some kind in the center of the henge. They are surrounded by a ring of smaller twig-like creatures, who are also dancing.
+> Both of the dancing humanoids are physically big. Both wear the rotting heads of boars as masks. One has short silver hair, while the other has long auburn hair that is escaping a loose braid. They are both completely focused on what they are doing. 
 
-Flenz and Narux are performing a ritual to summon [Gorthok](compendium/statblocks/gorthok.md). Both of them are physically big. Both wear the rotting heads of boars as masks. One has short silver hair, while the other has long auburn hair that is escaping a loose braid. They are both completely focused on what they are doing. 
-
+Flenz and Narux are performing a ritual to summon Gorthok.  
 Twelve twig blights guard Flenx and Narux while adding energy to the ritual with their own dancing.
 
 [Hilltop Encounter Sheet](#Hilltop\ Encounter\ Sheet)
+
+**DC 10 Perception** will find one of 3 *flimsy trapdoors hidden under grass and dirt*.
+If *Grizzlebear* approaches one, he instinctively avoids it. Others will notice that the ground is strangely springy there.
 
 ## Scout
 
@@ -80,6 +83,9 @@ The trapdoor is clearly visible from inside the tunnel.
 From the hillside: 
 >  Carved into the lintel stop abouve the cave mouth is a picture of a boar chasing after a stick-figure humanoid.
 
+**C.** *Cell.*   
+> A single deer is trapped in the chamber.
+
 **D.** *Anchorite's Retreat.*  -- [Flenz](/compendium/neverwinter-wood/Flenz.md)
 > A small sleeping mat is balled up in one corner of the room. The niche closest to it is shaped around a wide, narrow basket. 
 
@@ -105,6 +111,9 @@ From the hillside:
 From the hillside: 
 > Carved into the lintel stone above the mouth of this cave is a pictograph depicting three stick-figure humanoids being struck by lightning.
 
+**C.** *Cell.*   
+> A single deer is trapped in the chamber.
+
 **D.** *Anchorite's Retreat.*  -- [Yargath](/compendium/archive/Yargath.md)
 > A thin piece of slate rests against the wall, it is splattered with black spots, and there are dribbles of something stuck to the top right corner. There is a basket in the wall above it. There is a small sleeping mat balled up in a corner. The niche closest to the sleeping mat holds a narrow basket. 
 
@@ -118,6 +127,8 @@ The basket in the niche above the slate contains a bottle of ink, quills, a stub
 ---
 
 ## Hilltop Encounter Sheet
-* Twig Blights
+* **Twig Blights** -- Small and scrappy, poor STR, good DEX and CON. Don't have high mobility, compensate with numbers. ==Vulnerable to fire and Hew==
+    * WILL RUN FROM FIRE
+    * They will follow a retreating foe, but will not dash. They will surround an enemy if they can.
 * Narux and Flenz
 [Gorthok](/compendium/statblocks/gorthok.md) appears out of nowhere in the middle of the circle with a large thunderclap once both anchorites are dead.
