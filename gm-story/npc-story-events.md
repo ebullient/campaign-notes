@@ -18,10 +18,29 @@ tags: [timeline, doip, gm]
 * 1498-09-02: Fheralai received report from Grannoc<span class='ob-timelines' data-class='enemy' data-date='1498-09-02-00' data-title='Fheralai received report from Grannoc'></span>
 * 1498-09-04: Fheralai received report from Yargath<span class='ob-timelines' data-class='enemy' data-date='1498-09-04-00' data-title='Fheralai received report from Yargath'></span>
 * 1498-09-08: Fheralai sent messages to Yargath and Grannoc<span class='ob-timelines' data-class='enemy' data-date='1498-09-08-00' data-title='Fheralai sent messages to Yargath and Grannoc'></span>
+    * Fheralai to Yargath
+         > Yargath —
+        Grannoc says the tree is growing, and that blights spread through the forest with orders from him to hinder any traveller in the Wood that doesn’t follow Talos. I want to know how that is actually working. Blights are plants. Most can’t even converse. How will they identify followers of Talos that are not the chosen Anchorites? If we are successful, there will be new converts that should find safe passage through the Wood to offer their prayers and sacrifices in the Circle to protect their homes and farms.  
+        > I also gathered, from both of your last reports, that your first attempt at gaining control of the logging camps along the river has been thwarted. My spies in Neverwinter have been unable to find a rescuer. I will send someone to Phandalin soon.Trade to Neverwinter must be disrupted. Perhaps Gorthok or the blights can succeed where ankhegs and talismans failed.  
+        > It must also be clear that Talos, Lord of Storms, will bring destruction to the Sword Coast, and only prayer and sacrifice will stay his hand.   
+        > Plans for the High Road proceed slowly. The area where the Triboar Trail meets the High Road is unexpectedly difficult. Send some anchorites there, and charge them with finding a site for a new temple. Calling thunder and lightning will be necessary to control the new settlers there.  
+        > Storms and sea trade support our efforts. Moesko provides a very effective lure. I expect another report from you in the next ten-day. May we rain chaos and destruction upon our enemies in Talos’
+        name.  
+        > Your high priestess, Fheralai
+        > p.s. Do not make any more attempts at epic poetry in your reports. If you do it again, I will ask Flenz to write them instead. He is ambitious. I am sure he would jump at the chance to replace you.
+    * Fheralai to Grannoc
+        > Grannoc —
+        > The area where the High Road meets the Triboar Trail has been difficult to control. You would think that settlers would be discouraged by a persistent tribe of Goblins, but they seem determined to revive the old town. A place of refuge on the High Road would work against our plans. Their efforts must be undone. I would like you and Yargath to send anchorites south to infiltrate the settlement if they can. We need a base of operations in the area that is reachable by land, and those with me are focused wholly on our efforts at sea.  
+        > I am encouraged by your notes of progress with the blights and the Gulthias Tree, especially if your word holds, and the blights continue to answer to you. In the worst case, they make the forest more dangerous. It is beyond hope that they will bother the Goblins, though I suppose the Goblins in some ways make our lives easier. They aren't working against Talos' will, but they aren't allied with it either. I can let it lie for now, but making them uncomfortable is no bad thing.  
+        > As you know, we are well supported by our coastal efforts. Moesko provides a very effective lure. The power and destruction of Talos' storms on the open water are glorious to behold. A sight to rival the appearance of Gorthok at the least.  
+        > I expect another report from you in the next ten-day. May we rain chaos and destruction upon our enemies in Talos’ name.  
+        > Your high priestess, Fheralai 
+
 * 1498-09-12: Messenger finds Woodland Manse under attack. <span class='ob-timelines' data-class='enemy' data-date='1498-09-12-00' data-title="Messenger finds Woodland Manse under attack">Fharalai's letters both delivered to Yargath; Yargath knows fate of WM</span>
 * 1498-09-12: Grannoc destroyed at WM<span class='ob-timelines' data-class='enemy' data-date='1498-09-12-00' data-title='Anchorites at Woodland Manse destroyed'>Grannoc and 3 other anchorites destroyed.</span>
 * 1498-09-13: Yargath, Flenz and Narux summon Gorthok <span class='ob-timelines' data-class='enemy' data-date='1498-09-13-00' data-title="Yargath, Flenz and Narux summon Gorthok"></span>
 * 1498-09-15: Yargath on patrol with Orc(Splinter-8)<span class='ob-timelines' data-class='enemy' data-date='1498-09-15-00' data-title='Yargath on patrol with Orc(Splinter-8); Yargath destroyed.'>Yargath was carrying Fheralai's note to him.</span>
+* 1498-09-15: Flenz, Narux, Circle of Thunder destroyed<span class='ob-timelines' data-class='enemy' data-date='1498-09-15-00' data-title='Flenz, Narux, Circle of Thunder destroyed'></span>
 * 1498-09-22: Fheralai expects reports<span class='ob-timelines' data-class='enemy' data-date='1498-09-22-00' data-title='Fheralai expects reports from Yargath and Grannoc'></span>
 
 ### Dragons
@@ -68,7 +87,7 @@ tags: [timeline, doip, gm]
     Late in the evening. All killed but one, who claimed to be raiding only for supplies. Party gave him money and let him go.
 * 1498-09-12: Orcs(Splinter-2) are destroyed at Woodland Manse<span class='ob-timelines' data-class='enemy' data-date='1498-09-12-00' data-title='Orcs(Splinter-2) are destroyed'></span>
 * 1498-09-13: Orcs(Splinter-7) and Gorthok attack Falcon's Lodge<span class='ob-timelines' data-class='enemy' data-date='1498-09-13-00' data-title="Orcs(Splinter-7) and Gorthok attack Falcon's Lodge">Gorthok knocks down the palisade at Falcon's Lodge. Orc(Splinter-7) destroyed except for orc-hero and 3 friends.</span> 
-* 1498-09-15: Yargath on patrol with Orc(Spliter-8) (above)
+* 1498-09-15: Yargath on patrol with Orc(Splinter-8) (above); Orc (Splinter-8) destroyed
 
 ### Xanth
 
