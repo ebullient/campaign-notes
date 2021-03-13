@@ -5,14 +5,17 @@ tags: [ timeline, doip, pc ]
   
 <span class='ob-timelines' data-class='player' data-date='1498-09-15-00' data-title='TODAY: Circle of Thunder'>Weird dolls, dead tree. Xanth killed a stupidhead. Big Boar! Stone tipping.</span>
 
-Orcs departed for Butterskull Ranch with a letter of recommendation. Team headed into the woods with an armored Xanth.
-#log/monster/centaur  #log/monster/orc
+Orcs departed for Butterskull Ranch with a letter of recommendation. 
+#log/monster/orc 
+
+Team headed into the woods with an armored Xanth. Two hour walk to Circle of Thunder from the lodge.
+#log/monster/centaur  
 
 Encountered a dead tree decorated with ghastly twig dolls.
 
-Battled a billion (20) orcs and another anchorite. Xanth killed a stupidhead.
+Battled a billion (20) orcs and another anchorite. Xanth killed a stupidhead. 
+Anchorite (Yargath) was carrying a potion and [an unsealed letter](Fheralai-to-Yargath.pdf).
 #log/monster/orc #log/monster/anchorite-of-talos 
-
 
 ---
 
@@ -30,7 +33,7 @@ From Gorthok, you found:
 * 14 days worth of rations (provided you salt and smoke it, of course, otherwise it will be rancid goo in a few days)
 * 3 thunder hooves
 
-You continued to explore the hilltop, finding two other trap doors leading to two other caves. In the first, Kyle found 2 quills, a bottle of ink, a candle, some flint and blank parchment. He also found two books and a sealed letter.
+You continued to explore the hilltop, finding two other trap doors leading to two other caves. In the first, Kyle found 2 quills, a bottle of ink, a candle, some flint and blank parchment. He also found two books and [a sealed letter](Fheralai-to-Grannoc.pdf).
 
 In the other cave, Kyle and Grizzlebear, working together, unearthed a shield that was concealed in the dirt floor of the room.
 
