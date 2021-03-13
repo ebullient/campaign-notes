@@ -2,7 +2,9 @@
 
 Built using Obsidian.md. Files can be referenced and even edited from github, but indexing, graph associations, and timeline won't be visible.
 
+
 ## Where to look
+* [***TODAY***](pc-logs/log-1498-09-15_current.md)
 * [Timeline](Timeline.md) - a Timeline view of the party's adventures (references `logs`)
 * [Party Loot](https://docs.google.com/spreadsheets/d/15M8AP42AGJyX5z-p6LvREl88wrzui2FWtE5BlPn7UUE/edit?usp=sharing)
 * [Calendar](https://app.fantasy-calendar.com/calendars/4067bba61cefcf17988a8aa12789708a)
