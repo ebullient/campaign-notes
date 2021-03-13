@@ -97,19 +97,24 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 * 1498-08-21: Xanth[^60] goes for help<span class='ob-timelines' data-class='npc' data-date='1498-08-21-00' data-title='Xanth leaves forest'></span> -- Thinks of Reidoth first, but senses the dragon's presence and goes to find Daran Edermath instead.
 * 1498-08-24: Xanth arrives at Edermath Orchard[^61]<span class='ob-timelines' data-class='npc' data-date='1498-08-24-00' data-title='Xanth arrives at Edermath Orchard'></span>
 
+### Dwarves
+
+* 1498-05-07: Dazzlyn and Norbus[^73] claim dwarven excavation[^53] site<span class='ob-timelines' data-class='npc' data-date='1498-05-07-00' data-title="Dazlyn and Norbus claim dwarven excavation site"></span>
+* 1498-08-25: Dwarves leave Gauntlgrym[^78]<span class='ob-timelines' data-class='npc' data-date='1498-08-25-00' data-title="Dwarves leave Gauntlgrym"></span>
+* 1498-08-27: Gauntlgrym dwarves gather additional supplies in Neverwinter. <span class='ob-timelines' data-class='npc' data-date='1498-08-27-00' data-title="Gauntlgrym dwarves gather additional supplies in Neverwinter"></span>
+* 1498-08-28: Dazzlyn and Norbus try to claim Axeholm<span class='ob-timelines' data-class='npc' data-date='1498-08-28-00' data-title="Dazzlyn and Norbus try to claim Axeholm">Enterprising business partners didn't know that dwarven claim already established via Lords' Alliance.</span>
+* 1498-08-30: Gauntlgrym dwarves reaches Phandalin<span class='ob-timelines' data-class='npc' data-date='1498-08-30-00' data-title="Gauntlgrym dwarves arrive in Phandalin"></span>
+* 1498-09-03: John[^79] leads Gauntlgrym dwarves to Axeholm<span class='ob-timelines' data-class='npc' data-date='1498-09-03-00' data-title="John leads Gauntlgrym dwarves to Axeholm"></span>
+
 ### Others
 
 * 1498-06-25: Whiskered Gang[^71] takes over Mountain's Toe[^72]<span class='ob-timelines' data-class='enemy' data-date='1498-06-25-00' data-title="Whiskered Gang takes over Mountain's Toe"></span>
-* Dazzlyn and Norbus[^73] claim Dwarven Excavation[^53] site
 * 1498-08-18: Don-Jon Raskin[^74] leaves for Phandalin<span class='ob-timelines' data-class='npc' data-date='1498-08-18-00' data-title="Don-Jon Raskin leaves Neverwinter for Phandalin"></span>
 * 1498-08-23: Harbin[^75] writes[^76] to Lords' Alliance about Axeholm[^77], includes note from Don-Jon to mining company<span class='ob-timelines' data-class='npc' data-date='1498-08-26-00' data-title="Harbin writes to Lords' Alliance">Continued/increasing dragon sightings. Curious about old dwarven settlement of Axeholm. Will send party of adventurers to investigate as safehaven for town. Includes note from Don-Jon to mining company.</span>
-* 1498-08-25: Harbin receives response from Lords' Alliance. Dwarves en route from Gauntlgrym[^78]<span class='ob-timelines' data-class='npc' data-date='1498-08-25-00' data-title="Harbin receives response from Lords' Alliance">Dwarves leave Gauntlgrym</span>
+* 1498-08-25: Harbin receives response from Lords' Alliance. Dwarves en route from Gauntlgrym[^78]<span class='ob-timelines' data-class='npc' data-date='1498-08-25-00' data-title="Harbin receives response from Lords' Alliance">Notifies Halia of claim to Axeholm by Gauntlgrym dwarves</span>
 * 1498-08-28: Miners arrive with supplies for Mountain's Toe<span class='ob-timelines' data-class='npc' data-date='1498-08-28-00' data-title="Miners arrive with supplies for Mountain's Toe"></span>
 * 1498-08-29: Don-Jon Raskin and miners return to Mountain's Toe<span class='ob-timelines' data-class='npc' data-date='1498-08-29-00' data-title="Don-Jon Raskin and miners return to Mountain's Toe"></span>
-* 1498-08-27: Gauntlgrym dwarves gather additional supplies in Neverwinter. <span class='ob-timelines' data-class='npc' data-date='1498-08-25-00' data-title="Gauntlgrym dwarves gather additional supplies in Neverwinter"></span>
-* 1498-08-27: Dazzlyn and Norbus fail to claim Axeholm<span class='ob-timelines' data-class='npc' data-date='1498-08-27-00' data-title="Dazzlyn and Norbus fail to claim Axeholm">Halia et al. learn of Lords' Alliance intent to establish settlement in Axeholm</span>
-* 1498-08-30: Party of dwarves from Gauntlgrym reaches Phandalin<span class='ob-timelines' data-class='npc' data-date='1498-08-30-00' data-title="Gauntlgrym dwarves arrive in Phandalin"></span>
-* 1498-09-03: John[^79] leads dwarves to Axeholm<span class='ob-timelines' data-class='npc' data-date='1498-09-03-00' data-title="John leads dwarves to Axeholm"></span>
+
 
 
 ---
