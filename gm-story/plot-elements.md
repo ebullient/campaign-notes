@@ -49,7 +49,7 @@ Displaced Many Arrows tribe allied with CoT
 
 ### Other
 
-- [ ] [Dazlyn Grayshard](/compendium/Dazlyn%20Grayshard.md) and [Norbus Ironrune](/compendium/Norbus%20Ironrune.md) claimed a gold mine nead the [Dwarven Excavation](/compendium/Dwarven%20Excavation.md) site, as well as the site itself. They tried to claim [Axeholm](../Axeholm.md), as well, but Harbin pre-empted Halia and asked the [Lords Alliance](/compendium/groups/Lords%20Alliance.md) to help resolve the issue.
+- [x] [Dazlyn Grayshard](/compendium/Dazlyn%20Grayshard.md) and [Norbus Ironrune](/compendium/Norbus%20Ironrune.md) claimed a gold mine nead the [Dwarven Excavation](/compendium/Dwarven%20Excavation.md) site, as well as the site itself. They tried to claim [Axeholm](../Axeholm.md), as well, but Harbin pre-empted Halia and asked the [Lords Alliance](/compendium/groups/Lords%20Alliance.md) to help resolve the issue.
 
 ## Rough timeline
 
@@ -74,11 +74,13 @@ Displaced Many Arrows tribe allied with CoT
 
 - [x] Work with the Many Arrows orc tribe (natural allies) to raid and disrupt trade on the eastern end of the Triboar Trail
 - [ ] Encourage/support Cragmaw Goblins ?? (Black Spider?!)
+    - [x] mentioned in note from Fheralai to Grannoc
 
 ### Party disrupts Cult of Talos plans (... now ...)
 
-- [ ] Destroyed (some? most?) cult members in Neverwinter Wood (Grannoc + 3, Yargath, ..)
-- [ ] Destroyed splinters of the Many Arrows orc tribe
+- [x] Destroyed (some?) cult members in Neverwinter Wood (Grannoc + 3, Yargath, ..) Certainly the known leaders.
+- [x] Destroyed splinters of the Many Arrows orc tribe
+- [x] Wrecked Circle of Thunder
 - [ ] Re-introduced a large settlement of dwarves to the region
 - [ ] Alerted Emerald Enclave to presense of Gulthias Tree
 - [ ] Started finding/collecting magical items before Black Spider can
@@ -119,10 +121,10 @@ Displaced Many Arrows tribe allied with CoT
 
 - [x] Cryovain
 - [ ] Anchorites of Talos
-    - [ ] [gorthok](/compendium/statblocks/gorthok.md)
+    - [x] [gorthok](/compendium/statblocks/gorthok.md)
     - [x] [Yargath](/compendium/archive/Yargath.md)
-    - [ ] [Narux](/compendium/neverwinter-wood/Narux.md)
-    - [ ] [Flenz](/compendium/neverwinter-wood/Flenz.md)
+    - [x] [Narux](/compendium/neverwinter-wood/Narux.md)
+    - [x] [Flenz](/compendium/neverwinter-wood/Flenz.md)
     - [ ] [Moesko](/compendium/Moesko.md) and the Tower of Storms
     - [x] [Grannoc](/compendium/archive/Grannoc.md)
     - [ ] Gulthias Tree & Blights
@@ -149,5 +151,6 @@ Displaced Many Arrows tribe allied with CoT
     - [ ] Ularan Mortus
     - [ ] Argus Skeel (Phandalin)
 - [ ] Dragons
-
+    - [ ] Bronze
+    - [ ] Green
 

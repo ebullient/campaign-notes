@@ -54,7 +54,7 @@ The number of members on the Council changes according to status of member citie
 * **Morwen Daggerford**, Duchess of Daggerford
 * **Selin Ramur**, Marchion of Mirabar
 * **Dowell Harpell** of Longsaddle
-* **Dagnabbit Waybeard**, Queen of Mithril Hall
+* **Dagnabbit Waybeard**, Queen of Mithril Hall ([[Dwarves]])
 * **Lord Dauner Ilzimmer** of Amphail
 * **Nestra Ruthiol**, Waterbarn of Yartar
 

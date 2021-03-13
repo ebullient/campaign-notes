@@ -14,6 +14,7 @@ Walk 24 hours in a day
 | Dragon Barrow          | 40 miles |
 | Dwarven Excavation     | 15 miles |
 | Falcon's Hunting Lodge | 50 miles |
+| Gauntlgrym             | 
 | Gnomengarde            | 15 miles |
 | High Road              | 25 miles |
 | Icespire Hold          | 40 miles |
@@ -36,3 +37,10 @@ Walk 24 hours in a day
 | Woodland Manse         | 50 miles |
 
 
+## Messages
+
+Carrier pigeon: same day betw Phandalin and Neverwinter. Common for official business, e.g. Lords' Alliance; less common for covert work. 
+
+Harbin sends update to reps in Neverwinter to ask for assistance, response will vary.
+
+Sometimes messages arrive along with shipments or supplies. A message may be sent via carrier pigeon to indicate help/supplies/etc is en route (e.g. trouble with orcs, bandits, goblins).
