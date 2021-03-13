@@ -1,18 +1,19 @@
 @charset "UTF-8";
 /*
-* Tested with Obsidian v0.10.11
+* Tested with Obsidian v0.10.11 
 *
-* Author: Wiktoria Mielcarek (Braweria)
-* Name: Spectrum
-* Licence: MIT
-* GitHub Repo: https://github.com/Braweria/Spectrum
-* Version: 0.14.3
+* Author: Wiktoria Mielcarek (Braweria) 
+* Name: Spectrum 
+* Licence: MIT 
+* GitHub Repo: https://github.com/Braweria/Spectrum 
+* Version: 0.15.6
 
 ! CONTENT
 *.............1. Variables
 *.............2. Textarea
 *................. Body
 *................. Paragraph
+*................. Preview
 *.............3. Text Decorations
 *................. Bold
 *................. Emphasis
@@ -95,7 +96,6 @@
   --secondary-background: var(--gray-dark-5);
   --background-primary: var(--main-background);
   --background-secondary: var(--secondary-background);
-
   --text-title-h1: var(--bright-6);
   --text-title-h2: var(--bright-5);
   --text-title-h3: var(--bright-4);
@@ -168,15 +168,36 @@ body {
 }
 
 .markdown-preview-view div p {
-  margin-bottom: 1.5rem;
+  margin-bottom: .5rem;
+  margin-block-start: .5em;
+  margin-block-end: .5em;
 }
 
-.markdown-preview-view.is-readable-line-width .markdown-preview-sizer,
 .markdown-source-view.is-readable-line-width .CodeMirror {
   max-width: 750px;
 }
 
-/*
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  max-width: 100%;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer > div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer > div > *:not(iframe) {
+  max-width: 750px;
+  width: 100%;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer > div > table,
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer > div > .mermaid {
+  max-width: 100%;
+}
+
+/* 
 *..........................3. Text Decorations */
 .cm-s-obsidian .cm-strong,
 strong {
@@ -242,15 +263,6 @@ a {
 
 a:hover {
   color: var(--external-link-hidden);
-}
-
-span.nav {
-  border-top: 1px solid var(--background-modifier-border);
-  border-bottom: 1px solid var(--background-modifier-border);
-  clear: right;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
 }
 
 .cm-header,
@@ -375,7 +387,7 @@ span.subhead {
   font-weight: 400;
 }
 
-/*
+/* 
 *..........................4. Workspace */
 .workspace-ribbon.mod-left.is-collapsed,
 .workspace-ribbon.mod-right.is-collapsed {
@@ -543,18 +555,15 @@ table tbody tr:hover {
   background: #afafaf10;
 }
 
+.theme-light table tbody tr:hover {
+  background: white;
+}
+
 /*
 *..........................6. Codeblocks */
 .mermaid {
   display: flex;
-  width: calc(100% + 900px);
   justify-content: center;
-  position: relative;
-  left: -50%;
-}
-
-.nodes {
-  transform: translate(0px, 10px);
 }
 
 .cm-s-obsidian div.HyperMD-codeblock-begin-bg,
@@ -654,6 +663,14 @@ table tbody tr:hover {
 
 /*
 *..........................10. Listings */
+.markdown-preview-view ul {
+  margin-block-start: .5em;
+  margin-block-end: .5em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
 .cm-hmd-list-indent .cm-tab,
 .workspace-leaf-content[data-type=markdown] ul ul {
   position: relative;
@@ -670,7 +687,7 @@ table tbody tr:hover {
 }
 
 .workspace-leaf-content[data-type=markdown] ul li {
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .theme-dark .workspace-leaf-content[data-type=markdown] ul li::marker {
@@ -808,13 +825,14 @@ table tbody tr:hover {
   display: flex;
   flex-direction: row;
   border: 2px solid var(--secondary-background);
-  background-color: #1b1b1b54;
+  background-color: var(--secondary-background-low-opacity);
   padding: 1rem;
   border-radius: 1rem;
+  flex-wrap: wrap;
 }
 
 .kanban ul li {
-  flex: 1;
+  flex: 1 1 20%;
   list-style: none;
 }
 
@@ -858,6 +876,21 @@ table tbody tr:hover {
 
 .kanban ul ul::before {
   border-left: 0;
+}
+
+.markdown-preview-view.is-readable-line-width.kanban
+.markdown-preview-sizer
+> div
+> ul {
+  max-width: 100%;
+}
+
+.theme-light .kanban ul {
+  background-color: #dadada2b;
+}
+
+.theme-light .kanban ul li ul li:hover {
+  background: white;
 }
 
 /*

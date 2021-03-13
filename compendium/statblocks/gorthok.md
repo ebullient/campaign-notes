@@ -20,7 +20,7 @@ Summoned from the [Circle of Thunder](../neverwinter-wood/Circle%20of%20Thunder.
 >  
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|20 (+5)|11 (+0)|19 (+0)|6 (-2)|10 (+0)|14 (+2)|
+>|20 (+5)|11 (+0)|19 (+4)|6 (-2)|10 (+0)|14 (+2)|
 >  
 > - **Damage Resistances** bludgeoning, piercing and slashing from non-magical attacks
 > - **Damage Immunities** lightning, thunder
