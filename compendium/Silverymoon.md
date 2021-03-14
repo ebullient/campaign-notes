@@ -4,6 +4,7 @@ tags:
   - type/city
   - place/city/silverymoon
   - region/northwest/silver-marches
+  - group/faction/lords-alliance
 ---
 # Silverymoon
 <span class="subhead">The gem of the North, Confederacy of Silver Marches</span>

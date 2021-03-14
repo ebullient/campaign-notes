@@ -34,13 +34,13 @@ where type = "location"
 list from #group/faction/harpers 
 where type = "npc"
 ```
+* [Darathra Shendrel](https://forgottenrealms.fandom.com/wiki/Darathra_Shendrel) of Triboar
 
 ## History
 
 ```dataview
 list from #group/faction/harpers and "pc-logs"
 ```
-
 
 ## References
 

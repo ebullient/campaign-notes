@@ -4,30 +4,32 @@ tags:
   - npc/alive
   - iff/unknown
   - place/ruin/dwarven-excavation
-  - place/settlement/axeholm
 ---
 ![Dazlyn Grayshard](/[assets]/attachments/dazlyn-grayshard.jpeg#portrait)
 # Dazlyn Grayshard
 <span class="subhead">Axeholm, Sword Mountains</span>
 
-Shield dwarf prospector
+Shield dwarf prospector. Forthright and honest to a fault. 
 
-> *Male dwarf prospector, {{alignment}}*  
-> * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+He and Norbus are like brothers. They have spent so many years together that they banter like an old married couple.
+
+> *Male dwarf prospector, lawful good*  
+> * **Trait** Curious
+> * **Ideals** Fairness, Respect
+> * **Bonds** Dedicated to fulfilling a personal life goal
+> * **Flaws** Is terrified of spiders, and tries to hide it
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-<span class="subhead">Background, Commoner</span>
 
+Worked on [Dwarven Excavation](Dwarven%20Excavation.md) site. 
+
+He and Norbus made an attempt to claim Axeholm when they heard it was being explored. He is happy to work with a settlement of dwarves in the area.
 
 ## Relationships
 
-* Works with [Norbus Ironrune](Norbus%20Ironrune)
-* Worked on [Dwarven Excavation](Dwarven%20Excavation.md) site
+Long and successful partnership with [Norbus Ironrune](Norbus%20Ironrune). 
 
 ## Secrets
 

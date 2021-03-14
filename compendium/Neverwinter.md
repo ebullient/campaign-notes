@@ -4,6 +4,7 @@ tags:
   - type/city
   - region/north-sword-coast
   - place/city/neverwinter
+  - group/faction/lords-alliance
 ---
 # Neverwinter
 <span class="subhead">City of Skilled Hands, Sword Coast North</span>

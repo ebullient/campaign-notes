@@ -14,7 +14,7 @@ Walk 24 hours in a day
 | Dragon Barrow          | 40 miles |
 | Dwarven Excavation     | 15 miles |
 | Falcon's Hunting Lodge | 50 miles |
-| Gauntlgrym             | 
+| Gauntlgrym             | 115 miles|
 | Gnomengarde            | 15 miles |
 | High Road              | 25 miles |
 | Icespire Hold          | 40 miles |
@@ -33,6 +33,7 @@ Walk 24 hours in a day
 | Thundertree            | 50 miles |
 | Tower of Storms        | 35 miles |
 | Triboar Trail          | 12 miles |
+| Triboar                | 225 miles|
 | Umbrage Hill           | 5 miles  |
 | Woodland Manse         | 50 miles |
 

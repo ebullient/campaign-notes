@@ -10,25 +10,32 @@ tags:
 # Norbus Ironrune
 <span class="subhead">Axeholm, Sword Mountains</span>
 
-TL;DR description / personality / motivation
+Shield dwarf prospector. Gruff (to the point of rudeness) and excessively cautious. He voice is a deep baritone, and he fidgets constantly.
 
-> *Male dwarf prospector, {{alignment}}*  
-> * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+He and Dazlyn are like brothers. They have spent so many years together that they banter like an old married couple.
+
+> *Male dwarf prospector, lawful good*  
+> * **Trait** Gruff (to the point of rudeness), cautious
+> * **Ideals** Greater good / honor
+> * **Bonds** Loyal to Dazlyn, as trusted friend and partner
+> * **Flaws** He can be arrogant at times
+
+Norbus is great at solving puzzles, and loves prospecting new sites.
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 
+Worked on [Dwarven Excavation](Dwarven%20Excavation.md) site. 
+
+He and Dazlyn made an attempt to claim Axeholm when they heard it was being explored. He is happy to work with a settlement of dwarves in the area.
 
 ## Relationships
 
 * Works with [Dazlyn Grayshard](Dazlyn%20Grayshard.md)
-* Worked on [Dwarven Excavation](Dwarven%20Excavation.md) site
 
 ## Secrets
+
 
 ## History
 
