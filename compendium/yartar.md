@@ -20,11 +20,11 @@ Yartar has a thriving fishing community, builds barges. Important waystop betwee
 
 Hosts large hiring fair in years without Shieldmeet.
 
-Yartar is the historic rival of [Triboar](Triboar.md) and animosity between the two communities is pervasive. While it is typically held in good nature, it has occasionally escalated to violence.
+Yartar is the historic rival of [Triboar](triboar.md) and animosity between the two communities is pervasive. While it is typically held in good nature, it has occasionally escalated to violence.
 
 The Hand of Yartar is a fractious thieves' guild made up entirely of women.
 
-The [Lionshield Coster](groups/Lionshield%20Coster.md) is a trading company based in Yartar. Their symbol is a lion's head atop a field of blue
+The [Lionshield Coster](groups/lionshield-coster.md) is a trading company based in Yartar. Their symbol is a lion's head atop a field of blue
 
 <span class="nav">[Places](#Places) [NPCs](#NPCs) [History](#History)</span>
 

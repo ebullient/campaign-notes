@@ -3,7 +3,7 @@ type: location
 tags:
   - type/outpost
   - place/settlement/loggers-camp
-  - region/north-sword-coast/neverwinter-wood
+  - region/sword-coast-north/neverwinter-wood
 ---
 ![Loggers Camp](/[assets]/attachments/loggerscamp.jpg#portrait)
 # Logger's Camp
@@ -13,7 +13,7 @@ One of several logging camps that uses the Neverwinter River to supply wood to N
 
 Tibor gets supplies from Phandalin to avoid paying taxes to Neverwinter, though getting supplies through Neverwinter Wood is not a task taken lightly.
 
-* **Owner** [Tibor Wester](Tibor%20Wester.md)
+* **Owner** [Tibor Wester](tibor-wester.md)
 * **Location** The loggers’ camp is roughly 50 miles north of Phandalin.
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>

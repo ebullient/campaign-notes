@@ -7,7 +7,7 @@ tags:
 ---
 ![Qelline Alderleaf](/[assets]/attachments/qelline-alderleaf.jpeg#portrait)
 # Qelline Alderleaf
-<span class="subhead">[Alderleaf Farm](Alderleaf%20Farm.md), Phandalin</span>
+<span class="subhead">[Alderleaf Farm](alderleaf-farm.md), Phandalin</span>
 
 Pragmatic and wise farmer who seems to know everything going on in the town. 
 
@@ -28,10 +28,10 @@ She has a weak spot for rangers. She loves hearing their stories, which tend to 
 
 ## Relationships
 
-* Mother of [Carp Alderleaf](Carp%20Alderleaf.md)
-* Longtime friend of [Reidoth the Druid](../Reidoth%20the%20Druid.md)
+* Mother of [Carp Alderleaf](carp-alderleaf.md)
+* Longtime friend of [Reidoth the Druid](../reidoth-the-druid.md)
 * Other friends
-  * [Amelia Stonehill](Amelia%20Stonehill.md)
+  * [Amelia Stonehill](amelia-stonehill.md)
 
 ## Secrets
 

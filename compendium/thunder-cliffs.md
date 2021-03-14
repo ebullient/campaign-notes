@@ -3,7 +3,7 @@ type: location
 tags:
   - type/landmark
   - place/landmark/thunder-cliffs
-  - region/north-sword-coast
+  - region/sword-coast-north
 ---
 # Thunder Cliffs
 <span class="subhead">Bluffs overlooking the Sea of Swords, Sword Coast North</span<>>

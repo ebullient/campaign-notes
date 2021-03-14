@@ -3,7 +3,7 @@ type: faction
 tags:
   - npc/dead
   - iff/enemy
-  - region/north-sword-coast
+  - region/sword-coast-north
   - place/ruin/shrine-of-savras
   - group/mercenaries/whiskered-gang
 ---
@@ -11,9 +11,9 @@ tags:
 # Whiskered Gang
 
 A mercenary group of Wererats.
-* Displaced from [Shrine of Savras](../Shrine%20of%20Savras.md) by [Many Arrows Orc Tribe](../groups/Many%20Arrows%20Orc%20Tribe.md)
-* Went to [Mountain's Toe Gold Mine](../Mountain's%20Toe%20Gold%20Mine.md)
-* Bit [Don-Jon Raskin](../Don-Jon%20Raskin.md)
+* Displaced from [Shrine of Savras](../shrine-of-savras.md) by [Many Arrows Orc Tribe](../groups/many-arrows-orc-tribe.md)
+* Went to [Mountain's Toe Gold Mine](../mountains-toe-gold-mine.md)
+* Bit [Don-Jon Raskin](../don-jon-raskin.md)
 * Destroyed by party
 
 ## Locations

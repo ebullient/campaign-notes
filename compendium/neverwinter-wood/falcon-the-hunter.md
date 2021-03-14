@@ -4,11 +4,11 @@ tags:
   - npc/alive
   - iff/neutral
   - place/settlement/falcons-lodge
-  - region/north-sword-coast/neverwinter-wood
+  - region/sword-coast-north/neverwinter-wood
 ---
 ![Falcon](/[assets]/attachments/falcon.png#portrait)
 # Falcon the Hunter
-<span class="subhead">[Falcon's Hunting Lodge](Falcon's%20Hunting%20Lodge.md), Neverwinter Wood</span>
+<span class="subhead">[Falcon's Hunting Lodge](falcons-hunting-lodge.md), Neverwinter Wood</span>
 
 He stands 6 feet, 6 inches tall, and has black hair and broad shoulders. His eyes are as blue, cold, and sharp as ice, and he sports a neatly trimmed beard. 
 

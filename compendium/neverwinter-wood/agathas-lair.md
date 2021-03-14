@@ -2,7 +2,7 @@
 type: location
 tags: 
 - type/landmark
-- region/north-sword-coast/neverwinter-wood
+- region/sword-coast-north/neverwinter-wood
 ---
 # Agatha's Lair
 <span class="subhead">Banshee territory, Neverwinter Wood</span> 

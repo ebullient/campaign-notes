@@ -2,7 +2,7 @@
 type: location
 tags:
   - type/region/mountains
-  - region/north-sword-coast/sword-mountains
+  - region/sword-coast-north/sword-mountains
   - place/landmark/icespire-peak
 ---
 # Sword Mountains
@@ -22,12 +22,12 @@ Their foothills are strewn with ruins of bygone kingdoms, and more than a few ha
 ## NPCs
 
 ```dataview
-list from #region/north-sword-coast/sword-mountains
+list from #region/sword-coast-north/sword-mountains
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #region/north-sword-coast/sword-mountains and "pc-logs"
+list from #region/sword-coast-north/sword-mountains and "pc-logs"
 ```

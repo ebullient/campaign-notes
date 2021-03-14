@@ -4,7 +4,7 @@ tags:
   - type/manor/ruin
   - group/faction/cult-of-talos
   - place/ruin/woodland-manse
-  - region/north-sword-coast/neverwinter-wood
+  - region/sword-coast-north/neverwinter-wood
 ---
 # Woodland Manse
 <span class="subhead">Ruined Manor, Neverwinter Wood</span>

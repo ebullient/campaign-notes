@@ -6,7 +6,7 @@ tags:
   - place/town/phandalin/stonehill-inn
 ---
 # Bredon (cook)
-<span class="subhead">[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
+<span class="subhead">[Stonehill Inn](stonehill-inn.md), Phandalin</span>
 
 Bredon is the cook at the Stonehill Inn
 

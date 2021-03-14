@@ -3,7 +3,7 @@ type: location
 tags:
   - type/city
   - place/city/luskan
-  - region/north-sword-coast
+  - region/sword-coast-north
   - group/faction/bregan-daerthe
 ---
 # Luskan

@@ -11,7 +11,7 @@ tags:
 
 > Hanging above the front door of this modest trading post is a sign shaped like a wooden shield with a blue lion painted on it
 
-* **Owner** [Linene Graywind](Linene%20Graywind.md) is the master of the trading post, which is owned by the [Lionshield Coster merchant company](../groups/Lionshield%20Coster.md).
+* **Owner** [Linene Graywind](linene-graywind.md) is the master of the trading post, which is owned by the [Lionshield Coster merchant company](../groups/lionshield-coster.md).
 * **Location** Across from the Townmaster's Hall, next to the Town Green
 
 <span class="nav">[Selling](#Selling) [NPCs](#NPCs) [History](#History)</span>

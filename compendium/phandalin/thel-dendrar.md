@@ -7,7 +7,7 @@ tags:
 ---
 ![Thel Dendrar](/[assets]/attachments/thel-dendrar.jpeg#portrait)
 # Thel Dendrar
-<span class="subhead">[The Crafty Hand](The%20Crafty%20Hand.md), Phandalin</span> 
+<span class="subhead">[The Crafty Hand](the-crafty-hand.md), Phandalin</span> 
 
 TL;DR description / personality / motivation
 
@@ -24,12 +24,12 @@ TL;DR description / personality / motivation
 
 ## Relationships
 
-* Married to [Mirna Dendrar](Mirna%20Dendrar.md)
+* Married to [Mirna Dendrar](mirna-dendrar.md)
 * Two children: [[Nars Dendrar]] and [[Nilsa Dendrar]]
 * Friends with
-    * [Harbin Wester](Harbin%20Wester.md)
-    * [Toblen Stonehill](Toblen%20Stonehill.md)
-* Employs [Daniel](Daniel.md)
+    * [Harbin Wester](harbin-wester.md)
+    * [Toblen Stonehill](toblen-stonehill.md)
+* Employs [Daniel](daniel.md)
 
 ## Secrets
 
@@ -41,7 +41,7 @@ list from #log/npc/thel-dendrar and "pc-logs"
 
 Thel was captured and held by the Redbrands, and almost sold into slavery.
 
-From the [Redbrand Hideout](/gm-story/encounters/Redbrand%20Hideout.md): 
+From the [Redbrand Hideout](/gm-story/encounters/redbrand-hideout.md): 
 
 > Thel was brought here a few days ago, beat up, collared and dumped in the cell to be sold. He thought that was the end of it, but it was worse when his wife and children were brought in. 
 >

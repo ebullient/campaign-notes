@@ -8,18 +8,18 @@ tags:
 - [x] Update Roll20 for Xanth: +2 armor
 - [x] Something distinctive about each anchorite
 - [x] Evidence / foreshadowing:
-    - [x] Letter from [Fheralai](/compendium/Fheralai%20Stormsworn.md)
+    - [x] Letter from [Fheralai](/compendium/fheralai-stormsworn.md)
     - [x] Letter from Fheralai to Grannoc
 
 ## Essentials
-* Allies: Party + [Xanth](/compendium/neverwinter-wood/Xanth.md)
+* Allies: Party + [Xanth](/compendium/neverwinter-wood/xanth.md)
 * Enemies:
   * [Anchorites](/compendium/statblocks/anchorite-of-talos.md)
-    * [Yargath](/compendium/archive/Yargath.md)
-    * [Flenz](/compendium/archive/Flenz.md)
-    * [Narux](/compendium/archive/Narux.md)
+    * [Yargath](/compendium/archive/yargath.md)
+    * [Flenz](/compendium/archive/flenz.md)
+    * [Narux](/compendium/archive/narux.md)
   * [Gorthok](/compendium/statblocks/gorthok.md)
-* Location: [Circle of Thunder](/compendium/neverwinter-wood/Circle%20of%20Thunder.md)
+* Location: [Circle of Thunder](/compendium/neverwinter-wood/circle-of-thunder.md)
 
 ## Approach
 
@@ -88,7 +88,7 @@ From the hillside:
 **C.** *Cell.*
 > A single deer is trapped in the chamber.
 
-**D.** *Anchorite's Retreat.*  -- [Flenz](/compendium/archive/Flenz.md)
+**D.** *Anchorite's Retreat.*  -- [Flenz](/compendium/archive/flenz.md)
 > A small sleeping mat is balled up in one corner of the room. The niche closest to it is shaped around a wide, narrow basket.
 
 *If there is a torch*, Grizzlebear notices the floor has been disturbed. Otherwise, DC 10 Investigation check.
@@ -101,7 +101,7 @@ The *hole* in the floor contains a *Potion of Invulnerability*
 From the hillside:
 > The lintel stone above the mouth of this cave is bare.
 
-**D.** *Anchorite's Retreat.*  -- [Narux](/compendium/archive/Narux.md)
+**D.** *Anchorite's Retreat.*  -- [Narux](/compendium/archive/narux.md)
 > There is rolled up sleeping mat lying against the west wall.
 
 *If there is a torch*, Grizzlebear notices the floor has been disturbed. Otherwise, DC 10 Investigation check.
@@ -117,7 +117,7 @@ From the hillside:
 **C.** *Cell.*
 > A single deer is trapped in the chamber.
 
-**D.** *Anchorite's Retreat.*  -- [Yargath](/compendium/archive/Yargath.md)
+**D.** *Anchorite's Retreat.*  -- [Yargath](/compendium/archive/yargath.md)
 > A thin piece of slate rests against the wall, it is splattered with black spots, and there are dribbles of something stuck to the top right corner. There is a basket in the wall above it. There is a small sleeping mat balled up in a corner. The niche closest to the sleeping mat holds a narrow basket.
 
 The basket in the niche above the slate contains a bottle of ink, quills, a stubby candle, a bit of flint, and some rolled pieces of rough parchment.

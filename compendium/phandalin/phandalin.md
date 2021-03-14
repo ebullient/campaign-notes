@@ -3,7 +3,7 @@ type: location
 tags:
   - type/town
   - place/town/phandalin
-  - region/north-sword-coast
+  - region/sword-coast-north
 ---
 # Phandalin
 <span class="subhead">Small town, Sword Coast North</span>
@@ -38,7 +38,7 @@ where type = "npc"
 
 ## History
 
-[01. A Messy Morning](/pc-writing/01.%20A%20Messy%20Morning.md)
+[01. A Messy Morning](/pc-writing/01-a-messy-morning.md)
 
 ```dataview
 list from #place/town/phandalin and "pc-logs"

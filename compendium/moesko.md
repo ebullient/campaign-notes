@@ -8,9 +8,9 @@ tags:
 ---
 ![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)
 # Moesko
-<span class="subhead">[Tower of Storms](Tower%20of%20Storms.md), Sword Coast North</span>
+<span class="subhead">[Tower of Storms](tower-of-storms.md), Sword Coast North</span>
 
-Moesko uses the tower's pulsing beacon to draw ships to their doom as sacrifices to [Talos](groups/Cult%20of%20Talos.md#Talos), the Storm Lord. 
+Moesko uses the tower's pulsing beacon to draw ships to their doom as sacrifices to [Talos](groups/cult-of-talos.md#Talos), the Storm Lord. 
 
 > *Male half-orc Anchorite of Talos, neutral evil*  
 > * **Trait**
@@ -27,8 +27,8 @@ The source of the beacon’s eerie green light is Moesko’s own heart, which wa
 
 ## Relationships
 
-* Anchorite in the [Cult of Talos](groups/Cult%20of%20Talos.md)
-* Reports to [Fheralai Stormsworn](Fheralai%20Stormsworn.md)
+* Anchorite in the [Cult of Talos](groups/cult-of-talos.md)
+* Reports to [Fheralai Stormsworn](fheralai-stormsworn.md)
 
 ## Secrets
 

@@ -25,7 +25,7 @@ TL;DR description / personality / motivation
 ## Relationships
 
 **Organization or Faction**
-Hireling of the [Black Spider](Black%20Spider.md)
+Hireling of the [Black Spider](black-spider.md)
 
 ## Secrets
 
@@ -46,7 +46,7 @@ A note discovered in the Redbrand Hideout:
 > I'm counting on you. Don't disappoint me.
 > 🕷️
 
-[03. All is Well](/pc-writing/03.%20All%20is%20Well.md):
+[03. All is Well](/pc-writing/03-all-is-well.md):
 
 > Riardon summarized their encounters in the hideout, with Gildas chipping in commentary, “My good gentlemen, there must be some misunderstanding. There may have been a few unfortunate events along the way, but my guests were always treated well.“
 > &nbsp;

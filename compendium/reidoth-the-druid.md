@@ -4,7 +4,7 @@ tags:
   - npc/alive
   - iff/friend
   - place/ruin/thundertree
-  - region/north-sword-coast
+  - region/sword-coast-north
   - group/faction/emerald-enclave
 ---
 ![Reidoth](/[assets]/attachments/reidoth.jpeg#portrait)
@@ -29,11 +29,11 @@ If he is threatened while in Thundertree, Reidoth will transform into a gray squ
 
 ## Relationships
 
-Member of the [Emerald Enclave](groups/Emerald%20Enclave.md)
+Member of the [Emerald Enclave](groups/emerald-enclave.md)
 
 * Friends 
-  * [Quelline Alderleaf](phandalin/Quelline%20Alderleaf.md)
-  * [Xanth](neverwinter-wood/Xanth.md)
+  * [Quelline Alderleaf](phandalin/quelline-alderleaf.md)
+  * [Xanth](neverwinter-wood/xanth.md)
 
 The druid may privately approach certain members of the group to urge them to join the Emerald Enclave. He speaks with those who exemplify the ideal of protecting the natural order. If a character agrees, Reidoth gives the individual the title of Springwarden.
 

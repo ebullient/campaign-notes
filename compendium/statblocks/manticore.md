@@ -8,7 +8,7 @@ tags: [statblock]
 
 Manticores living in the Sword Mountains were disturbed by the arrival of Cryovain.
 
-One, **Chanu**,  was killed while harassing [Adabra Gwynn](../Adabra%20Gwynn.md) in her home at [Umbrage Hill](../Umbrage%20Hill.md). His mate, **Zoolte**, has been seen several times since then.
+One, **Chanu**,  was killed while harassing [Adabra Gwynn](../adabra-gwynn.md) in her home at [Umbrage Hill](../umbrage-hill.md). His mate, **Zoolte**, has been seen several times since then.
 
 <span class='nav'>[History](#History) [Notes](#Notes)</span>
 

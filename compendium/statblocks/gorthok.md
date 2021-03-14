@@ -8,7 +8,7 @@ tags: [statblock]
 
 Gorthok is a *primal nature spirit* that takes the form of a boar as big as an elephant, with lightning that dances along its tusks. Gorthok serves the will of Talos, god of storms, and can be summoned during stormy weather to do the bidding of Talos’s evil followers. Like its patron deity, Gorthok revels in destruction.
 
-Summoned from the [Circle of Thunder](../neverwinter-wood/Circle%20of%20Thunder.md) by [Cult of Talos](/compendium/groups/Cult%20of%20Talos.md) members.
+Summoned from the [Circle of Thunder](../neverwinter-wood/circle-of-thunder.md) by [Cult of Talos](/compendium/groups/cult-of-talos.md) members.
 
 <span class='nav'>[History](#History) [Notes](#Notes)</span>
 

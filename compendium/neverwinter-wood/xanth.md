@@ -3,10 +3,10 @@ type: npc
 tags:
 - npc/alive
 - iff/friend
-- region/north-sword-coast/neverwinter-wood
+- region/sword-coast-north/neverwinter-wood
 ---
 # Xanth
-<span class="subhead">[Neverwinter Wood](Neverwinter%20Wood.md)</span>
+<span class="subhead">[Neverwinter Wood](neverwinter-wood.md)</span>
 
 Xanth is very intelligent. While quiet, he is very inquisitive. He learned Common, which is somewhat unusual for a Centaur, so he could converse more easily with humans like Reidoth.  He seems a little slender for a Centaur, but not unnaturally so.
 
@@ -27,10 +27,10 @@ He wears a bronze armlet on his left arm, and is a skilled dancer (in Centaur da
 ## Relationships
 
 Friends
-* [Reidoth](../Reidoth%20the%20Druid.md)
-* [Daran Edermath](../phandalin/Daran%20Edermath.md)
+* [Reidoth](../reidoth-the-druid.md)
+* [Daran Edermath](../phandalin/daran-edermath.md)
 
-Knows and deals with [Falcon the Hunter](Falcon%20the%20Hunter.md) also, as someone that has an established presence in [Neverwinter Wood](Neverwinter%20Wood.md). He doesn't like him very much, though. He thinks Falcon is overly concerned with human status, and that includes parading people around in the woods for entertainment.
+Knows and deals with [Falcon the Hunter](falcon-the-hunter.md) also, as someone that has an established presence in [Neverwinter Wood](neverwinter-wood.md). He doesn't like him very much, though. He thinks Falcon is overly concerned with human status, and that includes parading people around in the woods for entertainment.
 
 ## Secrets
 
@@ -44,7 +44,7 @@ list from #log/npc/xanth   and "pc-logs"
 
 Lives deep in Neverwinter Wood. When the Anchorites of Talos started summoning lightning and thunder, he headed to Thundertree, at first, to find Reidoth, but detected the dragon and changed his mind. He passed the party on his way south to Daran Edermath from Thundertree.
 
-From [05. Finding a Cure](/pc-writing/05.%20Finding%20a%20Cure.md)
+From [05. Finding a Cure](/pc-writing/05-finding-a-cure.md)
 
 > As they finished their meal (some campfire-roasted rabbit deftly collected by Immeral), there was a slight disturbance just outside the firelight. As the party gathered themselves for a fight, a centaur walked into their camp, hands outstretched to show he meant no harm. The centaur looked tired, and hungry. He introduced himself, and asked to share their campsite for the evening. The party agreed, and Xanth settled himself down, seeming to relax as he was surrounded by others. 
 

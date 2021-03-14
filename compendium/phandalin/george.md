@@ -22,15 +22,15 @@ TL;DR description / personality / motivation
 <span class="subhead">Farmer, Criminal, Redbrand Bandit</span>
 
 Seamus was a member of the Redbrands. He left his family farm because ... 
-and fell in with [Daniel](Daniel.md) and [Seamus](Seamus.md) who had similar runaway backgrounds and likewise felt uneasy with what the Redbrands were doing.
+and fell in with [Daniel](daniel.md) and [Seamus](seamus.md) who had similar runaway backgrounds and likewise felt uneasy with what the Redbrands were doing.
 
 #story/unexplored: How does George feel about working with a devout ex-military half-elf in an apple orchard?! 
 
 ## Relationships
 
 * Former Redbrand
-* Friends with [Daniel](Daniel.md) and [Seamus](Seamus.md)
-* Works at the orchard with [Daran Edermath](Daran%20Edermath.md)
+* Friends with [Daniel](daniel.md) and [Seamus](seamus.md)
+* Works at the orchard with [Daran Edermath](daran-edermath.md)
 
 ## Secrets
 
@@ -40,7 +40,7 @@ and fell in with [Daniel](Daniel.md) and [Seamus](Seamus.md) who had similar run
 list from #log/npc/george and "pc-logs"
 ```
 
-From [03. All is Well](/pc-writing/03.%20All%20is%20Well.md)
+From [03. All is Well](/pc-writing/03-all-is-well.md)
 
 > "Those boys," Kyle said, "they are all looking for something to do now, you know. That's why they left their homes in the first place. I don't think we can offer them anything regular, and we certainly can't pay them. Can you think of anything they might be able to do?"
 >

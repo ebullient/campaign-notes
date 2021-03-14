@@ -26,7 +26,7 @@ She has been given a mission by their evil god of storms: to put the residents o
 
 ## Relationships
 
-**Faction** High Priestess of the [Cult of Talos](groups/Cult%20of%20Talos.md)
+**Faction** High Priestess of the [Cult of Talos](groups/cult-of-talos.md)
 
 ## Secrets
 

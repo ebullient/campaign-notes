@@ -1,7 +1,7 @@
 ---
 type: location
 tags:
-  - region/north-sword-coast/triboar-trail
+  - region/sword-coast-north/triboar-trail
   - type/shrine
   - place/ruin/shrine-of-savras
   - group/mercenaries/whiskered-gang
@@ -12,7 +12,7 @@ tags:
 
 TL;DR description
 
-* **Location** Near [Conyberry](Conyberry.md)
+* **Location** Near [Conyberry](conyberry.md)
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 

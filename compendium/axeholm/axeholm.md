@@ -1,17 +1,17 @@
 ---
 type: location
 tags:
-  - type/fortress
-  - place/settlement/axeholm
-  - region/north-sword-coast/sword-mountains
+- group/dwarves
+- type/stronghold
+- place/settlement/axeholm
+- region/sword-coast-north/sword-mountains
 ---
 # Axeholm
 <span class="subhead">Resettled Dwarven stronghold, Sword Mountains</span>
 
 The ancient dwarven fortress is only 15 miles south of Phandalin, and had been sealed for years. Old stories and rumors said it was haunted (it was). 
 
-
-* **Castellan** [Dalgal Broodfist](Dalgal%20Broodfist.md)
+* **Castellan** [Dalgal Broodfist](dalgal-broodfist.md)
 * **Location** South of Phandalin
 
 New group moving to Axeholm (30 total):
@@ -37,6 +37,6 @@ where type = "npc"
 list from #place/settlement/axeholm  and "pc-logs"
 ```
 
-[Dazlyn Grayshard](../Dazlyn%20Grayshard.md) and [../Norbus Ironrune](Norbus%20Ironrune.md) tried to claim Axeholm for themselves before learning about Dalgal (awarded by local Dwarven leadership per Lords' Alliance).
+[Dazlyn Grayshard](../dazlyn-grayshard.md) and [../Norbus Ironrune](norbus-ironrune.md) tried to claim Axeholm for themselves before learning about Dalgal (awarded by local Dwarven leadership per Lords' Alliance).
 
 A castellan is the title used in Medieval Europe for an appointed official, a governor of a castle and its surrounding territory referred to as the castellany.

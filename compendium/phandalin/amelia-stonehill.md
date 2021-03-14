@@ -7,7 +7,7 @@ tags:
 ---
 ![Amelia Stonehill](/[assets]/attachments/amelia-stonehill.jpeg#portrait)
 # Amelia Stonehill
-<span class="subhead">[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
+<span class="subhead">[Stonehill Inn](stonehill-inn.md), Phandalin</span>
  
 TL;DR description / personality / motivation
 
@@ -24,11 +24,11 @@ TL;DR description / personality / motivation
 
 ## Relationships
 
-* Married to [Toblen Stonehill](Toblen%20Stonehill.md)
-* Mother of [Pip Stonehill](Pip%20Stonehill.md)
+* Married to [Toblen Stonehill](toblen-stonehill.md)
+* Mother of [Pip Stonehill](pip-stonehill.md)
 * Friends:
-  * [Mirna Dendrar](Mirna%20Dendrar.md)
-  * [Quelline Alderleaf](Quelline%20Alderleaf.md)
+  * [Mirna Dendrar](mirna-dendrar.md)
+  * [Quelline Alderleaf](quelline-alderleaf.md)
 
 ## Secrets
 
@@ -38,7 +38,7 @@ TL;DR description / personality / motivation
 list from #place/town/phandalin/stonehill-inn   and "pc-logs"
 ```
 
-From "[01. A Messy Morning](/pc-writing/01.%20A%20Messy%20Morning.md):
+From "[01. A Messy Morning](/pc-writing/01-a-messy-morning.md):
 
 > Toblen saw the two men sitting at the counter talking to his wife, Amelia. He couldn’t hear them over the murmur in the room, but their conversation was full of chuckles and wry glances, and that made him smile. Amelia was always pleased when their guests were entertaining.
 

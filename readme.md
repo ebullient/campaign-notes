@@ -1,11 +1,11 @@
 # Campaign Notes
 
-Built using Obsidian.md. Files can be referenced and even edited from github, but indexing, graph associations, and timeline won't be visible.
+Built using obsidian.md. Files can be referenced and even edited from github, but indexing, graph associations, and timeline won't be visible.
 
 
 ## Where to look
-* [***TODAY***](pc-logs/log-1498-09-15_current.md)
-* [Timeline](Timeline.md) - a Timeline view of the party's adventures (references `logs`)
+* [***TODAY***](pc-logs/log-1498-09-15-current.md)
+* [Timeline](timeline.md) - a Timeline view of the party's adventures (references `logs`)
 * [Party Loot](https://docs.google.com/spreadsheets/d/15M8AP42AGJyX5z-p6LvREl88wrzui2FWtE5BlPn7UUE/edit?usp=sharing)
 * [Calendar](https://app.fantasy-calendar.com/calendars/4067bba61cefcf17988a8aa12789708a)
 
@@ -13,7 +13,7 @@ Built using Obsidian.md. Files can be referenced and even edited from github, bu
 * The `pc-logs` directory contains a running player-centric view of what has happened. 
     * It should not reference `compendium` content
     * It may reference `pc-writing`
-* [pc-logs/Game Time](/pc-logs/Game%20Time.md) -- the old single-page list from trello
+* [pc-logs/Game Time](/pc-logs/game-time.md) -- the old single-page list from trello
 
 ### Writing
 * Past session write-ups or fill-in entries
@@ -29,7 +29,7 @@ Built using Obsidian.md. Files can be referenced and even edited from github, bu
 
 ### Compendium
 * Most linkable notes, including summaries of NPCs and locations, are in the `compendium` folder. 
-* If you are using Obsidian, the [Index](Index.md) will render a grouped listing of items in the compendium.
+* If you are using Obsidian, the [Index](index.md) will render a grouped listing of items in the compendium.
 * The structure is _fairly_ flat, with some scoping:
     * e.g. NPCs or locations that belong to a focused location are grouped, e.g. `phandalin/` contains all NPCs and locations that are based solely in the town.
     * `groups` contains pages for faction, merchant, or mercenary groups

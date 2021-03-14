@@ -15,7 +15,7 @@ Surviving Holds in the North:
 Recovering / resurgent settlements
 
 * Gauntlgrym, recently taken back from drow
-* [Axeholm](../axeholm/Axeholm.md), cleared by party. In process of being resettled by [Dagal Broodfist](../axeholm/Dagal%20Broodfist.md)
+* [Axeholm](../axeholm/axeholm.md), cleared by party. In process of being resettled by [Dalgal Broodfist](../axeholm/dalgal-broodfist.md)
 
 Embattled / Isolated
 

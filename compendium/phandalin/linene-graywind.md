@@ -8,11 +8,11 @@ tags:
 ---
 ![Linene Graywind](/[assets]/attachments/linene-graywind.jpg#portrait)
 # Linene Graywind
-<span class="subhead">[Lionshield Coster](Lionshield%20Coster.md), Phandalin</span>
+<span class="subhead">[Lionshield Coster](lionshield-coster.md), Phandalin</span>
 A fit, but middle-aged, human woman. Is familiar in use of all weapons she sells.
 Sharp-tongued human woman. Honorable. 
 
-Master of the Phandalin post of [Lionshield Coster](Lionshield%20Coster.md)
+Master of the Phandalin post of [Lionshield Coster](lionshield-coster.md)
 
 > *Human woman, Trading post master, lawful good*  
 > * **Trait**
@@ -29,11 +29,11 @@ The Lionshield Coster won’t sell weapons to anyone she thinks might be a threa
 Linene lives not far from the Lionshield Coster
 
 ## Relationships
-* Member of [Lionshield Coster](Lionshield%20Coster.md)
+* Member of [Lionshield Coster](lionshield-coster.md)
 * Friends
-	* [Daran Edermath](Daran%20Edermath.md)
-	* [Sister Garaele](Sister%20Garaele.md)
-	* [Mirna Dendrar](Mirna%20Dendrar.md)
+	* [Daran Edermath](daran-edermath.md)
+	* [Sister Garaele](sister-garaele.md)
+	* [Mirna Dendrar](mirna-dendrar.md)
 
 ## Secrets
 

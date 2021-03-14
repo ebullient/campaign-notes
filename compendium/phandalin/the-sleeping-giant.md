@@ -8,7 +8,7 @@ tags:
 # The Sleeping Giant
 <span class="subhead">Tavern, Phandalin</span>
 
-* **Barkeep** [Grista](Grista.md)
+* **Barkeep** [Grista](grista.md)
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 

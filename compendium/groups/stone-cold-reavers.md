@@ -3,7 +3,7 @@ type: faction
 tags:
   - npc/alive
   - iff/neutral
-  - region/north-sword-coast
+  - region/sword-coast-north
   - place/ruin/icespire-hold
   - group/mercenaries/stone-cold-reavers
 ---
@@ -75,7 +75,7 @@ where type = "npc"
 list from #group/mercenaries/stone-cold-reavers   and "pc-logs"
 ```
 
-The Reavers faced the party at Icespire Hold.md](../Icespire Hold.md)]
+The Reavers faced the party at Icespire hold.md](../Icespire hold.md)]
 
 > You faced down a group of mercenaries, who'd staked out turf in the gatehouse of the fortress, and were waiting for Cryovain to leave so they could raid the dragon's horde. You took the leader down, and seriously injured another. With the leader unconscious and bleeding out, they were more willing to negotiate. You agreed they could have all the treasure, you just wanted to kill the dragon. With two of their party seriously wounded, they agreed, and withdrew into a room they were using as barracks to tend their wounded.
 

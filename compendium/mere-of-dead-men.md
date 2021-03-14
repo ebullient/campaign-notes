@@ -2,7 +2,7 @@
 type: location
 tags: 
 - type/region/swamp
-- region/north-sword-coast/mere-of-dead-men
+- region/sword-coast-north/mere-of-dead-men
 ---
 # Mere of Dead Men
 <span class="subhead">Creepy place along the High Road, Sword Coast North</span>
@@ -16,12 +16,12 @@ Many adventurers have died here, drawn by tales of ruined castles half-sunk in t
 ## NPCs
 
 ```dataview
-list from #region/north-sword-coast/mere-of-dead-men
+list from #region/sword-coast-north/mere-of-dead-men
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #region/north-sword-coast/mere-of-dead-men   and "pc-logs"
+list from #region/sword-coast-north/mere-of-dead-men   and "pc-logs"
 ```

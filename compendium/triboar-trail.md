@@ -2,7 +2,7 @@
 type: location
 tags: 
 - type/trade-road
-- region/north-sword-coast/triboar-trail
+- region/sword-coast-north/triboar-trail
 ---
 # Triboar Trail
 <span class="subhead">Trade road, Sword Coast North</span>
@@ -16,12 +16,12 @@ The trail is not patrolled, and monster attacks are commonplace.
 ## NPCs
 
 ```dataview
-list from #region/north-sword-coast/triboar-trail
+list from #region/sword-coast-north/triboar-trail
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #region/north-sword-coast/triboar-trail   and "pc-logs"
+list from #region/sword-coast-north/triboar-trail   and "pc-logs"
 ```

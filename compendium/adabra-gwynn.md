@@ -4,7 +4,7 @@ tags:
   - npc/alive
   - iff/neutral
   - place/settlement/umbrage-hill
-  - region/north-sword-coast/high-road
+  - region/sword-coast-north/high-road
 ---
 ![Adabra Gwynn](/[assets]/attachments/adabra-gwynn.jpeg#portrait)
 # Adabra Gwynn
@@ -20,7 +20,7 @@ Fiercely independent
 > * **Flaws**
 
 Potions of healing cost 50gp
-[Mirna Dendrar](compendium/phandalin/Mirna%20Dendrar.md) sells her potions and poultices in town at [The Crafty Hand](/compendium/phandalin/The%20Crafty%20Hand.md).
+[Mirna Dendrar](/compendium/phandalin/mirna-dendrar.md) sells her potions and poultices in town at [The Crafty Hand](/compendium/phandalin/the-crafty-hand.md).
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
@@ -36,8 +36,8 @@ Millstone on the ground floor grinds herbs and other ingredients for poultices a
 ## Relationships
 
 Friends: 
-* [Harbin Wester](/compendium/phandalin/Harbin%20Wester.md)
-* [Mirna Dendrar](/compendium/phandalin/Mirna%20Dendrar.md)
+* [Harbin Wester](/compendium/phandalin/harbin-wester.md)
+* [Mirna Dendrar](/compendium/phandalin/mirna-dendrar.md)
 
 ## Secrets
 

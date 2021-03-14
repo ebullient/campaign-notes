@@ -31,4 +31,4 @@ where type = "npc"
 list from #place/city/silverymoon and "pc-logs"
 ```
 
-The [Harpers](groups/Harpers.md) have a presence here.
+The [Harpers](groups/harpers.md) have a presence here.

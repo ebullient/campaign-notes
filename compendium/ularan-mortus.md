@@ -24,7 +24,7 @@ TL;DR description / personality / motivation
 
 ## Relationships
 
-**Faction** Leader of [Cult of Myrkul](compendium/groups/Cult%20of%20Myrkul.md) 
+**Faction** Leader of [Cult of Myrkul](/compendium/groups/cult-of-myrkul.md) 
 
 ## Secrets
 

@@ -8,7 +8,7 @@ tags:
 ---
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 # Grannoc (dead)
-<span class="subhead">[Woodland Manse](../neverwinter-wood/Woodland%20Manse.md), Neverwinter Wood</span>
+<span class="subhead">[Woodland Manse](../neverwinter-wood/woodland-manse.md), Neverwinter Wood</span>
 
 Grannoc hoped Talos will answer his prayers and rain destruction down upon Falcon’s Hunting Lodge.
 
@@ -31,9 +31,9 @@ Additional anchorites also stayed at the lodge and in the surrounding woods.
 
 ## Relationships
 
-**Faction** Anchorite in the [Cult of Talos](/compendium/groups/Cult%20of%20Talos.md).
+**Faction** Anchorite in the [Cult of Talos](/compendium/groups/cult-of-talos.md).
 
-Took direction from / sent reports to High Priestess [Fheralai Stormsworn](/compendium/Fheralai%20Stormsworn.md)
+Took direction from / sent reports to High Priestess [Fheralai Stormsworn](/compendium/fheralai-stormsworn.md)
 
 ## Secrets
 

@@ -4,10 +4,10 @@ tags:
   - npc/alive
   - iff/unknown
   - place/settlement/loggers-camp
-  - region/north-sword-coast/neverwinter-wood
+  - region/sword-coast-north/neverwinter-wood
 ---
 # Tibor Wester
-<span class="subhead">[Logger's Camp](Logger's%20Camp.md), Neverwinter Wood</span>
+<span class="subhead">[Logger's Camp](loggers-camp.md), Neverwinter Wood</span>
 
 COWARD. Opportunist.
 
@@ -24,7 +24,7 @@ COWARD. Opportunist.
 
 ## Relationships
 
-[Harbin Wester](../phandalin/Harbin%20Wester.md) is his brother
+[Harbin Wester](../phandalin/harbin-wester.md) is his brother
 
 ## Secrets
 

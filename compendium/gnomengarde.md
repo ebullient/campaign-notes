@@ -3,7 +3,7 @@ type: location
 tags:
   - type/colony
   - place/settlement/gnomengarde
-  - region/north-sword-coast/sword-mountains
+  - region/sword-coast-north/sword-mountains
 ---
 # Gnomengarde
 <span class="subhead">Rock Gnome Recluse enclave, Sword Mountains</span>

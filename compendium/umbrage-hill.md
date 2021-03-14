@@ -3,7 +3,7 @@ type: location
 alias: [ 'umbrage-hill' ]
 tags:
   - type/outpost
-  - region/north-sword-coast
+  - region/sword-coast-north
   - place/settlement/umbrage-hill
 ---
 # Umbrage Hill
@@ -11,7 +11,7 @@ tags:
 
 TL;DR description
 
-* **Owner** [Adabra Gwynn](Adabra%20Gwynn.md)
+* **Owner** [Adabra Gwynn](adabra-gwynn.md)
 * **Location** 5 miles south of Phandalin
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>

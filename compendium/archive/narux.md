@@ -5,11 +5,11 @@ tags:
   - iff/enemy
   - group/faction/cult-of-talos
   - place/landmark/circle-of-thunder
-  - region/north-sword-coast/neverwinter-wood
+  - region/sword-coast-north/neverwinter-wood
 ---
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 # Narux (anchorite)
-<span class="subhead">[Circle of Thunder](../neverwinter-wood/Circle%20of%20Thunder.md), Neverwinter Wood</span>
+<span class="subhead">[Circle of Thunder](../neverwinter-wood/circle-of-thunder.md), Neverwinter Wood</span>
 
 Narux has auburn hair and hazel eyes, and a distinctive mark on her neck.
 She wears modest garments and an iron amulet.
@@ -25,7 +25,7 @@ She wears modest garments and an iron amulet.
 
 ## Relationships
 
-* **Faction** Anchorite in the [Cult of Talos](../groups/Cult%20of%20Talos.md)
+* **Faction** Anchorite in the [Cult of Talos](../groups/cult-of-talos.md)
 
 ## Secrets
 

@@ -2,7 +2,7 @@
 type: location
 tags: 
 - type/region/forest
-- region/north-sword-coast/kryptgarden-forest
+- region/sword-coast-north/kryptgarden-forest
 ---
 # Kryptgarden Forest
 <span class="subhead">Forest in the Sword Coast North</span>
@@ -16,12 +16,12 @@ The ancient green dragon Claugiyliamatar, nicknamed the Old Gnawbone, also lairs
 ## NPCs
 
 ```dataview
-list from #region/north-sword-coast/kryptgarden-forest
+list from #region/sword-coast-north/kryptgarden-forest
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #region/north-sword-coast/kryptgarden-forest  and "pc-logs"
+list from #region/sword-coast-north/kryptgarden-forest  and "pc-logs"
 ```

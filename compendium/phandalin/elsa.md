@@ -7,7 +7,7 @@ tags:
 ---
 ![Elsa](/[assets]/attachments/elsa.jpeg#portrait)
 # Elsa (barmaid)
-<span class="subhead">[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
+<span class="subhead">[Stonehill Inn](stonehill-inn.md), Phandalin</span>
 
 Elsa has a square face, with short auburn hair and amber eyes.
 

@@ -7,7 +7,7 @@ tags:
 # The Cult of Talos
 ![The symbol of Talos](/[assets]/attachments/talos-holy-symbol.jpg#portrait)
 
-Members are fervent religious cultists who worship [Talos](#Talos), the Stormlord. The cult is led by the priestess [Fheralai Stormsworn](../Fheralai%20Stormsworn.md).
+Members are fervent religious cultists who worship [Talos](#Talos), the Stormlord. The cult is led by the priestess [Fheralai Stormsworn](../fheralai-stormsworn.md).
 
 * **Beliefs**
     1. Life is a succession of random effects in a sea of chaos.
@@ -20,7 +20,7 @@ They aim to place the region at the mercy of the Storm Lord by controlling the f
 
 They have set up a base of operations in the caves of Thunder Cliffs, and have taken over the Tower of Storms. They collect goods from wrecked ships to fund their operation, and imprison survivors to either sell as slaves, feed to mosters, or use as sacrifices to Talos.
 
-Reclusive anchorites living in Neverwinter Wood are taking more aggressive steps to disrupt those dwelling in the woods. They have allied with the displaced [Many Arrows Orc Tribe](Many%20Arrows%20Orc%20Tribe.md).
+Reclusive anchorites living in Neverwinter Wood are taking more aggressive steps to disrupt those dwelling in the woods. They have allied with the displaced [Many Arrows Orc Tribe](many-arrows-orc-tribe.md).
 
 They plan to establish temples along the High Road, so they can call upon storms and lighting to disrupt trade at will.
 

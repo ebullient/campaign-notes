@@ -5,11 +5,11 @@ tags:
   - iff/enemy
   - group/faction/cult-of-talos
   - place/landmark/circle-of-thunder
-  - region/north-sword-coast/neverwinter-wood
+  - region/sword-coast-north/neverwinter-wood
 ---
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 # Flenz
-<span class="subhead">[Circle of Thunder](../neverwinter-wood/Circle%20of%20Thunder.md), Neverwinter Wood</span>
+<span class="subhead">[Circle of Thunder](../neverwinter-wood/circle-of-thunder.md), Neverwinter Wood</span>
 
 Flenz has straight silver hair and green eyes.
 Flenz seeks only fame and glory.
@@ -24,7 +24,7 @@ Flenz seeks only fame and glory.
 
 ## Relationships
 
-* **Faction** Anchorite in the [Cult of Talos](../groups/Cult%20of%20Talos.md)
+* **Faction** Anchorite in the [Cult of Talos](../groups/cult-of-talos.md)
 
 ## Secrets
 

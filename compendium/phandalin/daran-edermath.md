@@ -8,7 +8,7 @@ tags:
 ---
 ![Daran Edermath](/[assets]/attachments/daran-edermath.jpeg#portrait)
 # Daran Edermath
-<span class="subhead">[Edermath Orchard](Edermath%20Orchard.md), Phandalin</span>
+<span class="subhead">[Edermath Orchard](edermath-orchard.md), Phandalin</span>
 
 A fit, silver-haired _half-elf_ well over a hundred years old. He lives in a tidy little cottage beside the apple orchard.
 
@@ -29,16 +29,14 @@ A fit, silver-haired _half-elf_ well over a hundred years old. He lives in a tid
 Daran is friendly, but he sees connections with others to monitor the well-being of Phandalin.
 
 Friends:
-* [Sister Garaele](Sister%20Garaele.md)
-* [Linene Graywind](Linene%20Graywind.md)
-* [Elmar Barthen](Elmar%20Barthen.md)
-* [Maccus Strongarm](Maccus%20Strongarm.md)
-* [Xanth](../neverwinter-wood/Xanth.md)
+* [Linene Graywind](linene-graywind.md)
+* [Maccus Strongarm](maccus-strongarm.md)
+* [Xanth](../neverwinter-wood/xanth.md)
 
 Employs:
-* [George](George.md)
+* [George](george.md)
 
-**Faction** Daran is a member of the [Order of the Gauntlet](../groups/Order%20of%20the%20Gauntlet.md). Though he is no longer active in the order, he keeps an eye on happenings around Phandalin. He is happy to trade news with fellow adventurers, especially those who appear to hold to the virtues of the Order. 
+**Faction** Daran is a member of the [Order of the Gauntlet](../groups/order-of-the-gauntlet.md). Though he is no longer active in the order, he keeps an eye on happenings around Phandalin. He is happy to trade news with fellow adventurers, especially those who appear to hold to the virtues of the Order. 
 
 ## Secrets
 

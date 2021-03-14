@@ -46,7 +46,7 @@ list from #log/npc/black-spider and "pc-logs"
 > I'm counting on you. Don't disappoint me.
 > 🕷️
 
-[03. All is Well](/pc-writing/03.%20All%20is%20Well.md):
+[03. All is Well](/pc-writing/03-all-is-well.md):
 
 > Kyle poked Glasstaff with his own staff, “Ouch! That was rude!” Kyle raised an eyebrow and loomed.
 > &nbsp;

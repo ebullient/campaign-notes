@@ -7,7 +7,7 @@ tags:
   - group/faction/harpers
 ---
 # Sister Garaele
-<span class="subhead">[Shrine of Luck](Shrine%20of%20Luck.md), Phandalin</span>
+<span class="subhead">[Shrine of Luck](shrine-of-luck.md), Phandalin</span>
 
 Cleric/Acolyte of Tymora (zealous).
 
@@ -27,10 +27,10 @@ Sister Garaele regularly reports to her superiors in Neverwinter on events in an
 ## Relationships
 
 Friends:
-* [Linene Graywind](Linene%20Graywind.md)
-* [Daran Edermath](Daran%20Edermath.md)
+* [Linene Graywind](linene-graywind.md)
+* [Mabina Cawood](../mabina-cawood.md)
 
-**Faction** Sister Garaele is a member of the [Harpers](../groups/Harpers.md), a scattered network of adventurers and spies who advocate equality and covertly oppose the abuse of power. 
+**Faction** Sister Garaele is a member of the [Harpers](../groups/harpers.md), a scattered network of adventurers and spies who advocate equality and covertly oppose the abuse of power. 
 
 ## Secrets
 

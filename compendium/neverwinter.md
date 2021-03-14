@@ -2,7 +2,7 @@
 type: location
 tags:
   - type/city
-  - region/north-sword-coast
+  - region/sword-coast-north
   - place/city/neverwinter
   - group/faction/lords-alliance
 ---

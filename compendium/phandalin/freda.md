@@ -6,7 +6,7 @@ tags:
   - place/town/phandalin/stonehill-inn
 ---
 # Freda (weaver)
-<span class="subhead">[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
+<span class="subhead">[Stonehill Inn](stonehill-inn.md), Phandalin</span>
 
 TL;DR description / personality / motivation
 
@@ -23,7 +23,7 @@ TL;DR description / personality / motivation
 
 ## Relationships
 
-* Friends with [Narth](Narth.md)
+* Friends with [Narth](narth.md)
 
 ## Secrets
 

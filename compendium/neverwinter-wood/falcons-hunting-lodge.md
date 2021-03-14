@@ -3,17 +3,17 @@ type: location
 tags:
   - type/manor
   - place/settlement/falcons-lodge
-  - region/north-sword-coast/neverwinter-wood
+  - region/sword-coast-north/neverwinter-wood
 ---
 # Falcon's Hunting Lodge
 <span class="subhead">Rustic Manor, Neverwinter Wood</span>
 
 TL;DR description
 
-* **Owner** [Falcon the Hunter](Falcon%20the%20Hunter.md)
+* **Owner** [Falcon the Hunter](falcon-the-hunter.md)
 
-Equidistant to [Circle of Thunder](Circle%20of%20Thunder.md)
-and [Woodland Manse](Woodland%20Manse.md).
+Equidistant to [Circle of Thunder](circle-of-thunder.md)
+and [Woodland Manse](woodland-manse.md).
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 

@@ -22,7 +22,7 @@ He tugs his beard while he is thinking, and is an expert dart thrower. He is gre
 
 Dalgal wants to rebuild a home for his clan and find scattered survivors.
 
-<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
+<span class="nav">[Details](dalgal-broodfist.md#Details) [Relationships](dalgal-broodfist.md#Relationships) [Secrets](dalgal-broodfist.md#Secrets) [History](dalgal-broodfist.md#History)</span>
 
 ## Details
 

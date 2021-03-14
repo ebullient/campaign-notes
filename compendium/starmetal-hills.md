@@ -2,7 +2,7 @@
 type: location
 tags: 
 - type/region/mountains
-- region/north-sword-coast/starmetal-hills
+- region/sword-coast-north/starmetal-hills
 ---
 # Starmetal Hills
 <span class="subhead">Range of hills in the Sword Coast North</span>
@@ -16,12 +16,12 @@ The hills are haunted by ruthless barbarian tribes, giving others little reason 
 ## NPCs
 
 ```dataview
-list from #region/north-sword-coast/starmetal-hills
+list from #region/sword-coast-north/starmetal-hills
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #region/north-sword-coast/starmetal-hills  and "pc-logs"
+list from #region/sword-coast-north/starmetal-hills  and "pc-logs"
 ```

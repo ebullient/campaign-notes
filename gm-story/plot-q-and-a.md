@@ -18,9 +18,9 @@ Following Fheralai’s orders, the half-orc Moesko takes over the Tower of Storm
 
 ## Dwarves moving into the area
 
-- [ ] Are [Norbus Ironrune](Norbus%20Ironrune) and [Dazlyn Grayshard](compendium/Dazlyn%20Grayshard.md) going to move excavation sites?
-- [ ] How are they related to dwarves moving to [Axeholm](compendium/axeholm/Axeholm.md) 
-- [ ] Does [Grista](../compendium/phandalin/Grista.md) like having so many more Dwarves around (does she care at all)?
+- [ ] Are [Norbus Ironrune](Norbus-Ironrune) and [Dazlyn Grayshard](/compendium/dazlyn-grayshard.md) going to move excavation sites?
+- [ ] How are they related to dwarves moving to [Axeholm](../compendium/axeholm/axeholm.md) 
+- [ ] Does [Grista](../compendium/phandalin/grista.md) like having so many more Dwarves around (does she care at all)?
 
 ## Orcs are not all bad
 

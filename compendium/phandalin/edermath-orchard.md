@@ -10,7 +10,7 @@ tags:
 
 An apple orchard located just outside of the ruined town walls on the Northwest edge of Phandalin.
 
-* **Owner** [Daran Edermath](Daran%20Edermath.md)
+* **Owner** [Daran Edermath](daran-edermath.md)
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 

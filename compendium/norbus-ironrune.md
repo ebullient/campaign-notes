@@ -26,13 +26,13 @@ Norbus is great at solving puzzles, and loves prospecting new sites.
 
 ## Details
 
-Worked on [Dwarven Excavation](Dwarven%20Excavation.md) site. 
+Worked on [Dwarven Excavation](dwarven-excavation.md) site. 
 
 He and Dazlyn made an attempt to claim Axeholm when they heard it was being explored. He is happy to work with a settlement of dwarves in the area.
 
 ## Relationships
 
-* Works with [Dazlyn Grayshard](Dazlyn%20Grayshard.md)
+* Works with [Dazlyn Grayshard](dazlyn-grayshard.md)
 
 ## Secrets
 

@@ -11,7 +11,7 @@ tags:
 Phandalin’s only temple is a shrine made of stones taken from the nearby ruins. It is dedicated to Tymora (goddess of luck and good fortune).
 Sister Garaele regularly reports to her superiors in Neverwinter on events in and around Phandalin. The shrine is left untended when she is away.
 
-* **Caretaker** [Sister Garaele](Sister%20Garaele.md)
+* **Caretaker** [Sister Garaele](sister-garaele.md)
 * **Location** The runined Shrine on the north edge of the town square, or marketplace.
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>

@@ -37,5 +37,5 @@ list from #log/npc/don-jon-raskin and "pc-logs"
 
 Don-Jon was bitten by a Wererat on the first visit to the mine. The party accompanied him to Thundertree, hoping to find the druid that would cure him of the curse.
 
-* [Don-Jon's Predicament](/pc-writing/04.%20Don-Jon's%20Predicament.md)
-* [Finding a Cure](/pc-writing/05.%20Finding%20a%20Cure.md)
+* [Don-Jon's Predicament](/pc-writing/04-don-jons-predicament.md)
+* [Finding a Cure](/pc-writing/05-finding-a-cure.md)

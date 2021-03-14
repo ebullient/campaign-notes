@@ -2,7 +2,7 @@
 type: location
 tags:
   - type/town
-  - region/north-sword-coast/triboar-trail
+  - region/sword-coast-north/triboar-trail
   - place/town/pentill
 ---
 # Penthill

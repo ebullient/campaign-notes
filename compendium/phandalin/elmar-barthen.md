@@ -7,7 +7,7 @@ tags:
 ---
 ![Elmar Barthen](/[assets]/attachments/elmar_barthen.jpg#portrait)
 # Elmar Barthen
-<span class="subhead">[Barthen's Provisions](Barthen's%20Provisions.md), Phandalin</span>
+<span class="subhead">[Barthen's Provisions](barthens-provisions.md), Phandalin</span>
 
 Lean and balding human man.
 
@@ -25,8 +25,7 @@ Lean and balding human man.
 ## Relationships
 
 Friends
-* [Daran Edermath](Daran%20Edermath.md)
-* [Maccus Strongarm](Maccus%20Strongarm.md)
+* [Maccus Strongarm](maccus-strongarm.md)
 
 ## Secrets
 

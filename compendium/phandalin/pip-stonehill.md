@@ -7,9 +7,9 @@ tags:
 ---
 ![Pip Stonehill](/[assets]/attachments/pip-stonehill.jpeg#portrait)
 # Pip Stonehill
-<span class="subhead">[Stonehill Inn](Stonehill%20Inn.md), Phandalin</span>
+<span class="subhead">[Stonehill Inn](stonehill-inn.md), Phandalin</span>
 
-Energetic boy; lanky and ungraceful. Energetic. Helps his parents at the Inn when not running around with [Carp Alderleaf](Carp%20Alderleaf.md).
+Energetic boy; lanky and ungraceful. Energetic. Helps his parents at the Inn when not running around with [Carp Alderleaf](carp-alderleaf.md).
 
 > *Male human boy, Innkeeper's son, neutral good*  
 > * **Trait**
@@ -24,8 +24,8 @@ Energetic boy; lanky and ungraceful. Energetic. Helps his parents at the Inn whe
 
 ## Relationships
 
-Son of [Toblen Stonehill](Toblen%20Stonehill.md) and [Amelia Stonehill](Amelia%20Stonehill.md)
-Best friend is [Carp Alderleaf](Carp%20Alderleaf.md)
+Son of [Toblen Stonehill](toblen-stonehill.md) and [Amelia Stonehill](amelia-stonehill.md)
+Best friend is [Carp Alderleaf](carp-alderleaf.md)
 
 ## Secrets
 

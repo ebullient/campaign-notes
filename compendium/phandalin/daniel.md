@@ -6,7 +6,7 @@ tags:
   - place/town/phandalin/woodshop
 ---
 # Daniel #todo
-<span class="subhead">[The Crafty Hand](The%20Crafty%20Hand.md), Phandalin</span>
+<span class="subhead">[The Crafty Hand](the-crafty-hand.md), Phandalin</span>
 
 TL;DR description / personality / motivation
 
@@ -22,15 +22,15 @@ TL;DR description / personality / motivation
 <span class="subhead">Farmer, Criminal, Redbrand Bandit</span>
 
 Seamus was a member of the Redbrands. He left his family farm because ... 
-and fell in with [George](George.md) and [Seamus](Seamus.md) who had similar runaway backgrounds and likewise felt uneasy with what the Redbrands were doing.
+and fell in with [George](george.md) and [Seamus](seamus.md) who had similar runaway backgrounds and likewise felt uneasy with what the Redbrands were doing.
 
 #story/unexplored: How does Daniel feel about working with a family the Redbrand's captured and intended to sell into slavery?
 
 ## Relationships
 
 * Former Redbrand
-* Friends with [Seamus](Seamus.md) and [George](George.md)
-* Apprentice to [Thel Dendrar](Thel%20Dendrar.md)
+* Friends with [Seamus](seamus.md) and [George](george.md)
+* Apprentice to [Thel Dendrar](thel-dendrar.md)
 
 ## Secrets
 
@@ -40,7 +40,7 @@ and fell in with [George](George.md) and [Seamus](Seamus.md) who had similar run
 list from #log/npc/daniel and "pc-logs"
 ```
 
-From [03. All is Well](/pc-writing/03.%20All%20is%20Well.md)
+From [03. All is Well](/pc-writing/03-all-is-well.md)
 
 > "Those boys," Kyle said, "they are all looking for something to do now, you know. That's why they left their homes in the first place. I don't think we can offer them anything regular, and we certainly can't pay them. Can you think of anything they might be able to do?"
 >

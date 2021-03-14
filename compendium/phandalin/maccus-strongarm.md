@@ -7,7 +7,7 @@ tags:
 ---
 ![Maccus](/[assets]/attachments/maccus-strongarm.jpeg#portrait)
 # Maccus Strongarm
-<span class="subhead">[Strongarm Smithy](Strongarm%20Smithy.md), Phandalin</span>
+<span class="subhead">[Strongarm Smithy](strongarm-smithy.md), Phandalin</span>
 
 TL;DR description / personality / motivation
 
@@ -25,11 +25,11 @@ TL;DR description / personality / motivation
 ## Relationships
 
 Friends with:
-* [Daran Edermath](Daran%20Edermath.md)
-* [Harbin Wester](Harbin%20Wester.md)
-* [Elmar Barthen](Elmar%20Barthen.md)
+* [Daran Edermath](daran-edermath.md)
+* [Harbin Wester](harbin-wester.md)
+* [Elmar Barthen](elmar-barthen.md)
 
-[Seamus](Seamus.md) is his new apprentice
+[Seamus](seamus.md) is his new apprentice
 
 ## Secrets
 

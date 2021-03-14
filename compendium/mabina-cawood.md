@@ -3,7 +3,7 @@ type: npc
 tags:
 - npc/alive
 - iff/friend
-- region/north-sword-coast
+- region/sword-coast-north
 - group/faction/harpers
 ---
 ![Mabina](/[assets]/attachments/mabina.jpg#portrait)
@@ -31,10 +31,10 @@ Through her own magical means, Mabina and her wagon traverse the Sword Coast Nor
 
 ## Relationships
 
-Mabina is a member of the [Harpers](groups/Harpers.md)
+Mabina is a member of the [Harpers](groups/harpers.md)
 Friends:
-* [Harbin Wester](phandalin/Harbin%20Wester.md)
-* [Sister Garaele](phandalin/Sister%20Garaele.md)
+* [Harbin Wester](phandalin/harbin-wester.md)
+* [Sister Garaele](phandalin/sister-garaele.md)
 
 ## Secrets
 
@@ -55,7 +55,7 @@ The party traded "The Splendiferous Bauble" to her for the Handy Haversack. She 
 
 ----
 
-From [02. A Rough Time in Phandalin](/pc-writing/02.%20A%20Rough%20Time%20in%20Phandalin.md)
+From [02. A Rough Time in Phandalin](/pc-writing/02-a-rough-time-in-phandalin.md)
 
 > They kept talking, and Mabina asked them if they knew anything for sure about whether or not there was a dragon in the area. She used magic to hide herself, her cart, and her mule from would-be attackers, but a dragon might require some extra effort. Kyle was able to confirm that it was a dragon, and further, it was a young white dragon, as the party had a not so successful encounter with it already. 
 

@@ -31,7 +31,7 @@ Anchorite (Yargath) was carrying a potion and [an unsealed letter](Fheralai-to-Y
 [Midday]
 
 ## Circle of Thunder
-[09. Circle of Thunder](../pc-writing/09.%20Circle%20of%20Thunder.md)
+[10. Circle of Thunder](../pc-writing/11-circle-of-thunder.md)
 
 Discovered a hill topped with standing stones, and anchorites and minions dancing,  
 Killed the minions. Destroyed the anchorites. Raided their hideouts.  

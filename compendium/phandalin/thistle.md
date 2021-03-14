@@ -6,7 +6,7 @@ tags:
   - place/town/phandalin/barthens-provisions
 ---
 # Thistle
-<span class="subhead">[Barthen's Provisions](Barthen's%20Provisions.md), Phandalin</span>
+<span class="subhead">[Barthen's Provisions](barthens-provisions.md), Phandalin</span>
 
 Thistle has an angular face, with braided golden hair and dark hazel eyes. She is lean, but strong, and does her fair share with the wagons.
 
@@ -25,8 +25,8 @@ Thistle has an angular face, with braided golden hair and dark hazel eyes. She i
 
 **Organization or Faction**
 
-* Works for [Elmar Barthen](Elmar%20Barthen.md)
-* [Ander](Ander.md) is her older brother
+* Works for [Elmar Barthen](elmar-barthen.md)
+* [Ander](ander.md) is her older brother
 
 ## Secrets
 

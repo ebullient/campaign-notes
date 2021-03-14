@@ -5,11 +5,11 @@ tags:
   - npc/alive
   - iff/unknown
   - place/settlement/butterskull-ranch
-  - region/north-sword-coast/triboar-trail
+  - region/sword-coast-north/triboar-trail
   - todo
 ---
 # Alfonse "Big Al" Kalazorn
-<span class="subhead">[Butterskull Ranch](Butterskull%20Ranch.md), Triboar Trail</span>
+<span class="subhead">[Butterskull Ranch](butterskull-ranch.md), Triboar Trail</span>
 
 > *Male human, Rancher, lawful good*  
 > * **Trait**

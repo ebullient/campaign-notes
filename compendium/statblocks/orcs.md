@@ -7,7 +7,7 @@ tags: [statblock]
 
 Orcs in the area have been displaced and are on the move.
 
-Most are remnants of the [Many Arrows Orc Tribe](../groups/Many%20Arrows%20Orc%20Tribe.md).
+Most are remnants of the [Many Arrows Orc Tribe](../groups/many-arrows-orc-tribe.md).
 
 Reference: 
 * [The Monster’s Know What They Are Doing](http://themonstersknow.com/orcs-revisited/)

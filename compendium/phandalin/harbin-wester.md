@@ -8,7 +8,7 @@ tags:
 ![Harbin Wester](/[assets]/attachments/harbin-wester.jpg#portrait)
 # Harbin Wester
 <span class="subhead">Male human townmaster, {{alignment}}  
-[Townmaster's Hall](Townmaster's%20Hall.md), Phandalin</span> 
+[Townmaster's Hall](townmasters-hall.md), Phandalin</span> 
 
 Thin voice, but rational. Still fearful.
 Pompous, middle-aged banker.
@@ -33,13 +33,13 @@ Many locks on his door, but now emerges when the party arrives. Likes "Lord Kyle
 
 ## Relationships
 
-* Brother, [Tibor Wester](../neverwinter-wood/Tibor%20Wester.md), runs a logging camp
+* Brother, [Tibor Wester](../neverwinter-wood/tibor-wester.md), runs a logging camp
 * Friends: 
-  * [Thel Dendrar](Thel%20Dendrar.md)
-  * [Maccus Strongarm](Maccus%20Strongarm.md)
-  * [Adabra Gwynn](../Adabra%20Gwynn.md)
-  * [Mabina](../Mabina%20Cawood.md)
-* Cares for rehabilitation of [Drusz](Drusz.md)
+  * [Thel Dendrar](thel-dendrar.md)
+  * [Maccus Strongarm](maccus-strongarm.md)
+  * [Adabra Gwynn](../adabra-gwynn.md)
+  * [Mabina](../mabina-cawood.md)
+* Cares for rehabilitation of [Drusz](drusz.md)
 
 ## Secrets
 
@@ -53,7 +53,7 @@ Was terrified of the dragon. Would only go outside to get food and post new noti
 
 ----
 
-From [03. All is Well](/pc-writing/03.%20All%20is%20Well.md):
+From [03. All is Well](/pc-writing/03-all-is-well.md):
 
 > "Well," Harbin said, "I guess I'm feeling unexpected sympathy for the creature. He looks as scared as I feel. My door has a lot of locks on it, and goodness knows I spend too much time alone. Maybe I can teach a goblin how to play chess." He huffed a laugh. "I'm worried about my brother, too. He's off in those confounded woods. I haven't heard anything from him. It's about time to send supplies out to his camp, anyway. Would you.. would you take them to him? I trust you and your friends to make sure my brother is alright."
 > 
@@ -61,7 +61,7 @@ From [03. All is Well](/pc-writing/03.%20All%20is%20Well.md):
 
 ----
 
-From [02. A Rough Time in Phandalin](/pc-writing/02.%20A%20Rough%20Time%20in%20Phandalin.md): 
+From [02. A Rough Time in Phandalin](/pc-writing/02-a-rough-time-in-phandalin.md): 
 
 > As they were nearby, they knocked on Harbin’s door. A small eye-slot opened, “Who’s there? I’m not coming out to be snatched up by dragons.”
 ...

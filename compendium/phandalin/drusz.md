@@ -27,8 +27,8 @@ His name is actually Drusz. He's quietly recovering from his abuse while staying
 
 ## Relationships
 
-* Dependent on [Harbin Wester](Harbin%20Wester.md) for life in Phandalin
-* Rescued by the party from abusive bugbears in the [Redbrand Hideout](/gm-story/encounters/Redbrand%20Hideout.md)
+* Dependent on [Harbin Wester](harbin-wester.md) for life in Phandalin
+* Rescued by the party from abusive bugbears in the [Redbrand Hideout](/gm-story/encounters/redbrand-hideout.md)
 
 ## Secrets
 
@@ -38,7 +38,7 @@ His name is actually Drusz. He's quietly recovering from his abuse while staying
 list from #log/npc/drusz and "pc-logs"
 ```
 
-[03. All is Well](/pc-writing/03.%20All%20is%20Well.md) (Drusz goes to stay with Harbin)
+[03. All is Well](/pc-writing/03-all-is-well.md) (Drusz goes to stay with Harbin)
 
 > Some muffled sounds, like things being moved around came from behind the door, and then the distinct clicks of several latches and locks opening. The door creaked open, and Harbin stepped timidly out of his house. He gave the whole party a good look-over and jumped when he registered Droop, standing there looking forlorn, miserable, and completely harmless. "GAH! What is that?"
 > &nbsp;

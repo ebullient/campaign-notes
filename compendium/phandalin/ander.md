@@ -6,7 +6,7 @@ tags:
   - place/town/phandalin/barthens-provisions
 ---
 # Ander
-<span class="subhead">[Barthen's Provisions](Barthen's%20Provisions.md)</span>
+<span class="subhead">[Barthen's Provisions](barthens-provisions.md)</span>
 
 He has curly blonde hair and bright hazel eyes. Late teens, early twenties, strong.
 
@@ -27,8 +27,8 @@ Helps load and unload wagons, and waits on customers when Barthen isn’t around
 
 **Organization or Faction**
 
-* Works for [Elmar Barthen](Elmar%20Barthen.md)
-* [Thistle](Thistle.md) is his sister
+* Works for [Elmar Barthen](elmar-barthen.md)
+* [Thistle](thistle.md) is his sister
 
 ## Secrets
 

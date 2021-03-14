@@ -3,7 +3,7 @@ type: location
 tags:
   - type/landmark
   - place/landmark/dragon-barrow
-  - region/north-sword-coast/high-road
+  - region/sword-coast-north/high-road
 ---
 # Dragon Barrow
 <span class="subhead">Burial mound near the High Road</span>
@@ -28,4 +28,4 @@ where type = "npc"
 list from #place/landmark/dragon-barrow  and "pc-logs"
 ```
 
-Immeral retrieved Dragon Slayer from the Barrow, see [06. A Midnight Visitor](/pc-writing/06.%20A%20Midnight%20Visitor.md)
+Immeral retrieved Dragon Slayer from the Barrow, see [06. A Midnight Visitor](/pc-writing/06-a-midnight-visitor.md)

@@ -10,7 +10,7 @@ tags:
 
 TL;DR description
 
-* **Owner** [Quelline Alderleaf](Quelline%20Alderleaf.md)
+* **Owner** [Quelline Alderleaf](quelline-alderleaf.md)
 * **Location** Southeast Phandalin
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>

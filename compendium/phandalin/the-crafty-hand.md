@@ -13,8 +13,8 @@ There are also pieces for sale that have been created by Mirna: patchwork quilts
 
 Mirna also sells potions and medicines made by Adabra Gwynn (a long-distance crafty hand, if you will).
 
-* **Owner** [Thel Dendrar](Thel%20Dendrar.md)
-* **Shopkeeper** [Mirna Dendrar](Mirna%20Dendrar.md)
+* **Owner** [Thel Dendrar](thel-dendrar.md)
+* **Shopkeeper** [Mirna Dendrar](mirna-dendrar.md)
 
 <span class="nav">[Selling](#Selling) [NPCs](#NPCs) [History](#History)</span>
 

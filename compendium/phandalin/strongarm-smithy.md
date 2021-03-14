@@ -8,10 +8,10 @@ tags:
 <span class="subhead">Blacksmith, Phandalin</span>
 
 
-* **Owner** [Maccus Strongarm](Maccus%20Strongarm.md)
+* **Owner** [Maccus Strongarm](maccus-strongarm.md)
 * **Location** North section of Phandalin, near Barthen's Provisions
 
-[Seamus](Seamus.md) is an apprentice here
+[Seamus](seamus.md) is an apprentice here
 
 <span class="nav">[Selling](#Selling) [NPCs](#NPCs) [History](#History)</span>
 

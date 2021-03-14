@@ -2,7 +2,7 @@
 type: location
 tags: 
 - type/trade-road
-- region/north-sword-coast/high-road
+- region/sword-coast-north/high-road
 ---
 # High Road
 <span class="subhead">Coastal trade road, Sword Coast North</span>
@@ -18,12 +18,12 @@ Recently, efforts have been made to keep the road safe, with light patrols of gu
 ## NPCs
 
 ```dataview
-list from #region/north-sword-coast/high-road
+list from #region/sword-coast-north/high-road
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #region/north-sword-coast/high-road  and "pc-logs"
+list from #region/sword-coast-north/high-road  and "pc-logs"
 ```

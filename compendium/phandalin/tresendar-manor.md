@@ -8,7 +8,7 @@ tags:
 # Tresendar Manor
 <span class="subhead">Ruined manor, Phandalin</span>
 
-Home to [Hot-dog (Nothic)](Hot-dog%20(Nothic).md). 
+Home to [Hot Dog (Nothic)](hot-dog-nothic.md). 
 Cleared of Redbrands.
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>

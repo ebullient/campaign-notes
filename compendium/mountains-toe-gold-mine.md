@@ -1,7 +1,7 @@
 ---
 type: location
 tags:
-  - region/north-sword-coast/sword-mountains
+  - region/sword-coast-north/sword-mountains
   - place/settlement/mountains-toe-mine
   - group/mercenaries/whiskered-gang
   - type/mine
@@ -9,7 +9,7 @@ tags:
 # Mountain's Toe Gold Mine
 <span class="subhead">Gold Mine, Sword Mountains</span>
 
-* **Overseer** [Don-Jon Raskin](Don-Jon%20Raskin.md)
+* **Overseer** [Don-Jon Raskin](don-jon-raskin.md)
 * **Location** 
 
 The Mountain’s Toe Gold Mine is owned by a business consortium in Neverwinter. The owners hired and sent a no-nonsense overseer
@@ -20,7 +20,7 @@ Don-Jon is still there, with a crew of dwarves that survived the Whiskered Gang,
 
 ## NPCs
 
-* [Whiskered Gang](archive/Whiskered%20Gang.md)
+* [Whiskered Gang](archive/whiskered-gang.md)
 ```dataview
 list from #place/settlement/mountains-toe-mine
 where type = "npc"
