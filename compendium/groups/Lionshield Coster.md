@@ -3,6 +3,7 @@ type: faction
 tags:
 - group/merchant/lionshield-coster
 ---
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 # Lionshield Coster
 <span class="subhead">Merchant company</span>
 
@@ -10,8 +11,6 @@ The Lionshields are a merchant company based in Yartar. They ship finished goods
 
 * [Linene Graywind](../phandalin/Linene%20Graywind.md) is the master of the trading post in Phandalin.
 * The nearest trading post is "The Lion's Share" in Triboar, run by Narth Tezrin and Alaestra Ulgar
-
-<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Locations
 

@@ -3,10 +3,11 @@ type: faction
 tags:
 - group/faction/cult-of-talos
 ---
-![The symbol of Talos](/[assets]/attachments/talos-holy-symbol.jpg#portrait)
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 # The Cult of Talos
+![The symbol of Talos](/[assets]/attachments/talos-holy-symbol.jpg#portrait)
 
-Members are fervent religious cultists who worship [Talos](#Talos), the Stormlord. The cult is led by the priestess [Fheralai Stormsworn](../Fheralai%20Stormsworn.md). 
+Members are fervent religious cultists who worship [Talos](#Talos), the Stormlord. The cult is led by the priestess [Fheralai Stormsworn](../Fheralai%20Stormsworn.md).
 
 * **Beliefs**
     1. Life is a succession of random effects in a sea of chaos.
@@ -25,8 +26,6 @@ They plan to establish temples along the High Road, so they can call upon storms
 
 In stormy weather, anchorites of Talos will gather on remote hilltops to "Call down the Thunder", and summon [Gorthok](/compendium/statblocks/gorthok.md), the thunder boar. When motivated, they can also summon a storm.
 
-<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
-
 ## Talos
 ![Talos, Stormlord, The Destroyer](/[assets]/attachments/talos.jpg#portrait)
 
@@ -34,9 +33,9 @@ Talos, also known as the Stormlord or the Destroyer, is a chaotic evil greater d
 
 Priests in the church -- who are wont to pursue wealth and often commit acts of random violence -- frequently extort sailors and farmers by threatening them with Talos' wrath. The clerics, meanwhile, are committed evangelists who convert new followers by either scaring them or enticing them with raw power -- intimidation tactics which are made all the more terrifying because the clerics often multiclass or cross-train as barbarians, sorcerers, wizards or stormlords. Talos' worshipers feel emboldened not just by his status as a greater deity, but his destructive power and chaotic nature.
 
-His followers are destroyers, raiders, looters and brigands. 
+His followers are destroyers, raiders, looters and brigands.
 
-There is a small church dedicated to his worship, consisting of followers who are utterly obsessed with destruction. 
+There is a small church dedicated to his worship, consisting of followers who are utterly obsessed with destruction.
 
 Druids and rangers potentially have vast stores of knowledge about him, as his evil actions affect nature first and foremost.
 
@@ -56,7 +55,7 @@ list from #group/faction/cult-of-talos
 where type = "npc"
 ```
 
-NPCs tied to specific locations: 
+NPCs tied to specific locations:
 * Circle of Thunder: Flenz, Narux, Yargath
 * Tower of Storms: Moesko
 * Woodland Manse (Neverwinter Wood, dead): Grannoc, Drethna (female, spotted by party in patrol in boar shape), 2 additional unnamed
@@ -67,10 +66,7 @@ NPCs tied to specific locations:
 list from #group/faction/cult-of-talos  and "pc-logs"
 ```
 
-![CoT](../../gm-story/npc-story-events.md#CoT)
-
-Anchorites of Talos are special. In ancient times the human ancestors of these cultists bred with orcs, and now all of their numbers are half-orcs. In order to visit the wrath of Talos on their enemies, the anchorites can shift into the form of a boar. They are often found in remote mountainous or forested areas. They are savage, wild, and somewhat unpredictable, just like the storms their god sends upon the face of the world.
-
+![CoT](/gm-story/npc-story-events.md#CoT)
 
 ## References
 

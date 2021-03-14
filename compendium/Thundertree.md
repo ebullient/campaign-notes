@@ -4,6 +4,7 @@ tags:
   - type/town/ruin
   - place/ruin/thundertree
   - region/north-sword-coast/neverwinter-wood
+  - group/faction/emerald-enclave
 ---
 # Thundertree
 <span class="subhead">Ruined town near Neverwinter Wood, Sword Coast North</span>

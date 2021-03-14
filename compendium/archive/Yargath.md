@@ -1,31 +1,33 @@
 ---
 type: npc
 tags:
-  - npc/alive
+  - npc/dead
   - iff/enemy
   - place/landmark/circle-of-thunder
   - group/faction/cult-of-talos
 ---
-![Anchorite](/[assets]/attachments/anchorite-of-talos.png#portrait)
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 # Yargath
 <span class="subhead">[Circle of Thunder](/compendium/neverwinter-wood/Circle%20of%20Thunder.md), Neverwinter Wood</span>
 
-Yargath was tall, and mean looking, with several missing teeth. He had shoulder-length, thin dark hair that wass held out of his face by a thin leather band. He used flowery speech and long words. 
+Yargath was tall, and mean looking, with several missing teeth. He had shoulder-length, thin dark hair that wass held out of his face by a thin leather band. He used flowery speech and long words.
 
-> *Male half-orc [Anchorite of Talos](/compendium/statblocks/anchorite-of-talos.md), neutral evil*  
-> * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> *Male half-orc [Anchorite of Talos](/compendium/statblocks/anchorite-of-talos.md), neutral evil*
+> * **Trait** I bluntly say what other people are hinting or hiding.
+> * **Ideals** Knowledge is the path to power and domination.
+> * **Bonds** I will do anything to prove myself superior to me hated rival.
+> * **Flaws** I'm a sucker for a pretty face.
 
-<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 
-He was ready to bring the wrath of the storm lord to bear, and to wipe out the weak and non-believers who have been moving into the area.  
+He was ready to bring the wrath of the storm lord to bear, and to wipe out the weak and non-believers who have been moving into the area.
 
 ## Relationships
+
 **Faction** Anchorite in the [Cult of Talos](/compendium/groups/Cult%20of%20Talos.md). Leader of cultists at Circle of Thunder.
+
+Took direction from / sent reports to High Priestess [Fheralai Stormsworn](/compendium/Fheralai%20Stormsworn.md)
 
 ## Secrets
 

@@ -3,9 +3,9 @@ type: faction
 tags:
 - group/faction/zhenterim
 ---
-![Banner](/[assets]/attachments/zhentarim-symbol.png#portrait)
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 # Zhenterim
-<span class="subhead">The Black Network</span> 
+![Banner](/[assets]/attachments/zhentarim-symbol.png#portrait)<span class="subhead">The Black Network</span> 
 
 A shadowy organization that seeks to exert secret control over the North through wealth and influence. The Zhentarim seeks to become omnipresent and inescapable, more wealthy and powerful, and most importantly, untouchable. 
 
@@ -21,7 +21,6 @@ The public face of the organization appears much more benign, offering the best 
 
 Zhenterim agents must often work in secret, and are frequently proficient in Deception. They seek aid from wizards, mercenaries, merchants, and priesthoods allied with the Zhenterim.
 
-<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Locations
 

@@ -119,42 +119,42 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 
 ---
 
-[^1]: Anchorites: [Grannoc](../compendium/archive/Grannoc.md), Moesko, Yargath, Flenz, Narux
-[^2]: [Woodland Manse](../compendium/neverwinter-wood/Woodland%20Manse.md)
-[^3]: Gulthias Tree
-[^4]: Fheralai
-[^5]: Thunder Cliffs
-[^6]: Tower of Storms
-[^7]: Logger's Camp
-[^8]: [gorthok](../compendium/statblocks/gorthok.md)
-[^9]: Circle of Thunder
-[^10]: Dragon Barrow
-[^20]: [dragons: Cryovain and Venomfang](../compendium/statblocks/dragon.md)
-[^21]: Icespire Hold
-[^22]: Thundertree
-[^30]: [Mabina Cawood](../compendium/Mabina%20Cawood.md)
-[^31]: Triboar
-[^32]: Yartar
-[^33]: Silverymoon
-[^40]: [manticore](../compendium/statblocks/manticore.md)
-[^41]: Umbrage Hill
-[^50]: [Many Arrows Orc Tribe](../compendium/groups/Many%20Arrows%20Orc%20Tribe.md)
-[^51]: Shrine of Savras
-[^52]: Butterskull Ranch
-[^53]: Dwarven Excavation Site
-[^54]: Gnomengarde
-[^55]: Falcon's Lodge
-[^60]: [Xanth](../compendium/neverwinter-wood/Xanth.md)
-[^61]: Edermath Orchard
-[^71]: [Whiskered Gang](../compendium/groups/Whiskered%20Gang.md)
-[^72]: Mountain's Toe
-[^73]: Prospectors: Dazlyn and Norbus
-[^74]: [Don-Jon Raskin](../compendium/Don-Jon%20Raskin.md)
-[^75]: Harbin Wester
-[^76]: Messages
-[^77]: Axeholm
-[^78]: Gauntlgrym
-[^79]: John Wick
+[^1]: Anchorites: [Grannoc](/compendium/archive/Grannoc.md), [Moesko](../compendium/Moesko.md), [Yargath](../compendium/archive/Yargath.md), [Narux](../compendium/archive/Narux.md), [Flenz](../compendium/archive/Flenz.md)
+[^2]: [Woodland Manse](/compendium/neverwinter-wood/Woodland%20Manse.md)
+[^3]: [gulthias-tree](/compendium/statblocks/gulthias-tree.md) and [blights](/compendium/statblocks/blights.md)
+[^4]: [Fheralai Stormsworn](../compendium/Fheralai%20Stormsworn.md)
+[^5]: [Thunder Cliffs](../compendium/Thunder%20Cliffs.md)
+[^6]: [Tower of Storms](../compendium/Tower%20of%20Storms.md)
+[^7]: [Logger's Camp](../compendium/neverwinter-wood/Logger's%20Camp.md)
+[^8]: [gorthok](/compendium/statblocks/gorthok.md)
+[^9]: [Circle of Thunder](encounters/Circle%20of%20Thunder.md)
+[^10]:[Dragon Barrow](../compendium/Dragon%20Barrow.md)
+[^20]: [dragons: Cryovain and Venomfang](/compendium/statblocks/dragon.md)
+[^21]: [Icespire Hold](../compendium/Icespire%20Hold.md)
+[^22]: [Thundertree](../compendium/Thundertree.md)
+[^30]: [Mabina Cawood](/compendium/Mabina%20Cawood.md)
+[^31]: [[Triboar]]
+[^32]: [[Yartar]]
+[^33]: [Silverymoon](../compendium/Silverymoon.md)
+[^40]: [manticore](/compendium/statblocks/manticore.md)
+[^41]: [Umbrage Hill](../compendium/Umbrage%20Hill.md)
+[^50]: [Many Arrows Orc Tribe](/compendium/groups/Many%20Arrows%20Orc%20Tribe.md)
+[^51]: [Shrine of Savras](../compendium/Shrine%20of%20Savras.md)
+[^52]: [Butterskull Ranch](../compendium/Butterskull%20Ranch.md)
+[^53]: [Dwarven Excavation](../compendium/Dwarven%20Excavation.md)
+[^54]: [Gnomengarde](../compendium/Gnomengarde.md)
+[^55]: [Falcon's Hunting Lodge](../compendium/neverwinter-wood/Falcon's%20Hunting%20Lodge.md)
+[^60]: [Xanth](/compendium/neverwinter-wood/Xanth.md)
+[^61]: [Edermath Orchard](../compendium/phandalin/Edermath%20Orchard.md)
+[^71]: [Whiskered Gang](/compendium/archive/Whiskered%20Gang.md)
+[^72]: [Mountain's Toe Gold Mine](../compendium/Mountain's%20Toe%20Gold%20Mine.md)
+[^73]: Prospectors: [Dazlyn Grayshard](../compendium/Dazlyn%20Grayshard.md) and [Norbus Ironrune](../compendium/Norbus%20Ironrune.md)
+[^74]: [Don-Jon Raskin](/compendium/Don-Jon%20Raskin.md)
+[^75]: [Harbin Wester](../compendium/phandalin/Harbin%20Wester.md)
+[^76]: [Messages](distances.md#Messages)
+[^77]: [Axeholm](../compendium/Axeholm.md)
+[^78]: [[Gauntlgrym]]
+[^79]: [[John Wick]]
 
 
 

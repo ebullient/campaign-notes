@@ -7,17 +7,17 @@ tags:
 ### Prep
 - [x] Update Roll20 for Xanth: +2 armor
 - [x] Something distinctive about each anchorite
-- [x] Evidence / foreshadowing: 
+- [x] Evidence / foreshadowing:
     - [x] Letter from [Fheralai](/compendium/Fheralai%20Stormsworn.md)
     - [x] Letter from Fheralai to Grannoc
 
 ## Essentials
-* Allies: Party + [Xanth](/compendium/neverwinter-wood/Xanth.md)  
-* Enemies: 
+* Allies: Party + [Xanth](/compendium/neverwinter-wood/Xanth.md)
+* Enemies:
   * [Anchorites](/compendium/statblocks/anchorite-of-talos.md)
     * [Yargath](/compendium/archive/Yargath.md)
-    * [Flenz](/compendium/neverwinter-wood/Flenz.md)
-    * [Narux](/compendium/neverwinter-wood/Narux.md)
+    * [Flenz](/compendium/archive/Flenz.md)
+    * [Narux](/compendium/archive/Narux.md)
   * [Gorthok](/compendium/statblocks/gorthok.md)
 * Location: [Circle of Thunder](/compendium/neverwinter-wood/Circle%20of%20Thunder.md)
 
@@ -34,9 +34,9 @@ tags:
 Note: These uprights can be toppled by creatures with a combined Strength score of 80 or higher. -- the entire party + xanth can do this.
 
 > As you approach the hilltop, the movement begins to make sense: two humanoid figures are doing some kind of ceremonial dance around a carcass of some kind in the center of the henge. They are surrounded by a ring of smaller twig-like creatures, who are also dancing.
-> Both of the dancing humanoids are physically big. Both wear the rotting heads of boars as masks. One has short silver hair, while the other has long auburn hair that is escaping a loose braid. They are both completely focused on what they are doing. 
+> Both of the dancing humanoids are physically big. Both wear the rotting heads of boars as masks. One has short silver hair, while the other has long auburn hair that is escaping a loose braid. They are both completely focused on what they are doing.
 
-Flenz and Narux are performing a ritual to summon Gorthok.  
+Flenz and Narux are performing a ritual to summon Gorthok.
 Twelve twig blights guard Flenx and Narux while adding energy to the ritual with their own dancing.
 
 [Hilltop Encounter Sheet](#Hilltop\ Encounter\ Sheet)
@@ -46,84 +46,87 @@ If *Grizzlebear* approaches one, he instinctively avoids it. Others will notice 
 
 ## Scout
 
-From the cave mouth: 
-> You find the mouth of a cave dug out of the earth. The sides of the opening are braced by two stone slabs, topped by a heavy lintel stone.   
-> The ceiling is fairly low, only 7 feet. Xanth, Grizzlebear, and Riardon will all fit, but will feel like they have to crouch or duck the whole time.  
-> The cave is dark, especially in contrast to the bright daylight.  
+From the cave mouth:
+> You find the mouth of a cave dug out of the earth. The sides of the opening are braced by two stone slabs, topped by a heavy lintel stone.
+> The ceiling is fairly low, only 7 feet. Xanth, Grizzlebear, and Riardon will all fit, but will feel like they have to crouch or duck the whole time.
+> The cave is dark, especially in contrast to the bright daylight.
 
 *Darkvision*: **Grizzlebear** and **Xanth** can not naturally see in the dark. Kyle has Goggles of Night.
 
 ### Common interior
 
-**A.**  *Entryway.*   
-> The skull of a boar stares at the cave mouth from atop a pile of bones in the center of the room. 
+#### A Entryway.
+> The skull of a boar stares at the cave mouth from atop a pile of bones in the center of the room.
 
-**DC 10 Intelligence**: warning to stay away.  
+**DC 10 Intelligence**: warning to stay away.
 
-**B.** *Boar Pen.*   
-> The gate is lashed shut with rope. A boar looks at you with its beady eyes before returning its interest to rooting in a corner.  
+#### B Boar Pen.
+> The gate is lashed shut with rope. A boar looks at you with its beady eyes before returning its interest to rooting in a corner.
 
 The boar can't hurt anyone while trapped in the room. If the gate is opened, the boar tries to flee the cave, attacking anyone in its path.
 
-**C.** *Cell.*   
+#### C. Cell.
 > This small cell also has a crude wooden gate lashed shut with rope.
 
 Animal droppings (probably deer) little the floor.
 
- **D.** *Anchorite's Retreat.*  
+#### D. Anchorite's Retreat
 > Small niches are dug into the walls of this unfurnished room. They hold clay dishware, wooden utensils, bunches of herbs, gathered roots and berries, and creepy totems.
 
-[C2](#C3) [C3](#C3) [C4](#C4)  
+[C2](#C3) [C3](#C3) [C4](#C4)
 
-**E.** *Secret exit / trap door*  
+#### E. Secret exit / trap door
 >   This tunnel has a gentle slope leading to/from a secret trapdoor on the hilltop.
 
 The trapdoor is clearly visible from inside the tunnel.
 
 ### C2
-From the hillside: 
+
+From the hillside:
 >  Carved into the lintel stop abouve the cave mouth is a picture of a boar chasing after a stick-figure humanoid.
 
-**C.** *Cell.*   
+**C.** *Cell.*
 > A single deer is trapped in the chamber.
 
-**D.** *Anchorite's Retreat.*  -- [Flenz](/compendium/neverwinter-wood/Flenz.md)
-> A small sleeping mat is balled up in one corner of the room. The niche closest to it is shaped around a wide, narrow basket. 
+**D.** *Anchorite's Retreat.*  -- [Flenz](/compendium/archive/Flenz.md)
+> A small sleeping mat is balled up in one corner of the room. The niche closest to it is shaped around a wide, narrow basket.
 
 *If there is a torch*, Grizzlebear notices the floor has been disturbed. Otherwise, DC 10 Investigation check.
 
-**Treasure**: 
-* The *hole* in the floor contains a *Potion of Invulnerability*
-
+**Treasure**:  
+The *hole* in the floor contains a *Potion of Invulnerability*
 
 ### C3
+
 From the hillside:
 > The lintel stone above the mouth of this cave is bare.
 
-**D.** *Anchorite's Retreat.*  -- [Narux](/compendium/neverwinter-wood/Narux.md)
+**D.** *Anchorite's Retreat.*  -- [Narux](/compendium/archive/Narux.md)
 > There is rolled up sleeping mat lying against the west wall.
 
 *If there is a torch*, Grizzlebear notices the floor has been disturbed. Otherwise, DC 10 Investigation check.
 
-**Treasure**: 
-* The *hole* in the floor contains a *+1 Shield*
+**Treasure**:  
+The *hole* in the floor contains a *+1 Shield*
 
 ### C4
-From the hillside: 
+
+From the hillside:
 > Carved into the lintel stone above the mouth of this cave is a pictograph depicting three stick-figure humanoids being struck by lightning.
 
-**C.** *Cell.*   
+**C.** *Cell.*
 > A single deer is trapped in the chamber.
 
 **D.** *Anchorite's Retreat.*  -- [Yargath](/compendium/archive/Yargath.md)
-> A thin piece of slate rests against the wall, it is splattered with black spots, and there are dribbles of something stuck to the top right corner. There is a basket in the wall above it. There is a small sleeping mat balled up in a corner. The niche closest to the sleeping mat holds a narrow basket. 
+> A thin piece of slate rests against the wall, it is splattered with black spots, and there are dribbles of something stuck to the top right corner. There is a basket in the wall above it. There is a small sleeping mat balled up in a corner. The niche closest to the sleeping mat holds a narrow basket.
 
 The basket in the niche above the slate contains a bottle of ink, quills, a stubby candle, a bit of flint, and some rolled pieces of rough parchment.
 
-**Treasure**: 
-* The *basket* contains two books, and an unopened letter (rolled parchment, still sealed):  
-    * *Righteous Demonstrations of Divinity*. This book is torn/stained pretty badly. Some of the pages are missing. It is written in Common Speech. It smells horrible. This book is worth 5 gps and has 7 pages.
-    * *A Life on the Road Recalled.* This book has been leafed through, but is in otherwise good condition. It is written in Common Speech. If read: it is an excellent example of bad epic poetry. This book is worth 5 gps and has 488 pages.
+**Treasure**:  
+The *basket* contains two books, and an unopened letter (rolled parchment, still sealed):
+
+* *Righteous Demonstrations of Divinity*. This book is torn/stained pretty badly. Some of the pages are missing. It is written in Common Speech. It smells horrible. This book is worth 5 gps and has 7 pages.
+* *A Life on the Road Recalled.* This book has been leafed through, but is in otherwise good condition. It is written in Common Speech. If read: it is an excellent example of bad epic poetry. This book is worth 5 gps and has 488 pages.
 
 ---
 

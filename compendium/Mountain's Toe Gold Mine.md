@@ -3,6 +3,7 @@ type: location
 tags:
   - region/north-sword-coast/sword-mountains
   - place/settlement/mountains-toe-mine
+  - group/mercenaries/whiskered-gang
   - type/mine
 ---
 # Mountain's Toe Gold Mine
@@ -19,6 +20,7 @@ Don-Jon is still there, with a crew of dwarves that survived the Whiskered Gang,
 
 ## NPCs
 
+* [Whiskered Gang](archive/Whiskered%20Gang.md)
 ```dataview
 list from #place/settlement/mountains-toe-mine
 where type = "npc"

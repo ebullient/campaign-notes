@@ -33,7 +33,7 @@ The Lord Protector of Neverwinter, Dagult Neverember, recently hired a group of 
 * **[Cryovain](/compendium/statblocks/dragon.md)**  
     The young white dragon was driven south by powerful dragons. Found a partly destroyed mountaintop stronghold and made it her own.
     * Cryovain displaced [Many Arrows Orc Tribe](/compendium/groups/Many%20Arrows%20Orc%20Tribe.md) from Icespire Hold
-    * Displaced Orcs splintered: some settled in Shrine of Savras, displacing the [Whiskered Gang](/compendium/groups/Whiskered%20Gang.md), who in turn took over Mountain's Toe Gold Mine; others went to Woodland Manse; still others spread out across the foothills heading west.
+    * Displaced Orcs splintered: some settled in Shrine of Savras, displacing the [Whiskered Gang](/compendium/archive/Whiskered%20Gang.md), who in turn took over Mountain's Toe Gold Mine; others went to Woodland Manse; still others spread out across the foothills heading west.
 
 * **[Venomfang](/compendium/statblocks/dragon.md)**  
     The young green dragon spotted the abandoned Wizard's tower while looking for its own lair.
@@ -123,8 +123,8 @@ Displaced Many Arrows tribe allied with CoT
 - [ ] Anchorites of Talos
     - [x] [gorthok](/compendium/statblocks/gorthok.md)
     - [x] [Yargath](/compendium/archive/Yargath.md)
-    - [x] [Narux](/compendium/neverwinter-wood/Narux.md)
-    - [x] [Flenz](/compendium/neverwinter-wood/Flenz.md)
+    - [x] [Narux](/compendium/archive/Narux.md)
+    - [x] [Flenz](/compendium/archive/Flenz.md)
     - [ ] [Moesko](/compendium/Moesko.md) and the Tower of Storms
     - [x] [Grannoc](/compendium/archive/Grannoc.md)
     - [ ] Gulthias Tree & Blights

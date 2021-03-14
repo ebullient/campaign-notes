@@ -1,13 +1,12 @@
 ---
 type: faction
 tags:
-  - npc/alive
-  - iff/neutral
   - region/north-sword-coast/sword-mountains
   - place/ruin/icespire-hold
   - place/ruin/shrine-of-savras
-  - group/tribe/many-arrows
+  - group/tribe/many-arrows-orcs
 ---
+<span class="nav">[Locations](#Locations) [History](#History) [References](#References)</span>
 # Many Arrows
 <span class="subhead">Orc tribe</span>
 
@@ -15,7 +14,6 @@ Vicious orc tribe that raided the eastern end of the Triboar Trail.
 
 The tribe was rendered leaderless by Cryovain, its members scattered into different smaller roving bands.
 
-<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Locations
 
@@ -24,17 +22,10 @@ list from #group/tribe/many-arrows
 where type = "location"
 ```
 
-## NPCs
-
-```dataview
-list from #group/tribe/many-arrows 
-where type = "npc"
-```
-
 ## History
 
 ```dataview
-list from #group/tribe/many-arrows and "pc-logs"
+list from #log/monster/orc  and "pc-logs"
 ```
 
 They were lead by "Brughor Axe Biter", a savage brute more interested in murdering and looting than scouting. 
@@ -45,9 +36,9 @@ Brughor moved the tribe into the fortress, and enjoyed collecting his battle tro
 
 Members of the tribe fled the Sword Mountains. Without the unifying presence of Brughor, the fleeing orcs splintered into different groups. 
 
-The largest group headed due north, making for the forest. They found the Shrine of Savras, and settled there, displacing the [Whiskered Gang](Whiskered%20Gang.md), who could not defend themselves against the sheer number of orcs and allied ogres.
+The largest group headed due north, making for the forest. They found the Shrine of Savras, and settled there, displacing the [../archive/Whiskered Gang](../archive/Whiskered%20Gang.md), who could not defend themselves against the sheer number of orcs and allied ogres.
 
-A small band splintered from that group to attack Butterskull Ranch](../Butterskull%20Ranch.md).
+A small band splintered from that group to attack [Butterskull Ranch](../Butterskull%20Ranch.md).
 
 Another cluster of orcs followed a different course. Going into the woods west of Agatha's Lair. Their headlong northern rush lead them to the [Woodland Manse](../neverwinter-wood/Woodland%20Manse.md), where they allied with [Grannoc](../archive/Grannoc.md) and the Cult of Talos.
 

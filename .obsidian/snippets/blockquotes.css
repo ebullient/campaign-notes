@@ -38,3 +38,24 @@
 .workspace-leaf-content[data-type=markdown] .markdown-preview-view blockquote hr {
   margin: 10px 0;
 }
+
+/** Statblocks */
+.theme-dark .statblock blockquote h2 {
+  color: var(--orange);
+}
+
+.theme-dark .statblock .cm-s-obsidian .cm-strong .cm-quote,
+.theme-dark .statblock blockquote strong {
+  color: var(--red);
+  font-weight: 600;
+}
+
+.theme-dark .statblock .cm-s-obsidian .cm-em .cm-quote,
+.theme-dark .statblock blockquote em {
+  color: var(--yellow);
+}
+
+.theme-dark .statblock .cm-s-obsidian .cm-strong .cm-em .cm-quote,
+.theme-dark .statblock blockquote strong em {
+  color: var(--red);
+}

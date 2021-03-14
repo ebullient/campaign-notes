@@ -7,14 +7,12 @@ tags:
   - place/ruin/icespire-hold
   - group/mercenaries/stone-cold-reavers
 ---
-# Stone Cold Reavers
-<span class="subhead">Mercenaries, neutral evil  
-Sword Coast North</span>
-
-Neutral evil human veterans who speak Common.
-sellswords (brigands, thieves)
-
 <span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
+# Stone Cold Reavers
+<span class="subhead">Mercenaries, neutral evil, Sword Coast North</span>
+
+Neutral evil human veterans who speak Common.  
+Sellswords (brigands, thieves)
 
 ## Details
 <span class="subhead">Mercenary, [Veteran](../statblocks/veteran.md)</span>
@@ -77,7 +75,7 @@ where type = "npc"
 list from #group/mercenaries/stone-cold-reavers   and "pc-logs"
 ```
 
-The Reavers faced the party at [Icespire Hold](Icespire%20Hold.md):
+The Reavers faced the party at Icespire Hold.md](../Icespire Hold.md)]
 
 > You faced down a group of mercenaries, who'd staked out turf in the gatehouse of the fortress, and were waiting for Cryovain to leave so they could raid the dragon's horde. You took the leader down, and seriously injured another. With the leader unconscious and bleeding out, they were more willing to negotiate. You agreed they could have all the treasure, you just wanted to kill the dragon. With two of their party seriously wounded, they agreed, and withdrew into a room they were using as barracks to tend their wounded.
 

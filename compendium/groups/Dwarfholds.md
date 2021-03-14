@@ -3,6 +3,7 @@ type: faction
 tags:
 - group/dwarves
 ---
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 # Dwarfholds of the North
 
 Surviving Holds in the North:
@@ -26,14 +27,14 @@ Mixed population
 * Sundabar
 * Mirabar
 
-
-<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
+## Notes
 
 Rigid, ordered thinking. Methodical. Long-term.
 
-Shield Dwarves in the North. Have ambition, see new horizons. New Kingdoms arise from whim of one enterprising individual who decided to found a new clan. 
+*Shield Dwarves* in the North. Have ambition, see new horizons. New Kingdoms arise from whim of one enterprising individual who decided to found a new clan. 
 
-Dwarves organized in clans. Immediate family members most important. Not romantic. Ties that bind: respect for elders, spouse as collaborator/co-creator, children as treasured creations. 
+### Clans
+Dwarves organized in **clans**. Immediate family members most important. Not romantic. Ties that bind: respect for elders, spouse as collaborator/co-creator, children as treasured creations. 
 
 Occupations: sustainance (brewing, growing crops, preparing food); crafting (smelting, smithing, gem-cutting, sculpture... artisans); outward-facing (merchants, warriors, envoys). Apprenticeships, years for mastery. Mining part of learning path for smelting/smithing, e.g.
 

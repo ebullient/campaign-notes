@@ -3,8 +3,8 @@ type: faction
 tags:
 - group/faction/cult-of-myrkul
 ---
+<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 # Cult of Myrkul
-<span class="subhead">{{short description}}</span>  
 
 Members are fervent religious cultists who worship [Myrkul](#Myrkul), the god of death. The cult is led by the priest [Ularan Mortus](../Ularan%20Mortus.md)å
 
@@ -15,8 +15,6 @@ Members are fervent religious cultists who worship [Myrkul](#Myrkul), the god of
 * **Alignment** 
 * **Allegiances** 
 * **Enemies** 
-
-<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 
 ## Myrkul
 

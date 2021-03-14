@@ -14,16 +14,16 @@
   color: var(--gray-mid-dark);
 }
 .theme-dark .timeline-card.enemy a.internal-link {
-  color: var(--dark-6);
+  color: var(--red);
 }
 .theme-dark .timeline-card.npc a.internal-link {
-  color: var(--dark-3);
+  color: var(--blue);
 }
 .theme-dark .timeline-card.player a.internal-link {
-  color: var(--bright-4);
+  color: var(--bright-green);
 }
 .theme-dark .timeline-card.place a.internal-link {
-  color: var(--bright-2);
+  color: var(--gray-blue);
 }
 
 .theme-dark .timeline-card.enemy a.internal-link:hover,

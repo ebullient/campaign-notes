@@ -1,11 +1,11 @@
 @charset "UTF-8";
 /*
-* Tested with Obsidian v0.10.11 
+* Tested with Obsidian v0.10.11
 *
-* Author: Wiktoria Mielcarek (Braweria) 
-* Name: Spectrum 
-* Licence: MIT 
-* GitHub Repo: https://github.com/Braweria/Spectrum 
+* Author: Wiktoria Mielcarek (Braweria)
+* Name: Spectrum
+* Licence: MIT
+* GitHub Repo: https://github.com/Braweria/Spectrum
 * Version: 0.15.6
 
 ! CONTENT
@@ -197,7 +197,7 @@ body {
   max-width: 100%;
 }
 
-/* 
+/*
 *..........................3. Text Decorations */
 .cm-s-obsidian .cm-strong,
 strong {
@@ -364,11 +364,6 @@ blockquote h1 {
   margin: 10px 0 5px 0;
 }
 
-span.subhead {
-  display: block;
-  margin-top: -20px;
-}
-
 .CodeMirror-cursor,
 .CodeMirror div.CodeMirror-secondarycursor {
   border-color: var(--main-node);
@@ -387,7 +382,7 @@ span.subhead {
   font-weight: 400;
 }
 
-/* 
+/*
 *..........................4. Workspace */
 .workspace-ribbon.mod-left.is-collapsed,
 .workspace-ribbon.mod-right.is-collapsed {
