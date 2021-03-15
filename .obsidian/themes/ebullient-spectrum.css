@@ -1,12 +1,12 @@
 @charset "UTF-8";
 /*
-* Tested with Obsidian v0.10.11
+* Tested with Obsidian v0.10.11 
 *
-* Author: Wiktoria Mielcarek (Braweria)
-* Name: Spectrum
-* Licence: MIT
-* GitHub Repo: https://github.com/Braweria/Spectrum
-* Version: 0.15.6
+* Author: Wiktoria Mielcarek (Braweria) 
+* Name: Spectrum 
+* Licence: MIT 
+* GitHub Repo: https://github.com/Braweria/Spectrum 
+* Version: 0.15.7
 
 ! CONTENT
 *.............1. Variables
@@ -192,7 +192,7 @@ body {
   max-width: 100%;
 }
 
-/*
+/* 
 *..........................3. Text Decorations */
 .cm-s-obsidian .cm-strong,
 strong {
@@ -377,7 +377,7 @@ blockquote h1 {
   font-weight: 400;
 }
 
-/*
+/* 
 *..........................4. Workspace */
 .workspace-ribbon.mod-left.is-collapsed,
 .workspace-ribbon.mod-right.is-collapsed {
