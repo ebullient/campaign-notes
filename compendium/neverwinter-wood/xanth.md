@@ -30,7 +30,7 @@ Friends
 * [Reidoth](../reidoth-the-druid.md)
 * [Daran Edermath](../phandalin/daran-edermath.md)
 
-Knows and deals with [Falcon the Hunter](falcon-the-hunter.md) also, as someone that has an established presence in [Neverwinter Wood](neverwinter-wood.md). He doesn't like him very much, though. He thinks Falcon is overly concerned with human status, and that includes parading people around in the woods for entertainment.
+Knows and deals with Falcon, as someone that has an established presence in the Wood, but he doesn't "like" him very much. He thinks Falcon is overly concerned with human status, and that includes parading people around in the woods for entertainment.
 
 ## Secrets
 

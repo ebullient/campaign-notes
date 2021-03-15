@@ -7,7 +7,7 @@ tags:
 ---
 ![Mirna Dendrar](/[assets]/attachments/mirna-dendrar.png#portrait)
 # Mirna Dendrar
-<span class="subhead">[The Crafty Hand](the-crafty-hand.md), Phandalin</span>
+<span class="subhead">[The Crafty Hand](crafty-hand.md), Phandalin</span>
 
 > *Female human Shopkeeper, lawful good*  
 > * **Trait**

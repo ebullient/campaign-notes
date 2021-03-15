@@ -1,5 +1,5 @@
 ---
-type: faction
+type: group
 tags:
   - npc/dead
   - iff/enemy

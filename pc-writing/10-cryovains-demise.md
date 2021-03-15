@@ -1,5 +1,5 @@
 # Cryovain's Demise
-![cryovain](../[assets]/attachments/cryovain.jpeg#portrait)
+![cryovain](/[assets]/attachments/cryovain.jpeg#portrait)
 
 You left Phandalin, and hiked towards Icespire Peak for 25 miles. You passed one completely frozen Orc Ice Popsicle along the way.
 

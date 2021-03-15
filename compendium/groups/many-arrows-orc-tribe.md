@@ -1,9 +1,11 @@
 ---
-type: faction
+title: Many Arrows Orc Tribe
+type: group
 tags:
   - region/sword-coast-north/sword-mountains
   - place/ruin/icespire-hold
   - place/ruin/shrine-of-savras
+  - place/ruin/woodland-manse
   - group/tribe/many-arrows-orcs
 ---
 <span class="nav">[Locations](#Locations) [History](#History) [References](#References)</span>
@@ -36,9 +38,9 @@ Brughor moved the tribe into the fortress, and enjoyed collecting his battle tro
 
 Members of the tribe fled the Sword Mountains. Without the unifying presence of Brughor, the fleeing orcs splintered into different groups. 
 
-The largest group headed due north, making for the forest. They found the Shrine of Savras, and settled there, displacing the [../archive/Whiskered Gang](../archive/whiskered-gang.md), who could not defend themselves against the sheer number of orcs and allied ogres.
+The largest group headed due north, making for the forest. They found the Shrine of Savras, and settled there, displacing the [Whiskered Gang](../archive/whiskered-gang.md), who could not defend themselves against the sheer number of orcs and allied ogres.
 
-A small band splintered from that group to attack [Butterskull Ranch](../butterskull-ranch.md).
+A small band splintered from that group to attack Butterskull Ranch
 
 Another cluster of orcs followed a different course. Going into the woods west of Agatha's Lair. Their headlong northern rush lead them to the [Woodland Manse](../neverwinter-wood/woodland-manse.md), where they allied with [Grannoc](../archive/grannoc.md) and the Cult of Talos.
 

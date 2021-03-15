@@ -1,5 +1,6 @@
 ---
-type: faction
+title: Bregan D'aerthe
+type: group
 tags:
 - group/faction/bregan-daerthe
 ---

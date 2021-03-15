@@ -1,4 +1,5 @@
 ---
+title: Agatha's Lair
 type: location
 tags: 
 - type/landmark

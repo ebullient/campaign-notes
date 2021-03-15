@@ -20,7 +20,7 @@ Fiercely independent
 > * **Flaws**
 
 Potions of healing cost 50gp
-[Mirna Dendrar](/compendium/phandalin/mirna-dendrar.md) sells her potions and poultices in town at [The Crafty Hand](/compendium/phandalin/the-crafty-hand.md).
+[Mirna Dendrar](/compendium/phandalin/mirna-dendrar.md) sells her potions and poultices in town at [The Crafty Hand](phandalin/crafty-hand.md).
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

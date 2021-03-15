@@ -1,5 +1,6 @@
 ---
-type: faction
+title:
+type: group
 xtags:
 - {{factionTag}}
 ---

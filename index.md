@@ -18,10 +18,10 @@ where type = "npc"
 sort file.name asc
 ```
 
-## Factions
+## Groups
 
 ```dataview
 list from "compendium"
-where type = "faction"
+where type = "group"
 sort file.name asc
 ```

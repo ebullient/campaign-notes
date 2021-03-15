@@ -7,7 +7,7 @@ tags:
 ---
 ![Thel Dendrar](/[assets]/attachments/thel-dendrar.jpeg#portrait)
 # Thel Dendrar
-<span class="subhead">[The Crafty Hand](the-crafty-hand.md), Phandalin</span> 
+<span class="subhead">[The Crafty Hand](crafty-hand.md), Phandalin</span> 
 
 TL;DR description / personality / motivation
 

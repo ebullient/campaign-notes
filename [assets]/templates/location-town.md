@@ -1,4 +1,5 @@
 ---
+title:
 type: location
 xtags: 
 - type/town

@@ -10,8 +10,8 @@ tags:
 
 Nestled in the foothills of the Sword Mountains, morning mist would often lurk between the town’s buildings and swirl across the narrow, uneven roads until the sun crested a nearby ridge and chased it away.
 
-* **Population** #todo
-* **Government** 
+* **Population** 600
+* **Government** Semi-democratic. Elected Townmaster. But ultimately beholden to Lords' Alliance
 
 Phandalin is not well known outside of the region.
 

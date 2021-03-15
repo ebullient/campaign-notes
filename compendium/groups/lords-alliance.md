@@ -1,7 +1,9 @@
 ---
-type: faction
+title: The Lords' Alliance
+type: group
 tags:
 - group/faction/lords-alliance
+- region/sword-coast-north
 ---
 <span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 # The Lords' Alliance

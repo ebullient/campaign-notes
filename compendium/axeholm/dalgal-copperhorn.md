@@ -6,7 +6,7 @@ tags:
 - group/dwarves
 - place/settlement/axeholm
 ---
-# Dalgal Broodfist
+# Dalgal Copperhorn
 <span class="subhead">Castellan, Axeholm</span>
 
 Dalgal has an average build for a Dwarf, with startling light green eyes. He looks very healthy, but has a reputation for being pretty boring. Thankfully he has a few loyal friends that keep things interesting.
@@ -22,18 +22,18 @@ He tugs his beard while he is thinking, and is an expert dart thrower. He is gre
 
 Dalgal wants to rebuild a home for his clan and find scattered survivors.
 
-<span class="nav">[Details](dalgal-broodfist.md#Details) [Relationships](dalgal-broodfist.md#Relationships) [Secrets](dalgal-broodfist.md#Secrets) [History](dalgal-broodfist.md#History)</span>
+<span class="nav">[Details](dalgal-Copperhorn.md#Details) [Relationships](dalgal-Copperhorn.md#Relationships) [Secrets](dalgal-Copperhorn.md#Secrets) [History](dalgal-Copperhorn.md#History)</span>
 
 ## Details
 
-Broodfist Clan:
+Copperhorn Clan:
 
 * Scattered. Stronghold recently lost, many folk slain, survivors scattered
 * Clan was noted for expertise in smithing, which is why Dalgal and cohort went to Gauntlgrym to see legendary fortress.  
 
 ## Relationships
 
-Surviving leader of the Broodfist clan.
+Surviving leader of the Copperhorn clan.
 
 ## Secrets
 

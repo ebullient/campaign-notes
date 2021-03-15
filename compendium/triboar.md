@@ -3,7 +3,7 @@ type: location
 tags: 
 - type/town
 - place/town/triboar
-- region/northwest/savage-frontier
+- region/savage-frontier
 - group/faction/harpers
 ---
 # Triboar
@@ -20,6 +20,13 @@ As of 1491 DR, the lord protector is a Harper and retired adventurer, Darathra S
 
 * [Triboar](https://forgottenrealms.fandom.com/wiki/Triboar)
 * [Darathra Shendrel](https://forgottenrealms.fandom.com/wiki/Darathra_Shendrel)
+
+### Travel Distances from Silverymoon
+
+* To Yartar - 60 miles (via the Evermoor Way)
+* To Phandalin - 225 miles (via Triboar Trail)
+* To Silverymoon - 330 miles (via the Evermoor Way and Yartar)
+* To Waterdeep - 280 miles (via the Long Road)
 
 <span class="nav">[Places](#Places) [NPCs](#NPCs) [History](#History)</span>
 

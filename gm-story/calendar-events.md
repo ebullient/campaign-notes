@@ -52,7 +52,7 @@ It was a time when love advanced, and it was said the deities themselves took a 
 <span class='ob-timelines' data-date='1498-09-21-00' data-title='Autumn Equinox'></span>
 
 ### Highharvestide
-<span class='ob-timelines' data-date='1498-11-00-00' data-title='Highharvestide'></span>
+<span class='ob-timelines' data-date='1498-10-00-00' data-title='Highharvestide'></span>
 
 https://forgottenrealms.fandom.com/wiki/Highharvestide
 

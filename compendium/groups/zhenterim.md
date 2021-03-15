@@ -1,7 +1,8 @@
 ---
-type: faction
+type: group
 tags:
 - group/faction/zhenterim
+- region/sword-coast-north
 ---
 <span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 # Zhenterim

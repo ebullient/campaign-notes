@@ -1,7 +1,9 @@
 ---
-type: faction
+type: group
 tags:
 - group/merchant/lionshield-coster
+- region/sword-coast-north
+- region/savage-frontier
 ---
 <span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 # Lionshield Coster

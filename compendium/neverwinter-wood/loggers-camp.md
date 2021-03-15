@@ -1,4 +1,5 @@
 ---
+title: Logger's Camp
 type: location
 tags:
   - type/outpost

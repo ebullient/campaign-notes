@@ -8,7 +8,7 @@ tags:
 ![Grista](/[assets]/attachments/grista.jpeg#portrait)
 # Grista
 <span class="subhead">Female dwarf barkeep, {{alignment}}
-[The Sleeping Giant](the-sleeping-giant.md), Phandalin</span>
+[The Sleeping Giant](sleeping-giant.md), Phandalin</span>
 
 Surly.
 

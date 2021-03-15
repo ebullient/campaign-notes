@@ -1,7 +1,8 @@
 ---
-type: faction
+type: group
 tags:
 - group/faction/order-of-the-gauntlet
+- region/sword-coast-north
 ---
 <span class="nav">[Locations](#Locations) [NPCs](#NPCs) [History](#History) [References](#References)</span>
 # Order of the Gauntlet

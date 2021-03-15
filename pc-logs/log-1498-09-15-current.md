@@ -3,7 +3,9 @@ tags: [ timeline, doip, pc ]
 ---
 # 15 Eleint, 1498: Circle of Thunder
 
-<span class='ob-timelines' data-class='player' data-date='1498-09-15-00' data-title='TODAY: Circle of Thunder'>Weird dolls, dead tree. Xanth killed a stupidhead. Big Boar! Stone tipping.</span>
+TODAY<span class='ob-timelines' data-date='1498-09-15-00' data-title='TODAY'></span>
+
+<span class='ob-timelines' data-class='player' data-date='1498-09-15-00' data-title='Circle of Thunder'>Weird dolls, dead tree. Xanth killed a stupidhead. Big Boar! Stone tipping.</span>
 
 [Morning]
 
@@ -15,7 +17,7 @@ Orcs departed for Butterskull Ranch with a letter of recommendation.
 *7 miles in the woods from Falcon's Lodge to Circle of Thunder.*
 
 Team headed into the woods with an armored Xanth. Two hour walk to Circle of Thunder from Falcon's Lodge.  
-#log/monster/centaur
+#log/monster/orc
 
 Encountered a dead tree decorated with ghastly twig dolls.
 
@@ -24,14 +26,16 @@ Anchorite (Yargath) was carrying a potion and [an unsealed letter](Fheralai-to-Y
 
 [SHORT REST]  
 
-#log/monster/orc #log/monster/anchorite-of-talos
+#log/monster/orc 
+#log/monster/anchorite-of-talos
+#log/npc/xanth 
 
 ---
 
 [Midday]
 
 ## Circle of Thunder
-[10. Circle of Thunder](../pc-writing/11-circle-of-thunder.md)
+[10. Circle of Thunder](/pc-writing/11-circle-of-thunder.md)
 
 Discovered a hill topped with standing stones, and anchorites and minions dancing,  
 Killed the minions. Destroyed the anchorites. Raided their hideouts.  
@@ -43,6 +47,7 @@ Loot!
 #place/landmark/circle-of-thunder  
 #log/monster/thunderboar  
 #log/monster/anchorite-of-talos
+#log/npc/xanth 
 
 ---
 

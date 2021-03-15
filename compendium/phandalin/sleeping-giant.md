@@ -10,7 +10,7 @@ tags:
 
 * **Barkeep** [Grista](grista.md)
 
-<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+<span class="nav">[NPCs](sleeping-giant.md#NPCs) [History](sleeping-giant.md#History)</span>
 
 ## NPCs
 

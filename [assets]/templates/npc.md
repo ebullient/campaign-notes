@@ -1,4 +1,5 @@
 ---
+title: 
 type: npc
 xtags:
 - npc/alive

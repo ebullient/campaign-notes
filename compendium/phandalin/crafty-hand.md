@@ -1,4 +1,5 @@
 ---
+title: The Crafty Hand
 type: location
 tags:
   - type/shop/carpenter
@@ -16,7 +17,7 @@ Mirna also sells potions and medicines made by Adabra Gwynn (a long-distance cra
 * **Owner** [Thel Dendrar](thel-dendrar.md)
 * **Shopkeeper** [Mirna Dendrar](mirna-dendrar.md)
 
-<span class="nav">[Selling](#Selling) [NPCs](#NPCs) [History](#History)</span>
+<span class="nav">[Selling](crafty-hand.md#Selling) [NPCs](crafty-hand.md#NPCs) [History](crafty-hand.md#History)</span>
 
 ## Selling
 

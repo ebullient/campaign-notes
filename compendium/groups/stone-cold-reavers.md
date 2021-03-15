@@ -1,5 +1,5 @@
 ---
-type: faction
+type: group
 tags:
   - npc/alive
   - iff/neutral
@@ -75,8 +75,8 @@ where type = "npc"
 list from #group/mercenaries/stone-cold-reavers   and "pc-logs"
 ```
 
-The Reavers faced the party at Icespire hold.md](../Icespire hold.md)]
+The Reavers faced the party at [Icespire Hold](../Icespire hold.md)]
 
-> You faced down a group of mercenaries, who'd staked out turf in the gatehouse of the fortress, and were waiting for Cryovain to leave so they could raid the dragon's horde. You took the leader down, and seriously injured another. With the leader unconscious and bleeding out, they were more willing to negotiate. You agreed they could have all the treasure, you just wanted to kill the dragon. With two of their party seriously wounded, they agreed, and withdrew into a room they were using as barracks to tend their wounded.
+> You faced down a group of mercenaries, who'd staked out turf in the gatehouse of the fortress, and were waiting for Cryovain to leave so they could raid the dragon's horde. You took the leader down, and seriously injured another. With the leader unconscious and bleeding out, they were more willing to negotiate. You agreed they could have all the treasure, you just wanted to kill the dragon. With two of their party wounded, they agreed, and withdrew into a room they were using as barracks to tend their wounded.
 
-That was the last time they were seen
+That was the last time they were seen.

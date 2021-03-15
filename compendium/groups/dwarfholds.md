@@ -1,5 +1,5 @@
 ---
-type: faction
+]type: group
 tags:
 - group/dwarves
 ---
@@ -15,7 +15,7 @@ Surviving Holds in the North:
 Recovering / resurgent settlements
 
 * Gauntlgrym, recently taken back from drow
-* [Axeholm](../axeholm/axeholm.md), cleared by party. In process of being resettled by [Dalgal Broodfist](../axeholm/dalgal-broodfist.md)
+* [Axeholm](../axeholm/axeholm.md), cleared by party. In process of being resettled by [Dalgal Copperhorn](../axeholm/dalgal-Copperhorn.md)
 
 Embattled / Isolated
 

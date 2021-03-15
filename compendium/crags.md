@@ -9,7 +9,7 @@ tags:
 
 Rocky, windswept hills are dotted with old mines and invested with monsters.
 
-<span class="nav">[NPCs](#NPCs) [History](#History)</span>
+<span class="nav">[NPCs](crags.md#NPCs) [History](crags.md#History)</span>
 
 ## NPCs
 

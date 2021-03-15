@@ -38,8 +38,9 @@ Friends:
 
 ## Secrets
 
-**Options** for what she traded for the #loot/splendiferous-bauble:
-* a legendary Ring of Djinni Summoning. She uses it to summon a female djinni named Desri from the Elemental Plane of Air. Desri casts the druid spell "Wind Walk" on herself, her horse, and (by special favor) her cart. 
+She traded the #loot/splendiferous-bauble for a [legendary Ring of Djinni Summoning][1]. She uses it to summon a female djinni named **Desri** from the Elemental Plane of Air. Desri casts the druid spell "Wind Walk" on herself, her horse, and (by special favor) her cart. This allows her to travel much farther (and more safely), as she has to spend fewer nights between towns. In the short time she has had the ring, she has made a point of being both respectful and kind to Desri every time she is summoned.
+
+[1]: https://roll20.net/compendium/dnd5e/Ring%20of%20Djinni%20Summoning#content
 
 ## History
 
@@ -51,7 +52,7 @@ She has some kind of friendship or kinship with Harbin from an event that happen
 
 The party traded "The Splendiferous Bauble" to her for the Handy Haversack. She was able to trade it again herself, and was quite pleased to do so (though she would not tell the party what she obtained in return). She will identify items for the party free of charge as a result.
 
-![Mabina](../gm-story/npc-story-events.md#Mabina)
+![Mabina](/gm-story/npc-story-events.md#Mabina)
 
 ----
 

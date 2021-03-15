@@ -1,4 +1,5 @@
 ---
+title: Barthen's Provisions
 type: location
 tags:
   - type/shop/general-store

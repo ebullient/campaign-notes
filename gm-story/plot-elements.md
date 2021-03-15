@@ -49,7 +49,7 @@ Displaced Many Arrows tribe allied with CoT
 
 ### Other
 
-- [x] [Dazlyn Grayshard](/compendium/dazlyn-grayshard.md) and [Norbus Ironrune](/compendium/norbus-ironrune.md) claimed a gold mine nead the [Dwarven Excavation](/compendium/dwarven-excavation.md) site, as well as the site itself. They tried to claim [Axeholm](../compendium/axeholm/axeholm.md), as well, but Harbin pre-empted Halia and asked the [Lords Alliance](/compendium/groups/lords-alliance.md) to help resolve the issue.
+- [x] [Dazlyn Grayshard](/compendium/dazlyn-grayshard.md) and [Norbus Ironrune](/compendium/norbus-ironrune.md) claimed a gold mine nead the [Dwarven Excavation](/compendium/dwarven-excavation.md) site, as well as the site itself. They tried to claim [Axeholm](/compendium/axeholm/axeholm.md), as well, but Harbin pre-empted Halia and asked the [Lords Alliance](/compendium/groups/lords-alliance.md) to help resolve the issue.
 
 ## Rough timeline
 

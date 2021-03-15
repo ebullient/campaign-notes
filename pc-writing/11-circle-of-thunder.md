@@ -1,5 +1,5 @@
 # Circle of Thunder
-![gorthok](../[assets]/attachments/gorthok.png#portrait)
+![gorthok](/[assets]/attachments/gorthok.png#portrait)
 
 You emerged from the wood at the base of a tall hill topped with a large ring of standing stones. You could tell something was moving up there, but not what. Acronix did some scouting, and relayed a message of two large human-like things dancing in the middle, surrounded by a LOT of twig looking things dancing.  .. Brocc moved far enough to fire an arrow between the stones at one of the larger figures, and then Riardon lit up the whole circle with a fireball spell.. and torched all of the twig blights in one go. He left a mark on the larger creatures, too. Grizzlebear flew up, and used his breath weapon against both of them. The first, a female, roared at him but seemed to resist the worst of the poison. The other, a male, was laid low by the wyrmling's acid breath. The female, in a rage, hit Grizzlebear squarely with a bolt of lightning. She took another arrow (I think from Immeral), before managing to disappear into a tunnel covered by a trap door.
 

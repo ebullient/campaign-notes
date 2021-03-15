@@ -1,4 +1,5 @@
 ---
+title: Aubrey’s Peculiarities Shoppe
 type: location
 tags:
   - type/shop

@@ -65,6 +65,14 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 * 1498-08-30: Mabina in Yartar<span class='ob-timelines' data-class='npc' data-date='1498-08-30-00' data-title="Mabina in Yartar"></span>
 * 1498-09-01: Mabina in Triboar<span class='ob-timelines' data-class='npc' data-date='1498-09-01-00' data-title="Mabina in Triboar"></span>
 * 1498-09-02: Mabina arrives in Phandalin<span class='ob-timelines' data-class='npc' data-date='1498-09-02-00' data-title="Mabina arrives in Phandalin"></span>
+* 1498-09-04: Mabina travels to Triboar<span class='ob-timelines' data-class='npc' data-date='1498-09-04-00' data-title="Mabina travels to Triboar"></span>
+* 1498-09-05: Mabina travels to Waterdeep<span class='ob-timelines' data-class='npc' data-date='1498-09-05-00' data-title="Mabina travels to Waterdeep"></span>
+* 1498-09-08: Mabina travels to Thornhold<span class='ob-timelines' data-class='npc' data-date='1498-09-08-00' data-title="Mabina travels to Thornhold"></span>
+* 1498-09-09: Mabina travels to Neverwinter<span class='ob-timelines' data-class='npc' data-date='1498-09-09-00' data-title="Mabina travels to Neverwinter"></span>
+* 1498-09-11: Mabina travels to Luskan<span class='ob-timelines' data-class='npc' data-date='1498-09-11-00' data-title="Mabina travels to Luskan"></span>
+* 1498-09-12: Mabina travels to Mirabar<span class='ob-timelines' data-class='npc' data-date='1498-09-12-00' data-title="Mabina travels to Mirabar"></span>
+* 1498-09-14: Mabina travels to Triboar<span class='ob-timelines' data-class='npc' data-date='1498-09-14-00' data-title="Mabina travels to Triboar"></span>
+* 1498-09-16: Mabina travels to Phandalin<span class='ob-timelines' data-class='npc' data-date='1498-09-16-00' data-title="Mabina travels to Phandalin"></span>
 
 ### Manticores
 
@@ -101,17 +109,17 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 
 * 1498-05-07: Dazzlyn and Norbus[^73] claim dwarven excavation[^53] site<span class='ob-timelines' data-class='npc' data-date='1498-05-07-00' data-title="Dazlyn and Norbus claim dwarven excavation site"></span>
 * 1498-08-25: Dwarves leave Gauntlgrym[^78]<span class='ob-timelines' data-class='npc' data-date='1498-08-25-00' data-title="Dwarves leave Gauntlgrym"></span>
-* 1498-08-27: Gauntlgrym dwarves gather additional supplies in Neverwinter. <span class='ob-timelines' data-class='npc' data-date='1498-08-27-00' data-title="Gauntlgrym dwarves gather additional supplies in Neverwinter"></span>
+* 1498-08-27: Copperhorn dwarves gather additional supplies in Neverwinter. <span class='ob-timelines' data-class='npc' data-date='1498-08-27-00' data-title="Copperhorn dwarves gather additional supplies in Neverwinter"></span>
 * 1498-08-28: Dazzlyn and Norbus try to claim Axeholm<span class='ob-timelines' data-class='npc' data-date='1498-08-28-00' data-title="Dazzlyn and Norbus try to claim Axeholm">Enterprising business partners didn't know that dwarven claim already established via Lords' Alliance.</span>
-* 1498-08-30: Gauntlgrym dwarves reaches Phandalin<span class='ob-timelines' data-class='npc' data-date='1498-08-30-00' data-title="Gauntlgrym dwarves arrive in Phandalin"></span>
-* 1498-09-03: John[^79] leads Gauntlgrym dwarves to Axeholm<span class='ob-timelines' data-class='npc' data-date='1498-09-03-00' data-title="John leads Gauntlgrym dwarves to Axeholm"></span>
+* 1498-08-30: Copperhorn dwarves reaches Phandalin<span class='ob-timelines' data-class='npc' data-date='1498-08-30-00' data-title="Copperhorn dwarves arrive in Phandalin"></span>
+* 1498-09-03: John[^79] leads Copperhorn dwarves to Axeholm<span class='ob-timelines' data-class='npc' data-date='1498-09-03-00' data-title="John leads Copperhorn dwarves to Axeholm"></span>
 
 ### Others
 
 * 1498-06-25: Whiskered Gang[^71] takes over Mountain's Toe[^72]<span class='ob-timelines' data-class='enemy' data-date='1498-06-25-00' data-title="Whiskered Gang takes over Mountain's Toe"></span>
 * 1498-08-18: Don-Jon Raskin[^74] leaves for Phandalin<span class='ob-timelines' data-class='npc' data-date='1498-08-18-00' data-title="Don-Jon Raskin leaves Neverwinter for Phandalin"></span>
 * 1498-08-23: Harbin[^75] writes[^76] to Lords' Alliance about Axeholm[^77], includes note from Don-Jon to mining company<span class='ob-timelines' data-class='npc' data-date='1498-08-23-00' data-title="Harbin writes to Lords' Alliance">Continued/increasing dragon sightings. Curious about old dwarven settlement of Axeholm. Will send party of adventurers to investigate as safehaven for town. Includes note from Don-Jon to mining company.</span>
-* 1498-08-25: Harbin receives response from Lords' Alliance. Dwarves en route from Gauntlgrym[^78]<span class='ob-timelines' data-class='npc' data-date='1498-08-25-00' data-title="Harbin receives response from Lords' Alliance">Notifies Halia of claim to Axeholm by Gauntlgrym dwarves</span>
+* 1498-08-25: Harbin receives response from Lords' Alliance. Dwarves en route from Gauntlgrym[^78]<span class='ob-timelines' data-class='npc' data-date='1498-08-25-00' data-title="Harbin receives response from Lords' Alliance">Notifies Halia of claim to Axeholm by Copperhorn dwarves</span>
 * 1498-08-28: Miners arrive with supplies for Mountain's Toe<span class='ob-timelines' data-class='npc' data-date='1498-08-28-00' data-title="Miners arrive with supplies for Mountain's Toe"></span>
 * 1498-08-29: Don-Jon Raskin and miners return to Mountain's Toe<span class='ob-timelines' data-class='npc' data-date='1498-08-29-00' data-title="Don-Jon Raskin and miners return to Mountain's Toe"></span>
 
@@ -133,8 +141,8 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 [^21]: Partly ruined fortress [Icespire Hold](/compendium/icespire-hold.md)
 [^22]: Dosolated town [Thundertree](/compendium/thundertree.md)
 [^30]: Roving Harper and Trader, [Mabina Cawood](/compendium/mabina-cawood.md)
-[^31]: Town: [Triboar](../compendium/triboar.md)
-[^32]: Fortified city: [Yartar](../compendium/yartar.md)
+[^31]: Town: [Triboar](/compendium/triboar.md)
+[^32]: Fortified city: [Yartar](/compendium/yartar.md)
 [^33]: A city rich with history and magic, [Silverymoon](/compendium/silverymoon.md)
 [^40]: Mated pair, live in the mountains, [manticore](/compendium/statblocks/manticore.md)
 [^41]: An isolated settlement, [Umbrage Hill](/compendium/umbrage-hill.md)
@@ -153,7 +161,7 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 [^75]: Townmaster [Harbin Wester](/compendium/phandalin/harbin-wester.md)
 [^76]: Sending [Messages](distances.md#Messages)
 [^77]: New settlement at [Axeholm](/compendium/axeholm/axeholm.md)
-[^78]: Reclaimed Dwarven stronghold: [[Gauntlgrym]]
+[^78]: Reclaimed Dwarven stronghold: [Gauntlgrym](/compendium/gauntlgrym.md)
 [^79]: Familiar NPC: [[John Wick]]
 
 
