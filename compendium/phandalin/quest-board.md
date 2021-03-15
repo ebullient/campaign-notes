@@ -8,4 +8,3 @@ tags:
 <span class="subhead">Quest board outside [Townmaster's Hall](townmasters-hall.md), Phandalin</span>
 
 Currently posted: 
-- [ ] Test quest on quest board

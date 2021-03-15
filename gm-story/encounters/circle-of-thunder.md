@@ -4,13 +4,6 @@ tags:
 ---
 # Altered Circle of Thunder
 
-### Prep
-- [x] Update Roll20 for Xanth: +2 armor
-- [x] Something distinctive about each anchorite
-- [x] Evidence / foreshadowing:
-    - [x] Letter from [Fheralai](/compendium/fheralai-stormsworn.md)
-    - [x] Letter from Fheralai to Grannoc
-
 ## Essentials
 * Allies: Party + [Xanth](/compendium/neverwinter-wood/xanth.md)
 * Enemies:
