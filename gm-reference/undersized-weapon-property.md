@@ -1,3 +1,7 @@
+---
+tags:
+- gm/reference
+---
 # Undersized Weapon Property
 (5e Variant Rule)
 

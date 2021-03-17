@@ -1,3 +1,7 @@
+---
+tags:
+- gm/reference
+---
 # GM Tips
 
 * Prep-lite: https://gnomestew.com/prep-lite-manifesto-the-template/

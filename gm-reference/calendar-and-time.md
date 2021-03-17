@@ -1,7 +1,8 @@
+---
+tags:
+- gm/reference
+---
 # Calendar and Time
-&nbsp;
-
-## Time
 
 The Faerunian day is 24 hours long, broken up by the rising and setting sun. 
 
@@ -12,5 +13,6 @@ Large cities use temple bells to mark the hours
 
 
 ## Calendar
+
 ![calendar-of-harptos](/[assets]/attachments/calendar-of-harptos.jpg)
 
