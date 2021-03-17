@@ -13,8 +13,6 @@ Story thoughts:
 - [ ] Does Mabina passes them on the road at some point.. (but they can't _really_ see her)?
 
 
-
-
 ## tags 
 
 ```dataview
