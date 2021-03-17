@@ -1,3 +1,7 @@
+---
+tags:
+- gm
+---
 # TO-DO
 
 Raw physical prep: 

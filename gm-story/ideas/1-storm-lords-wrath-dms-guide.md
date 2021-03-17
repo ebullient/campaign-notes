@@ -1,3 +1,7 @@
+---
+tags:
+- gm/story/ideas
+---
 # Storm Lord's Wrath DM Guide - DoIP Expansion 1
 
 \*This post has been adapted from a video linked below if you prefer to watch/listen :) [https://www.youtube.com/watch?v=ol4StRluynY&feature=share](https://www.youtube.com/watch?v=ol4StRluynY&feature=share)

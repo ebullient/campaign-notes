@@ -1,3 +1,7 @@
+---
+tags:
+- gm/story
+---
 # Story elements
 
 <span class="nav">[Places](#Places) [Principal actors](#Principal\ actors)  [Secondary actors](#Secondary\ actors) [Rough timeline](#Rough\ timeline) [NPCs](#NPCs)</span>

@@ -1,4 +1,8 @@
-Plot Summary - Sleeping Dragon's Wake
+---
+tags:
+- gm/story/ideas
+---
+# Plot Summary - Sleeping Dragon's Wake
 
 EVERYTHING in this post is a SPOILER! If you are not DMing this adventure, then don't ruin your fun by reading any further!
 

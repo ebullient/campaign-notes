@@ -1,4 +1,8 @@
-Plot Summary - Storm Lord's Wrath
+---
+tags:
+- gm/story/ideas
+---
+# Plot Summary - Storm Lord's Wrath
 
 EVERYTHING in this post is a SPOILER! If you are not DMing this adventure, then don't ruin your fun by reading any further!
 

@@ -1,3 +1,7 @@
+---
+tags:
+- gm/story/ideas
+---
 # Running Dragon Of Icespire Peak AND Lost Mine Of Phandelver
 
 Snipped from https://www.reddit.com/r/mattcolville/comments/gej6k2/running_dragon_of_icespire_peak_and_lost_mine_of/

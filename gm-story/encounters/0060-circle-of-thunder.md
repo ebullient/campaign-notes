@@ -1,6 +1,6 @@
 ---
 tags:
-- encounter
+- gm/encounter
 ---
 # Altered Circle of Thunder
 

@@ -1,4 +1,8 @@
-Thoughts on Storm Lord's Wrath
+---
+tags:
+- gm/story/ideas
+---
+# Thoughts on Storm Lord's Wrath
 
 My party just finished Storm Lord's Wrath, and enjoyed it thoroughly.   In case it helps, here are some notes I had (DMs ONLY!)
 

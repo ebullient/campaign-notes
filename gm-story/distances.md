@@ -1,3 +1,7 @@
+---
+tags:
+- gm/story/reference
+---
 # Distance
 
 Walk 24 hours in a day

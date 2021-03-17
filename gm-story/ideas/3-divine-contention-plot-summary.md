@@ -1,4 +1,8 @@
-Plot Summary - Divine Contention
+---
+tags:
+- gm/story/ideas
+---
+# Plot Summary - Divine Contention
 
 EVERYTHING in this post is a SPOILER! If you are not DMing this adventure, then don't ruin your fun by reading any further!
 

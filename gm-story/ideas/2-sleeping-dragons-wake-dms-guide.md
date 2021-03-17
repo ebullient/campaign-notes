@@ -1,4 +1,8 @@
-[DM Guide] Dragon of Icespire Peak - Sleeping Dragons Wake
+---
+tags:
+- gm/story/ideas
+---
+# [DM Guide] Dragon of Icespire Peak - Sleeping Dragons Wake
 
 *This is post was adapted from the latest video in my DoIP DM guide series-- video and full playlist linked in the comments if you prefer to watch/listen :)*
 

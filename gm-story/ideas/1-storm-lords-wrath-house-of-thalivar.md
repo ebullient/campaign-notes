@@ -1,4 +1,8 @@
-Notes on the House of Thalivar quest in Storm Lord's Wrath
+---
+tags:
+- gm/story/ideas
+---
+# Notes on the House of Thalivar quest in Storm Lord's Wrath
 
 I just ran this quest last night, and so here are some notes and ideas for anyone who's planning to run it:
 

@@ -1,3 +1,7 @@
+---
+tags:
+- gm/encounter
+---
 # Altered Redbrand Hideout
 
  Three Redbrands in (1) and (2) ended up being [Daniel](/compendium/phandalin/daniel.md), [George](/compendium/phandalin/george.md), and [Seamus](/compendium/phandalin/seamus.md)

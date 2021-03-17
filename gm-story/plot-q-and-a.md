@@ -1,3 +1,7 @@
+---
+tags:
+- gm/story
+---
 # Questions And Answers
 
 - [x] Who exactly is Mabina? 
