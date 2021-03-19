@@ -13,17 +13,26 @@ tags:
 
 Reidoth has a cottage in the ruins of a town called Thundertree just west of the Neverwinter Wood, about 50 miles northwest of Phandalin.
 
+He is wiry, lean, old, and ... terse, but not unkind.
+
 > *Male human Druid, Hermit, Faction Agent, neutral good*  
-> * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Trait** I'm confident in my own abilities and do what I can to instill confidence in others.
+> * **Ideals** The natural world is more important than all the constructs of civilization. 
+> * **Bonds** Someone I loved died because of a mistake I made. That will never happen again.
+> * **Flaws** I am easily distracted by the promise of information.
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
 
-At least level 5 druid: Speak with Animals, Greater Restoration
+Reidoth is an 11th-level Circle of Land Druid. His spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). He has the following druid spells prepared:  
+• Cantrips (at will): druidcraft, poison spray, produce flame, shillelagh 
+• 1st level (4 slots): cure wounds, detect magic, healing word, purify food and drink, thunderwave 
+• 2nd level (3 slots): barkskin, darkvision, entangle, moonbeam, pass without trace, spider climb
+• 3rd level (3 slots): call lightning, dispel magic, plant growth, speak with plants
+• 4th level (3 slots): divination, freedom of movement, polymorph, stoneskin
+• 5th level (2 slots): commune with nature, greater restoration, mass cure wounds, tree stride
+• 6th level (1 slot): find the path
 
 If he is threatened while in Thundertree, Reidoth will transform into a gray squirrel and scurry out of the cottage through a crack in the wall. He will vanish into the woods and wait for the hostile creatures to leave. His watch post contains nothing of value.
 
@@ -35,9 +44,10 @@ Member of the [Emerald Enclave](groups/emerald-enclave.md)
   * [Quelline Alderleaf](phandalin/quelline-alderleaf.md)
   * [Xanth](neverwinter-wood/xanth.md)
 
-The druid may privately approach certain members of the group to urge them to join the Emerald Enclave. He speaks with those who exemplify the ideal of protecting the natural order. If a character agrees, Reidoth gives the individual the title of Springwarden.
 
 ## Secrets
+
+The druid may privately approach certain members of the group to urge them to join the Emerald Enclave. He speaks with those who exemplify the ideal of protecting the natural order. If a character agrees, Reidoth gives the individual the title of Springwarden.
 
 ## History
 
