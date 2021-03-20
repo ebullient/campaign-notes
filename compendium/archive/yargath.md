@@ -33,4 +33,4 @@ Took direction from / sent reports to High Priestess [Fheralai Stormsworn](/comp
 
 ## History
 
-Killed by Xanth the centaur -- [log-1498-09-15-current](/pc-logs/log-1498-09-15-current.md)
+Killed by Xanth the centaur -- [log-1498-09-15-current](../../pc-logs/log-1498-09-15.md)
