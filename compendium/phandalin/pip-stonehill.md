@@ -1,4 +1,5 @@
 ---
+aliases: ["Pip Stonehill"]
 type: npc
 tags:
   - npc/alive

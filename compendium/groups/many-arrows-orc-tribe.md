@@ -1,5 +1,5 @@
 ---
-title: Many Arrows Orc Tribe
+aliases: ["Many Arrows Orc Tribe"]
 type: group
 tags:
   - region/sword-coast-north/sword-mountains

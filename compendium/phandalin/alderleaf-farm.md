@@ -1,4 +1,5 @@
 ---
+aliases: ["Alderleaf Farm"]
 type: location
 tags:
   - place/town/phandalin/alderleaf-farm

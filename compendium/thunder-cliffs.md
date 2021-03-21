@@ -1,4 +1,5 @@
 ---
+aliases: ["Thunder Cliffs"]
 type: location
 tags:
   - type/landmark

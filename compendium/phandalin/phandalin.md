@@ -1,4 +1,5 @@
 ---
+aliases: ["Phandalin"]
 type: location
 tags:
   - type/town

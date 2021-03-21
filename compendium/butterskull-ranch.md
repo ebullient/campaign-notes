@@ -1,4 +1,5 @@
 ---
+aliases: ["Butterskull Ranch"]
 type: location
 tags:
   - type/farm

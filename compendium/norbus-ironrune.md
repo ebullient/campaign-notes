@@ -1,4 +1,5 @@
 ---
+aliases: ["Norbus Ironrune"]
 type: npc
 tags:
   - npc/alive

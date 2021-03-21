@@ -1,4 +1,5 @@
 ---
+aliases: ["Cult of Myrkul"]
 type: group
 tags:
 - group/faction/cult-of-myrkul

@@ -1,4 +1,5 @@
 ---
+aliases: ["Kryptgarden Forest"]
 type: location
 tags: 
 - type/region/forest

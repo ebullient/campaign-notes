@@ -1,4 +1,5 @@
 ---
+aliases: ["Carp Alderleaf"]
 type: npc
 tags:
   - npc/alive

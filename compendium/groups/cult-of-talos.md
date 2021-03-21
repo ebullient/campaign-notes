@@ -1,4 +1,5 @@
 ---
+aliases: ["The Cult of Talos"]
 type: group
 tags:
 - group/faction/cult-of-talos

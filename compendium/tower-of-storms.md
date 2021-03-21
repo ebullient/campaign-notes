@@ -1,4 +1,5 @@
 ---
+aliases: ["Tower of Storms"]
 type: location
 tags:
   - type/shrine

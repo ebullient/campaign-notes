@@ -1,4 +1,5 @@
 ---
+aliases: ["Harbin Wester"]
 type: npc
 tags:
   - npc/alive

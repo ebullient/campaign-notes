@@ -1,4 +1,5 @@
 ---
+aliases: ["Hot Dog (nothic)"]
 type: npc
 tags:
   - npc/alive

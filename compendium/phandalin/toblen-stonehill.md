@@ -1,4 +1,5 @@
 ---
+aliases: ["Toblen Stonehill"]
 type: npc
 tags:
   - npc/alive

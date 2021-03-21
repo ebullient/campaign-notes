@@ -104,6 +104,7 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 
 * 1498-08-21: Xanth[^60] goes for help<span class='ob-timelines' data-class='npc' data-date='1498-08-21-00' data-title='Xanth leaves forest'></span> -- Thinks of Reidoth first, but senses the dragon's presence and goes to find Daran Edermath instead.
 * 1498-08-24: Xanth arrives at Edermath Orchard[^61]<span class='ob-timelines' data-class='npc' data-date='1498-08-24-00' data-title='Xanth arrives at Edermath Orchard'></span>
+* 1498-09-13: Xanth joins party<span class='ob-timelines' data-class='npc' data-date='1498-09-13-00' data-title='Xanth joins party'></span>
 
 ### Dwarves
 

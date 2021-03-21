@@ -1,4 +1,5 @@
 ---
+aliases: ["High Road"]
 type: location
 tags: 
 - type/trade-road

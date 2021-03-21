@@ -1,5 +1,5 @@
 ---
-title: The Crafty Hand
+aliases: ["The Crafty Hand"]
 type: location
 tags:
   - type/shop/carpenter

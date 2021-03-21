@@ -1,4 +1,5 @@
 ---
+aliases: ["Axeholm"]
 type: location
 tags:
 - group/dwarves

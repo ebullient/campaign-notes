@@ -1,4 +1,5 @@
 ---
+aliases: ["Sister Garaele"]
 type: npc
 tags:
   - npc/alive

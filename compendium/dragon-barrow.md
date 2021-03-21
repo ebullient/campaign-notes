@@ -1,4 +1,5 @@
 ---
+aliases: ["Dragon Barrow"]
 type: location
 tags:
   - type/landmark

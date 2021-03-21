@@ -1,4 +1,5 @@
 ---
+aliases: ["The Crags"]
 type: location
 tags: 
 - type/region/mountains

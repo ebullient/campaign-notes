@@ -1,4 +1,5 @@
 ---
+aliases: ["House of Thalivar"]
 type: location
 tags:
   - type/manor/ruin

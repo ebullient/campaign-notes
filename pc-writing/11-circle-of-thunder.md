@@ -20,3 +20,21 @@ You continued to explore the hilltop, finding two other trap doors leading to tw
 In the other cave, Kyle and Grizzlebear, working together, unearthed a shield that was concealed in the dirt floor of the room.
 
 Once all of the caves were explored and captive animals released, you all regathered at the hilltop, observing the dissipating clouds. You decided to topple the standing stones, to prevent it from being used to summon Gorthok again. With all of your combined strength, applied to one of the stones at just the right angle, the entire circle was damaged, as one stone tipped, and the lintel stones careened inward to hit the next stone. It was.. amazing. Satisfying. With maybe a little worry about getting squished near the end.
+
+---
+
+Reidoth soared in as a Giant Eagle to join you at Circle of Thunder just a little while later. He healed everyone that needed it and caused plants and vines to grow over the no-longer-standing stones. He collapsed the entrances to the anchorites' caves, and filled those with growing plants, too. 
+
+There was a big exchange of news, and you all (including Xanth and Reidoth) decided to go back to Falcon's Lodge to regroup before making another attempt at cleansing the Woodland Manse of the Gulthias Tree. You rang the bell, and Falcon let you all in.
+
+You shared everything that had happened with Falcon, too, as both the Circle of Thunder and the Woodland Manse are practically on his doorstep. On consideration, Falcon offered the party `Boots of Elvenkind` for your help (the attack on the lodge, clearing of the Manse, dealing w/ the ankhegs at the Logger's Camp that he just learned of, and killing Gorthok and destroying the Circle of Thunder).
+
+You slept at Falcon's Lodge: Kyle in the Main house, and the rest in bunks in the guest house. Xanth stays out in the woods (by preference).
+
+Riardon *identifies* the following before bed: 
+
+* Potion from Yargath --> Potion of Greater Healing
+* Potion from Circle of Thunder --> Potion of Invulnerability
+* Shield from Circle of Thunder --> +1 Shield
+* Rod from Woodland Manse --> Immovable Rod
+* Cloak from Woodland Manse --> Cloak of Billowing

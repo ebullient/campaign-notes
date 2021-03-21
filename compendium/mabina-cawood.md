@@ -1,4 +1,5 @@
 ---
+aliases: ["Mabina Cawood"]
 type: npc
 tags:
 - npc/alive

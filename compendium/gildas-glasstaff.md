@@ -1,11 +1,11 @@
 ---
+aliases: ["Glasstaff"]
 type: npc
-alias: [glasstaff]
 tags:
 - npc/alive
 - iff/unknown
 ---
-# Gildas "Glasstaff"
+# Gildas "Glasstaff" ...
 <span class="subhead">{{location}}</span>
 
 TL;DR description / personality / motivation

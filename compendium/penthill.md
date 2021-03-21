@@ -1,4 +1,5 @@
 ---
+aliases: ["Penthill"]
 type: location
 tags:
   - type/town

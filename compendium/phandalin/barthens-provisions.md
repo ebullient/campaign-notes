@@ -1,5 +1,5 @@
 ---
-title: Barthen's Provisions
+aliases: ["Barthen's Provisions"]
 type: location
 tags:
   - type/shop/general-store

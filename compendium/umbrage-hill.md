@@ -1,6 +1,6 @@
 ---
+aliases: ["Umbrage Hill"]
 type: location
-alias: [ 'umbrage-hill' ]
 tags:
   - type/outpost
   - region/sword-coast-north

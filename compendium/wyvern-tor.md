@@ -1,4 +1,5 @@
 ---
+aliases: ["Wyvern Tor"]
 type: location
 tags:
   - type/landmark

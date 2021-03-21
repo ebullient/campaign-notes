@@ -1,4 +1,5 @@
 ---
+aliases: ["Yartar"]
 type: location
 tags: 
 - type/city

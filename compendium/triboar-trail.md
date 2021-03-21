@@ -1,4 +1,5 @@
 ---
+aliases: ["Triboar Trail"]
 type: location
 tags: 
 - type/trade-road

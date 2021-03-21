@@ -1,4 +1,5 @@
 ---
+aliases: ["Thel Dendrar"]
 type: npc
 tags:
   - npc/alive

@@ -1,8 +1,9 @@
 ---
-title: Agatha's Lair
+aliases: ["Agatha's Lair"]
 type: location
 tags: 
 - type/landmark
+- place/landmark/agathas-lair
 - region/sword-coast-north/neverwinter-wood
 ---
 # Agatha's Lair
@@ -12,20 +13,18 @@ There is an area in the forest that grows darker. Heavy vines and thick layers o
 
 The skin on the back of your neck tingles, like you're being watched. This place is not pleasant.
 
-* **Owner**
-* **Location**
 
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
 
 ```dataview
-list from #shop-tag
+list from #place/landmark/agathas-lair
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #shop-tag   and "pc-logs"
+list from #place/landmark/agathas-lair and "pc-logs"
 ```

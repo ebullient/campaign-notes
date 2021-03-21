@@ -1,4 +1,5 @@
 ---
+aliases: ["Daniel"]
 type: npc
 tags:
   - npc/alive

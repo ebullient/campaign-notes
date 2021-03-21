@@ -1,4 +1,5 @@
 ---
+aliases: ["Savage Frontier"]
 type: location
 tags: 
 - type/region

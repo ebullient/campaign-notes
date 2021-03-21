@@ -1,4 +1,5 @@
 ---
+aliases: ["Maccus Strongarm"]
 type: npc
 tags:
   - npc/alive

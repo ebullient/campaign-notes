@@ -1,4 +1,5 @@
 ---
+aliases: ["Xanth"]
 type: npc
 tags:
 - npc/alive

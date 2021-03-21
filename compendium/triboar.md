@@ -1,4 +1,5 @@
 ---
+aliases: ["Triboar"]
 type: location
 tags: 
 - type/town

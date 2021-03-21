@@ -1,4 +1,5 @@
 ---
+aliases: ["The Harpers"]
 type: group
 tags:
 - group/faction/harpers

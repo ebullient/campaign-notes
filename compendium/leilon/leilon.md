@@ -1,4 +1,5 @@
 ---
+aliases: ["Leilon"]
 type: location
 tags:
   - type/town

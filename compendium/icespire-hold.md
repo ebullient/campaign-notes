@@ -1,4 +1,5 @@
 ---
+aliases: ["Icespire Hold"]
 type: location
 tags:
   - type/fortress

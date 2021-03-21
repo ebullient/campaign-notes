@@ -1,4 +1,5 @@
 ---
+aliases: ["Tresendar Manor"]
 type: location
 tags:
   - place/town/phandalin/tresendar-manor

@@ -1,4 +1,5 @@
 ---
+aliases: ["Luskan"]
 type: location
 tags:
   - type/city

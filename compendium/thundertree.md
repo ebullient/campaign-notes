@@ -1,4 +1,5 @@
 ---
+aliases: ["Thundertree"]
 type: location
 tags:
   - type/town/ruin

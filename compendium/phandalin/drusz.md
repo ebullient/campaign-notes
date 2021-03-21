@@ -1,4 +1,5 @@
 ---
+aliases: ["Drusz"]
 type: npc
 tags:
   - npc/alive

@@ -1,4 +1,5 @@
 ---
+aliases: ["Mirna Dendrar"]
 type: npc
 tags:
   - npc/alive

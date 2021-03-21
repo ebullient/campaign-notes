@@ -1,4 +1,5 @@
 ---
+aliases: ["Dalgal Copperhorn"]
 type: npc
 tags:
 - npc/alive

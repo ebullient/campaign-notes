@@ -1,4 +1,5 @@
 ---
+aliases: ["Thistle"]
 type: npc
 tags:
   - npc/alive

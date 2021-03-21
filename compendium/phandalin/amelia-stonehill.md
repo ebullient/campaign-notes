@@ -1,4 +1,5 @@
 ---
+aliases: ["Amelia Stonehill"]
 type: npc
 tags:
   - npc/alive

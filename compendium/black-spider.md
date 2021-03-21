@@ -1,6 +1,6 @@
 ---
+aliases: ["Black Spider"]
 type: npc
-alias: [black-spider]
 tags:
 - npc/alive
 - iff/unknown

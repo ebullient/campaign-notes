@@ -1,4 +1,5 @@
 ---
+aliases: ["Lanar"]
 type: npc
 tags:
   - npc/alive

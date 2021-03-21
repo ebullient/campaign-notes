@@ -1,4 +1,5 @@
 ---
+aliases: ["Qelline Alderleaf"]
 type: npc
 tags:
   - npc/alive

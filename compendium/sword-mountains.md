@@ -1,4 +1,5 @@
 ---
+aliases: ["Sword Mountains"]
 type: location
 tags:
   - type/region/mountains

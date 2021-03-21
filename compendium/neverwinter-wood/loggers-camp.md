@@ -1,5 +1,5 @@
 ---
-title: Logger's Camp
+aliases: ["Logger's Camp"]
 type: location
 tags:
   - type/outpost
@@ -29,5 +29,5 @@ where type = "npc"
 ## History
 
 ```dataview
-list from #place/settlement/loggers-camp   and "pc-logs"
+list from #place/settlement/loggers-camp and "pc-logs"
 ```

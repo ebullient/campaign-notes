@@ -1,4 +1,5 @@
 ---
+aliases: ["Shrine of Savras"]
 type: location
 tags:
   - region/sword-coast-north/triboar-trail

@@ -1,4 +1,5 @@
 ---
+aliases: ["Linene Graywind"]
 type: npc
 tags:
   - npc/alive

@@ -1,4 +1,5 @@
 ---
+aliases: ["Dazlyn Grayshard"]
 type: npc
 tags:
   - npc/alive

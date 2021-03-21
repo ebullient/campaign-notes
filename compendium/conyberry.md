@@ -1,4 +1,5 @@
 ---
+aliases: ["Conyberry"]
 type: location
 tags:
   - type/town/ruin

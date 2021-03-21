@@ -1,4 +1,5 @@
 ---
+aliases: ["Halia Thornton"]
 type: npc
 tags:
   - npc/alive

@@ -1,4 +1,5 @@
 ---
+aliases: ["Sword Coast North"]
 type: location
 tags: 
 - type/region

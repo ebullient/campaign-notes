@@ -1,4 +1,5 @@
 ---
+aliases: ["Ularan Mortus"]
 type: npc
 tags:
 - npc/alive

@@ -1,4 +1,5 @@
 ---
+aliases: ["Mountain's Toe Gold Mine"]
 type: location
 tags:
   - region/sword-coast-north/sword-mountains

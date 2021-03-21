@@ -1,4 +1,5 @@
 ---
+aliases: ["Gnomengarde"]
 type: location
 tags:
   - type/colony

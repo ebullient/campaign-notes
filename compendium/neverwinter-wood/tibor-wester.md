@@ -1,4 +1,5 @@
 ---
+aliases: ["Tibor Wester"]
 type: npc
 tags:
   - npc/alive

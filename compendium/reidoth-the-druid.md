@@ -1,4 +1,5 @@
 ---
+aliases: ["Reidoth the Druid"]
 type: npc
 tags:
   - npc/alive

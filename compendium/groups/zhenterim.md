@@ -1,4 +1,5 @@
 ---
+aliases: ["Zhenterim"]
 type: group
 tags:
 - group/faction/zhenterim

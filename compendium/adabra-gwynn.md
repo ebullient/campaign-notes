@@ -1,4 +1,5 @@
 ---
+aliases: ["Adabra Gwynn"]
 type: npc
 tags:
   - npc/alive

@@ -1,4 +1,5 @@
 ---
+aliases: ["Moesko"]
 type: npc
 tags:
   - npc/alive

@@ -1,4 +1,5 @@
 ---
+aliases: ["Lionshield Coster"]
 type: group
 tags:
 - group/merchant/lionshield-coster

@@ -1,4 +1,5 @@
 ---
+aliases: ["Elmar Barthen"]
 type: npc
 tags:
   - npc/alive

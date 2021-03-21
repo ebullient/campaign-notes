@@ -1,4 +1,5 @@
 ---
+aliases: ["Ander"]
 type: npc
 tags:
   - npc/alive

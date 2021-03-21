@@ -1,4 +1,5 @@
 ---
+aliases: ["Woodland Manse"]
 type: location
 tags:
   - type/manor/ruin

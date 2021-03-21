@@ -1,4 +1,5 @@
 ---
+aliases: ["Mere of Dead Men"]
 type: location
 tags: 
 - type/region/swamp

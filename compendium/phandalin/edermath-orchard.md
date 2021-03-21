@@ -1,4 +1,5 @@
 ---
+aliases: ["Edermath Orchard"]
 type: location
 tags:
   - type/farm

@@ -1,4 +1,5 @@
 ---
+aliases: ["Narth"]
 type: npc
 tags:
   - npc/alive

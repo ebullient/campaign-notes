@@ -1,4 +1,5 @@
 ---
+aliases: [Neverwinter Wood]
 type: location
 tags: 
 - type/region/forest

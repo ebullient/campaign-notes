@@ -1,6 +1,6 @@
 ---
+aliases: ["Stonehill Inn"]
 type: location
-alias: [ 'stonehill-inn' ]
 tags:
   - type/shop/inn
   - place/town/phandalin/stonehill-inn

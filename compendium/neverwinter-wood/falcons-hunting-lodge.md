@@ -1,5 +1,5 @@
 ---
-title: Falcon's Hunting Lodge
+aliases: ["Falcon's Hunting Lodge"]
 type: location
 tags:
   - type/manor

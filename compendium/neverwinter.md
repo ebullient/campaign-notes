@@ -1,4 +1,5 @@
 ---
+aliases: ["Neverwinter"]
 type: location
 tags:
   - type/city

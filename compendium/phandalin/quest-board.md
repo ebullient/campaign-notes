@@ -1,4 +1,5 @@
 ---
+aliases: ["Phandalin Quest Board"]
 type: location
 tags:
   - type/landmark

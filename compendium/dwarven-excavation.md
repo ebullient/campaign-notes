@@ -1,4 +1,5 @@
 ---
+aliases: ["Dwarven Excavation"]
 type: location
 tags:
   - type/temple/ruin

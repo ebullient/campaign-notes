@@ -1,4 +1,5 @@
 ---
+aliases: ["Starmetal Hills"]
 type: location
 tags: 
 - type/region/mountains

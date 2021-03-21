@@ -1,4 +1,5 @@
 ---
+aliases: [""]
 type: npc
 tags:
 - npc/alive

@@ -1,4 +1,5 @@
 ---
+aliases: ["Silverymoon"]
 type: location
 tags:
   - type/city

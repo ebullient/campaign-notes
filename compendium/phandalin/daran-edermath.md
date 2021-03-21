@@ -1,4 +1,5 @@
 ---
+aliases: ["Daran Edermath"]
 type: npc
 tags:
   - npc/alive

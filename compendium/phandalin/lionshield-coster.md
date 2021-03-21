@@ -1,4 +1,5 @@
 ---
+aliases: ["Lionshield Coster"]
 type: location
 tags:
   - type/shop/trading-post

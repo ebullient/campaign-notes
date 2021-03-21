@@ -1,4 +1,5 @@
 ---
+aliases: ["Seamus"]
 type: npc
 tags:
   - npc/alive

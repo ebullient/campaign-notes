@@ -1,4 +1,5 @@
 ---
+aliases: ["Shrine of Luck"]
 type: location
 tags:
   - type/shrine

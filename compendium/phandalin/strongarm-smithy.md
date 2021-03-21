@@ -1,4 +1,5 @@
 ---
+aliases: ["Strongarm Smithy"]
 type: location
 tags:
   - type/shop/blacksmith

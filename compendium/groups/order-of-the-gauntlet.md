@@ -1,4 +1,5 @@
 ---
+aliases: ["Order of the Gauntlet"]
 type: group
 tags:
 - group/faction/order-of-the-gauntlet

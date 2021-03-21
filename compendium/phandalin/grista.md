@@ -1,4 +1,5 @@
 ---
+aliases: ["Grista"]
 type: npc
 tags:
   - npc/alive

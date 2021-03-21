@@ -1,4 +1,5 @@
 ---
+aliases: ["Phandalin Miner's Exchange"]
 type: location
 tags:
   - type/shop/trading-post

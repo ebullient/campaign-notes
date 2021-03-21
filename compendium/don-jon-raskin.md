@@ -1,4 +1,5 @@
 ---
+aliases: ["Don-Jon Raskin"]
 type: npc
 tags:
   - npc/alive

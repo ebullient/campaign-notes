@@ -1,5 +1,5 @@
 ---
-title: Bregan D'aerthe
+aliases: ["Bregan D'aerthe"]
 type: group
 tags:
 - group/faction/bregan-daerthe

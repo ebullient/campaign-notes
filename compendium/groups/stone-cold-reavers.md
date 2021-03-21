@@ -1,4 +1,5 @@
 ---
+aliases: ["Stone Cold Reavers"]
 type: group
 tags:
   - npc/alive

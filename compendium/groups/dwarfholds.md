@@ -1,5 +1,6 @@
 ---
-]type: group
+aliases: ["Dwarfholds of the North"]
+type: group
 tags:
 - group/dwarves
 ---

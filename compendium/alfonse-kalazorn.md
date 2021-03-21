@@ -1,6 +1,6 @@
 ---
+aliases: ["Big Al Kalazorn"]
 type: npc
-alias: [big-al-kalazorn]
 tags:
   - npc/alive
   - iff/unknown

@@ -1,4 +1,5 @@
 ---
+aliases: ["Bredon"]
 type: npc
 tags:
   - npc/alive

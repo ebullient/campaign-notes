@@ -23,25 +23,31 @@ Not everyone healthy yet. Starting a short rest.
     * The bird circles the top of the hill twice before descending gently to the far side of the circle from the party. After it lands, its shape shifts... 
     * into Reidoth, the druid you last saw in Thundertree.
 * Reidoth: 
-    - [ ] *Pixies make terrible messengers. *
-    - [ ] *Xanth's message was presented as a word puzzle*
-    - [ ] *Could only figure out that I needed to come here*
-    - [ ] *I did not expect to see you all in the middle of the Wood.* 
-    - [ ] *It seems I missed all of the excitement.*
-    - [ ] *What happened?* 
-    - [ ] [Casts Mass Cure Wounds]
-
-## Potential scenes
+    - [x] *Pixies make terrible messengers.*
+    - [x] *Xanth's message was presented as a word puzzle*
+    - [x] *Could only figure out that I needed to come here*
+    - [x] *I did not expect to see you all in the middle of the Wood.* 
+    - [x] *It seems I missed all of the excitement.*
+    - [x] *What happened?* 
+    - [x] [Casts Mass Cure Wounds]
+    
+* Reidoth caused plants and vines to grow over the no-longer-standing stones. He collapsed the entrances to the anchorites caves, and filled those with growing plants, too.
 
 * Discussion of Blights: what they are, where they come from. What could be done about the Gulthias tree
-    * Reidoth knows some Badgers
-    * 
+    * Reidoth knows some Badgers that might help...
+    * he also finally knows the source of the blights, and is determined now, to fix it.
+    
+* All go to Falcon's Lodge and are allowed in. Even Reidoth. After much discussion, Falcon offered Boots of Elvenkind to the party... They need to decide whether or not to accept.
 
-## Secrets and clues
+Riardon identified all outstanding items before bed.
 
 ## Locations
 
+* [Circle of Thunder](/compendium/neverwinter-wood/circle-of-thunder.md)
+* [Falcon's Hunting Lodge](/compendium/neverwinter-wood/falcons-hunting-lodge.md)
+
+
 ## Important NPCs
 
-* [Xanth](../../compendium/neverwinter-wood/xanth.md)
-* [Reidoth the Druid](../../compendium/reidoth-the-druid.md)
+* [Xanth](/compendium/neverwinter-wood/xanth.md)
+* [Reidoth the Druid](/compendium/reidoth-the-druid.md)

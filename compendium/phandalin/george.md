@@ -1,4 +1,5 @@
 ---
+aliases: ["George"]
 type: npc
 tags:
   - npc/alive

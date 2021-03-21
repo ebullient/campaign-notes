@@ -1,4 +1,5 @@
 ---
+aliases: ["Gauntlgrym"]
 type: location
 tags: 
 - group/dwarves

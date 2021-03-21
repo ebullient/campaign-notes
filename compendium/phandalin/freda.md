@@ -1,4 +1,5 @@
 ---
+aliases: ["Freda"]
 type: npc
 tags:
   - npc/alive

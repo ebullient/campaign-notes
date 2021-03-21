@@ -1,4 +1,5 @@
 ---
+aliases: ["Jarlaxle Baenre"]
 type: npc
 tags:
   - npc/alive

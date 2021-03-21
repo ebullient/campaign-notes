@@ -1,4 +1,5 @@
 ---
+aliases: ["Emerald Enclave"]
 type: group
 tags:
 - group/faction/emerald-enclave

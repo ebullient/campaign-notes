@@ -1,4 +1,5 @@
 ---
+aliases: ["Elsa"]
 type: npc
 tags:
   - npc/alive

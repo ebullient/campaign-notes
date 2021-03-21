@@ -1,4 +1,5 @@
 ---
+aliases: ["Falcon"]
 type: npc
 tags:
   - npc/alive

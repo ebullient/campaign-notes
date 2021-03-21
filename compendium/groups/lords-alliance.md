@@ -1,5 +1,5 @@
 ---
-title: The Lords' Alliance
+aliases: ["The Lords' Alliance"]
 type: group
 tags:
 - group/faction/lords-alliance
