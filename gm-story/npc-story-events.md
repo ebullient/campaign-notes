@@ -19,26 +19,7 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 * 1498-08-17: Anchorite on patrol in boar shape<span class='ob-timelines' data-class='enemy' data-date='1498-08-17-00' data-title='Anchorite spotted while on patrol in boar form'></span>
 * 1498-08-24: Summoning Gorthok[^8] from Circle of Thunder[^9] spied from Dragon Barrow[^10]<span class='ob-timelines' data-class='enemy' data-date='1498-08-24-00' data-title='Anchorites of Talos summon Gorthok'></span> 
 * 1498-09-04: Fheralai received reports from Grannoc and Yargath<span class='ob-timelines' data-class='enemy' data-date='1498-09-04-00' data-title='Fheralai received report from Grannoc and Yargath'></span>
-* 1498-09-08: Fheralai sent messages to Yargath and Grannoc<span class='ob-timelines' data-class='enemy' data-date='1498-09-08-00' data-title='Fheralai sent messages to Yargath and Grannoc'></span>
-    * Fheralai to Yargath
-         > Yargath —
-        Grannoc says the tree is growing, and that blights spread through the forest with orders from him to hinder any traveller in the Wood that doesn’t follow Talos. I want to know how that is actually working. Blights are plants. Most can’t even converse. How will they identify followers of Talos that are not the chosen Anchorites? If we are successful, there will be new converts that should find safe passage through the Wood to offer their prayers and sacrifices in the Circle to protect their homes and farms.  
-        > I also gathered, from both of your last reports, that your first attempt at gaining control of the logging camps along the river has been thwarted. My spies in Neverwinter have been unable to find a rescuer. I will send someone to Phandalin soon.Trade to Neverwinter must be disrupted. Perhaps Gorthok or the blights can succeed where ankhegs and talismans failed.  
-        > It must also be clear that Talos, Lord of Storms, will bring destruction to the Sword Coast, and only prayer and sacrifice will stay his hand.   
-        > Plans for the High Road proceed slowly. The area where the Triboar Trail meets the High Road is unexpectedly difficult. Send some anchorites there, and charge them with finding a site for a new temple. Calling thunder and lightning will be necessary to control the new settlers there.  
-        > Storms and sea trade support our efforts. Moesko provides a very effective lure. I expect another report from you in the next ten-day. May we rain chaos and destruction upon our enemies in Talos’
-        name.  
-        > Your high priestess, Fheralai
-        > p.s. Do not make any more attempts at epic poetry in your reports. If you do it again, I will ask Flenz to write them instead. He is ambitious. I am sure he would jump at the chance to replace you.
-
-    * Fheralai to Grannoc
-        > Grannoc —
-        > The area where the High Road meets the Triboar Trail has been difficult to control. You would think that settlers would be discouraged by a persistent tribe of Goblins, but they seem determined to revive the old town. A place of refuge on the High Road would work against our plans. Their efforts must be undone. I would like you and Yargath to send anchorites south to infiltrate the settlement if they can. We need a base of operations in the area that is reachable by land, and those with me are focused wholly on our efforts at sea.  
-        > I am encouraged by your notes of progress with the blights and the Gulthias Tree, especially if your word holds, and the blights continue to answer to you. In the worst case, they make the forest more dangerous. It is beyond hope that they will bother the Goblins, though I suppose the Goblins in some ways make our lives easier. They aren't working against Talos' will, but they aren't allied with it either. I can let it lie for now, but making them uncomfortable is no bad thing.  
-        > As you know, we are well supported by our coastal efforts. Moesko provides a very effective lure. The power and destruction of Talos' storms on the open water are glorious to behold. A sight to rival the appearance of Gorthok at the least.  
-        > I expect another report from you in the next ten-day. May we rain chaos and destruction upon our enemies in Talos’ name.  
-        > Your high priestess, Fheralai 
-
+* 1498-09-08: Fheralai sent messages to [Yargath](/pc-logs/Fheralai-to-Yargath.pdf) and [Grannoc](/pc-logs/Fheralai-to-Grannoc.pdf)<span class='ob-timelines' data-class='enemy' data-date='1498-09-08-00' data-title='Fheralai sent messages to Yargath and Grannoc'></span>
 * 1498-09-12: Grannoc destroyed at WM<span class='ob-timelines' data-class='enemy' data-date='1498-09-12-00' data-title='Anchorites at Woodland Manse destroyed'>Grannoc and 3 other anchorites destroyed.</span>
 * 1498-09-12: Messenger finds Woodland Manse under attack. <span class='ob-timelines' data-class='enemy' data-date='1498-09-12-00' data-title="Messenger finds Woodland Manse under attack">Fharalai's letters both delivered to Yargath; Yargath knows fate of WM</span>
 * 1498-09-13: Yargath, Flenz and Narux[^1] summon Gorthok <span class='ob-timelines' data-class='enemy' data-date='1498-09-13-00' data-title="Yargath, Flenz and Narux summon Gorthok"></span>
@@ -104,7 +85,8 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 
 * 1498-08-21: Xanth[^60] goes for help<span class='ob-timelines' data-class='npc' data-date='1498-08-21-00' data-title='Xanth leaves forest'></span> -- Thinks of Reidoth first, but senses the dragon's presence and goes to find Daran Edermath instead.
 * 1498-08-24: Xanth arrives at Edermath Orchard[^61]<span class='ob-timelines' data-class='npc' data-date='1498-08-24-00' data-title='Xanth arrives at Edermath Orchard'></span>
-* 1498-09-13: Xanth joins party<span class='ob-timelines' data-class='npc' data-date='1498-09-13-00' data-title='Xanth joins party'></span>
+* 1498-09-10: Xanth leads party to Falcon's Lodge<span class='ob-timelines' data-class='npc' data-date='1498-09-10-00' data-title="Xanth leads party to Falcon's Lodge"></span>
+* 1498-09-13: Xanth joins party<span class='ob-timelines' data-class='npc' data-date='1498-09-13-00' data-title='Xanth rejoins party'></span>
 
 ### Dwarves
 
@@ -123,7 +105,7 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 * 1498-08-25: Harbin receives response from Lords' Alliance. Dwarves en route from Gauntlgrym[^78]<span class='ob-timelines' data-class='npc' data-date='1498-08-25-00' data-title="Harbin receives response from Lords' Alliance">Notifies Halia of claim to Axeholm by Copperhorn dwarves</span>
 * 1498-08-28: Miners arrive with supplies for Mountain's Toe<span class='ob-timelines' data-class='npc' data-date='1498-08-28-00' data-title="Miners arrive with supplies for Mountain's Toe"></span>
 * 1498-08-29: Don-Jon Raskin and miners return to Mountain's Toe<span class='ob-timelines' data-class='npc' data-date='1498-08-29-00' data-title="Don-Jon Raskin and miners return to Mountain's Toe"></span>
-
+* 1498-09-15: Reidoth joins party at Circle of Thunder<span class='ob-timelines' data-class='npc' data-date='1498-09-15-00' data-title='Reidoth joins the party at Circle of Thunder'></span>
 
 
 ---
