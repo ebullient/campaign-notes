@@ -16,15 +16,8 @@ Story thoughts:
 - [ ] Xanth stays in the forest -- Blights
 - [ ] Does Mabina passes them on the road at some point.. (but they can't _really_ see her)?
 
-
 ## tags 
 
 ```dataview
 list from #todo
-```
-
-## tasks
-
-```dataview
-task
 ```

@@ -82,8 +82,8 @@ Displaced Many Arrows tribe allied with CoT
 - [x] Destroyed (some?) cult members in Neverwinter Wood (Grannoc + 3, Yargath, ..) Certainly the known leaders.
 - [x] Destroyed splinters of the Many Arrows orc tribe
 - [x] Wrecked Circle of Thunder
-- [ ] Re-introduced a large settlement of dwarves to the region
-- [ ] Alerted Emerald Enclave to presense of Gulthias Tree
+- [x] Re-introduced a large settlement of dwarves to the region
+- [x] Alerted Emerald Enclave to presense of Gulthias Tree
 - [ ] Started finding/collecting magical items before Black Spider can
 
 ### Agents in Phandalin (.. in flight ...)
