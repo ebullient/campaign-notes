@@ -28,6 +28,9 @@ tags: [statblock]
 > ***Undying.*** Unless completely uprooted, the Gulthias tree will regrow from its roots to regain 1hp every 24 hours.
 > ## Actions
 > ***Summoning.*** On any night when the moon is blood red, the Gulthias tree can spawn 2d6 twig blights, 1d6 needle blights, OR 1d4 vine blights.
+
+^13af5e
+
  
 ## History
 
