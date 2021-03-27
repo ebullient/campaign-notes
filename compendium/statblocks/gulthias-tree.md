@@ -40,6 +40,6 @@ list from #log/monster/gulthias-tree
 
 ## Notes
 
-[1] [Blight Tactics: Gultias Tree](https://www.themonstersknow.com/blight-tactics/)  The Monsters Know What They're Doing
+[1] [Blight Tactics: Gulthias Tree](https://www.themonstersknow.com/blight-tactics/)  The Monsters Know What They're Doing
 
 Gulthias tree could be treated as an evil-aligned Awakened Tree, or evil-aligned Treant

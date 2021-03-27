@@ -4,6 +4,13 @@ tags:
 ---
 # Session on 2021-03-19
 
+In between: Wrapping up Circle of Thunder
+In game: [15 Eliant, 1498](/pc-logs/log-1498-09-15.md)
+
+Both Evan and Matthew missed: spent most of the time w/ update to Level 7,
+only some time resolving the story bits and trying to decide what should happen
+next.
+
 ## Main characters
 
 * Brocc: Gnome monk. Sometimes brave; many close calls
@@ -29,7 +36,7 @@ Not everyone healthy yet. Starting a short rest.
     - [x] *I did not expect to see you all in the middle of the Wood.* 
     - [x] *It seems I missed all of the excitement.*
     - [x] *What happened?* 
-    - [x] [Casts Mass Cure Wounds]
+    - [x] Casts Mass Cure Wounds
     
 * Reidoth caused plants and vines to grow over the no-longer-standing stones. He collapsed the entrances to the anchorites caves, and filled those with growing plants, too.
 
@@ -45,7 +52,6 @@ Riardon identified all outstanding items before bed.
 
 * [Circle of Thunder](/compendium/neverwinter-wood/circle-of-thunder.md)
 * [Falcon's Hunting Lodge](/compendium/neverwinter-wood/falcons-hunting-lodge.md)
-
 
 ## Important NPCs
 

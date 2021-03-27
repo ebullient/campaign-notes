@@ -4,6 +4,8 @@ tags:
 ---
 # Altered Circle of Thunder
 
+In game: [15 Eliant, 1498](/pc-logs/log-1498-09-15.md)
+
 ## Essentials
 * Allies: Party + [Xanth](/compendium/neverwinter-wood/xanth.md)
 * Enemies:
