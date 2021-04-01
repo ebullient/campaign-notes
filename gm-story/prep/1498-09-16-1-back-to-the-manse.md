@@ -2,7 +2,8 @@
 tags:
 - gm/outline
 ---
-# Session on 2021-03-26
+# Back to the Manse
+In game: [16 Eliant, 1498](../../pc-logs/log-1498-09-16.md)
 
 ## Main characters
 
