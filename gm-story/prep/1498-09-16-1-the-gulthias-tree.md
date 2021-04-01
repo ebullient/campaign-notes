@@ -2,7 +2,7 @@
 tags:
 - gm/outline
 ---
-# Back to the Manse
+# The Gulthias Tree
 In game: [16 Eliant, 1498](../../pc-logs/log-1498-09-16.md)
 
 ## Main characters
@@ -15,7 +15,7 @@ All Level 7
 * Kyle: Human Champion Fighter. Noble. soft-hearted hero
 * Riardon: Elf Lore Bard
 
-- Question: Keep the Boots?
+Accompanied by Xanth and Reidoth
 
 ## Create a strong start
 
@@ -27,7 +27,6 @@ Reidoth is grumpy and impatient
 Falcon will wait until you return for an answer on the boots.
 
 While you are eating, Reidoth peppers Grizzlebear with questions about what spells he has prepared for the day.. 
-
 
 ## Potential scenes
 

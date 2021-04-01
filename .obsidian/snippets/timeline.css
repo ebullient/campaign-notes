@@ -33,3 +33,7 @@
 .theme-dark .timeline-card a.internal-link:hover {
     color: var(--bright-6);
 }
+
+.timeline-container {
+  page-break-inside: avoid;
+}

@@ -13,3 +13,7 @@
 .theme-dark strong em {
   color: var(--pop-3);
 }
+
+.markdown-preview-view div p {
+  line-height: 1.4rem;
+}

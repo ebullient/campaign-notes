@@ -14,7 +14,7 @@ In the midst of all of this activity and back and forth, someone had the wherewi
 
 As you all gathered outside of the Manse and the fire finally died down, the ominous air about the Manse dissipated. All of you were able to feel the change in mood as the influence of the Gulthias tree was broken. 
 
-You did a bit more poking about inside the manor. Kyle showed Reidoth the mud drawings on the floor, and Reidoth explained a bit about the the symbols of Talos and the usually reclusive anchorites,  noting that this activity (the Gulthias Tree in particular) is a little unusual for anchorites, who were usually happy enough summoning lightning and destruction during storm season, or wishing for catastrophe to disrupt seasonal festivals. 
+You did a bit more poking about inside the manor. Kyle showed Reidoth the mud drawings on the floor, and Reidoth explained a bit about the the symbols of Talos and the usually reclusive anchorites, noting that this activity (the Gulthias Tree in particular) is a little unusual, as the anchorites were usually happy enough summoning lightning and destruction during storm season, or wishing catastrophe on seasonal festivals. 
 
 Reidoth also remembered the Wizard who lived in the Manse, and did some poking around of his own. He discovered (and kept) a Staff of Birdcalls.
 

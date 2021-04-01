@@ -65,20 +65,20 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 
 ### Orcs
 
-* 1497-05-15: Orcs[^50] and ogres find abandoned Icespire Hold<span class='ob-timelines' data-class='enemy' data-date='1497-05-15-00' data-title='Orcs(Many Arrows) move to Icespire Hold, abandoning Wyvern Tor'></span>
-* 1498-06-17: Orcs(Splinter-1) settle at Shrine of Savras[^51]; Whiskered Gang flees<span class='ob-timelines' data-class='enemy' data-date='1498-06-17-00' data-title='Orcs(Splinter-1) settle at Shrine of Savras; Whiskered Gang flees'></span>
-* 1498-06-17: Orcs(Splinter-2) find Grannoc at Woodland Manse<span class='ob-timelines' data-class='enemy' data-date='1498-06-17-00' data-title='Orcs(Splinter-2) find Grannoc at Woodland Manse'></span>
-* 1498-07-26: Orcs(Splinter-3) from the Shrine attack Butterskull Ranch[^52]<span class='ob-timelines' data-class='enemy' data-date='1498-07-26-00' data-title='Orcs(Splinter-3) attack Butterskull Ranch'></span>
+* 1497-05-15: Orcs[^50] and ogres find abandoned Icespire Hold<span class='ob-timelines' data-class='enemy' data-date='1497-05-15-00' data-title='Orcs (Many Arrows) move to Icespire Hold, abandoning Wyvern Tor'></span>
+* 1498-06-17: Orcs (Splinter-1) settle at Shrine of Savras[^51]; Whiskered Gang flees<span class='ob-timelines' data-class='enemy' data-date='1498-06-17-00' data-title='Orcs (Splinter-1) settle at Shrine of Savras; Whiskered Gang flees'></span>
+* 1498-06-17: Orcs (Splinter-2) find Grannoc at Woodland Manse<span class='ob-timelines' data-class='enemy' data-date='1498-06-17-00' data-title='Orcs (Splinter-2) find Grannoc at Woodland Manse'></span>
+* 1498-07-26: Orcs (Splinter-3) from the Shrine attack Butterskull Ranch[^52]<span class='ob-timelines' data-class='enemy' data-date='1498-07-26-00' data-title='Orcs (Splinter-3) attack Butterskull Ranch'></span>
     A small band of orcs attacked the ranch, freeing the pigs before setting fire to the barn and the smithy.  
     A few other animals, including a dozen horses and Petunia the cow, escaped during the blaze. Big Al and five of his ranch hands were not so lucky. In their attempt to fend off the orcs, Big Al was captured and the ranch hands were killed. The only surviving hand escaped on horseback, fled to Phandalin, and delivered news of the attack.
-* 1498-08-05: Orcs(Splinter-4) attack party near Dwarven Excavation[^53]<span class='ob-timelines' data-class='enemy' data-date='1498-08-05-00' data-title='Orcs(Splinter-4) attack near Dwarven Excavation; destroyed'></span>
-* 1498-08-06: Orcs(Splinter-3) are destroyed<span class='ob-timelines' data-class='enemy' data-date='1498-08-06-00' data-title='Orcs(Splinter-3) are destroyed'></span>
-* 1498-08-11: Orcs(Splinter-1) are destroyed<span class='ob-timelines' data-class='enemy' data-date='1498-08-11-00' data-title='Orcs(Splinter-1) are destroyed'></span>
-* 1498-08-14: Orcs(Splinter-5) attack party near Gnomengarde[^54]<span class='ob-timelines' data-class='enemy' data-date='1498-08-14-00' data-title='Orcs(Splinter-5) attack near Gnomengarde; destroyed'></span>
-* 1498-09-04: Orcs(Splinter-6) attack Phandalin<span class='ob-timelines' data-class='enemy' data-date='1498-09-04-00' data-title='Orcs(Splinter-6) attack Phandalin; mostly destroyed (orc-hero)'></span>  
+* 1498-08-05: Orcs (Splinter-4) attack party near Dwarven Excavation[^53]<span class='ob-timelines' data-class='enemy' data-date='1498-08-05-00' data-title='Orcs (Splinter-4) attack near Dwarven Excavation; destroyed'></span>
+* 1498-08-06: Orcs (Splinter-3) are destroyed<span class='ob-timelines' data-class='enemy' data-date='1498-08-06-00' data-title='Orcs (Splinter-3) are destroyed'></span>
+* 1498-08-11: Orcs (Splinter-1) are destroyed<span class='ob-timelines' data-class='enemy' data-date='1498-08-11-00' data-title='Orcs (Splinter-1) are destroyed'></span>
+* 1498-08-14: Orcs (Splinter-5) attack party near Gnomengarde[^54]<span class='ob-timelines' data-class='enemy' data-date='1498-08-14-00' data-title='Orcs (Splinter-5) attack near Gnomengarde; destroyed'></span>
+* 1498-09-04: Orcs (Splinter-6) attack Phandalin<span class='ob-timelines' data-class='enemy' data-date='1498-09-04-00' data-title='Orcs (Splinter-6) attack Phandalin; mostly destroyed (orc-hero)'></span>  
     Late in the evening. All killed but one, who claimed to be raiding only for supplies. Party gave him money and let him go.
-* 1498-09-12: Orcs(Splinter-2) are destroyed at Woodland Manse<span class='ob-timelines' data-class='enemy' data-date='1498-09-12-00' data-title='Orcs(Splinter-2) are destroyed'></span>
-* 1498-09-13: Orcs(Splinter-7) and Gorthok attack Falcon's Lodge[^55]<span class='ob-timelines' data-class='enemy' data-date='1498-09-13-00' data-title="Orcs(Splinter-7) and Gorthok attack Falcon's Lodge">Gorthok knocks down the palisade at Falcon's Lodge. Orc(Splinter-7) destroyed except for orc-hero and 3 friends.</span> 
+* 1498-09-12: Orcs (Splinter-2) are destroyed at Woodland Manse<span class='ob-timelines' data-class='enemy' data-date='1498-09-12-00' data-title='Orcs (Splinter-2) are destroyed'></span>
+* 1498-09-13: Orcs (Splinter-7) and Gorthok attack Falcon's Lodge[^55]<span class='ob-timelines' data-class='enemy' data-date='1498-09-13-00' data-title="Orcs (Splinter-7) and Gorthok attack Falcon's Lodge">Gorthok knocks down the palisade at Falcon's Lodge. Orc(Splinter-7) destroyed except for orc-hero and 3 friends.</span> 
 * 1498-09-15: Yargath on patrol with Orc(Splinter-8) (above); Orc (Splinter-8) destroyed
 
 ### Xanth
@@ -108,7 +108,6 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 * 1498-09-15: Reidoth joins party at Circle of Thunder<span class='ob-timelines' data-class='npc' data-date='1498-09-15-00' data-title='Reidoth joins the party at Circle of Thunder'></span>
 
 
----
 
 [^1]: Anchorites: [Grannoc](/compendium/archive/grannoc.md), [Moesko](/compendium/moesko.md), [Yargath](/compendium/archive/yargath.md), [Narux](/compendium/archive/narux.md), [Flenz](/compendium/archive/flenz.md)
 [^2]: Abandoned Wizard's home, [Woodland Manse](/compendium/neverwinter-wood/woodland-manse.md)
