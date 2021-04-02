@@ -1,6 +1,6 @@
 # Distance
 
-Walk 24 hours in a day
+Walk 24 hours in a day  
 3-4 miles / hour, with breaks and rest
 
 ## Distances
@@ -49,3 +49,5 @@ Carrier pigeon: same day betw Phandalin and Neverwinter. Common for official bus
 Harbin sends update to reps in Neverwinter to ask for assistance, response will vary.
 
 Sometimes messages arrive along with shipments or supplies. A message may be sent via carrier pigeon to indicate help/supplies/etc is en route (e.g. trouble with orcs, bandits, goblins).
+
+![Movement](../compendium/reference/movement.md#Movement)

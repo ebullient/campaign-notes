@@ -9,9 +9,9 @@ Table shows distance traveled per minute, hour or day at given pace.
 |Fast    | 400 feet | 4 miles | 30 miles | −5 penalty to passive Wisdom (Perception) scores |
 |Normal | 300 feet | 3 miles | 24 miles | — |
 |Slow    | 200 feet | 2 miles | 18 miles | Able to use Stealth |
-|[Wind Walk](movement.md#Wind%5C%20Walk Walk) Fast| 4000 feet | 40 miles | 320 miles | — |
-|[Wind Walk](movement.md#Wind%5C%20Walk Walk) Normal| 3000 feet | 30 miles | 240 miles | — |
-|[Wind Walk](movement.md#Wind%5C%20Walk Walk) Slow| 2000 feet | 20 miles | 160 miles | — |
+|Wind Walk Fast| 4000 feet | 40 miles | 320 miles | — |
+|Wind Walk Normal| 3000 feet | 30 miles | 240 miles | — |
+|Wind Walk Slow| 2000 feet | 20 miles | 160 miles | — |
 
 Table assumes 8 hours. Can push beyond that limit, at the risk of Exhaustion (see below)
 
@@ -19,7 +19,7 @@ Table assumes 8 hours. Can push beyond that limit, at the risk of Exhaustion (se
 
 For each additional hour of Travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour.
 
-The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of Exhaustion (see Conditions ).
+The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of Exhaustion (see Conditions).
 
 ## Mounts and Vehicles 
 
