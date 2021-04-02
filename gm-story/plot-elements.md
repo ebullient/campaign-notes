@@ -83,15 +83,15 @@ Displaced Many Arrows tribe allied with CoT
 - [x] Destroyed splinters of the Many Arrows orc tribe
 - [x] Wrecked Circle of Thunder
 - [x] Re-introduced a large settlement of dwarves to the region
-- [x] Alerted Emerald Enclave to presense of Gulthias Tree
-- [ ] Started finding/collecting magical items before Black Spider can
+- [x] Alerted Emerald Enclave to presense of Gulthias Tree / removed tree
 
 ### Agents in Phandalin (.. in flight ...)
+
 - [ ] Bregan D'aerthe: ...
 - [ ] Cult of Talos: 
+- [ ] Lords' Alliance:
 - [ ] Harpers: Sister Garaele, Mabina
 - [ ] Lionshield Coster: Linene Graywind
-- [ ] Lords' Alliance:
 - [ ] Order of the Gauntlet: Daran Edermath
 - [ ] Zhenterim: Halia Thornton
 
@@ -99,7 +99,7 @@ Displaced Many Arrows tribe allied with CoT
 
 .....
 
-## Remnants to place above
+## Remnants to place above (?)
 
 **Storm Lord's Wrath**
 
@@ -128,7 +128,7 @@ Displaced Many Arrows tribe allied with CoT
     - [x] [Flenz](/compendium/archive/flenz.md)
     - [ ] [Moesko](/compendium/moesko.md) and the Tower of Storms
     - [x] [Grannoc](/compendium/archive/grannoc.md)
-    - [ ] Gulthias Tree & Blights
+    - [x] Gulthias Tree & Blights
 - [ ] Stone Cold Reavers?
 - [x] Manticore
 - [x] Orcs
