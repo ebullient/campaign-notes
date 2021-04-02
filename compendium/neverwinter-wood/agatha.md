@@ -4,10 +4,10 @@ type: npc
 xtags:
 - npc/alive
 - iff/unknown
-- place/landmark/agathas-lair
+- place/landmark/agathas-grove
 ---
 # Agatha
-<span class="subhead">[Agatha's Lair](agathas-lair.md), Neverwinter Wood</span>
+<span class="subhead">[Agatha's Grove](agathas-grove.md), Neverwinter Wood</span>
 
 The banshee looked like she did in life: an elven maiden clad in a flowing gown. She was dead, though, her skin shriveled, and eyes staring pale and blind, but those eyes, while empty, saw all things.
 

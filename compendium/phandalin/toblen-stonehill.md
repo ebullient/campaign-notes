@@ -28,7 +28,6 @@ Native of Triboar (a town to the east)
 
 * Married to [Amelia Stonehill](amelia-stonehill.md)
 * Father of [Pip Stonehill](pip-stonehill.md)
-* Friends:  [Thel Dendrar](thel-dendrar.md)
 
 ## Secrets
 

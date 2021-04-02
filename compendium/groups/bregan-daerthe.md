@@ -12,6 +12,7 @@ Bregan D'aerthe was primarily a mercenary and mercantile band. Members, both ind
 
 [Bregan D'aerthe](https://forgottenrealms.fandom.com/wiki/Bregan_D%27aerthe)
 
+
 * **Beliefs**
     1. ..
     2. ..

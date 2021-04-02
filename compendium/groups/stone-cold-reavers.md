@@ -16,7 +16,7 @@ Neutral evil human veterans who speak Common.
 Sellswords (brigands, thieves)
 
 ## Details
-<span class="subhead">Mercenary, [Veteran](../statblocks/veteran.md)</span>
+<span class="subhead">Mercenary, [Veteran](../bestiary/veteran.md)</span>
 
 ### Syleen Wintermoon
 

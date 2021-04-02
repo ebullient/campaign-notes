@@ -27,18 +27,10 @@ Pompous, middle-aged banker.
 
 Many locks on his door, but now emerges when the party arrives. Likes "Lord Kyle" the most. Enjoys having Drusz (goblin, aka Droop) around to play chess with (appeals to hidden/little-known caretaker).
 
-* **Trait**
-* **Ideals**
-* **Bonds**
-* **Flaws**
-
 ## Relationships
 
 * Brother, [Tibor Wester](../neverwinter-wood/tibor-wester.md), runs a logging camp
 * Friends: 
-  * [Thel Dendrar](thel-dendrar.md)
-  * [Maccus Strongarm](maccus-strongarm.md)
-  * [Adabra Gwynn](../adabra-gwynn.md)
   * [Mabina](../mabina-cawood.md)
 * Cares for rehabilitation of [Drusz](drusz.md)
 

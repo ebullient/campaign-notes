@@ -1,18 +1,16 @@
 ---
-aliases: ["The Crafty Hand"]
+aliases: [ "The Crafty Hand" ]
 type: location
 tags:
   - type/shop/carpenter
-  - place/town/phandalin/woodshop
+  - place/town/phandalin/crafty-hand
 ---
 # The Crafty Hand
 <span class="subhead">Carpenter's shop, Phandalin</span>
 
-Thel is a fine woodwoorker, and the shop has several fine pieces of workmanship on display. 
+[Thel Dendrar](thel-dendrar.md) is a fine woodwoorker, and the shop has several fine pieces of workmanship on display. There are also pieces for sale that have been created by [Mirna Dendrar](mirna-dendrar.md): patchwork quilts, needlepoint pillows and rugs, etc. 
 
-There are also pieces for sale that have been created by Mirna: patchwork quilts, needlepoint pillows and rugs, etc. 
-
-Mirna also sells potions and medicines made by Adabra Gwynn (a long-distance crafty hand, if you will).
+Mirna also sells potions and medicines made by [Adabra Gwynn](../adabra-gwynn.md) (a long-distance crafty hand, if you will).
 
 * **Owner** [Thel Dendrar](thel-dendrar.md)
 * **Shopkeeper** [Mirna Dendrar](mirna-dendrar.md)
@@ -26,12 +24,12 @@ Mirna also sells potions and medicines made by Adabra Gwynn (a long-distance cra
 ## NPCs
 
 ```dataview
-list from #place/town/phandalin/woodshop
+list from #place/town/phandalin/crafty-hand 
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #place/town/phandalin/woodshop  and "pc-logs"
+list from #place/town/phandalin/crafty-hand and "pc-logs"
 ```

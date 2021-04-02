@@ -1,10 +1,10 @@
 ---
-aliases: ["Daniel"]
+aliases: [ "Daniel" ]
 type: npc
 tags:
   - npc/alive
   - iff/friend
-  - place/town/phandalin/woodshop
+  - place/town/phandalin/crafty-hand
 ---
 # Daniel #todo
 <span class="subhead">[The Crafty Hand](crafty-hand.md), Phandalin</span>

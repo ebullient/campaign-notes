@@ -14,7 +14,7 @@ tags:
 Flenz has straight silver hair and green eyes.
 Flenz seeks only fame and glory.
 
-> *Male half-orc [Anchorite of Talos](/compendium/statblocks/anchorite-of-talos.md), chaotic evil*
+> *Male half-orc [Anchorite of Talos](../bestiary/anchorite-of-talos.md), chaotic evil*
 > * **Trait** I have a joke for every occasion, especially occasions where humor is inappropriate.
 > * **Ideals** If I can attain more power, no one will tell me what to do.
 > * **Bonds** I owe a debt I can never repay to the person who took pity on me.

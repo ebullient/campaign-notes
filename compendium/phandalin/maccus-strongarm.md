@@ -27,7 +27,6 @@ TL;DR description / personality / motivation
 
 Friends with:
 * [Daran Edermath](daran-edermath.md)
-* [Harbin Wester](harbin-wester.md)
 * [Elmar Barthen](elmar-barthen.md)
 
 [Seamus](seamus.md) is his new apprentice

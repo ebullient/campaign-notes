@@ -12,7 +12,7 @@ tags:
 
 Yargath was tall, and mean looking, with several missing teeth. He had shoulder-length, thin dark hair that wass held out of his face by a thin leather band. He used flowery speech and long words.
 
-> *Male half-orc [Anchorite of Talos](/compendium/statblocks/anchorite-of-talos.md), neutral evil*
+> *Male half-orc [Anchorite of Talos](../bestiary/anchorite-of-talos.md), neutral evil*
 > * **Trait** I bluntly say what other people are hinting or hiding.
 > * **Ideals** Knowledge is the path to power and domination.
 > * **Bonds** I will do anything to prove myself superior to me hated rival.

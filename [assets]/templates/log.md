@@ -1,5 +1,5 @@
 ---
 type: log
-tags: [timeline, doip]
+tags: [ timeline, events ]
 ---
 # dd Mon Year: 

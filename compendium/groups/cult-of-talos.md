@@ -10,6 +10,7 @@ tags:
 
 Members are fervent religious cultists who worship [Talos](#Talos), the Stormlord. The cult is led by the priestess [Fheralai Stormsworn](../fheralai-stormsworn.md).
 
+
 * **Beliefs**
     1. Life is a succession of random effects in a sea of chaos.
     2. Life is short, you could die at any moment.
@@ -25,7 +26,7 @@ Reclusive anchorites living in Neverwinter Wood are taking more aggressive steps
 
 They plan to establish temples along the High Road, so they can call upon storms and lighting to disrupt trade at will.
 
-In stormy weather, anchorites of Talos will gather on remote hilltops to "Call down the Thunder", and summon [Gorthok](/compendium/statblocks/gorthok.md), the thunder boar. When motivated, they can also summon a storm.
+In stormy weather, anchorites of Talos will gather on remote hilltops to "Call down the Thunder", and summon [Gorthok](../bestiary/gorthok.md), the thunder boar. When motivated, they can also summon a storm.
 
 ## Talos
 ![Talos, Stormlord, The Destroyer](/[assets]/attachments/talos.jpg#portrait)
@@ -67,7 +68,7 @@ NPCs tied to specific locations:
 list from #group/faction/cult-of-talos  and "pc-logs"
 ```
 
-![CoT](/gm-story/npc-story-events.md#CoT)
+![CoT](../../GM/npc-events.md#CoT)
 
 ## References
 

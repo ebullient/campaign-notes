@@ -28,7 +28,7 @@ list from #place/ruin/icespire-hold  and "pc-logs"
 
 The [Many Arrows Orc Tribe](groups/many-arrows-orc-tribe.md) moved here from [Wyvern Tor](wyvern-tor.md) when they discovered the abandoned fortress.
 
-When [Cryovain](statblocks/dragon.md) attacked and claimed the fortress, she ate several orcs, including the tribe's leader, Brughor Axe Biter.
+When [Cryovain](bestiary/dragon.md) attacked and claimed the fortress, she ate several orcs, including the tribe's leader, Brughor Axe Biter.
 
 The [Stone Cold Reavers](groups/stone-cold-reavers.md) followed Cryovain back to her lair, and hid, hoping to raid her hoard the next time she left to go hunting. 
 

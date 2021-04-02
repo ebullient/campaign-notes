@@ -12,7 +12,7 @@ tags:
 
 Grannoc hoped Talos will answer his prayers and rain destruction down upon Falcon’s Hunting Lodge.
 
-> *Male half-orc [Anchorite of Talos](/compendium/statblocks/anchorite-of-talos.md), neutral evil*
+> *Male half-orc [Anchorite of Talos](../bestiary/anchorite-of-talos.md), neutral evil*
 > * **Trait** I get bitter if I'm not the center of attention.
 > * **Ideals** If I become strong, I can take what I want--what I deserve.
 > * **Bonds** Something important was taken from me, and I aim to steal it back.

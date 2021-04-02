@@ -37,7 +37,7 @@ Millstone on the ground floor grinds herbs and other ingredients for poultices a
 ## Relationships
 
 Friends: 
-* [Harbin Wester](/compendium/phandalin/harbin-wester.md)
+* [Reidoth the Druid](reidoth-the-druid.md)
 * [Mirna Dendrar](/compendium/phandalin/mirna-dendrar.md)
 
 ## Secrets

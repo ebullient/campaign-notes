@@ -1,10 +1,10 @@
 ---
-aliases: ["Mirna Dendrar"]
+aliases: [ "Mirna Dendrar" ]
 type: npc
 tags:
   - npc/alive
   - iff/friend
-  - place/town/phandalin/woodshop
+  - place/town/phandalin/crafty-hand
 ---
 ![Mirna Dendrar](/[assets]/attachments/mirna-dendrar.png#portrait)
 # Mirna Dendrar
@@ -36,10 +36,10 @@ Mirna's family fled Thundertree when Mt. Hotenow exploded. They left behind a tr
 ## History
 
 ```dataview
-list from #place/town/phandalin/woodshop and "pc-logs"
+list from #log/npc/mirna-dendrar and "pc-logs"
 ```
 
-From the Slave pens in [Redbrand Hideout](/gm-story/encounters/redbrand-hideout.md):
+From the Slave pens in [Redbrand Hideout](/GM/prep/2020-04-01-redbrand-hideout.md):
 
 > When the door is opened, you hear a petrified squeak, as a goblin in the center of the room is startled. It faints.
 >

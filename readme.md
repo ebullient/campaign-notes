@@ -22,8 +22,8 @@ Built using obsidian.md. Files can be referenced and even edited from github, bu
 
 ### GM Information
 * `gm-story`: Story notes and threads
-    * [npc-story-events](gm-story/npc-story-events.md)
-    * [gm-story/plot-q-and-a](/gm-story/plot-q-and-a.md)
+    * [npc-story-events](GM/npc-events.md)
+    * [gm-story/plot-q-and-a](GM/plot-q-and-a.md)
 * `gm-reference` contains general DM/GM references and notes gathered from other places
 * `[assets]` contains both attachments (images), and small template files used for content creation.
 

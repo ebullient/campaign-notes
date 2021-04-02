@@ -34,7 +34,7 @@ They were lead by "Brughor Axe Biter", a savage brute more interested in murderi
 
 Attracted to the area around Phandalin by new settlers and traffic on the Triboar trail. They originally settled in the area around Wyvern Tor, but soon discovered the abandoned Icespire Hold. 
 
-Brughor moved the tribe into the fortress, and enjoyed collecting his battle trophies from a room in the top floor of the keep. When [Cryovain](/compendium/statblocks/dragon.md) attacked the fortress, tribe members either scattered or were eaten. Brughor died trying to defend his hoard from the dragon. All that remained of him was his axe and the hand he held it with.
+Brughor moved the tribe into the fortress, and enjoyed collecting his battle trophies from a room in the top floor of the keep. When [Cryovain](../bestiary/dragon.md) attacked the fortress, tribe members either scattered or were eaten. Brughor died trying to defend his hoard from the dragon. All that remained of him was his axe and the hand he held it with.
 
 Members of the tribe fled the Sword Mountains. Without the unifying presence of Brughor, the fleeing orcs splintered into different groups. 
 
