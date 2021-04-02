@@ -16,7 +16,7 @@ In game: [15 Eliant, 1498](/pc-logs/log-1498-09-15.md)
 
 > Ominous storm clouds gather in the sky as you approach a ninety-foot-tall hill with trees spreading across its slopes. Atop the hill is a large ring of standing stones. There is something moving inside the henge.
 
-***CHOOSE***: [Climb](1498-09-15-1-circle-of-thunder.md#Climb) or [Scout](1498-09-15-1-circle-of-thunder.md#Scout) the hillside first?
+***CHOOSE***: [Climb](#Climb) or [Scout](#Scout) the hillside first?
 
 ## Climb
 
@@ -30,7 +30,7 @@ Note: These uprights can be toppled by creatures with a combined Strength score 
 Flenz and Narux are performing a ritual to summon Gorthok.
 Twelve twig blights guard Flenx and Narux while adding energy to the ritual with their own dancing.
 
-[Hilltop Encounter Sheet](1498-09-15-circle-of-thunder.md#Hilltop%5C%20Encounter%5C%20Sheet Encounter\ Sheet)
+[Hilltop Encounter Sheet](#Hilltop%5C%20Encounter%5C%20Sheet Encounter\ Sheet)
 
 **DC 10 Perception** will find one of 3 *flimsy trapdoors hidden under grass and dirt*.
 If *Grizzlebear* approaches one, he instinctively avoids it. Others will notice that the ground is strangely springy there.
@@ -64,7 +64,7 @@ Animal droppings (probably deer) little the floor.
 #### D. Anchorite's Retreat
 > Small niches are dug into the walls of this unfurnished room. They hold clay dishware, wooden utensils, bunches of herbs, gathered roots and berries, and creepy totems.
 
-[C2](1498-09-15-1-circle-of-thunder.md#C3) [C3](1498-09-15-1-circle-of-thunder.md#C3) [C4](1498-09-15-1-circle-of-thunder.md#C4)
+[C2](#C3) [C3](#C3) [C4](#C4)
 
 #### E. Secret exit / trap door
 >   This tunnel has a gentle slope leading to/from a secret trapdoor on the hilltop.
@@ -126,8 +126,8 @@ The *basket* contains two books, and an unopened letter (rolled parchment, still
 * **Twig Blights** -- Small and scrappy, poor STR, good DEX and CON. Don't have high mobility, compensate with numbers. ==Vulnerable to fire and Hew==
     * WILL RUN FROM FIRE
     * They will follow a retreating foe, but will not dash. They will surround an enemy if they can.
-* [Narux and Flenz](../../compendium/bestiary/anchorite-of-talos.md)
+* [Narux and Flenz](/compendium/bestiary/anchorite-of-talos.md)
     - First round: One will bless the other
     - Each will cast lightning bolt as soon as they can hit more than one target (they can each only do this once...)
     - They have no ranged attacks, will talk/threaten with godly harm if surrounded by only ranged opponents.
-* [Gorthok](../../compendium/bestiary/gorthok.md) appears out of nowhere in the middle of the circle with a large thunderclap once both anchorites are dead.
+* [Gorthok](/compendium/bestiary/gorthok.md) appears out of nowhere in the middle of the circle with a large thunderclap once both anchorites are dead.

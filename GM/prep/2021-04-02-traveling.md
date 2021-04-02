@@ -1,6 +1,6 @@
 # Leaving the Lodge
 
-In game: [17 Eliant, 1498](../../../pc-logs/log-1498-09-17-current.md)
+In game: [17 Eliant, 1498](/pc-logs/log-1498-09-17-current.md)
 
 Starting point: ***Falcon's Lodge***
 
@@ -20,13 +20,8 @@ Roll d20, a 17-20 triggers encounter.
 Daytime encounters: 
 
 1. [The Ettin's Pet](encounters.md#)
-2. 
 
-Nighttime encounters (who takes watch?)
-
-1. Pixie tricks
-2. 
-
+Nighttime: who takes watch? If they fail DC 15 perception (while Grizzlebear is sleeping): Pixie tricks.
 
 ## The second morning
 

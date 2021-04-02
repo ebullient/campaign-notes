@@ -111,13 +111,13 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 
 [^1]: Anchorites: [Grannoc](/compendium/archive/grannoc.md), [Moesko](/compendium/moesko.md), [Yargath](/compendium/archive/yargath.md), [Narux](/compendium/archive/narux.md), [Flenz](/compendium/archive/flenz.md)
 [^2]: Abandoned Wizard's home, [Woodland Manse](/compendium/neverwinter-wood/woodland-manse.md)
-[^3]: Corrupted [gulthias-tree](../compendium/bestiary/gulthias-tree.md) and [blights](../compendium/bestiary/blights.md)
+[^3]: Corrupted [gulthias-tree](/compendium/bestiary/gulthias-tree.md) and [blights](../compendium/bestiary/blights.md)
 [^4]: High priestess [Fheralai Stormsworn](/compendium/fheralai-stormsworn.md)
 [^5]: Secret base at [Thunder Cliffs](/compendium/thunder-cliffs.md)
 [^6]: Shrine at [Tower of Storms](/compendium/tower-of-storms.md)
 [^7]: One of a few, [Logger's Camp](/compendium/neverwinter-wood/loggers-camp.md)
-[^8]: Summoned spirit [orthok](../compendium/bestiary/gorthok.md)
-[^9]: Standing stones at [Circle of Thunder](encounters/circle-of-thunder.md)
+[^8]: Summoned spirit [Gorthok](/compendium/bestiary/gorthok.md)
+[^9]: Standing stones at [Circle of Thunder](/compendium/neverwinter-wood/circle-of-thunder.md)
 [^10]: Bruial mound, [Dragon Barrow](/compendium/dragon-barrow.md)
 [^20]: Dragons: [Cryovain and Venomfang](../compendium/bestiary/dragon.md)
 [^21]: Partly ruined fortress [Icespire Hold](/compendium/icespire-hold.md)
@@ -144,7 +144,7 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 [^76]: Sending [Messages](../distances.md#Messages)
 [^77]: New settlement at [Axeholm](/compendium/axeholm/axeholm.md)
 [^78]: Reclaimed Dwarven stronghold: [Gauntlgrym](/compendium/gauntlgrym.md)
-[^79]: Familiar NPC: [[John Wick]]
+[^79]: Familiar NPC: [John Wick](../compendium/phandalin/john-wick.md)
 
 
 

@@ -1,4 +1,5 @@
 ---
+aliases: ['Gorthok']
 cssclass: statblock
 type: statblock
 tags: [statblock]
