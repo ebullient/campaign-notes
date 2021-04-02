@@ -2,9 +2,8 @@
 tags:
 - gm/outline
 ---
-# Session on 2021-03-19
+# In between: Wrapping up Circle of Thunder
 
-In between: Wrapping up Circle of Thunder
 In game: [15 Eliant, 1498](/pc-logs/log-1498-09-15.md)
 
 Both Evan and Matthew missed: spent most of the time w/ update to Level 7,

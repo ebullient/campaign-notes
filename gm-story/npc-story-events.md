@@ -52,8 +52,8 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 * 1498-09-09: Mabina travels to Neverwinter<span class='ob-timelines' data-class='npc' data-date='1498-09-09-00' data-title="Mabina travels to Neverwinter"></span>
 * 1498-09-11: Mabina travels to Luskan<span class='ob-timelines' data-class='npc' data-date='1498-09-11-00' data-title="Mabina travels to Luskan"></span>
 * 1498-09-13: Mabina travels to Mirabar<span class='ob-timelines' data-class='npc' data-date='1498-09-13-00' data-title="Mabina travels to Mirabar"></span>
-* 1498-09-15: Mabina travels to Triboar<span class='ob-timelines' data-class='npc' data-date='1498-09-15-00' data-title="Mabina travels to Triboar"></span>
-* 1498-09-17: Mabina travels to Phandalin<span class='ob-timelines' data-class='npc' data-date='1498-09-17-00' data-title="Mabina travels to Phandalin"></span>
+* 1498-09-16: Mabina travels to Triboar<span class='ob-timelines' data-class='npc' data-date='1498-09-16-00' data-title="Mabina travels to Triboar"></span>
+* 1498-09-18: Mabina travels to Phandalin<span class='ob-timelines' data-class='npc' data-date='1498-09-18-00' data-title="Mabina travels to Phandalin"></span>
 
 ### Manticores
 

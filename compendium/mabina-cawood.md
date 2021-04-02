@@ -14,7 +14,7 @@ Sword Coast North</span>
 
 A woman bustled around her cart. The layers and hood of her robe made it hard to figure out her age. The best that could be determined is not a kid and not a crone.
 
-> *Female human Merchant, chaotic good*  
+> *Female human wizard, chaotic good*  
 > * **Ideals** Magic should be used to protect and improve the lives of the common people
 > * **Bonds** I had a rival all throughout my training, we still compete.
 > * **Flaws** I can get so distracted by the mystery and wonder of magic that I can forget I'm supposed to be fighting another Wizard.
@@ -30,6 +30,8 @@ She will identify items for the party for free as a result of "The Splendiferous
 
 Through her own magical means, Mabina and her wagon traverse the Sword Coast North, trading magical items. Trade in magical items is a dicey busines, but it is one that Mabina loves with all her heart.
 
+The party traded "The Splendiferous Bauble" to her for the Handy Haversack. She was able to trade it again herself, and was quite pleased to do so (though she would not tell the party what she obtained in return). She will identify items for the party free of charge as a result.
+
 ## Relationships
 
 Mabina is a member of the [Harpers](groups/harpers.md)
@@ -39,7 +41,11 @@ Friends:
 
 ## Secrets
 
-She traded the #loot/splendiferous-bauble for a [legendary Ring of Djinni Summoning][1]. She uses it to summon a female djinni named **Desri** from the Elemental Plane of Air. Desri casts the druid spell "Wind Walk" on herself, her horse, and (by special favor) her cart. This allows her to travel much farther (and more safely), as she has to spend fewer nights between towns. In the short time she has had the ring, she has made a point of being both respectful and kind to Desri every time she is summoned.
+She has some kind of friendship or kinship with Harbin from an event that happened long ago. Because of that event, Harbin trusts trading magic items with her. 
+
+She traded the #loot/splendiferous-bauble for a [legendary Ring of Djinni Summoning][1]. She uses it to summon a female djinni named **Desri** from the Elemental Plane of Air. Desri casts the druid spell "Wind Walk" on herself, her horse, and (by special favor) her cart. This has completely changed the game for Mabina, as she can travel much farther, and has to spend a lot less time out on the open road between towns.
+
+She makes a point of being both respectful and kind to Desri, including bringing things that Desri can trade on her own plane, to ensure the binding is mutually beneficial.
 
 [1]: https://roll20.net/compendium/dnd5e/Ring%20of%20Djinni%20Summoning#content
 
@@ -48,10 +54,6 @@ She traded the #loot/splendiferous-bauble for a [legendary Ring of Djinni Summon
 ```dataview
 list from #log/npc/mabina and "pc-logs"
 ```
-
-She has some kind of friendship or kinship with Harbin from an event that happened long ago. Because of that event, Harbin trusts trading magic items with her. 
-
-The party traded "The Splendiferous Bauble" to her for the Handy Haversack. She was able to trade it again herself, and was quite pleased to do so (though she would not tell the party what she obtained in return). She will identify items for the party free of charge as a result.
 
 ![Mabina](/gm-story/npc-story-events.md#Mabina)
 
