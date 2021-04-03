@@ -1,6 +1,6 @@
 # Leaving the Lodge
 
-In game: [17 Eliant, 1498](/pc-logs/log-1498-09-17-current.md)
+In game: [17 Eliant, 1498](../../pc-logs/log-1498-09-17-18.log.md)
 
 Starting point: ***Falcon's Lodge***
 
@@ -11,6 +11,9 @@ Temperature: 51.1°F to 74.3°F
 Wind: Light air (NE)(1-3 MPH | 1-3 KN)  
 Precipitation: None  
 Clouds: A few clouds  
+
+Immeral, in the front
+Grizzlebear, in the rear
 
 ### Possible encounters
 
@@ -46,3 +49,7 @@ She does want to talk to the party, but she also wants to be sure to reach town,
 > She hands Kyle a thick packet of papers and disappears back into the wagon, pulling up the steps and closing the doors behind her. A few moments later, you see her reappear on the driver's bench. She picks up the reigns and makes a  
 
 * [Mabina](/compendium/mabina-cawood.md)
+* [Party Loot](https://docs.google.com/spreadsheets/d/15M8AP42AGJyX5z-p6LvREl88wrzui2FWtE5BlPn7UUE/edit#gid=0)
+* [Magic Item distribution](https://docs.google.com/spreadsheets/d/10SG3nHfObYpqMHwy29x9oD29pmDdhghUtwX7-NLfS5U/edit#gid=0)
+
+#todo add grizzlebear badgers
