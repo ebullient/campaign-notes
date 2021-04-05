@@ -68,7 +68,7 @@ NPCs tied to specific locations:
 list from #group/faction/cult-of-talos  and "pc-logs"
 ```
 
-![CoT](/GM/npc-events.md#CoT)
+![CoT](/gm/npc-events.md#CoT)
 
 ## References
 

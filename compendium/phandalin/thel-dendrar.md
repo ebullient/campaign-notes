@@ -39,7 +39,7 @@ list from #log/npc/thel-dendrar and "pc-logs"
 
 Thel was captured and held by the Redbrands, and almost sold into slavery.
 
-From the [Redbrand Hideout](/GM/prep/2020-04-01-redbrand-hideout.md): 
+From the [Redbrand Hideout](/gm/prep/2020-04-01-redbrand-hideout.md): 
 
 > Thel was brought here a few days ago, beat up, collared and dumped in the cell to be sold. He thought that was the end of it, but it was worse when his wife and children were brought in. 
 >

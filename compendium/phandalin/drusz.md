@@ -29,7 +29,7 @@ His name is actually Drusz. He's quietly recovering from his abuse while staying
 ## Relationships
 
 * Dependent on [Harbin Wester](harbin-wester.md) for life in Phandalin
-* Rescued by the party from abusive bugbears in the [Redbrand Hideout](/GM/prep/2020-04-01-redbrand-hideout.md)
+* Rescued by the party from abusive bugbears in the [Redbrand Hideout](/gm/prep/2020-04-01-redbrand-hideout.md)
 
 ## Secrets
 

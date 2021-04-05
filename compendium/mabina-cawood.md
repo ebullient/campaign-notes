@@ -55,7 +55,7 @@ She makes a point of being both respectful and kind to Desri, including bringing
 list from #log/npc/mabina and "pc-logs"
 ```
 
-![Mabina](../GM/npc-events.md#Mabina)
+![Mabina](/gm/npc-events.md#Mabina)
 
 ----
 
