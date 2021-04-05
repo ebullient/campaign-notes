@@ -1,6 +1,5 @@
-# Leaving the Lodge
-
-In game: [17 Eliant, 1498](/pc-logs/log-1498-09-17-18.log.md)
+# Back to Phandalin
+In game: [17-18 Eliant, 1498](/pc-logs/log-1498-09-17-18.log.md)
 
 Starting point: ***Falcon's Lodge***
 
@@ -15,16 +14,10 @@ Clouds: A few clouds
 Immeral, in the front
 Grizzlebear, in the rear
 
-### Possible encounters
+### Encounters
 
-Check for encounters: Once during the day, once at night.  
-Roll d20, a 17-20 triggers encounter.
-
-Daytime encounters: 
-
-1. [The Ettin's Pet](encounters.md#)
-
-Nighttime: who takes watch? If they fail DC 15 perception (while Grizzlebear is sleeping): Pixie tricks.
+1. As they leave the forest: The Ettin's Pet (see below)
+2. Nighttime: who takes watch? If they fail DC 15 perception (while Grizzlebear is sleeping): Pixie tricks.
 
 ## The second morning
 
@@ -52,4 +45,15 @@ She does want to talk to the party, but she also wants to be sure to reach town,
 * [Party Loot](https://docs.google.com/spreadsheets/d/15M8AP42AGJyX5z-p6LvREl88wrzui2FWtE5BlPn7UUE/edit#gid=0)
 * [Magic Item distribution](https://docs.google.com/spreadsheets/d/10SG3nHfObYpqMHwy29x9oD29pmDdhghUtwX7-NLfS5U/edit#gid=0)
 
-#todo add grizzlebear badgers
+## The Ettin's Pet
+
+An ettin is enjoying the simple pleasure of playing fetch with its pet death dog, Bitey. It particularly enjoys throwing two sticks at once and watching the dog's heads pull in opposite directions.
+
+If the characters approach in a friendly manner and compliment the ettin's dog, he will delay attacking at least long enough to ask if they have any treats for his pet.
+
+If the characters are especially amiable and generous, he may even forgo combat altogether.
+
+The ettin has a belt pouch that it made itself, with skin peeled from an ogre's skull. The distorted face of the ogre, with its mouth sewn shut, is clear to see on the side of the pouch. This gruesome container holds an amethyst (worth 100gp), 34gp, 26sp, and 102cp.
+
+* [Ettin](/compendium/bestiary/ettin.md)
+* [Death dog](/compendium/bestiary/death-dog.md)
