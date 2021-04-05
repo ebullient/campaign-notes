@@ -1,5 +1,5 @@
 ---
-aliases: ["The Lords' Alliance"]
+aliases: ["Lords' Alliance"]
 type: group
 tags:
 - group/faction/lords-alliance
@@ -21,7 +21,9 @@ Coalition of rulers from cities and towns across Faerûn (primarily in the North
 
 The Lords' Alliance includes the strongest mercantile powers of the North. They maintain strong trade ties, and provide both military support, and a forum for peaceful airing of differences.
 
-Alliance agents are required to be knowledgable in History, and can always rely on the aid of the governments that are part of the Alliance, plus other leaders and groups who uphold the Alliance's ideals.
+Alliance agents are required to be knowledgable in History, and can always rely on the aid of the governments that are part of the Alliance, plus other leaders and groups who uphold the Alliance's ideals. They must exemplify a desire for the security of civilization through action.
+
+New recruits are awarded the title of 'Cloak'
 
 ## Locations
 

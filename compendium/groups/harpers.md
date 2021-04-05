@@ -22,6 +22,8 @@ The Harpers are dedicated to promoting good, preserving history (including art a
 
 Harper agents are often proficient in Investigation, enabling them to be adept at snooping and spying. They often seek aid from other Harpers, sympathetic bards and innkeepers, rangers, and the clergy of gods' that are aligned with the Harpers' ideals.
 
+The Harpers recruit individuals that understand the value of the network and wish to enact positive change through information and secrecy. New recruits are given the title of 'Watcher'.
+
 ## Locations
 
 ```dataview

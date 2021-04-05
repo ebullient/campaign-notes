@@ -23,6 +23,7 @@ The public face of the organization appears much more benign, offering the best 
 
 Zhenterim agents must often work in secret, and are frequently proficient in Deception. They seek aid from wizards, mercenaries, merchants, and priesthoods allied with the Zhenterim.
 
+New members are recruited from those who share the Zhenterim's pursuits: Wealth and Power. New recruits gain the title of 'Fang'.
 
 ## Locations
 

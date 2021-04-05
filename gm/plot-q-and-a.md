@@ -1,13 +1,12 @@
 # Questions And Answers
 
 - [x] Who exactly is Mabina? 
-- [ ] What happened to Glasstaff?
-- [ ] Does the Black Spider matter anymore? If so, how?
 - [ ] Stone Cold Reavers? 
     - [ ] Did the Reavers and the Manticore meet?
+- [ ] What happened to Glasstaff?
+- [ ] Does the Black Spider matter anymore? If so, how?
 - [ ] Halia has no friends/allies, no obvious ties; all power comes from running the exchange. Right?
-- [ ] How does Reidoth feel about the Cultists and the Thunderboar?
-    - [ ] What about the Blights and the Gulthias tree? Does Reidoth know about the Gulthias tree yet?
+
 
 ## Dwarves moving into the area
 

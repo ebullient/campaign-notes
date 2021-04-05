@@ -1,5 +1,5 @@
 ---
-title:
+aliases: ['']
 type: location
 xtags: 
 - type/shop/{{shopType}}

@@ -37,7 +37,7 @@ Jarlaxle was very fond of magical items and was renowned for having a seemingly 
 
 ## Relationships
 
-* Leader of [Bregan D'aerthe](groups/bregan-daerthe.md)
+**Faction** Leader of [Bregan D'aerthe](groups/bregan-daerthe.md)
 
 ## Secrets
 

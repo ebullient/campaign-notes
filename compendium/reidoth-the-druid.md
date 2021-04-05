@@ -39,7 +39,7 @@ If he is threatened while in Thundertree, Reidoth will transform into a gray squ
 
 ## Relationships
 
-Member of the [Emerald Enclave](groups/emerald-enclave.md)
+**Faction** Member of the [Emerald Enclave](groups/emerald-enclave.md)
 
 * Friends 
   * [Quelline Alderleaf](phandalin/quelline-alderleaf.md)

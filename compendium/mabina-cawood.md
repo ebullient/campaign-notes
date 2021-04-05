@@ -34,7 +34,7 @@ The party traded "The Splendiferous Bauble" to her for the Handy Haversack. She 
 
 ## Relationships
 
-Mabina is a member of the [Harpers](groups/harpers.md)
+**Faction** Mabina is a member of the [Harpers](groups/harpers.md)
 Friends:
 * [Harbin Wester](phandalin/harbin-wester.md)
 * [Sister Garaele](phandalin/sister-garaele.md)

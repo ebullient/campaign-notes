@@ -1,5 +1,5 @@
 ---
-title:
+aliases: ['']
 type: group
 xtags:
 - {{factionTag}}

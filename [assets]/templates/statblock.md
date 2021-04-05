@@ -20,14 +20,11 @@ tags: [statblock]
 > - **Languages** —
 > - **Challenge** 1 (200 XP)
 >___
-> ### Traits
-> ...
->&nbsp;  
-> ...
->&nbsp;  
-> ### Actions
-> ...
->&nbsp;  
+> ***Trait name.*** Trait description
+> ## Actions
+> ***Attack.*** *Melee Weapon Attack.*
+> ***Attack.*** *Ranged Weapon Attack.*
+> ## Rections
 > ...
 
 ## History

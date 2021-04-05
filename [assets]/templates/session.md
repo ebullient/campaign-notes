@@ -1,7 +1,3 @@
----
-tags:
-- gm/outline
----
 # Session on 
 
 ## Main characters

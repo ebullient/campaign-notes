@@ -1,14 +1,16 @@
 ---
-aliases: ['']
+aliases: ['Velleen Firecrow'] 
 type: npc
-xtags:
+tags:
 - npc/alive
 - iff/unknown
-- group/...
-- location
+- group/faction/cult-of-talos
+- place/town/phandalin/lionshield-coster
 ---
-# {{Name}}
-<span class="subhead">{{primary location}}</span>
+# Velleen Firecrow
+<span class="subhead"></span>
+
+
 
 TL;DR description / personality / motivation
 
@@ -32,3 +34,5 @@ TL;DR description / personality / motivation
 ## History
 
 Any queries?
+
+ 
