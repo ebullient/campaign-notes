@@ -10,3 +10,6 @@ Wind: Light breeze (NE)
 Precipitation: Drizzle
 Clouds: Mostly cloudy
 Feature: Fog
+
+## Important NPC conversations
+
