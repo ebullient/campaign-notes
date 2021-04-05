@@ -1,5 +1,5 @@
 ---
-aliases: [Neverwinter Wood]
+aliases: ['Neverwinter Wood']
 type: location
 tags: 
 - type/region/forest

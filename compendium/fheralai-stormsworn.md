@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ['Fheralai Stormsworn']
 type: npc
 tags:
 - npc/alive

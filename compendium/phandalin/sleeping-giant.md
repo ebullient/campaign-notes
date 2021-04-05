@@ -1,5 +1,5 @@
 ---
-aliases: ["The Sleeping Giant"]
+aliases: ["Sleeping Giant"]
 type: location
 tags:
   - type/shop/tavern
