@@ -1,5 +1,4 @@
 ---
-type: log
-tags: [ timeline, events ]
+tags: [ timeline, events/pc ]
 ---
 # dd Mon Year: 

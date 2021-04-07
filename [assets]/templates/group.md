@@ -2,7 +2,7 @@
 aliases: ['']
 type: group
 xtags:
-- {{factionTag}}
+- {{groupTag}}
 ---
 # {{Title}}
 <span class="subhead">{{short description}}</span>
@@ -27,21 +27,21 @@ More...
 ## Locations
 
 ```dataview
-list from #{{factionTag}}
+list from #{{groupTag}}
 where type = "location"
 ```
 
 ## NPCs
 
 ```dataview
-list from #{{factionTag}}
+list from #{{groupTag}}
 where type = "npc"
 ```
 
 ## History
 
 ```dataview
-list from #{{factionTag}}  and "pc-logs"
+list from #{{groupTag}}  and "pc-logs"
 ```
 
 ## References

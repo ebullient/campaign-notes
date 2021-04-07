@@ -10,20 +10,31 @@
   text-decoration: none;
 }
 
-.theme-dark .markdown-preview-view .timeline-container h2 {
-  color: var(--gray-mid-dark);
-}
+.theme-light .timeline-card.enemy a.internal-link,
 .theme-dark .timeline-card.enemy a.internal-link {
   color: var(--red);
 }
+.theme-light .timeline-card.npc a.internal-link,
 .theme-dark .timeline-card.npc a.internal-link {
   color: var(--blue);
+}
+.theme-light .timeline-card.player a.internal-link {
+  color: var(--green);
 }
 .theme-dark .timeline-card.player a.internal-link {
   color: var(--bright-green);
 }
+.theme-light .timeline-card.place a.internal-link,
 .theme-dark .timeline-card.place a.internal-link {
-  color: var(--gray-blue);
+  color: var(--deep-blue);
+}
+
+.theme-light .timeline-card.enemy a.internal-link:hover,
+.theme-light .timeline-card.npc a.internal-link:hover,
+.theme-light .timeline-card.player a.internal-link:hover,
+.theme-light .timeline-card.place a.internal-link:hover,
+.theme-light .timeline-card a.internal-link:hover {
+    color: var(--dark-3);
 }
 
 .theme-dark .timeline-card.enemy a.internal-link:hover,
@@ -31,9 +42,37 @@
 .theme-dark .timeline-card.player a.internal-link:hover,
 .theme-dark .timeline-card.place a.internal-link:hover,
 .theme-dark .timeline-card a.internal-link:hover {
-    color: var(--bright-6);
+    color: var(--bright-3);
 }
 
 .timeline-container {
   page-break-inside: avoid;
+}
+
+.theme-light .markdown-preview-view .timeline-container h2 {
+  color: var(--gray-light-1);
+}
+.theme-light .timeline-left::before {
+  border: medium solid var(--gray-light-1);
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent var(--gray-light-1);
+}
+.theme-light .timeline-right::before {
+  border: medium solid var(--gray-light-1);
+  border-width: 10px 10px 10px 0;
+  border-color: transparent var(--gray-light-1) transparent transparent;
+}
+
+.theme-dark .markdown-preview-view .timeline-container h2 {
+  color: var(--gray-dark-2);
+}
+.theme-dark .timeline-left::before {
+  border: medium solid var(--gray-dark-2);
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent var(--gray-dark-2);
+}
+.theme-dark .timeline-right::before {
+  border: medium solid var(--gray-dark-2);
+  border-width: 10px 10px 10px 0;
+  border-color: transparent var(--gray-dark-2) transparent transparent;
 }
