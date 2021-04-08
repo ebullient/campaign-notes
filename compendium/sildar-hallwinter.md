@@ -22,6 +22,7 @@ Sildar is a retired soldier and sellsword who hails from the city of [Neverwinte
 
 ## Details
 
+Sildar Hallwinter is a kindhearted human male of nearly fifty years who holds a place of honor in the famous griffon cavalry of the great city of Waterdeep. He is an agent of the Lords’ Alliance, a group of allied political powers concerned with mutual security and prosperity. Members of the order ensure the safety of cities and other settlements by proactively eliminating threats by any means, while bringing honor and glory to their leaders and homelands.
 
 ## History
 
