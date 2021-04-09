@@ -232,13 +232,13 @@ Yeemik carries a pouch containing three platinum teeth (10 gp each) and 30 ep[^2
 **Sildar Hallwinter**
 
 If he is rescued and healed, he provides some useful information:
-* Klarg, the bugbear who leads this goblin band, had orders to waylay a large caravan headed to Phandalin.
-* His contact in Phandalin is a human wizard named Iarno Albrek. The wizard traveled to the town two months ago to establish order there. After the Lords’ Alliance received no word from Iarno, Sildar decided to investigate.
+* Klarg, the bugbear who leads this goblin band, had orders to  waylay a large caravan headed to Phandalin.
 * He intends to continue on to Phandalin, since it’s the nearest settlement. 
 * He offers to pay the party 500 gp to provide escort, which he will pay upon reaching Phandalin. 
 * First, he hopes they’ll put a stop to the goblin raids by clearing out the caves.
 
-He doesn’t have any weapons or armor, but he can take a shortsword from a defeated goblin or use a weapon loaned to him by a character.
+He doesn’t have any weapons or armor, but he can take a shortsword from a  
+defeated goblin or use a weapon loaned to him by a character.
 ```
 
 ### 7. Twin Pools Cave
@@ -280,5 +280,5 @@ Hidden among the supplies is an *unlocked treasure chest* belonging to Klarg. An
 The captured stores are bulky, and the characters will need a wagon to transport them.
 
 
-[^1]:escarpment : a long cliff or steep slope that separates two flat or slightly sloped areas
+[^1]:escarpment : a long cliff or steep slope that separates two flat or slightly sloped areas  
 [^2]: ep == electrum, remember?
