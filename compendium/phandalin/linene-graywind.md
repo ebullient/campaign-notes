@@ -30,7 +30,7 @@ The Lionshield Coster won’t sell weapons to anyone she thinks might be a threa
 Linene lives not far from the Lionshield Coster
 
 ## Relationships
-* Member of [Lionshield Coster](lionshield-coster.md)
+**Faction** Member of [Lionshield Coster](lionshield-coster.md)
 * Friends
 	* [Daran Edermath](daran-edermath.md)
 	* [Sister Garaele](sister-garaele.md)
@@ -40,6 +40,9 @@ Linene lives not far from the Lionshield Coster
 
 ## History
 
+```dataview
+list from #log/npc/lionshields and "pc-logs"
+```
 ```dataview
 list from #place/town/phandalin/lionshield-coster  and "pc-logs"
 ```

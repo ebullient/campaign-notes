@@ -40,6 +40,12 @@ Thornton owns a house to the southeast of the Miner's Exchange.
 ## Secrets
 
 ## History
+```dataview
+list from #log/npc/zhenterim and "pc-logs"
+```
+```dataview
+list from #place/town/phandalin/miners-exchange and "pc-logs"
+```
 
 From "A Rough Time in Phandalin":
 

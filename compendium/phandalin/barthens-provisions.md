@@ -23,7 +23,7 @@ Elmar employs a couple of young clerks ([Ander](ander.md) and [Thistle](thistle.
 ## NPCs
 
 ```dataview
-list from #place/town/phandalin/barthens-provisions
+list file.aliases[0] from #place/town/phandalin/barthens-provisions
 where type = "npc"
 ```
 

@@ -15,10 +15,11 @@ The windmill was made of surprisingly smooth stone, with narrow windows and tiny
 	The manticore howled and back-winged to the ground, batting at its nose and eyes with its paws. It backed up awkwardly and knocked over the beehive she’d set at the far edge of the remnants of the house attached to the windmill. In a few moments, the manticore was swatting at more than its face, as bees swarmed to protect their queen.
 	It felt odd to laugh, but there was something funny about a viscuios
 
-——
+---
+
 Manticore attacking the windmill, trying to get to the woman inside, who appeared periodically to yell things and throw blocks of wood at its face.
 
-——
+---
 
 Vaguely humanoid head
 bristling mane stretching down it’s back
