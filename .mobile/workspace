@@ -1,0 +1,83 @@
+{
+  "main": {
+    "id": "d440db6ed2da4752",
+    "type": "split",
+    "children": [
+      {
+        "id": "da57242957e7c1dc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pc-logs/log-1498-09-20.log.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ad683c0c97afd57",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "file-explorer",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "search",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "7fd2a91a890c3e09",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "backlink",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "pc-logs/log-1498-09-20.log.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ]
+  },
+  "active": "da57242957e7c1dc",
+  "lastOpenFiles": [
+    "pc-logs/log-1498-09-20.log.md",
+    "pc-logs/log-1498-09-19.log.md",
+    "gm/prep/2021-04-09-search-and-rescue.md",
+    "compendium/phandalin/linene-graywind.md",
+    "compendium/phandalin/lionshield-coster.md",
+    "gm/prep/encounters.md",
+    "gm/all-timeline.md",
+    "timeline.md"
+  ]
+}
