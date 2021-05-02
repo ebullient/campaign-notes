@@ -1,8 +1,5 @@
 # Search and Rescue
 
-## What else on 19th Eliant?
-* Drusz comes over later in the evening to return the letters that Harbin copied.
-
 ```ad-note
 The Cragmaw tribe is so named because each member of the tribe sharpens its teeth so they appear fierce and jagged.
 ```
