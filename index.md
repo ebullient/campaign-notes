@@ -4,11 +4,13 @@
 
 ## Locations
 
-```dataview
+```dataviewjs
+dv.list(dv.pages('"compendium"'))
+```
 list from "compendium"
 where type = "location"
 sort file.name asc
-```
+
 
 ## NPCs
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pc-logs/log-1498-09-20.log.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -18,11 +18,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d815b23509ebc314",
+    "id": "c7252082a73497fa",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "6293aefb67bbc9f2",
+        "id": "5547f5455a25e783",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -30,7 +30,7 @@
         }
       },
       {
-        "id": "142dc3422fd5fe37",
+        "id": "80ba47abac7e8556",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -45,7 +45,7 @@
         }
       },
       {
-        "id": "a4a2889ff76737ea",
+        "id": "97e7e7e583502a86",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -56,7 +56,7 @@
         }
       },
       {
-        "id": "ea55c9cf2457c2aa",
+        "id": "2fe17087d8c39947",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -66,16 +66,16 @@
     ]
   },
   "right": {
-    "id": "900310c7a65daea1",
+    "id": "35c340600f2d77dd",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bf287790f5d8aaf0",
+        "id": "275234c80a0ab354",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pc-logs/log-1498-09-20.log.md",
+            "file": "index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -87,24 +87,28 @@
         }
       },
       {
-        "id": "f28d64bd6a0c5f3f",
+        "id": "2de1337f3097b241",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "index.md"
+          }
         }
       }
     ]
   },
   "active": "da57242957e7c1dc",
   "lastOpenFiles": [
+    "index.md",
+    "readme.md",
+    "timeline.md",
     "pc-logs/log-1498-09-20.log.md",
     "pc-logs/log-1498-09-19.log.md",
     "gm/prep/2021-04-09-search-and-rescue.md",
     "compendium/phandalin/linene-graywind.md",
     "compendium/phandalin/lionshield-coster.md",
     "gm/prep/encounters.md",
-    "gm/all-timeline.md",
-    "timeline.md"
+    "gm/all-timeline.md"
   ]
 }
