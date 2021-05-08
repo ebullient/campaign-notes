@@ -21,9 +21,11 @@ tags:
 
 ## NPCs
 
-```dataview
-list from #place/town/phandalin/lionshield-coster
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/town/phandalin/lionshield-coster')
+  .where(p => p.type == "npc")
+  .sort(p => p.name, 'asc')
+  .map(k => '['+(k.file.aliases[0] ? k.file.aliases[0] : k.file.name)+']('+k.file.path+')'))
 ```
 
 ## History

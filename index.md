@@ -5,25 +5,26 @@
 ## Locations
 
 ```dataviewjs
-dv.list(dv.pages('"compendium"'))
+dv.list(dv.pages('"compendium"')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => '['+(k.file.aliases[0] ? k.file.aliases[0] : k.file.name)+'](/'+k.file.path+')'))
 ```
-list from "compendium"
-where type = "location"
-sort file.name asc
-
 
 ## NPCs
 
-```dataview
-list from "compendium"
-where type = "npc"
-sort file.name asc
+```dataviewjs
+dv.list(dv.pages('"compendium"')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => '['+(k.file.aliases[0] ? k.file.aliases[0] : k.file.name)+'](/'+k.file.path+')'))
 ```
 
 ## Groups
 
-```dataview
-list from "compendium"
-where type = "group"
-sort file.name asc
+```dataviewjs
+dv.list(dv.pages('"compendium"')
+  .where(p => p.type == "group")
+  .sort(p => p.file.name, 'asc')
+  .map(k => '['+(k.file.aliases[0] ? k.file.aliases[0] : k.file.name)+'](/'+k.file.path+')'))
 ```
