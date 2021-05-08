@@ -28,14 +28,14 @@ New recruits are awarded the title of 'Cloak'
 ## Locations
 
 ```dataview
-list from #group/faction/lords-alliance 
+list file.aliases[0] from #group/faction/lords-alliance 
 where type = "location"
 ```
 
 ## NPCs
 
 ```dataview
-list from #group/faction/lords-alliance 
+list file.aliases[0] from #group/faction/lords-alliance 
 where type = "npc"
 ```
 

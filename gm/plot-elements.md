@@ -1,6 +1,7 @@
 # Story elements
 
-<span class="nav">[Places](plot-elements.md#Places) [Principal actors](plot-elements.md#Principal%5C%20actors actors)  [Secondary actors](plot-elements.md#Secondary%5C%20actors actors) [Rough timeline](plot-elements.md#Rough%5C%20timeline timeline) [NPCs](plot-elements.md#NPCs)</span>
+<span class="nav">[Places](#Places) [Principal actors](#Principal%20actors) [Secondary actors](#Secondary%20actors) [Rough timeline](#Rough%20timeline) [NPCs](#NPCs)
+</span>
 
 ## Places
 
@@ -53,7 +54,6 @@ Displaced Many Arrows tribe allied with CoT
 
 Dagult Neverember wants Leilon to be successful, is sending Sildar to Phandalin to meet the party that Harbin has been nattering on about.. 
 
-
 ## Rough timeline
 
 ### Cult of Talos prepares... 
@@ -97,7 +97,7 @@ Dagult Neverember wants Leilon to be successful, is sending Sildar to Phandalin 
 - [ ] Order of the Gauntlet: Daran Edermath
 - [ ] Zhenterim: Halia Thornton
 
-### Cult of Myrkul arrives (... someday ...)
+### Cult of Myrkul arrives (... someday? ...)
 
 .....
 
@@ -140,6 +140,7 @@ Dagult Neverember wants Leilon to be successful, is sending Sildar to Phandalin 
     - [ ] Gildas "Glasstaff" and Simon (captured and escaped)
     - [ ] Redbrands? Where did they come from?
 - [ ] Cragmaw Goblins
+    - [x] Goblin Hideout / Klarg
 - [ ] Wizard at Old Owl Well (Red Thay)
 - [ ] Cult of the Dragon
 - [x] Venomfang

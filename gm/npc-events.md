@@ -105,8 +105,11 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 * 1498-08-25: Harbin receives response from Lords' Alliance. Dwarves en route from Gauntlgrym[^78]<span class='ob-timelines' data-class='npc' data-date='1498-08-25-00' data-title="Harbin receives response from Lords' Alliance">Notifies Halia of claim to Axeholm by Copperhorn dwarves</span>
 * 1498-08-28: Miners arrive with supplies for Mountain's Toe<span class='ob-timelines' data-class='npc' data-date='1498-08-28-00' data-title="Miners arrive with supplies for Mountain's Toe"></span>
 * 1498-08-29: Don-Jon Raskin and miners return to Mountain's Toe<span class='ob-timelines' data-class='npc' data-date='1498-08-29-00' data-title="Don-Jon Raskin and miners return to Mountain's Toe"></span>
+* 1498-09-10: A supply wagon leaves Neverwinter for Phandalin with mining supplies for Dazlyn and Norbus[^53]<span class='ob-timelines' data-class='npc' data-date='1498-09-10-00' data-title="Mining supplies for Dazlyn and Norbus leave Neverwinter"></span>
+* 1498-09-12: Sildar Hallwinter[^80] and Jeremiah Mundu[^81] leave Neverwinter<span class='ob-timelines' data-class='npc' data-date='1498-09-12-00' data-title='Sildar Hallwinter / Jeremiah Mundu and a wagon of supplies leave Neverwinter bound for Phandalin'></span>
+* 1498-09-14: Mining supplies offered as payment for passage to Cragmaw Goblins<span class='ob-timelines' data-class='npc' data-date='1498-09-14-00' data-title="Mining supplies offered as payment for passage to Cragmaw Goblins"></span>
 * 1498-09-15: Reidoth joins party at Circle of Thunder<span class='ob-timelines' data-class='npc' data-date='1498-09-15-00' data-title='Reidoth joins the party at Circle of Thunder'></span>
-
+* 1498-09-16: Lionshield Coster wagon is ambushed. Sildar and Jeremiah taken as hostages.<span class='ob-timelines' data-class='npc' data-date='1498-09-16-00' data-title="Lionshield Coster wagon is ambushed. Sildar and Jeremiah captured"></span>
 
 
 [^1]: Anchorites: [Grannoc](/compendium/archive/grannoc.md), [Moesko](/compendium/moesko.md), [Yargath](/compendium/archive/yargath.md), [Narux](/compendium/archive/narux.md), [Flenz](/compendium/archive/flenz.md)
@@ -131,7 +134,7 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 [^50]: A fragment of a once-mighty kingdom, [Many Arrows Orc Tribe](/compendium/groups/many-arrows-orc-tribe.md)
 [^51]: Abandoned: [Shrine of Savras](/compendium/shrine-of-savras.md)
 [^52]: Second business, [Butterskull Ranch](/compendium/butterskull-ranch.md)
-[^53]: Ruined temple or shrine, [Dwarven Excavation](/compendium/dwarven-excavation.md)
+[^53]: Ruined temple or shrine, [Dwarven Excavation](/compendium/dwarven-excavation.md) prospected by [Dazlyn Grayshard](../compendium/dazlyn-grayshard.md) and [Norbus Ironrune](../compendium/norbus-ironrune.md)
 [^54]: Reclusive Rock Gnome colony, [Gnomengarde](/compendium/gnomengarde.md)
 [^55]: Noble glamping site, [Falcon's Hunting Lodge](/compendium/neverwinter-wood/falcons-hunting-lodge.md)
 [^60]: Activist centaur, [Xanth](/compendium/neverwinter-wood/xanth.md)
@@ -145,6 +148,8 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 [^77]: New settlement at [Axeholm](/compendium/axeholm/axeholm.md)
 [^78]: Reclaimed Dwarven stronghold: [Gauntlgrym](/compendium/gauntlgrym.md)
 [^79]: Familiar NPC: [John Wick](../compendium/phandalin/john-wick.md)
+[^80]: Lords' Alliance agent [Sildar Hallwinter](../compendium/sildar-hallwinter.md)
+[^81]: Lionshield Coster Guard [Jeremiah Mundu](../compendium/jeremiah-mundu.md)
 
 
 

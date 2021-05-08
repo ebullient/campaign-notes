@@ -41,7 +41,7 @@ Linene lives not far from the Lionshield Coster
 ## History
 
 ```dataview
-list from #log/npc/lionshields and "pc-logs"
+list from #log/group/lionshields and "pc-logs"
 ```
 ```dataview
 list from #place/town/phandalin/lionshield-coster  and "pc-logs"

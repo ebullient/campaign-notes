@@ -1,11 +1,11 @@
-# Search and Rescue
+# Goblin Arrows / Search and Rescue
 
 ```ad-note
 The Cragmaw tribe is so named because each member of the tribe sharpens its teeth so they appear fierce and jagged.
 ```
 
 ## 20 Eliant, 1498
-In game: [20 Eliant, 1498](/pc-logs/log-1498-09-20.log.md)
+In game: [20 Eliant, 1498](../../pc-logs/log-1498-09-20-21.log.md)
 
 ```ad-tip
 Description: Cool  
@@ -279,3 +279,7 @@ The captured stores are bulky, and the characters will need a wagon to transport
 
 [^1]:escarpment : a long cliff or steep slope that separates two flat or slightly sloped areas  
 [^2]: ep == electrum, remember?
+
+## 21 Eliant
+
+In game: [21 Eliant, 1498](../../pc-logs/log-1498-09-20-21.log.md)
