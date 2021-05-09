@@ -284,7 +284,7 @@ a:hover {
   opacity: 1;
   text-decoration: dotted underline var(--text-accent);
 }
-
+/*
 a.external-link[href*='youtube'] {
   position: relative;
   margin-left: 1.3rem;
@@ -507,7 +507,7 @@ a.external-link[href*='medium'] {
   width: 1rem;
   content: '';
 }
-
+*/
 .cm-header,
 h1,
 h2,

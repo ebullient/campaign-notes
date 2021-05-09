@@ -31,9 +31,11 @@ In exchange, she will give you the **Bracers of Defense**, and the **Staff of Wo
 
 
 
-What does this really mean? 
+## What does this Noble business really mean? 
 
 Kyle Monsterdrinker would be the landed/titled noble (officially a Baron), claiming Tresendar Manor as his residence.
+Deed to manor. Already has papers 
+
 
 
 Town is busy preparing for Highharvestide festival. You hear nothing but buzzing about it as you unwind in the town.
@@ -43,6 +45,9 @@ You see many many new faces. The town is positively _humming_, and you begin to 
 
 10 DAY SKIP!
 
+### Highharvestide
+
+town green and surroundung area in front of Shrine of Luck all decked out.. games, events, happy people. prizes in silver pieces unless betting...
 
 
 ### Notes
