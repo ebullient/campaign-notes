@@ -1,4 +1,5 @@
 .mobile/workspace
+.mobile/graph.json
 .obsidian/workspace
 .obsidian/graph.json
 .obsidian/plugins/obsidian-git/data.json
