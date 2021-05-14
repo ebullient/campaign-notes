@@ -94,7 +94,7 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 * 1498-08-25: Dwarves leave Gauntlgrym[^78]<span class='ob-timelines' data-class='npc' data-date='1498-08-25-00' data-title="Dwarves leave Gauntlgrym"></span>
 * 1498-08-27: Copperhorn dwarves gather additional supplies in Neverwinter. <span class='ob-timelines' data-class='npc' data-date='1498-08-27-00' data-title="Copperhorn dwarves gather additional supplies in Neverwinter"></span>
 * 1498-08-28: Dazzlyn and Norbus try to claim Axeholm<span class='ob-timelines' data-class='npc' data-date='1498-08-28-00' data-title="Dazzlyn and Norbus try to claim Axeholm">Enterprising business partners didn't know that dwarven claim already established via Lords' Alliance.</span>
-* 1498-08-30: Copperhorn dwarves reaches Phandalin<span class='ob-timelines' data-class='npc' data-date='1498-08-30-00' data-title="Copperhorn dwarves arrive in Phandalin"></span>
+* 1498-08-30: Copperhorn dwarves reach Phandalin<span class='ob-timelines' data-class='npc' data-date='1498-08-30-00' data-title="Copperhorn dwarves arrive in Phandalin"></span>
 * 1498-09-03: John[^79] leads Copperhorn dwarves to Axeholm<span class='ob-timelines' data-class='npc' data-date='1498-09-03-00' data-title="John leads Copperhorn dwarves to Axeholm"></span>
 
 ### Others

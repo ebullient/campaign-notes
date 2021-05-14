@@ -8,13 +8,12 @@ tags:
 ---
 ![Harbin Wester](/[assets]/attachments/harbin-wester.jpg#portrait)
 # Harbin Wester
-<span class="subhead">Male human townmaster, {{alignment}}  
-[Townmaster's Hall](townmasters-hall.md), Phandalin</span> 
+<span class="subhead">[Townmaster's Hall](townmasters-hall.md), Phandalin</span> 
 
 Thin voice, but rational. Still fearful.
 Pompous, middle-aged banker.
 
-> *{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
+> *Male human townmaster, {{alignment}}*  
 > * **Trait**
 > * **Ideals**
 > * **Bonds**

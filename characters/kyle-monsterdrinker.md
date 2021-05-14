@@ -1,14 +1,8 @@
 ---
-aliases: ['Velleen Firecrow'] 
-type: npc
-tags:
-- npc/alive
-- iff/unknown
-- group/faction/cult-of-talos
-- place/town/phandalin/lionshield-coster
+aliases: ['Kyle Monsterdrinker']
+type: pc
 ---
-# Velleen Firecrow
-<span class="subhead"></span>
+# Kyle Monsterdrinker
 
 TL;DR description / personality / motivation
 
@@ -21,16 +15,16 @@ TL;DR description / personality / motivation
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-
+Awarded Tresendar Manor as reward.
+[Tresendar Manor Deed](../pc-logs/Tresendar%20Manor%20Deed.pdf)
 
 ## Relationships
 
-**Faction** [Cult of Talos](../groups/cult-of-talos.md)
+**Faction** New agent of the [Lords' Alliance](../compendium/groups/lords-alliance.md)
+
 
 ## Secrets
 
 ## History
 
 Any queries?
-
- 

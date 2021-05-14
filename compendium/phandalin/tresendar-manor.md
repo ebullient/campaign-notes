@@ -12,6 +12,8 @@ tags:
 Home to [Hot Dog (Nothic)](hot-dog-nothic.md). 
 Cleared of Redbrands.
 
+Granted to [Kyle Monsterdrinker](../../characters/kyle-monsterdrinker.md) as a reward.
+
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
@@ -26,5 +28,3 @@ where type = "npc"
 ```dataview
 list from #place/town/phandalin/tresendar-manor  and "pc-logs"
 ```
-
-#todo

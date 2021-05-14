@@ -22,7 +22,7 @@ The Lord Protector of Neverwinter, Dagult Neverember, recently hired a group of 
 
 ### Not introduced yet: 
 
-* **[Cult of Myrkul](/compendium/groups/cult-of-myrkul.md)**  
+**[Cult of Myrkul](/compendium/groups/cult-of-myrkul.md)**  
     With Myrkul’s return to the pantheon, his worshipers, lead by [Ularan Mortus](/compendium/ularan-mortus.md), have quested across the seas to raise the ancient black dragon Ebondeath from the dead.
 
 #### Tension: Cult of Talos vs. Cult of Myrkul:
@@ -33,12 +33,12 @@ The Lord Protector of Neverwinter, Dagult Neverember, recently hired a group of 
 ## Secondary actors
 
 ### Dragons
-* **[Cryovain](/compendium/bestiary/dragon.md)**  
+* [x] **[Cryovain](/compendium/bestiary/dragon.md)**  
     The young white dragon was driven south by powerful dragons. Found a partly destroyed mountaintop stronghold and made it her own.
     * Cryovain displaced [Many Arrows Orc Tribe](/compendium/groups/many-arrows-orc-tribe.md) from Icespire Hold
     * Displaced Orcs splintered: some settled in Shrine of Savras, displacing the [Whiskered Gang](/compendium/archive/whiskered-gang.md), who in turn took over Mountain's Toe Gold Mine; others went to Woodland Manse; still others spread out across the foothills heading west.
 
-* **[Venomfang](/compendium/bestiary/dragon.md)**  
+* [x] **[Venomfang](/compendium/bestiary/dragon.md)**  
     The young green dragon spotted the abandoned Wizard's tower while looking for its own lair.
 
 ### Drow
@@ -52,7 +52,7 @@ Displaced Many Arrows tribe allied with CoT
 
 ### Lords' Alliance
 
-Dagult Neverember wants Leilon to be successful, is sending Sildar to Phandalin to meet the party that Harbin has been nattering on about.. 
+- [x] Dagult Neverember wants Leilon to be successful, is sending Sildar to Phandalin to meet the party that Harbin has been nattering on about.. 
 
 ## Rough timeline
 
@@ -91,11 +91,11 @@ Dagult Neverember wants Leilon to be successful, is sending Sildar to Phandalin 
 
 - [ ] Bregan D'aerthe: ...
 - [ ] Cult of Talos: [Velleen Firecrow](/compendium/phandalin/velleen-firecrow.md)
-- [ ] Lords' Alliance:
-- [ ] Harpers: Sister Garaele, Mabina
-- [ ] Lionshield Coster: Linene Graywind
-- [ ] Order of the Gauntlet: Daran Edermath
-- [ ] Zhenterim: Halia Thornton
+- [ ] Lords' Alliance: [Sildar Hallwinter](/compendium/sildar-hallwinter.md)
+- [ ] Harpers: [Sister Garaele](/compendium/phandalin/sister-garaele.md), [Mabina Cawood](/compendium/mabina-cawood.md)
+- [ ] Lionshield Coster: [Linene Graywind](/compendium/phandalin/linene-graywind.md)
+- [ ] Order of the Gauntlet: [Daran Edermath](/compendium/phandalin/daran-edermath.md)
+- [ ] Zhenterim: [Halia Thornton](/compendium/phandalin/halia-thornton.md)
 
 ### Cult of Myrkul arrives (... someday? ...)
 

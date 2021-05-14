@@ -1,14 +1,8 @@
 ---
-aliases: ['Velleen Firecrow'] 
-type: npc
-tags:
-- npc/alive
-- iff/unknown
-- group/faction/cult-of-talos
-- place/town/phandalin/lionshield-coster
+aliases: ['Riardon Xiloscient']
+type: pc
 ---
-# Velleen Firecrow
-<span class="subhead"></span>
+# Riardon Xiloscient
 
 TL;DR description / personality / motivation
 
@@ -25,12 +19,10 @@ TL;DR description / personality / motivation
 
 ## Relationships
 
-**Faction** [Cult of Talos](../groups/cult-of-talos.md)
+**Organization or Faction**
 
 ## Secrets
 
 ## History
 
 Any queries?
-
- 

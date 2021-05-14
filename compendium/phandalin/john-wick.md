@@ -1,18 +1,17 @@
 ---
 aliases: ['John Wick'] 
 type: npc
-xtags:
+tags:
 - npc/alive
-- iff/unknown
-- group/...
-- location
+- iff/friend
+- place/town/phandalin
 ---
 # John WIck
 <span class="subhead">Phandalin</span>
 
-TL;DR description / personality / motivation
+Folk hero, former adventurer. 
 
-> *{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
+> *Male human Carpenter, neutral good*  
 > * **Trait**
 > * **Ideals**
 > * **Bonds**
@@ -25,10 +24,11 @@ TL;DR description / personality / motivation
 
 ## Relationships
 
-**Organization or Faction**
+
 
 ## Secrets
 
 ## History
 
-Any queries?
+- Guided [Dalgal Copperhorn](../axeholm/dalgal-copperhorn.md) to Axeholm
+- Found and lost a rock named Lith 

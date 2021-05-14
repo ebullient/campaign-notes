@@ -26,8 +26,6 @@ Helps load and unload wagons, and waits on customers when Barthen isn’t around
 
 ## Relationships
 
-**Organization or Faction**
-
 * Works for [Elmar Barthen](elmar-barthen.md)
 * [Thistle](thistle.md) is his sister
 
