@@ -2,6 +2,7 @@
 tags: [ timeline, events/pc ]
 ---
 # Highharvestide 1498: 
+<span class='ob-timelines' data-class='player' data-date='1498-10-00-00' data-title="Highharvestide fair">A celebration. A new friend? </span>
 
 A fair! Phandalin packed to the gills with folks of all kinds, including lots of dwarves from nearby Axeholm.
 
