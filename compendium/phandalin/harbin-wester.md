@@ -15,9 +15,9 @@ Pompous, middle-aged banker.
 
 > *Male human townmaster, {{alignment}}*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 ![Harbin's home](/[assets]/attachments/phandalin-townmaster.jpeg#portrait)

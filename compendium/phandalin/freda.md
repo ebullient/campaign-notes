@@ -13,9 +13,9 @@ TL;DR description / personality / motivation
 
 > *Female human weaver, neutral good*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

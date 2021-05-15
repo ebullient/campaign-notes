@@ -13,9 +13,9 @@ Jeremiah Mundu has a square face, with red hair and amber eyes.
 
 > *Male human Guard, lawful good*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

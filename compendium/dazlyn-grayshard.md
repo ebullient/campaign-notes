@@ -16,9 +16,9 @@ He and Norbus are like brothers. They have spent so many years together that the
 
 > *Male dwarf prospector, lawful good*  
 > * **Trait** Curious
-> * **Ideals** Fairness, Respect
-> * **Bonds** Dedicated to fulfilling a personal life goal
-> * **Flaws** Is terrified of spiders, and tries to hide it
+> * **Ideal** Fairness, Respect
+> * **Bond** Dedicated to fulfilling a personal life goal
+> * **Flaw** Is terrified of spiders, and tries to hide it
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

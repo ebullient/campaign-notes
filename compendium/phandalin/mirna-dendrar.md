@@ -12,9 +12,9 @@ tags:
 
 > *Female human Shopkeeper, lawful good*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

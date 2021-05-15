@@ -16,9 +16,9 @@ She wears modest garments and an iron amulet.
 
 > *Female half-orc Anchorite of Talos, chaotic evil*
 > * **Trait** I ask a lot of questions.
-> * **Ideals** The strongest are meant to rule.
-> * **Bonds** I will face any challenge to win the approval of my clan.
-> * **Flaws** I have trouble trusting in my allies.
+> * **Ideal** The strongest are meant to rule.
+> * **Bond** I will face any challenge to win the approval of my clan.
+> * **Flaw** I have trouble trusting in my allies.
 
 
 ## Details

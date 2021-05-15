@@ -14,9 +14,9 @@ Elsa has a square face, with short auburn hair and amber eyes.
 
 > *Human female bar-maid, chaotic good*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

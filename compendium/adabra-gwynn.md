@@ -16,9 +16,10 @@ Fiercely independent
 
 > *Female human apothecary, [Outlander](https://5ebackgrounds.com/outlander/), neutral good*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw
+> * **
 
 Potions of healing cost 50gp
 [Mirna Dendrar](/compendium/phandalin/mirna-dendrar.md) sells her potions and poultices in town at [The Crafty Hand](phandalin/crafty-hand.md).

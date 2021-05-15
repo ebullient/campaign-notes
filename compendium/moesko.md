@@ -15,9 +15,9 @@ Moesko uses the tower's pulsing beacon to draw ships to their doom as sacrifices
 
 > *Male half-orc Anchorite of Talos, neutral evil*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

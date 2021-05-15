@@ -20,9 +20,9 @@ TL;DR description / personality / motivation
 
 > *Male drow Faction leader, chaotic neutral*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 [Jarlaxle](https://forgottenrealms.fandom.com/wiki/Jarlaxle)
 

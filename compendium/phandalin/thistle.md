@@ -13,9 +13,9 @@ Thistle has an angular face, with braided golden hair and dark hazel eyes. She i
 
 > *Female human clerk, {{alignment}}*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

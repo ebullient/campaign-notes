@@ -14,9 +14,9 @@ Spirited and precocious halfling 10-year-old. Enchanted by the idea of being an 
 
 > *Male halfling Farmboy, chaotic good*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 ![Alderleaf farm](/[assets]/attachments/phandalin-alderleaf-farm.jpeg#portrait)

@@ -15,9 +15,9 @@ He stands 6 feet, 6 inches tall, and has black hair and broad shoulders. His eye
 
 > *Male human Noble, Sharpshooter/Expert, neutral good*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 He wears a fur-lined cloak over his studded leather armor.
 

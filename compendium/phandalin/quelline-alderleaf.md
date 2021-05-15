@@ -14,9 +14,9 @@ Pragmatic and wise farmer who seems to know everything going on in the town.
 
 > *Female Halfling Farmer, Neutral good*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 Qelline is a kind soul, always willing to let travelers stay in the hayloft in her barn. 
 

@@ -16,9 +16,9 @@ He tugs his beard while he is thinking, and is an expert dart thrower. He is gre
 
 > *Male dwarf Castellan, lawful good*  
 > * **Trait** He is suspicious of strangers, and is slow to trust.
-> * **Ideals** Respect / Responsibility to his clan
-> * **Bonds** Protective of compatriots
-> * **Flaws** Envies the success of other clans and strongholds
+> * **Ideal** Respect / Responsibility to his clan
+> * **Bond** Protective of compatriots
+> * **Flaw** Envies the success of other clans and strongholds
 > * Speaks Common or any other non-dwarf language only when necessary.
 
 Dalgal wants to rebuild a home for his clan and find scattered survivors.

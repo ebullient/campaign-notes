@@ -15,9 +15,9 @@ He is known to be helpful and talkative, especially to those that are respectful
 
 > *Male human Innkeeper, lawful good*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

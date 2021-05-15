@@ -14,9 +14,9 @@ Yargath was tall, and mean looking, with several missing teeth. He had shoulder-
 
 > *Male half-orc [Anchorite of Talos](../bestiary/anchorite-of-talos.md), neutral evil*
 > * **Trait** I bluntly say what other people are hinting or hiding.
-> * **Ideals** Knowledge is the path to power and domination.
-> * **Bonds** I will do anything to prove myself superior to me hated rival.
-> * **Flaws** I'm a sucker for a pretty face.
+> * **Ideal** Knowledge is the path to power and domination.
+> * **Bond** I will do anything to prove myself superior to me hated rival.
+> * **Flaw** I'm a sucker for a pretty face.
 
 
 ## Details

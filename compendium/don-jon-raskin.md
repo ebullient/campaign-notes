@@ -13,9 +13,9 @@ Full of bluster and stories of his great exploits, Don-Jon Raskin walks and talk
 
 > *Male human Overseer, neutral*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 He has worked as a gold prospector, miner, fur trader, privateer, and whaler. He even ran a trading post on the outskirts of Neverwinter for a few seasons.
 

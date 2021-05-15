@@ -13,9 +13,9 @@ He has curly blonde hair and bright hazel eyes. Late teens, early twenties, stro
 
 > *Male human Clerk, {{alignment}}*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 Helps load and unload wagons, and waits on customers when Barthen isn’t around
 

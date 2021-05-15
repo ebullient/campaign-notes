@@ -15,9 +15,9 @@ A fit, silver-haired _half-elf_ well over a hundred years old. He lives in a tid
 
 > *Male half-elf orchard-keeper, lawful good*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

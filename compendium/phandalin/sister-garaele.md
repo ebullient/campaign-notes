@@ -14,9 +14,9 @@ Cleric/Acolyte of Tymora (zealous).
 
 > *Female elf Cleric, Faction Agent, chaotic good*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 Sister Garaele regularly reports to her superiors in Neverwinter on events in and around Phandalin. The shrine is left untended when she is away.
 

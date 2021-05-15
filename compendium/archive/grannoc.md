@@ -14,9 +14,9 @@ Grannoc hoped Talos will answer his prayers and rain destruction down upon Falco
 
 > *Male half-orc [Anchorite of Talos](../bestiary/anchorite-of-talos.md), neutral evil*
 > * **Trait** I get bitter if I'm not the center of attention.
-> * **Ideals** If I become strong, I can take what I want--what I deserve.
-> * **Bonds** Something important was taken from me, and I aim to steal it back.
-> * **Flaws** I am inflexible in my thinking.
+> * **Ideal** If I become strong, I can take what I want--what I deserve.
+> * **Bond** Something important was taken from me, and I aim to steal it back.
+> * **Flaw** I am inflexible in my thinking.
 
 
 ## Details

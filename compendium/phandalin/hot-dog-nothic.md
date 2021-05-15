@@ -14,9 +14,9 @@ Nothic living under the old Tresendar Manor. Was bribed and allowed to continue 
 
 > *Nothic, neutral evil*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

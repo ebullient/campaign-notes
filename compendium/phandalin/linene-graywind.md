@@ -17,9 +17,9 @@ Master of the Phandalin post of [Lionshield Coster](lionshield-coster.md)
 
 > *Human woman, Trading post master, lawful good*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 The Lionshield Coster won’t sell weapons to anyone she thinks might be a threat to the town willing to share news about what is going on in the town with customers.
 

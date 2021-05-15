@@ -18,9 +18,9 @@ He is wiry, lean, old, and ... terse, but not unkind.
 
 > *Male human Druid, Hermit, Faction Agent, neutral good*  
 > * **Trait** I'm confident in my own abilities and do what I can to instill confidence in others.
-> * **Ideals** The natural world is more important than all the constructs of civilization. 
-> * **Bonds** Someone I loved died because of a mistake I made. That will never happen again.
-> * **Flaws** I am easily distracted by the promise of information.
+> * **Ideal** The natural world is more important than all the constructs of civilization. 
+> * **Bond** Someone I loved died because of a mistake I made. That will never happen again.
+> * **Flaw** I am easily distracted by the promise of information.
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

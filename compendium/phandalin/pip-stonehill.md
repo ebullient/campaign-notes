@@ -14,9 +14,9 @@ Energetic boy; lanky and ungraceful. Energetic. Helps his parents at the Inn whe
 
 > *Male human boy, Innkeeper's son, neutral good*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

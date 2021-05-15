@@ -6,11 +6,11 @@ type: pc
 
 TL;DR description / personality / motivation
 
-> *{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
-> * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> *Male high elf Bard, {{alignment}}*  
+> * **Trait** I love spreading happiness through music, storytelling, and poetry
+> * **Ideal** The world is in need of new ideas and bold action.
+> * **Bonds** My lyre is the only thing that I still have from my home
+> * **Flaws** I can't help cracking a joke, even in serious situations
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

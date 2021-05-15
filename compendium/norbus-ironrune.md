@@ -17,9 +17,9 @@ He and Dazlyn are like brothers. They have spent so many years together that the
 
 > *Male dwarf prospector, lawful good*  
 > * **Trait** Gruff (to the point of rudeness), cautious
-> * **Ideals** Greater good / honor
-> * **Bonds** Loyal to Dazlyn, as trusted friend and partner
-> * **Flaws** He can be arrogant at times
+> * **Ideal** Greater good / honor
+> * **Bond** Loyal to Dazlyn, as trusted friend and partner
+> * **Flaw** He can be arrogant at times
 
 Norbus is great at solving puzzles, and loves prospecting new sites.
 

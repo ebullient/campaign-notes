@@ -16,9 +16,9 @@ She wants her guild to be the governing body of the village. #story/unexplored
 
 > *Female human Guildmaster, lawful neutral*  
 > * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Ideal**
+> * **Bond**
+> * **Flaw**
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 ![Halia's home](/[assets]/attachments/phandalin-miners-exchange.jpeg#portrait)

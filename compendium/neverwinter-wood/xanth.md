@@ -13,9 +13,9 @@ Xanth is very intelligent. While quiet, he is very inquisitive. He learned Commo
 
 > *Male centaur, [Outlander](https://5ebackgrounds.com/outlander/), [Samurai Fighter](http://dnd5e.wikidot.com/fighter:samurai), neutral good*  
 > * **Trait** I place no stock in wealthy or well-mannered folk. Money and manners won’t save you from a hungry owlbear.
-> * **Ideals** The natural world is more important than all the constructs of civilization.
-> * **Bonds** An injury to the unspoiled wilderness of my home is an injury to me.
-> * **Flaws** I am slow to trust members of other races, tribes, and societies.
+> * **Ideal** The natural world is more important than all the constructs of civilization.
+> * **Bond** An injury to the unspoiled wilderness of my home is an injury to me.
+> * **Flaw** I am slow to trust members of other races, tribes, and societies.
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
