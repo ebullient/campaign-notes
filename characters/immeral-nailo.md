@@ -7,10 +7,14 @@ type: pc
 An outlander. Out for revenge against the dragon that decimated his village. Searching for his sister.
 
 > *Male wood elf Ranger, chaotic good*  
-> * **Trait**
-> * **Ideals**
-> * **Bonds**
-> * **Flaws**
+> * **Trait** I once ran twenty-five miles without stopping to warn
+my clan of an approaching orc horde. I’d do it again if I
+had to.
+> * **Ideals** Life is like the seasons, in constant change, and we
+must change with it.
+> * **Bonds** I am the last of my tribe, and it is up to me to ensure
+their names enter legend.
+> * **Flaws** There’s no room for caution in a life lived to the fullest.
 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 

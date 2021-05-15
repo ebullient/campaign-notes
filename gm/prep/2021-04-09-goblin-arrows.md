@@ -5,7 +5,7 @@ The Cragmaw tribe is so named because each member of the tribe sharpens its teet
 ```
 
 ## 20 Eliant, 1498
-In game: [20 Eliant, 1498](../../pc-logs/log-1498-09-20-21.log.md)
+In game: [20 Eliant, 1498](../../pc-logs/log-1498-09-20-21.md)
 
 ```ad-tip
 Description: Cool  
@@ -282,4 +282,4 @@ The captured stores are bulky, and the characters will need a wagon to transport
 
 ## 21 Eliant
 
-In game: [21 Eliant, 1498](../../pc-logs/log-1498-09-20-21.log.md)
+In game: [21 Eliant, 1498](../../pc-logs/log-1498-09-20-21.md)

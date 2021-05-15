@@ -52,7 +52,31 @@
 }
 
 .admonition-content {
-    margin: 0 0.6rem;
+  margin: 10px 15px;
+  padding-right: 25px;
+  position: relative;
+}
+
+.admonition-content-copy {
+    color: var(--text-faint);
+    cursor: pointer;
+    opacity: 0;
+    position: absolute;
+    right: 0px;
+    top: 0;
+    transition: 0.3s opacity ease-in;
+}
+
+.admonition-content-copy:hover {
+    color: var(--text-normal);
+}
+
+.admonition:hover .admonition-content-copy,
+.admonition-content-copy:hover {
+    opacity: 1;
+}
+.admonition-title:hover + .admonition-content .admonition-content-copy {
+    opacity: 0;
 }
 
 details.admonition:not([open]) {
@@ -70,7 +94,8 @@ details.admonition > summary {
     cursor: pointer;
 }
 
-details.admonition > summary::-webkit-details-marker {
+details.admonition > summary::-webkit-details-marker,
+details.admonition > summary::marker {
     display: none;
 }
 

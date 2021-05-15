@@ -1,5 +1,5 @@
 # Back to Phandalin
-In game: [17-18 Eliant, 1498](/pc-logs/log-1498-09-17-18.log.md)
+In game: [17-18 Eliant, 1498](../../pc-logs/log-1498-09-17-18.md)
 
 Starting point: ***Falcon's Lodge***
 

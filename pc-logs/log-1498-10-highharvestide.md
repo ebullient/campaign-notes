@@ -23,3 +23,7 @@ d) Log splitting
  
  e) Greased pig
     Kyle won a sausage
+    
+#todo What book did Riardon win?
+
+#log/longrest/home   

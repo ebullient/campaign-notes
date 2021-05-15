@@ -54,6 +54,8 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 * 1498-09-13: Mabina travels to Mirabar<span class='ob-timelines' data-class='npc' data-date='1498-09-13-00' data-title="Mabina travels to Mirabar"></span>
 * 1498-09-16: Mabina travels to Triboar<span class='ob-timelines' data-class='npc' data-date='1498-09-16-00' data-title="Mabina travels to Triboar"></span>
 * 1498-09-18: Mabina travels to Phandalin<span class='ob-timelines' data-class='npc' data-date='1498-09-18-00' data-title="Mabina travels to Phandalin"></span>
+* 1498-09-21: Mabina and the party make a trade<span class='ob-timelines' data-class='npc' data-date='1498-09-21-00' data-title="Mabina and the party make a trade">Bracers of Defense and Staff of the Woodlands in exchange for many things.</span>
+* 1498-09-22: Mabina travels to Leilon<span class='ob-timelines' data-class='npc' data-date='1498-09-22-00' data-title="Mabina travels to Leilon"></span>
 
 ### Manticores
 

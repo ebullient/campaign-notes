@@ -6,7 +6,7 @@ type: pc
 
 TL;DR description / personality / motivation
 
-> *{{gender}} {{race}} {{role/occupation}}, {{alignment}}*  
+> *Male dwarf Barbarian, {{alignment}}*  
 > * **Trait**
 > * **Ideals**
 > * **Bonds**
@@ -15,10 +15,9 @@ TL;DR description / personality / motivation
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
 
 ## Details
-
+Going to kill all the beasts that 
 
 ## Relationships
-
 **Organization or Faction**
 
 ## Secrets
