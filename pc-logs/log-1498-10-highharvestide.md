@@ -2,7 +2,7 @@
 tags: [ timeline, events/pc ]
 ---
 # Highharvestide 1498: 
-<span class='ob-timelines' data-class='player' data-date='1498-10-00-00' data-title="Highharvestide fair">A celebration. A new friend? </span>
+<span class='ob-timelines' data-class='player' data-date='1498-10-00-00' data-title="Highharvestide fair">A celebration. A new friend? Some new things to do.</span>
 
 A fair! Phandalin packed to the gills with folks of all kinds, including lots of dwarves from nearby Axeholm.
 
@@ -27,4 +27,9 @@ d) Log splitting
     
 #todo What book did Riardon win?
 
-#log/longrest/home   
+John introduced them to Kurdu, whom the party accepted.
+
+#log/longrest/home 
+
+Spent the day getting to know Kurdu.
+Visited Hot Dog (Hot Dog learned that Grizzlebear)
