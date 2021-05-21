@@ -1,6 +1,8 @@
 # Session on May 14, 2021
 
 ## Highharvestide, 1498 .. continued
+In game:   [log-1498-10-highharvestide](../../pc-logs/log-1498-10-00-highharvestide-01.md)
+
 > The afternoon slips into evening, and things get quieter, but the town seems content to continue gathering together outside. The weather is wonderful. 
 
 > You all grab food and drinks (free because the town loves you, and because they hope Riardon will entertain them afterwards), and grab an empty trestle table. You're just getting settled when John approaches. He is accompanied by a dwarf, and both also have food in their hands. 
@@ -40,8 +42,8 @@ End of highharvestide -- long rest
 [Hot Dog (nothic)](../../compendium/phandalin/hot-dog-nothic.md)
 
 ## Encounter
-- [ ] Choose relevant monsters: Two wyverns (possibly a manticore)
-- [ ] Select rewards
+- [x] Choose relevant monsters: Two wyverns (possibly a manticore)
+- [ ] Select rewards #todo
    - Visit Leilon
    - Tower of storms
    - Goat guard duty

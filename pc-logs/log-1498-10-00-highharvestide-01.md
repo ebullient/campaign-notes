@@ -32,4 +32,6 @@ John introduced them to Kurdu, whom the party accepted.
 #log/longrest/home 
 
 Spent the day getting to know Kurdu.
-Visited Hot Dog (Hot Dog learned that Grizzlebear)
+Visited Hot Dog (Hot Dog learned that Grizzlebear likes cucumbers)
+
+#log/longrest/home 

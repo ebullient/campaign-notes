@@ -50,7 +50,7 @@ You see many many new faces. The town is positively _humming_, and you begin to 
 In game:   [log-1498-09-22-30](../../pc-logs/log-1498-09-22-30.md)
 
 ## Highharvestide
-In game:   [log-1498-10-highharvestide](../../pc-logs/log-1498-10-highharvestide.md)
+In game:   [log-1498-10-highharvestide](../../pc-logs/log-1498-10-00-highharvestide-01.md)
 town green and surroundung area in front of Shrine of Luck all decked out.. games, events, happy people. prizes in silver pieces unless betting...
 
 
