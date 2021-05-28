@@ -25,13 +25,17 @@ d) Log splitting
  e) Greased pig
     Kyle won a sausage
     
-#todo What book did Riardon win?
-
 John introduced them to Kurdu, whom the party accepted.
 
+Harbin and Sildar encouraged the party to investigate some weirdness on the coast.
+
+#log/npc/harbin-wester 
+#log/npc/sildar-hallwinter 
 #log/longrest/home 
 
 Spent the day getting to know Kurdu.
 Visited Hot Dog (Hot Dog learned that Grizzlebear likes cucumbers)
 
+#log/npc/hot-dog
+#log/monster/nothic 
 #log/longrest/home 

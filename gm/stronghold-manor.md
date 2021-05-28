@@ -3,8 +3,6 @@ Rebuild Tresendar manor.
 Two levels of dungeon/basement (with Nothic)
 Completely ruined upstairs
 
-
-
 ## Notes from sources
 
 ### S&F

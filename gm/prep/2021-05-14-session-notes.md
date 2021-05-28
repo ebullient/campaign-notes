@@ -26,6 +26,7 @@ In game:   [log-1498-10-highharvestide](../../pc-logs/log-1498-10-00-highharvest
 Kurdu can stay with party at house
 
 End of highharvestide -- long rest
+
 1 day spent in town / at home -- visited Hot Dog, fed him gorthok meat
 
 

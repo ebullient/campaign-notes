@@ -1,9 +1,10 @@
 # Session on May 7, 2021
+Trade w/ mabina + highharvestide shennanigans
 
 ## 21 Eliant, 1498 .. continued
 In game:   [log-1498-09-20-21](../../pc-logs/log-1498-09-20-21.md)
 
-At Stonehill Inn? 
+From last week... you made it to Stonehill Inn? 
 * [Sildar Hallwinter](../../compendium/sildar-hallwinter.md) made an offer before retiring
 * [Harbin Wester](../../compendium/phandalin/harbin-wester.md) expressed his hope that you would stay
 
@@ -37,13 +38,14 @@ In exchange, she will give you the **Bracers of Defense**, and the **Staff of Wo
 
 Kyle Monsterdrinker would be the landed/titled noble (officially a Baron), claiming Tresendar Manor as his residence.
 Deed to manor. Already has papers 
+[Tresendar Manor Deed](../../pc-logs/Tresendar%20Manor%20Deed.pdf)
 
 Town is busy preparing for Highharvestide festival. You hear nothing but buzzing about it as you unwind in the town.
 
 You see many many new faces. The town is positively _humming_, and you begin to really appreciate why Harbin is so pleased. Phandalin is growing.
 
 ### Notes
-
+#todo
 1500 gp from Party to help + 2500 gp + Materials from Lord Neverember
 
 ## TEN DAY SKIP
@@ -53,8 +55,6 @@ In game:   [log-1498-09-22-30](../../pc-logs/log-1498-09-22-30.md)
 In game:   [log-1498-10-highharvestide](../../pc-logs/log-1498-10-00-highharvestide-01.md)
 town green and surroundung area in front of Shrine of Luck all decked out.. games, events, happy people. prizes in silver pieces unless betting...
 
+[../encounters/festival-activities](../encounters/festival-activities.md)
 
-
-
-
-
+#todo What book did Riardon win?

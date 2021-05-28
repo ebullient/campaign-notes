@@ -1,9 +1,9 @@
 # Phandalin: Around town
-In game: [19 Eliant, 1498](../../pc-logs/log-1498-09-19.md)
 
 Starting point: ***Your house in Phandalin***
 
 ## The morning dawns...
+In game: [19 Eliant, 1498](../../pc-logs/log-1498-09-19.md)
 
 Description: Mild  
 Wind: Light breeze (NE)  
@@ -25,4 +25,8 @@ Feature: Fog
         > The Townmaster's Hall is well-built: made of good quality stone with a wooden roof and a tall, narrow bell tower.
         > A guard (yes, a guard!) opens the door as you approach one of the doors. 
         > The guard directs you to enter the main chamber, and walk on through to the room in the south east corner. You find Harbin in the back office, looking over papers.
+
+Offer/Situation: 
+![log-1498-09-19](../../pc-logs/log-1498-09-19.md)
+
 

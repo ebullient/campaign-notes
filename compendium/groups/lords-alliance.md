@@ -9,7 +9,7 @@ tags:
 # The Lords' Alliance
 ![Banner](/[assets]/attachments/lords-alliance-banner.png#portrait)
 
-Coalition of rulers from cities and towns across Faerûn (primarily in the North), who collectively agree that some solidarity is needed to keep evil at bay.
+A group of allied political powers from cities and towns across Faerûn (primarily in the North) concerned with mutual security and prosperity. Members of the order ensure the safety of cities and other settlements by proactively eliminating threats by any means, while bringing honor and glory to their leaders and homelands.
 
 * **Beliefs**
     1. If civilization is to survive, all must unite against the dark forces that threaten it.

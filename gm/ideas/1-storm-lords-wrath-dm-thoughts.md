@@ -4,8 +4,8 @@ My party just finished Storm Lord's Wrath, and enjoyed it thoroughly.   In case 
 
 1. The attack on Wayside was great for two reasons: 
    1. The characters, fresh from the super-easy dragon-slaying were not ready for the nastiness of wraiths.  "Wait, those hit points are PERMANENTLY gone? Holy..." IT was a clear sign that things were going to get tougher.
-   2. Getting to know the fine folk at the tavern was terrific, just to set the PCs up for the shock to come.  They shrewdly out two and two together with the suits of armor, but bought the story that Teega just liked the design.
-   3. If I were to play this again, I'd spend more time fleshing out how Tarbin knows ancient hymns and how the different NPCs think.  I added some others (servers, a traveling merchant, and a cabbage farmer) some of whom would be pierced to the doors in "Foul Weather" and others to be the cultists helping Dunfield.
+   2. *Getting to know the fine folk at the tavern was terrific, just to set the PCs up for the shock to come*.  They shrewdly out two and two together with the suits of armor, but bought the story that Teega just liked the design.
+   3. *If I were to play this again, I'd spend more time fleshing out how Tarbin knows ancient hymns and how the different NPCs think.*  I added some others (servers, a traveling merchant, and a cabbage farmer) some of whom would be pierced to the doors in "Foul Weather" and others to be the cultists helping Dunfield.
 2. Normal Day is tough!  There's no time for rests, so by the time a party faces the elementals, they are nearly wiped out.  Battle maps can make a world of difference here to help set cover.
 3. Missing Patrol.  Meh.  I added a zombie attack at the beginning to reinforce the lingering threat from the mere.  If I had to do over again, I'd substitute this with "Danger at Dunwater" from Saltmarsh.
 4. Thalivar.  Can't improve on the write-up [here](https://www.reddit.com/r/DragonOfIcespirePeak/comments/g6fun4/notes_on_the_house_of_thalivar_quest_in_storm/?utm_source=share&utm_medium=web2x). 

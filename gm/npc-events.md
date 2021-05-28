@@ -10,11 +10,13 @@ tags: [ timeline, events/gm ]
 [Cult of Talos](/compendium/groups/cult-of-talos.md)
 Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overland on foot (anchorite/boar) to woodland manse/circle of thunder... and back.
 
+* 1498-02-15: Fheralai[^4] visited by Storm Lord in a dream<span class='ob-timelines' data-class='enemy' data-date='1498-02-15-00' data-title="Fheralai visited by Storm Lord in a dream"></span>
+* 1498-03-28: Backes Dunfield[^72] seeks out work on land<span class='ob-timelines' data-class='enemy' data-date='1498-03-28-00' data-title="Backes gets a job at the Wayside Inn"></span>
+* 1498-04-08: Teega Menelaus[^72] joins Backes at the Wayside Inn<span class='ob-timelines' data-class='enemy' data-date='1498-03-28-00' data-title="Teega joins Backes at the Wayside Inn"></span>
 * 1496-04-15: Grannoc[^1] claims Woodland Manse[^2] and plants the Gulthias Tree[^3]<span class='ob-timelines' data-class='enemy' data-date='1496-04-15-00' data-title="Grannoc claims Woodland Manse">Plants the Gulthias Tree</span>
-* 1498-04-15: Fheralai[^4] visited by Storm Lord in a dream<span class='ob-timelines' data-class='enemy' data-date='1498-04-15-00' data-title="Fheralai visited by Storm Lord in a dream"></span>
 * 1498-05-00: Fheralai consolidates leadership<span class='ob-timelines' data-class='enemy' data-date='1498-05-00-00' data-title="Fheralai consolidates leadership">Rallies the anchorites</span>
 * 1498-06-02: Caves discovered in Thunder Cliffs[^5] <span class='ob-timelines' data-class='enemy' data-date='1498-06-02-00' data-title="Fheralai creates her base">Caves at the base of Thunder Cliffs claimed by Fheralai (displaced pirates). Magically created reefs to snag ships sailing the coast.</span>
-* 1498-06-27: Moesko[^1] claims Tower of Storms[^6]<span class='ob-timelines' data-class='enemy' data-date='1498-06-27-00' data-title="Moesko claims Tower of Storms"></span>
+* 1498-06-14: Moesko[^1] claims Tower of Storms[^6]<span class='ob-timelines' data-class='enemy' data-date='1498-06-27-00' data-title="Moesko claims Tower of Storms"></span>
 * 1498-08-08: Anchorites[^1] place totem at Logger's Camp[^7]<span class='ob-timelines' data-class='enemy' data-date='1498-08-08-00' data-title="Anchorites place totem at Logger's Camp"></span>
 * 1498-08-17: Anchorite on patrol in boar shape<span class='ob-timelines' data-class='enemy' data-date='1498-08-17-00' data-title='Anchorite spotted while on patrol in boar form'></span>
 * 1498-08-24: Summoning Gorthok[^8] from Circle of Thunder[^9] spied from Dragon Barrow[^10]<span class='ob-timelines' data-class='enemy' data-date='1498-08-24-00' data-title='Anchorites of Talos summon Gorthok'></span> 
@@ -26,6 +28,7 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 * 1498-09-15: Yargath on patrol with Orc(Splinter-8)<span class='ob-timelines' data-class='enemy' data-date='1498-09-15-00' data-title='Yargath on patrol with Orc(Splinter-8); Yargath destroyed.'>Yargath was carrying Fheralai's note to him.</span>
 * 1498-09-15: Flenz, Narux, Circle of Thunder destroyed<span class='ob-timelines' data-class='enemy' data-date='1498-09-15-00' data-title='Flenz, Narux, Circle of Thunder destroyed'></span>
 * 1498-09-22: Fheralai expects reports<span class='ob-timelines' data-class='enemy' data-date='1498-09-22-00' data-title='Fheralai expects reports from Yargath and Grannoc'></span>
+* 1498-10-02: Party meets Cult of Talos members at the Wayside Inn<span class='ob-timelines' data-class='enemy' data-date='1498-10-02-00' data-title='Cultists encounter party at the Wayside Inn'></span>
 
 ### Dragons
 
@@ -152,6 +155,7 @@ Message relayed from Fheralai's base in cliffs to Tower of Storms, then on overl
 [^79]: Familiar NPC: [John Wick](../compendium/phandalin/john-wick.md)
 [^80]: Lords' Alliance agent [Sildar Hallwinter](../compendium/sildar-hallwinter.md)
 [^81]: Lionshield Coster Guard [Jeremiah Mundu](../compendium/jeremiah-mundu.md)
+[^82]: Pirate goes to shore, why? [Backes Dunfield](../compendium/backes-dunfield.md)
 
 
 

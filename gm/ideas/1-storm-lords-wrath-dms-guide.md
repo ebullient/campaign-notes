@@ -59,7 +59,6 @@ The next four can be completed in any order, and the quests are encountered most
 * Awesome random table of spooky events!
 * **Old wizard’s ghost "retreats into the Ethereal Plane at the first sign of trouble,"** and so the ghost can only be put to rest if the characters find the old wizard’s journal (and see recent notes in the same purple ink that stains the new wizard’s robes) or otherwise learn the location of the ghost’s body so they can bury it with a ceremony spell, perhaps performed by the Lathander priest in town, or if they can summon the long-dead fey servant of the wizard to tell the ghost that he is in fact dead!
 
-Note from me to you: Hey if these guides are helpful to you, please consider liking the video and the other nice YouTube things :)
 
 *Missing Patrol* (7th level)
 
@@ -72,7 +71,6 @@ Note from me to you: Hey if these guides are helpful to you, please consider lik
 
 * Summary: escort hundreds of giant goats to Phandalin (oh no cultists here) and back
 * Wyverns attack, ogres attack, so animal handling checks are important here.
-* **There’s a great DM note** about highlighting the NPCs your party cared about in Icespire Peak, and having them give your adventurers a proper hero's welcome!
 * It’s not exactly clear what these hundreds of giant goats are doing while you’re in Phandalin, but the party will run into clues about the presence of both cults at multiple locations in town.
    * Barthen’s Provisions: assistant there reveals assistant at Lionshield Coster has been a little preachy about Talos lately
    * Lionshield Coster: see above

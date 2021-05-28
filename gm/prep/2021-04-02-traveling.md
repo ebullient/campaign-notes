@@ -3,7 +3,7 @@ In game: [17-18 Eliant, 1498](../../pc-logs/log-1498-09-17-18.md)
 
 Starting point: ***Falcon's Lodge***
 
-## The morning dawns...
+## 17 Eliant: The morning dawns...
 
 Weather: Mild  
 Temperature: 51.1°F to 74.3°F  
@@ -19,9 +19,7 @@ Grizzlebear, in the rear
 1. As they leave the forest: The Ettin's Pet (see below)
 2. Nighttime: who takes watch? If they fail DC 15 perception (while Grizzlebear is sleeping): Pixie tricks.
 
-## The second morning
-
-In game: 18 Eliant, 1498
+## 18 Eliant: The second morning
 
 Description: Mild  
 Temperature: 49.4°F to 73.5°F  
@@ -44,6 +42,7 @@ She does want to talk to the party, but she also wants to be sure to reach town,
 * [Mabina](/compendium/mabina-cawood.md)
 * [Party Loot](https://docs.google.com/spreadsheets/d/15M8AP42AGJyX5z-p6LvREl88wrzui2FWtE5BlPn7UUE/edit#gid=0)
 * [Magic Item distribution](https://docs.google.com/spreadsheets/d/10SG3nHfObYpqMHwy29x9oD29pmDdhghUtwX7-NLfS5U/edit#gid=0)
+
 
 ## The Ettin's Pet
 

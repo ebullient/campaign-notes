@@ -173,10 +173,14 @@ Any character who can see the bridge in area 5 might also notice the goblin guar
 * Does the party see the goblins move? 
     * Make a stealth check for each goblin. Any player passive perception above that score sees them.
 
+--> Riardon used Phantasmal Force to convince goblins they were on fire. Grizzlebear used Heat Metal to do additional damage. Both ran off the bridge to the east.
+
 ***Western Passage***. This passage is choked with rubble and has *steep escarpments*. Treat the area as difficult terrain.  The ledge between the two escarpments[^1] is fragile. Any weight in excess of 100 pounds loosens the whole mass and sends it tumbling down to the east. Any creature on the ledge when it falls must make a DC 12 Dexterity saving throw, taking 4d6 bludgeoning damage on a failure, or half as much damage on a success. The creature also falls prone on a failed save.
 
 ### 5. Overpass
 Where a high tunnel passes through the larger tunnel cavern below, the goblins have set up a bridge guard post.
+
+--> DO NEW GUARDS come to the bridge?
 
 > The stream passage continues up, transitioning into a set of uneven steps ahead, bending eastward as it goes. A waterfall sounds out from a larger cavern somewhere ahead of you.  
 >  
@@ -206,19 +210,19 @@ The Cragmaw raiders stationed in the hideout use this area as a common room and 
 
 > This large cave is divided in half by a ten-foot-high escarpment. A steep natural staircase leads from the lower portion to the upper ledge. The air is hazy with the smoke of a cooking fire, and pungent from the smell of poorly cured hides and unwashed goblins.
 
-Six goblins inhabit this den, and one of them is a leader with 12 hit points. The five ordinary goblins tend the cooking fire in the lower (northern) part of the cave near the entrance passage, while the leader rests in the upper (southern) part of the cave.
+Goblins inhabit this den, including a leader. The ordinary goblins tend the cooking fire in the lower (northern) part of the cave near the entrance passage, while the leader rests in the upper (southern) part of the cave.
 
-*[Sildar Hallwinter](/compendium/sildar-hallwinter.md), a human warrior, is held prisoner in this chamber.* He is securely bound on the southern ledge of the cavern. The goblins have been beating and tormenting him, so *he is weak and at 1 hit point.*
+*[Sildar Hallwinter](/compendium/sildar-hallwinter.md), a human warrior, is held prisoner in this chamber.* He is securely bound on the southern ledge of the cavern. The goblins have been beating and tormenting him, so *he is weak and at 1 hit point.* Another humanoid is similarly bound, but is unmoving.
 
 The goblin leader, Yeemik, is second-in-command of the whole hideout. 
 * **If he sees that the characters are getting the upper hand**, he grabs Sildar and drags him over to the edge of the upper level.
     > “Truce, or this human dies!” he shouts.
-* Yeemik wants to oust Klarg and become the new boss. 
+* Yeemik wants to oust Klarg and the bugbears to become the new boss. 
     * If the adventurers agree to parley, Yeemik tries to convince them to kill Klarg in area 8, promising to release Sildar when they bring back the bugbear’s head. 
         * Sildar groggily warns the characters that they shouldn’t trust the goblin...
         * If the characters take the deal, Yeemik tries to force them to pay a rich ransom for Sildar even after they complete their part of the bargain.
     * If the characters refuse to parley, *Yeemik shoves Sildar over the edge and continues with the fight.*
-        * Sildar takes 1d6 bludgeoning damage from the fall: he will go unconscious. Death saves.
+        * Sildar takes 1d6 bludgeoning damage from the fall: he will go unconscious.
         * Quick-acting characters can try to stabilize him before he dies.
 
 ***Treasure***
@@ -230,20 +234,20 @@ Yeemik carries a pouch containing three platinum teeth (10 gp each) and 30 ep[^2
 
 If he is rescued and healed, he provides some useful information:
 * Klarg, the bugbear who leads this goblin band, had orders to  waylay a large caravan headed to Phandalin.
-* He intends to continue on to Phandalin, since it’s the nearest settlement. 
-* He offers to pay the party 500 gp to provide escort, which he will pay upon reaching Phandalin. 
-* First, he hopes they’ll put a stop to the goblin raids by clearing out the caves.
+* He doesn't know who the orders came from
+* He needs to get to Phandalin, there is someone he is supposed to meet.
 
-He doesn’t have any weapons or armor, but he can take a shortsword from a  
-defeated goblin or use a weapon loaned to him by a character.
+He doesn’t have any weapons or armor, but he can take a shortsword from a defeated goblin or use a weapon loaned to him by a character.
 ```
 
 ### 7. Twin Pools Cave
-If the goblins have drained either pool to flood the passage, adjust the following boxed text accordingly.
+Goblins guard this cave. If the goblin in area 5 spotted the characters and warned the goblins here, they are ready for trouble. **The noise of the waterfall means that the creatures in area 8 can’t hear any fighting that takes place here, and vice versa.** Therefore, as soon as a fight breaks out here, *one goblin flees to area 8 to warn Klarg*.
 
-> This cavern is half filled with two large pools of water. A narrow waterfall high in the eastern wall feeds the pool, which drains out the western end of the chamber to form the stream that flows out of the cave mouth below. Low fieldstone walls serve as dams holding the water in. A wide exit stands to the south, while two smaller passages lead west. The sound of the waterfall echoes through the cavern, making it difficult to hear.
-
-Three goblins guard this cave. If the goblin in area 5 spotted the characters and warned the goblins here, they are ready for trouble. The noise of the waterfall means that the creatures in area 8 can’t hear any fighting that takes place here, and vice versa. Therefore, as soon as a fight breaks out here, one goblin flees to area 8 to warn Klarg.
+> A narrow waterfall high in the eastern wall feeds a pool of water, which drains out the western end of the chamber to form the stream that you have been walking on. The pool is surrounded by low fieldstone walls that serve as dams dividing the pool in half. [did they release a flood?]
+>
+> A wide exit opens to the south, and you are in one of two smaller passages leading west. 
+> 
+> The sound of the waterfall echoes through the cavern, making it difficult to hear.
 
 ***Rock Dams.*** The goblins built simple dams to control the flow of water through the heart of the complex. If the goblin sentry in area 5 has called for the goblins here to release a flood, one or both of the pools are mostly empty and the stream is flowing unimpeded.
 
@@ -252,7 +256,7 @@ The leader of the goblinoids insists on keeping the bulk of the raiders’ stole
 
 > Sacks and crates of looted provisions are piled up in the south end of this large cave. To the west, the floor slopes toward a narrow opening that descends into darkness. A larger opening leads north down a set of natural stone steps, the roar of falling water echoing from beyond. In the middle of the cavern, the coals of a large fire smolder.
 
-***Klarg the bugbear*** shares this cave with his mangy pet wolf, Ripper, and three goblins. 
+***Klarg the bugbear*** shares this cave with his mangy pet wolf, Ripper, and two bugbears. 
 * Filled with delusions of grandeur: he is a mighty warlord just beginning his career of conquest. 
     * **He is not entirely sane, referring to himself in the third person** 
         * “Who dares defy Klarg?” or 
