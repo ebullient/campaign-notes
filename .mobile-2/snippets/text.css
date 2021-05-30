@@ -1,0 +1,20 @@
+.theme-dark .cm-s-obsidian .cm-strong,
+.theme-dark strong {
+  color: var(--pop-1);
+  font-weight: 600;
+}
+
+.theme-dark.cm-s-obsidian .cm-em,
+.theme-dark em {
+  color: var(--pop-2);
+}
+
+.theme-dark.cm-s-obsidian .cm-strong .cm-em,
+.theme-dark strong em {
+  color: var(--pop-3);
+}
+
+.markdown-preview-view div p {
+  line-height: 1.4rem;
+}
+
