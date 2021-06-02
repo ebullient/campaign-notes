@@ -26,10 +26,11 @@ New group moving to Axeholm (30 total):
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
-
-```dataview
-list from #place/settlement/axeholm
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/settlement/axeholm')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

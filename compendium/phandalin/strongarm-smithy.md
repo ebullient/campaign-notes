@@ -20,9 +20,11 @@ tags:
 
 ## NPCs
 
-```dataview
-list from #place/town/phandalin/smithy
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/town/phandalin/smithy')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

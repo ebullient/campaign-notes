@@ -18,9 +18,11 @@ The large house is set atop a six-foot-high stone foundation, and the main entra
 
 ## NPCs
 
-```dataview
-list from #place/ruin/woodland-manse
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/ruin/woodland-manse')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

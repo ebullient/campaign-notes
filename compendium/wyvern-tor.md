@@ -17,9 +17,11 @@ Wyvern Tor is a towering crag in the rugged hills northeast of the Sword Mountai
 
 ## NPCs
 
-```dataview
-list from #place/landmark/wyvern-tor
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/landmark/wyvern-tor')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

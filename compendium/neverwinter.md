@@ -21,9 +21,11 @@ No legitimate heirs to the old Alagondar royal line are known to exist, and many
 
 ## NPCs
 
-```dataview
-list from #place/city/neverwinter
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/city/neverwinter')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

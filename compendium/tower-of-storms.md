@@ -20,9 +20,11 @@ The source of the beacon’s eerie green light is Moesko’s own heart, which wa
 
 ## NPCs
 
-```dataview
-list from #place/landmark/tower-of-storms
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/landmark/tower-of-storms')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

@@ -1,4 +1,5 @@
 ---
+aliases: ['Flenz']
 type: npc
 tags:
   - npc/dead

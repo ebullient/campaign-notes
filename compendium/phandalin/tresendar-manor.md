@@ -18,9 +18,11 @@ Granted to [Kyle Monsterdrinker](../../characters/kyle-monsterdrinker.md) as a r
 
 ## NPCs
 
-```dataview
-list from #place/town/phandalin/tresendar-manor
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/town/phandalin/tresendar-manor')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

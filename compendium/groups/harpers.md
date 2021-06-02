@@ -26,16 +26,20 @@ The Harpers recruit individuals that understand the value of the network and wis
 
 ## Locations
 
-```dataview
-list from #group/faction/harpers 
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#group/faction/harpers')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
 
-```dataview
-list from #group/faction/harpers 
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#group/faction/harpers')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 * [Darathra Shendrel](https://forgottenrealms.fandom.com/wiki/Darathra_Shendrel) of Triboar
 

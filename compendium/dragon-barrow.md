@@ -18,9 +18,11 @@ TL;DR description
 
 ## NPCs
 
-```dataview
-list from #place/landmark/dragon-barrow
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/landmark/dragon-barrow')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

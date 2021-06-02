@@ -17,16 +17,20 @@ The Lionshields are a merchant company based in Yartar. They ship finished goods
 
 ## Locations
 
-```dataview
-list from #group/merchant/lionshield-coster 
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#group/merchant/lionshield-coster')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
 
-```dataview
-list from #group/merchant/lionshield-coster 
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#group/merchant/lionshield-coster')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

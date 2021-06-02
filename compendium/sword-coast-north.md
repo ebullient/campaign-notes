@@ -23,16 +23,20 @@ banded together with nearby allies to form the [Lords' Alliance](groups/lords-al
 
 ## Locations
 
-```dataview
-list from #region/sword-coast-north
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#region/sword-coast-north')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
 
-```dataview
-list from #region/sword-coast-north
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#region/sword-coast-north')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## Groups

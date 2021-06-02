@@ -20,9 +20,11 @@ The townmaster’s hall has a small but serviceable jail in the cellar with two 
 
 ## NPCs
 
-```dataview
-list from #place/town/phandalin/townmaster-hall
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/town/phandalin/townmaster-hall')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

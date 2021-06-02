@@ -20,10 +20,11 @@ A home of sorts is sheltered within the dome of woven branches. It is sparsely f
 The grove is northwest of the Conyberry area at the end of a path whose entrance is marked by a group of birch trees.
 
 ## NPCs
-
-```dataview
-list from #place/landmark/agathas-grove
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/landmark/agathas-grove')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

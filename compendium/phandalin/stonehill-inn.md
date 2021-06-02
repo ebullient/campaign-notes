@@ -24,9 +24,11 @@ It has an upstairs floor with 6 rooms for visitors and guests of the inn.
 
 ## NPCs
 
-```dataview
-list from #place/town/phandalin/stonehill-inn
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/town/phandalin/stonehill-inn')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

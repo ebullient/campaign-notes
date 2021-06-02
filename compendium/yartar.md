@@ -39,16 +39,20 @@ The [Lionshield Coster](groups/lionshield-coster.md) is a trading company based 
 
 ## Places
 
-```dataview
-list from #place/town/yartar
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#place/town/yartar')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
 
-```dataview
-list from #place/town/yartar
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/town/yartar')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

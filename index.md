@@ -8,7 +8,7 @@
 dv.list(dv.pages('"compendium"')
   .where(p => p.type == "location")
   .sort(p => p.file.name, 'asc')
-  .map(k => '['+(k.file.aliases[0] ? k.file.aliases[0] : k.file.name)+'](/'+k.file.path+')'))
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
@@ -17,7 +17,7 @@ dv.list(dv.pages('"compendium"')
 dv.list(dv.pages('"compendium"')
   .where(p => p.type == "npc")
   .sort(p => p.file.name, 'asc')
-  .map(k => '['+(k.file.aliases[0] ? k.file.aliases[0] : k.file.name)+'](/'+k.file.path+')'))
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## Groups
@@ -26,5 +26,5 @@ dv.list(dv.pages('"compendium"')
 dv.list(dv.pages('"compendium"')
   .where(p => p.type == "group")
   .sort(p => p.file.name, 'asc')
-  .map(k => '['+(k.file.aliases[0] ? k.file.aliases[0] : k.file.name)+'](/'+k.file.path+')'))
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```

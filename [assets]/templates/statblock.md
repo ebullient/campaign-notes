@@ -29,8 +29,8 @@ tags: [statblock]
 
 ## History
 
-```dataview
+<!-- ```dataview
 list from #log/monster/...
-```
+``` -->
 
 ## Notes

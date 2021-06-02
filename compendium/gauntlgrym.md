@@ -18,9 +18,11 @@ There is a core group of dwarves that are focused on solidifying their hold on G
 
 ## NPCs
 
-```dataview
-list from #place/settlement/gauntlgrym
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/settlement/gauntlgrym')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

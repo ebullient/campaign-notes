@@ -1,7 +1,7 @@
 ---
 aliases: ["Agatha"]
 type: npc
-xtags:
+tags:
 - npc/alive
 - iff/unknown
 - place/landmark/agathas-grove

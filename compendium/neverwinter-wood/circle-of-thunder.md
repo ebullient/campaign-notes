@@ -20,10 +20,11 @@ A circle of standing stones atop the hill helped to focus the anchorites’ magi
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
-
-```dataview
-list from #place/landmark/circle-of-thunder
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/landmark/circle-of-thunder')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

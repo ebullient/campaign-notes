@@ -32,17 +32,19 @@ As of 1491 DR, the lord protector is a Harper and retired adventurer, Darathra S
 <span class="nav">[Places](#Places) [NPCs](#NPCs) [History](#History)</span>
 
 ## Places
-
-```dataview
-list from #place/town/triboar
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#place/town/triboar')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
-
-```dataview
-list from #place/town/triboar
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/town/triboar')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

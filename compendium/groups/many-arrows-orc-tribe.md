@@ -19,9 +19,11 @@ The tribe was rendered leaderless by Cryovain, its members scattered into differ
 
 ## Locations
 
-```dataview
-list from #group/tribe/many-arrows 
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#group/tribe/many-arrows')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

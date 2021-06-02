@@ -25,16 +25,20 @@ Phandalin is not well known outside of the region.
 
 ## Places
 
-```dataview
-list from #place/town/phandalin
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#place/town/phandalin')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
 
-```dataview
-list from #place/town/phandalin
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/town/phandalin')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

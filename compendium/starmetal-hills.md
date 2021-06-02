@@ -16,9 +16,11 @@ The hills are haunted by ruthless barbarian tribes, giving others little reason 
 
 ## NPCs
 
-```dataview
-list from #region/sword-coast-north/starmetal-hills
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#region/sword-coast-north/starmetal-hills')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

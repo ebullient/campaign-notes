@@ -16,9 +16,11 @@ The ancient green dragon Claugiyliamatar, nicknamed the Old Gnawbone, also lairs
 
 ## NPCs
 
-```dataview
-list from #region/sword-coast-north/kryptgarden-forest
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#region/sword-coast-north/kryptgarden-forest')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

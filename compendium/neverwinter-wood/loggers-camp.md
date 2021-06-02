@@ -21,9 +21,11 @@ Tibor gets supplies from Phandalin to avoid paying taxes to Neverwinter, though 
 
 ## NPCs
 
-```dataview
-list from #place/settlement/loggers-camp
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/settlement/loggers-camp')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

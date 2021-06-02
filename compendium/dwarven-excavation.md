@@ -18,9 +18,11 @@ While looking for gold in the mountains southwest of Phandalin, Dazlyn and Norbu
 
 ## NPCs
 
-```dataview
-list from #place/ruin/dwarven-excavation
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/ruin/dwarven-excavation')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

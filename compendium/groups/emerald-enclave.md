@@ -23,16 +23,20 @@ Those who serve the faction are masters of survival and can live off the land. T
 
 ## Locations
 
-```dataview
-list from #group/faction/emerald-enclave 
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#group/faction/emerald-enclave')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
 
-```dataview
-list from #group/faction/emerald-enclave 
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#group/faction/emerald-enclave')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

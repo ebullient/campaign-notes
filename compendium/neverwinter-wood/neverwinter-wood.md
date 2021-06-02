@@ -14,9 +14,11 @@ Forest east of Neverwinter seems to have a magical quality about it, or at least
 
 ## NPCs
 
-```dataview
-list from #region/sword-coast-north/neverwinter-wood
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#region/sword-coast-north/neverwinter-wood')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

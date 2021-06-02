@@ -24,16 +24,20 @@ Myrkul became the god of death and the dead, and ruled over the City of the Dead
 
 ## Locations
 
-```dataview
-list from #group/faction/cult-of-myrkul
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#group/faction/cult-of-myrkul')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
 
-```dataview
-list from #group/faction/cult-of-myrkul
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#group/faction/cult-of-myrkul')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

@@ -36,7 +36,7 @@ Reclusive wanderers and omen-readers of the wild, centaurs avoid conflict but fi
 ## History
 
 ```dataview
-list from #log/monster/centaur  
+list from #log/monster/centaur OR #log/npc/xanth  
 ```
 
 ## Notes

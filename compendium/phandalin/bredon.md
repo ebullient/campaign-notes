@@ -29,7 +29,3 @@ Bredon is the cook at the Stonehill Inn
 ## Secrets
 
 ## History
-
-```dataview
-list from #place/town/phandalin/stonehill-inn   and "pc-logs"
-```

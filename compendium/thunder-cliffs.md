@@ -17,9 +17,11 @@ The Thunder Cliffs were named by the people in the area for the sounds that the 
 
 ## NPCs
 
-```dataview
-list from #place/landmark/thunder-cliffs
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/landmark/thunder-cliffs')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

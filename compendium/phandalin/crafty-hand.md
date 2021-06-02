@@ -23,9 +23,11 @@ Mirna also sells potions and medicines made by [Adabra Gwynn](../adabra-gwynn.md
 
 ## NPCs
 
-```dataview
-list from #place/town/phandalin/crafty-hand 
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/town/phandalin/crafty-hand')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

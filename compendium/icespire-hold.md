@@ -2,7 +2,7 @@
 aliases: ["Icespire Hold"]
 type: location
 tags:
-  - type/fortress
+  - type/stronghold
   - place/ruin/icespire-hold
   - region/sword-coast-north/sword-mountains
 ---
@@ -15,9 +15,11 @@ Icespire Hold is an abandoned fortress perched on the icy northeast spur of Ices
 
 ## NPCs
 
-```dataview
-list from #place/ruin/icespire-hold
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/ruin/icespire-hold')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

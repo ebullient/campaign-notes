@@ -18,9 +18,11 @@ Recently, efforts have been made to keep the road safe, with light patrols of gu
 
 ## NPCs
 
-```dataview
-list from #region/sword-coast-north/high-road
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#region/sword-coast-north/high-road')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

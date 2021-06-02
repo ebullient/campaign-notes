@@ -18,10 +18,11 @@ Dirt road extending south leads to ruined [Shrine](shrine-of-savras.md) dedicate
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs
-
-```dataview
-list from #place/ruin/conyberry
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/ruin/conyberry')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

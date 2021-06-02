@@ -1,13 +1,29 @@
+<%*
+const title = await tp.system.prompt("Enter Name");
+const folder = await tp.user.chooseFolder(tp);
+
+const lower = tp.user.lowerKebab(title);
+console.log("%o, %o, %o", title, lower, folder);
+
+const groupTag = await tp.user.chooseTags(tp, 'group', '');
+console.log("%o", typeTag);
+
+const tags = 'tags'
+
+await tp.file.move(`${folder}/${lower}`);
+-%>
 ---
-aliases: ['']
+aliases: ['<% title %>']
 type: npc
-xtags:
+<% tags %>: 
 - npc/alive
 - iff/unknown
-- group/...
 - location
+<%* if (groupTag && groupTag.length > 0) { %>
+- <% groupTag %>
+<%* } %>
 ---
-# {{Name}}
+# <% title %>
 <span class="subhead">{{primary location}}</span>
 
 TL;DR description / personality / motivation

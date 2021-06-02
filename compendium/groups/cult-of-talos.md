@@ -45,16 +45,20 @@ https://www.cbr.com/dungeons-dragons-talos-storm-lord/
 
 ## Locations
 
-```dataview
-list from #group/faction/cult-of-talos
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#group/faction/cult-of-talos')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
 
-```dataview
-list from #group/faction/cult-of-talos
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#group/faction/cult-of-talos')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 NPCs tied to specific locations:

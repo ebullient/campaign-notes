@@ -18,9 +18,11 @@ TL;DR description
 <span class="nav">[NPCs](#NPCs) [History](#History)</span>
 
 ## NPCs found here
-```dataview
-list from #place/settlement/butterskull-ranch
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/settlement/butterskull-ranch')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

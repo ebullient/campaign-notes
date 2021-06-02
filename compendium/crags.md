@@ -14,9 +14,11 @@ Rocky, windswept hills are dotted with old mines and invested with monsters.
 
 ## NPCs
 
-```dataview
-list from #region/sword-coast-north/the-crags
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#region/sword-coast-north/the-crags')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

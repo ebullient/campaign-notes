@@ -20,16 +20,20 @@ and the former nation of Luruar, also known as the Silver Marches.
 
 ## Locations
 
-```dataview
-list from #region/savage-frontier
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#region/savage-frontier')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
 
-```dataview
-list from #region/savage-frontier
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#region/savage-frontier')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

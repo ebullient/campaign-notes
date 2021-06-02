@@ -22,9 +22,11 @@ Don-Jon is still there, with a crew of dwarves that survived the Whiskered Gang,
 ## NPCs
 
 * [Whiskered Gang](archive/whiskered-gang.md)
-```dataview
-list from #place/settlement/mountains-toe-mine
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/settlement/mountains-toe-mine')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

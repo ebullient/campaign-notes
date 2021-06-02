@@ -1,4 +1,5 @@
 ---
+aliases: ['Yargath']
 type: npc
 tags:
   - npc/dead

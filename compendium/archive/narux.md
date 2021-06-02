@@ -1,4 +1,5 @@
 ---
+aliases: ['Narux']
 type: npc
 tags:
   - npc/dead

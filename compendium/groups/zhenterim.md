@@ -26,17 +26,19 @@ Zhenterim agents must often work in secret, and are frequently proficient in Dec
 New members are recruited from those who share the Zhenterim's pursuits: Wealth and Power. New recruits gain the title of 'Fang'.
 
 ## Locations
-
-```dataview
-list from #group/faction/zhenterim 
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#group/faction/zhenterim')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
-
-```dataview
-list from #group/faction/zhenterim 
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#group/faction/zhenterim')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

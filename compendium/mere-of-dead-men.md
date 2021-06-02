@@ -16,9 +16,11 @@ Many adventurers have died here, drawn by tales of ruined castles half-sunk in t
 
 ## NPCs
 
-```dataview
-list from #region/sword-coast-north/mere-of-dead-men
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#region/sword-coast-north/mere-of-dead-men')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

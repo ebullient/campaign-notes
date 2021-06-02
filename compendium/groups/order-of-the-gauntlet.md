@@ -25,16 +25,20 @@ Bearers of the Gauntlet are holy warriors on a righteous quest to crush evil and
 
 ## Locations
 
-```dataview
-list from #group/faction/order-of-the-gauntlet 
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#group/faction/order-of-the-gauntlet')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
 
-```dataview
-list from #group/faction/order-of-the-gauntlet 
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#group/faction/order-of-the-gauntlet')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

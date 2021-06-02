@@ -1,4 +1,5 @@
 ---
+aliases: ['Whiskered Gang']
 type: group
 tags:
   - npc/dead
@@ -18,9 +19,11 @@ A mercenary group of Wererats.
 
 ## Locations
 
-```dataview
-list from #group/mercenaries/whiskered-gang 
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#group/mercenaries/whiskered-gang')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

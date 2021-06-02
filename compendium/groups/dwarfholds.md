@@ -47,16 +47,20 @@ Dwarven stronghold is a haven from the chaos. First concern: defense. Eventually
 
 ## Locations
 
-```dataview
-list from #group/dwarves
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#group/dwarves')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
 
-```dataview
-list from #group/dwarves
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#group/dwarves')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

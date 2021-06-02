@@ -31,7 +31,7 @@ tags: [statblock]
 ## History
 
 ```dataview
-list from #log/monster/...
+list from #log/monster/griffon-rider
 ```
 
 ## Notes

@@ -26,17 +26,20 @@ Alliance agents are required to be knowledgable in History, and can always rely 
 New recruits are awarded the title of 'Cloak'
 
 ## Locations
-
-```dataview
-list file.aliases[0] from #group/faction/lords-alliance 
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#group/faction/lords-alliance')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
 
-```dataview
-list file.aliases[0] from #group/faction/lords-alliance 
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#group/faction/lords-alliance')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

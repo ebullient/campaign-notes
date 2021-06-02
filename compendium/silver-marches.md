@@ -16,16 +16,20 @@ A confederation of humans, dwarves, and elves, with the city of Silverymoon at i
 
 ## Locations
 
-```dataview
-list from #region/silver-marches
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#region/silver-marches')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
 
-```dataview
-list from #region/silver-marches
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#region/silver-marches')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

@@ -19,9 +19,11 @@ Sister Garaele regularly reports to her superiors in Neverwinter on events in an
 
 ## NPCs
 
-```dataview
-list from #place/town/phandalin/shrine-of-luck
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/town/phandalin/shrine-of-luck')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

@@ -58,16 +58,20 @@ Sellswords (brigands, thieves)
 
 ## Locations
 
-```dataview
-list from #group/mercenaries/stone-cold-reavers 
-where type = "location"
+```dataviewjs
+dv.list(dv.pages('#group/mercenaries/stone-cold-reavers')
+  .where(p => p.type == "location")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## NPCs
 
-```dataview
-list from #group/mercenaries/stone-cold-reavers 
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#group/mercenaries/stone-cold-reavers')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History

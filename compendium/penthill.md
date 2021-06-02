@@ -1,10 +1,10 @@
 ---
-aliases: ["Penthill"]
+aliases: [ "Penthill" ]
 type: location
 tags:
   - type/town
   - region/sword-coast-north/triboar-trail
-  - place/town/pentill
+  - place/town/penthill
 ---
 # Penthill
 <span class="subhead">{{placeType}}, {{town}}</span>
@@ -19,9 +19,11 @@ Site of Igor's Challenge
 
 ## NPCs
 
-```dataview
-list from #place/town/pentill
-where type = "npc"
+```dataviewjs
+dv.list(dv.pages('#place/town/pentill')
+  .where(p => p.type == "npc")
+  .sort(p => p.file.name, 'asc')
+  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
 ```
 
 ## History
