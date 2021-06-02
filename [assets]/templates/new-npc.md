@@ -6,7 +6,7 @@ const lower = tp.user.lowerKebab(title);
 console.log("%o, %o, %o", title, lower, folder);
 
 const groupTag = await tp.user.chooseTags(tp, 'group', '');
-console.log("%o", typeTag);
+console.log("%o", groupTag);
 
 const tags = 'tags'
 
@@ -19,7 +19,7 @@ type: npc
 - npc/alive
 - iff/unknown
 - location
-<%* if (groupTag && groupTag.length > 0) { %>
+<%* if (groupTag && groupTag !== '--') { %>
 - <% groupTag %>
 <%* } %>
 ---

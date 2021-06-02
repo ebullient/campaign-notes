@@ -1,1 +1,1 @@
-{"userAdmonitions":{},"syntaxHighlight":true,"copyButton":false,"version":"","autoCollapse":false,"defaultCollapseType":"open","syncLinks":true}
+{"userAdmonitions":{"weather":{"type":"weather","color":"184, 213, 205","icon":"cloud-sun","command":true},"reference":{"type":"reference","color":"209, 209, 209","icon":"book","command":true}},"syntaxHighlight":true,"copyButton":false,"version":"","autoCollapse":false,"defaultCollapseType":"open","syncLinks":true}
