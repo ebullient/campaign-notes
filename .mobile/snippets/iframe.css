@@ -1,0 +1,11 @@
+.embed-frame .full-frame {
+	width: 100%;
+	height: 600px;
+	position: relative;
+}
+
+.embed-frame .full-frame iframe {
+	width: 100%;
+	height: 600px;
+}
+
