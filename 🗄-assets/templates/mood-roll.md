@@ -1,4 +1,10 @@
 <%*
 const { Campaign } = window.customJS;
-tR += await Campaign.mood();
+const character = await tp.system.prompt("Character name");
+const mood = await Campaign.mood();
+if (character) {
+    tR += `- *${character}'s mood*: ${mood}`;
+} else { 
+    tR += mood;
+} 
 -%>
