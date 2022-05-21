@@ -27,6 +27,16 @@ tR += `- [ ] ${await Campaign.secrets('rumors')}\n`
 
 ## NPC Activity
 
+> [!mood]- Mood of the party
+> - *Coral's mood*: <%* tR += await Campaign.mood() %>
+> - *Nora's mood*: <%* tR += await Campaign.mood() %>
+> - *Euphemia's mood*: <%* tR += await Campaign.mood() %>
+> - *Lidda's mood*: <%* tR += await Campaign.mood() %>
+> - *Trym's mood*: <%* tR += await Campaign.mood() %>
+
+### Adversaries
+- *Emmek Frewn's mood*: <%* tR += await Campaign.mood() %>
+
 ### Bregan D'aerthe
 - *Jarlaxle's mood*: <%* tR += await Campaign.mood() %>
 - Sea Maiden's Faire: 

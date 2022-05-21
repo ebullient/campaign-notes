@@ -2,6 +2,14 @@
 const { Campaign } = window.customJS;
 -%>
 ## NPC Activity
+> [!mood]- Mood of the party
+> - *Coral's mood*: <%* tR += await Campaign.mood() %>
+> - *Nora's mood*: <%* tR += await Campaign.mood() %>
+> - *Euphemia's mood*: <%* tR += await Campaign.mood() %>
+> - *Lidda's mood*: <%* tR += await Campaign.mood() %>
+> - *Trym's mood*: <%* tR += await Campaign.mood() %>
+
+### Adversaries
 - *Emmek Frewn's mood*: <%* tR += await Campaign.mood() %>
 
 ### Bregan D'aerthe
@@ -17,3 +25,4 @@ const { Campaign } = window.customJS;
 ### The Doom Raiders
 - *Davil Starsong's mood*: <%* tR += await Campaign.mood() %>
 - *Yagra's mood*: <%* tR += await Campaign.mood() %>
+

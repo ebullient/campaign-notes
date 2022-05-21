@@ -1,9 +1,6 @@
----
-source: https://thealexandrian.net/wordpress/43280/roleplaying-games/dragon-heist-a-night-in-trollskull-manor
----
 # Running Trollskull Manor: Tables
 
-## Patrons
+## Patrons 
 
 | Patrons |
 | --------- |
@@ -18,72 +15,82 @@ source: https://thealexandrian.net/wordpress/43280/roleplaying-games/dragon-heis
 
 | dice: 1d20 | PATRON |
 | ---------- | ------- |
-| 1     | [Tally Fellbranch](../../faerûn/npcs/waterdeep/talisolvanar-tally-fellbranch.md) (Bent Nail) : `dice: [](trollskull-manor-tables#^tally)` |
-| 2     | [Embric](../../faerûn/npcs/waterdeep/embric.md) & [Avi](../../faerûn/npcs/waterdeep/avi.md) (Steam and Steel) : `dice: [](trollskull-manor-tables#^genasi)`  |
-| 3     | [Fala Lefaliir](../../faerûn/npcs/waterdeep/fala-lefaliir.md) (Corellon's Crown)  : `dice: [](trollskull-manor-tables#^fala)` |
-| 4     | [Vincent Trench](../../faerûn/npcs/waterdeep/vincent-trench.md) (Tiger's Eye)  : `dice: [](trollskull-manor-tables#^vincent)` |
-| 5     | [Rishaal the Page-Turner](../../faerûn/npcs/waterdeep/rishaal-the-page-turner.md) (Book Wyrm) : `dice: [](trollskull-manor-tables#^rishaal)` |
+| 1-5 | `dice: [](trollskull-manor-tables#^trollskull-alley)` |
 | 6-10  | `dice: [](trollskull-manor-tables#^renaer-and-friends)` |
 | 11-13 | `dice: [](trollskull-manor-tables#^campaign-npc)` |
 | 14-16 | `dice: [](trollskull-manor-tables#^guild-contact)` |
-| 17-18 | `dice: [](trollskull-manor-tables#^faction-contact)` |
-| 19    | [Mirt 'The Moneylender'](../../faerûn/npcs/waterdeep/mirt-the-moneylender.md) |
-| 20    | [Jarlaxle](../../faerûn/npcs/jarlaxle-baenre.md) |
+| 17-20 | `dice: [](trollskull-manor-tables#^faction-contact)` |
 ^patrons
 
 | dice: 1d20 | PATRON - RENAER AND HIS FRIENDS |
 | ---------- | ------- |
-| 1-6    | [Renaer Neverember](../../faerûn/npcs/waterdeep/renaer-neverember.md) + `dice: [](trollskull-manor-tables#^renaer-friends)` |
-| 7-10   | [Renaer Neverember](../../faerûn/npcs/waterdeep/renaer-neverember.md) |
+| 1-6    | [Renaer Neverember %mood%](../../faerûn/npcs/waterdeep/renaer-neverember.md) + `dice: [](trollskull-manor-tables#^renaer-friends)` |
+| 7-10   | [Renaer Neverember %mood%](../../faerûn/npcs/waterdeep/renaer-neverember.md) |
 | 11-20  | `dice: [](trollskull-manor-tables#^renaer-friends)` |
 ^renaer-and-friends
 
 | dice: 1d20 | PATRON - RENAER'S FRIENDS |
 | ---------- | ------- |
-| 1-3   | [Vajra Safahr (The Blackstaff)](../../faerûn/npcs/waterdeep/vajra-safahr.md) |
-| 4-6   | [Laraelra "Elra" Harsard](../../faerûn/npcs/waterdeep/laraelra-elra-harsard.md) |
-| 7-10  | [Floon Blagmaar](../../faerûn/npcs/waterdeep/floon-blagmaar.md) |
-| 11-13 | [Osco Salibuck](../../faerûn/npcs/waterdeep/salibuck-family.md) |
-| 14-15 | [Lord Torlyn Wands](../../faerûn/npcs/waterdeep/lord-torlyn-wands.md) |
-| 16    | [Eiruk Weskur](../../faerûn/npcs/waterdeep/eiruk-weskur.md) |
-| 17    | [Harug Shieldsunder](../../faerûn/npcs/waterdeep/harug-shieldsunder.md) |
-| 18    | [Parlek Lateriff](../../faerûn/npcs/waterdeep/parlek-lateriff.md) |
-| 19    | [Meloon Wardragon](../../faerûn/npcs/waterdeep/meloon-wardragon.md) |
+| 1-3   | [Vajra Safahr (The Blackstaff) %mood%](../../faerûn/npcs/waterdeep/vajra-safahr.md) |
+| 4-6   | [Laraelra "Elra" Harsard %mood%](../../faerûn/npcs/waterdeep/laraelra-elra-harsard.md) |
+| 7-10  | [Floon Blagmaar %mood%](../../faerûn/npcs/waterdeep/floon-blagmaar.md) |
+| 11-13 | [Osco Salibuck %mood%](../../faerûn/npcs/waterdeep/salibuck-family.md) |
+| 14-15 | [Lord Torlyn Wands %mood%](../../faerûn/npcs/waterdeep/lord-torlyn-wands.md) |
+| 16    | [Eiruk Weskur %mood%](../../faerûn/npcs/waterdeep/eiruk-weskur.md) |
+| 17    | [Harug Shieldsunder %mood%](../../faerûn/npcs/waterdeep/harug-shieldsunder.md) |
+| 18    | [Parlek Lateriff %mood%](../../faerûn/npcs/waterdeep/parlek-lateriff.md) |
+| 19    | [Meloon Wardragon %mood%](../../faerûn/npcs/waterdeep/meloon-wardragon.md) |
 | 20    | [Faction Spy Watching Renaer] |
 ^renaer-friends
 
 | Guild Representative |
 | ---------- |
-| [Hammond Kraddoc](../../faerûn/npcs/waterdeep/hammond-kraddoc.md) (Vintners' Guild) |
-| [Broxley Fairkettle](../../faerûn/npcs/waterdeep/broxley-fairkettle.md) (Innkeepers) |
-| [Ulkoria Stonemarrow](../../faerûn/npcs/waterdeep/ulkoria-stonemarrow.md) (Watchful Order) |
-| [Justyn Rassk](../../faerûn/npcs/waterdeep/justyn-rassk.md) (Butchers) |
+| [Hammond Kraddoc %mood%](../../faerûn/npcs/waterdeep/hammond-kraddoc.md) (Vintners' Guild) |
+| [Broxley Fairkettle %mood%](../../faerûn/npcs/waterdeep/broxley-fairkettle.md) (Innkeepers) |
+| [Ulkoria Stonemarrow %mood%](../../faerûn/npcs/waterdeep/ulkoria-stonemarrow.md) (Watchful Order) |
+| [Justyn Rassk %mood%](../../faerûn/npcs/waterdeep/justyn-rassk.md) (Butchers) |
 ^guild-contact
 
 | Faction Contact |
 | ---------- |
-| [Mattrim "Threestrings" Mereg](../../faerûn/npcs/waterdeep/threestrings-mattrim-mereg.md) (Harpers) |
-| [Remallia Haventree](../../faerûn/npcs/waterdeep/remallia-haventree.md) (Harpers) |
-| [Jalester Silvermane](../../faerûn/npcs/waterdeep/jalester-silvermane.md) (Lords' Alliance) |
-| [Davil Starsong](../../faerûn/npcs/waterdeep/davil-starsong.md) and [Yagra Stonefist](../../faerûn/npcs/waterdeep/yagra-stonefist.md) (Zhenterim) |
-| [Vajra Safahr (The Blackstaff)](../../faerûn/npcs/waterdeep/vajra-safahr.md) (Force Grey / Gray Hands) |
+| [Mattrim "Threestrings" Mereg %mood%](../../faerûn/npcs/waterdeep/threestrings-mattrim-mereg.md) (Harpers) |
+| [Remallia Haventree %mood%](../../faerûn/npcs/waterdeep/remallia-haventree.md) (Harpers) |
+| [Mirt 'The Moneylender' %mood%](../../faerûn/npcs/waterdeep/mirt-the-moneylender.md) (Harpers) |
+| [Jalester Silvermane %mood%](../../faerûn/npcs/waterdeep/jalester-silvermane.md) (Lords' Alliance) |
+| [Davil Starsong %mood%](../../faerûn/npcs/waterdeep/davil-starsong.md) and [Yagra Stonefist](../../faerûn/npcs/waterdeep/yagra-stonefist.md) (Zhenterim) |
+| [Vajra Safahr (The Blackstaff) %mood%](../../faerûn/npcs/waterdeep/vajra-safahr.md) (Force Grey / Gray Hands) |
+| [Jarlaxle in disguise %mood%](../../faerûn/npcs/jarlaxle-baenre.md) |
+| [Manshoon Simulacrum in disguise %mood%](../../compendium/bestiary/humanoid/manshoon-simulacrum.md) |
 ^faction-contact
+
+| Trollskull Alley |
+| -----------------|
+| [Tally Fellbranch %mood%](../../faerûn/npcs/waterdeep/talisolvanar-tally-fellbranch.md) (Bent Nail) : `dice: [](trollskull-manor-tables#^tally)` |
+| [Avi %mood%](../../faerûn/npcs/waterdeep/avi.md) (Steam and Steel): `dice: [](trollskull-manor-tables#^genasi)` |
+| [Embric %mood%](../../faerûn/npcs/waterdeep/embric.md) (Steam and Steel) : `dice: [](trollskull-manor-tables#^genasi)`  |
+| [Embric %mood%](../../faerûn/npcs/waterdeep/embric.md) & [Avi %mood%](../../faerûn/npcs/waterdeep/avi.md) (Steam and Steel) : `dice: [](trollskull-manor-tables#^genasi)`  |
+| [Elyellas Greycastle %mood%](../../faerûn/npcs/waterdeep/elyellas-graycastle.md) |
+| [Fala Lefaliir %mood%](../../faerûn/npcs/waterdeep/fala-lefaliir.md) (Corellon's Crown)  : `dice: [](trollskull-manor-tables#^fala)` |
+| [Fatima al-Umari %mood%](../../faerûn/npcs/waterdeep/fatima-al-umari.md) |
+| [Vincent Trench %mood%](../../faerûn/npcs/waterdeep/vincent-trench.md) (Tiger's Eye)  : `dice: [](trollskull-manor-tables#^vincent)` |
+| [Rishaal the Page-Turner %mood%](../../faerûn/npcs/waterdeep/rishaal-the-page-turner.md) (Book Wyrm) : `dice: [](trollskull-manor-tables#^rishaal)` |
+^trollskull-alley
 
 |  Campaign NPC |
 | ---------- |
-| [Ida Willowbrooke](../../faerûn/npcs/waterdeep/ida-willowbrooke.md) |
-| [Cora and/or Perrin Peabody](../../faerûn/npcs/waterdeep/peabody-family.md) |
-| [Madrack Salibuck](../../faerûn/npcs/waterdeep/salibuck-family.md) |
-| [Bramal & Ellial Salibuck](../../faerûn/npcs/waterdeep/salibuck-family.md) |
-| [Sambral & Kiley Salibuck](../../faerûn/npcs/waterdeep/salibuck-family.md) |
-| [Ellial & Kiley Salibuck](../../faerûn/npcs/waterdeep/salibuck-family.md) |
-| [Bramal & Sambral Salibuck](../../faerûn/npcs/waterdeep/salibuck-family.md) |
-| [Faramond Salibuck](../../faerûn/npcs/waterdeep/salibuck-family.md) |
-| [Varkel Salibuck](../../faerûn/npcs/waterdeep/salibuck-family.md) |
-| [Merric and/or Delalar (Salibuck) Kettlewhistle](../../faerûn/npcs/waterdeep/salibuck-family.md) |
-| [Volothamp Geddarm](../../faerûn/npcs/waterdeep/volothamp-geddarm.md) |
-| [Yagra Stonefist](../../faerûn/npcs/waterdeep/yagra-stonefist.md) |
-| [Fatima al-Umari](../../faerûn/npcs/waterdeep/fatima-al-umari.md) |
+| [Ida Willowbrooke %mood%](../../faerûn/npcs/waterdeep/ida-willowbrooke.md) |
+| [Cora %mood% and/or Perrin %mood% Peabody](../../faerûn/npcs/waterdeep/peabody-family.md) |
+| [Madrack Salibuck %mood%](../../faerûn/npcs/waterdeep/salibuck-family.md) |
+| [Bramal %mood% & Ellial %mood% Salibuck](../../faerûn/npcs/waterdeep/salibuck-family.md) |
+| [Sambral %mood% & Kiley %mood% Salibuck](../../faerûn/npcs/waterdeep/salibuck-family.md) |
+| [Ellial %mood% & Kiley %mood% Salibuck](../../faerûn/npcs/waterdeep/salibuck-family.md) |
+| [Bramal %mood% & Sambral %mood% Salibuck](../../faerûn/npcs/waterdeep/salibuck-family.md) |
+| [Faramond Salibuck %mood%](../../faerûn/npcs/waterdeep/salibuck-family.md) |
+| [Varkel Salibuck %mood%](../../faerûn/npcs/waterdeep/salibuck-family.md) |
+| [Merric %mood% and/or Delalar %mood% Kettlewhistle](../../faerûn/npcs/waterdeep/salibuck-family.md) |
+| [Volothamp Geddarm %mood%](../../faerûn/npcs/waterdeep/volothamp-geddarm.md) |
+| [Yagra Stonefist %mood%](../../faerûn/npcs/waterdeep/yagra-stonefist.md) |
+| [Eldon Highhill %mood%](../../faerûn/npcs/waterdeep/eldon-highhill.md) |
 ^campaign-npc
 
 ## Events

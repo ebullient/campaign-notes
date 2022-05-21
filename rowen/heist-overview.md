@@ -38,13 +38,11 @@ list from #todo
 - Davil and Zhenterim are talking to Xanathar Guild
 - <span class='ob-timelines'  data-class='npc' data-date='1499-03-13-00' data-title="Dalakhar steals the stone"></span>
 - <span class='ob-timelines'  data-class='enemy' data-date='1499-03-15-00' data-title="Gang war breaks out">Xanathar Guild lashes out against the Zhenterim</span>
-- <span class='ob-timelines' data-class="waterdeep" data-date='1499-03-25-00' data-title="Shipwrights' Ball"></span>  
 - <span class='ob-timelines'  data-class='npc' data-date='1499-03-25-00' data-title="A night of revelry and danger">Volo and Floon go to *The Skewered Dragon*; Renaer attends the *Shipwrights' Ball*. Renaer finds Floon at the Skewered Dragon just after Volo left. Renaer and Floon are abducted when they leave.</span>
 - <span class='ob-timelines'  data-class='npc' data-date='1499-03-26-00' data-title="Questions and Clashes">Zhenterim question both Renaer and Floon at the warehouse. Late in the day, Xanathar Guild attack the Warehouse looking for Renaer, grab Floon by mistake.</span> 
     - The Zhenterim just want to know if Floon can be used for leverage. 
     - The Xanathar Guild didn't have a good enough description of Renaer.
 - <span class='ob-timelines'  data-class='npc' data-date='1499-03-27-00' data-title="Volo asks Rowen to look into Floon's disappearance"></span>  
-- <span class='ob-timelines'  data-class='npc' data-date='1499-03-28-00' data-title="Sea Maidens Faire arrives in the harbor"></span> 
 
 ### Upcoming events
 - *FUTURE* [Letter found on Dalakhar](../🗄-assets/attachments/letter-from-dalakhar.png)

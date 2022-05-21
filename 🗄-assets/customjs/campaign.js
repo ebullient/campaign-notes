@@ -571,7 +571,11 @@ class Campaign {
     tavern = async (type) => {
         let result = await this.tableRoll(`[](/rowen/encounters/trollskull-manor-tables.md#^${type})`);
         if ( type == 'visiting-patrons' ) {
-            return result.replaceAll(/,? ?\(\d+\) /g, '\n    - [ ] ')
+            result = result.replaceAll(/,? ?\(\d+\) /g, '\n    - [ ] ')
+        }
+        while ( result.contains("%mood%") ) {
+            const mood = await this.mood();
+            result = result.replace("%mood%", `_(${mood})_`);
         }
         return result;
     }
