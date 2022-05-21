@@ -20,14 +20,16 @@ Abilities:
 - high: `dice: [](tables/npc-generator-tables.md#^ability-high)`  
 - low: `dice: [](tables/npc-generator-tables.md#^ability-low)`  
 
-`dice: [](tables/npc-generator-tables.md#^qualities)` `dice: [](tables/npc-generator-tables.md#^archetypes)`  is `dice: [](tables/npc-generator-tables.md#^wealth)`, wants `dice: [](tables/npc-generator-tables.md#^goals)`  
+Attributes: 
+- `dice: [](tables/npc-generator-tables.md#^qualities)` `dice: [](tables/npc-generator-tables.md#^archetypes)`  is `dice: [](tables/npc-generator-tables.md#^wealth)` and wants `dice: [](tables/npc-generator-tables.md#^goals)`  
+- `dice: [](tables/npc-generator-tables.md#^personal-adj)`  
+- `dice: [](tables/npc-generator-tables.md#^mannerisms)`  
+- `dice: [](tables/npc-generator-tables.md#^talents)`  
+- is/has `dice: [](tables/npc-generator-tables.md#^appearance)`  
 
-`dice: [](tables/npc-generator-tables.md#^personal-adj)`  
-`dice: [](tables/npc-generator-tables.md#^mannerisms)`  
-`dice: [](tables/npc-generator-tables.md#^talents)`  
-is/has `dice: [](tables/npc-generator-tables.md#^appearance)`  
-
-Interactions with others: `dice: [](tables/npc-generator-tables.md#^interaction)`
+Interactions with others: 
+- `dice: [](tables/npc-generator-tables.md#^interaction)`
+- `dice: [](tables/npc-connection-tables.md#^connections)`
 
 Moods: `dice: [](mood-tables.md#^mood-table)`, `dice: [](mood-tables.md#^mood-table)`, `dice: [](mood-tables.md#^mood-table)`, `dice: [](mood-tables.md#^mood-table)`
 

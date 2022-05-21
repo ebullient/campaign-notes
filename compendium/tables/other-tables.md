@@ -46,3 +46,4 @@ Examples:
 ^yes-no-maybe
 
 Maybe: some other condition that needs to happen (or not happen). Perhaps a roll on the situations table.
+

@@ -111,6 +111,7 @@ note: "Please refer to source material"
 ^npc-hero
 
 ## Career or laborer or ...
+
 | dice: d100 | profession                                             | 
 | ---------- | ------------------------------------------------------ |
 | 1-25       | Commoner (unemployed)                                  |
@@ -1486,26 +1487,26 @@ note: "Please refer to source material"
 
 | Talents |
 |---------------|
-| Plays a musical instrument |
-| Speaks several languages fluently |
-| Unbelievably lucky |
-| Perfect memory |
-| Great with animals |
-| Great with children |
-| Great at solving puzzles |
-| Great at one game |
-| Great at impersonations |
-| Draws beautifully |
-| Paints beautifully |
-| Sings beautifully |
-| Drinks everyone under the table |
-| Expert carpenter |
-| Expert cook |
-| Expert dart thrower and rock skipper |
-| Expert juggler |
-| Skilled actor and master of disguise |
-| Skilled dancer |
-| Knows thieves' cant |
+| draws beautifully |
+| drinks everyone under the table |
+| expert carpenter |
+| expert cook |
+| expert dart thrower and rock skipper |
+| expert juggler |
+| great at impersonations |
+| great at one game |
+| great at solving puzzles |
+| great with animals |
+| great with children |
+| knows thieves' cant |
+| paints beautifully |
+| perfect memory |
+| plays a musical instrument |
+| sings beautifully |
+| skilled actor and master of disguise |
+| skilled dancer |
+| speaks several languages fluently |
+| unbelievably lucky |
 ^talents
 
 ## Appearance
