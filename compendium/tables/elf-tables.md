@@ -1,8 +1,11 @@
 ---
-aliases: ["Elf Names"]
+aliases: ["Elf Tables"]
+sources: 
+- "XGE, page 176"
+- "MTF, p63"
+note: "Please only use if you own the source"
 ---
 # Elves
-Names Source: XGE, page 176
 
 | dice: d100 | Name                                              | 
 | ---------- | ----------------------------------------------------- |
@@ -19,7 +22,6 @@ Names Source: XGE, page 176
 ^race-elf
 
 ## Elf Random Height and Weight
-MTF p63
 
 Subrace	Base Height	Base Weight	Height Modifier	Weight Modifier
 Eladrin	4'6"	90 lb.	+2d12	×(1d4) lb.

@@ -1,5 +1,9 @@
 ---
 obsidianUIMode: preview
+sources: 
+- "https://www.dmsguild.com/product/252355/The-Solo-Adventurers-Toolbox"
+- "https://github.com/wychwitch/Obsidian-Dice-Roller-Tables"
+note: "Please refer to source material"
 ---
 # NPC Generator tables
 
@@ -115,58 +119,58 @@ obsidianUIMode: preview
 ^profession
 
 
-| dice: d100 | jobs                     |
-| ---------- | ------------------------ |
-| 1-2        | Farmer                   |
-| 3-4        | Artist                   |
-| 5-6        | Herbalist                |
-| 7-8        | Horse Trainer            |
-| 9-10       | Blacksmith               |
-| 11-12      | Finesmith                |
-| 13-14      | Locksmith                |
-| 15-16      | Jeweler                  |
-| 17-18      | Entertainer              |
-| 19-20      | Teacher                  |
-| 21-22      | Armorer                  |
-| 23-24      | Cook                     |
-| 25-26      | Tailor                   |
-| 27-28      | Ropemaker                |
-| 29-30      | Fletcher                 |
-| 31-32      | Cooper                   |
-| 33-34      | Cartwright               |
-| 35-36      | Carpenter                |
-| 37-38      | Gravedigger / Undertaker |
-| 39-40      | Winemaker                |
-| 41-42      | Ferryman                 |
-| 43-44      | Boatbuilder              |
-| 45-46      | Ship's Captain           |
-| 47-48      | Fortune Teller           |
-| 49-50      | Handmaiden               |
-| 51-52      | Miller                   |
-| 53-54      | Executioner              |
-| 55-56      | Restauranteur            |
-| 57-58      | Priest / Cultist         |
-| 59-60      | Engineer                 |
-| 61-62      | Scribe                   |
-| 63-64      | Soldier                  |
-| 65-66      | Banker                   |
-| 67-68      | Apothecary               |
-| 69-70      | Woodcutter               |
-| 71-72      | Tax Collector            |
-| 73-74      | Fisher                   |
-| 75-76      | Fishmonger               |
-| 77-78      | Butcher                  |
-| 79-80      | Fruit seller             |
-| 81-82      | Conman                   |
-| 83-84      | Petty thief              |
-| 85-86      | Healer                   |
-| 87-88      | Butler                   |
-| 89-90      | Clerk                    |
-| 91-92      | Baker                    |
-| 93-94      | Cheesemaker              |
-| 95-96      | Innkeeper                |
-| 97-98      | Dung Shoveler            |
-| 99-100     | Courier                  | 
+| jobs                     |
+| ------------------------ |
+| Farmer                   |
+| Artist                   |
+| Herbalist                |
+| Horse Trainer            |
+| Blacksmith               |
+| Finesmith                |
+| Locksmith                |
+| Jeweler                  |
+| Entertainer              |
+| Teacher                  |
+| Armorer                  |
+| Cook                     |
+| Tailor                   |
+| Ropemaker                |
+| Fletcher                 |
+| Cooper                   |
+| Cartwright               |
+| Carpenter                |
+| Gravedigger / Undertaker |
+| Winemaker                |
+| Ferryman                 |
+| Boatbuilder              |
+| Ship's Captain           |
+| Fortune Teller           |
+| Handmaiden               |
+| Miller                   |
+| Executioner              |
+| Restauranteur            |
+| Priest / Cultist         |
+| Engineer                 |
+| Scribe                   |
+| Soldier                  |
+| Banker                   |
+| Apothecary               |
+| Woodcutter               |
+| Tax Collector            |
+| Fisher                   |
+| Fishmonger               |
+| Butcher                  |
+| Fruit seller             |
+| Conman                   |
+| Petty thief              |
+| Healer                   |
+| Butler                   |
+| Clerk                    |
+| Baker                    |
+| Cheesemaker              |
+| Innkeeper                |
+| Dung Shoveler            |
+| Courier                  | 
 ^jobs
 
 ## Abilities
@@ -792,7 +796,7 @@ obsidianUIMode: preview
 
 ## Personality Traits
 | Traits |
-| ----- |
+| ------ |
 | Acolyte: `dice: [](npc-generator-tables.md#^acolyte-traits)` |
 | Charlatan: `dice: [](npc-generator-tables.md#^charlatan-traits)` |
 | Criminal `dice: [](npc-generator-tables.md#^criminal-traits)` |
@@ -1456,26 +1460,26 @@ obsidianUIMode: preview
 
 | Mannerisms |
 |---------------|
-| Prone to singing, whistling, or humming quietly |
-| Speaks in rhyme or some other peculiar way |
-| Particularly low or high voice |
-| Speaks in an unusually formal manner |
-| Enunciates overly clearly |
-| Speaks loudly |
-| Whispers |
-| Uses flowery speech or long words |
-| Frequently uses the wrong word |
-| Uses colorful oaths and exclamations |
-| Makes constant jokes or puns |
-| Prone to predictions of doom |
-| Fidgets |
-| Squints |
-| Stares into the distance |
-| Chews something |
-| Paces |
-| Taps fingers |
-| Bites fingernails |
-| Twirls hair or tugs beard |
+| bites fingernails |
+| chews something |
+| enunciates overly clearly |
+| fidgets |
+| frequently uses the wrong word |
+| makes constant jokes or puns |
+| paces |
+| particularly low or high voice |
+| prone to predictions of doom |
+| prone to singing, whistling, or humming quietly |
+| speaks in an unusually formal manner |
+| speaks in rhyme or some other peculiar way |
+| speaks loudly |
+| squints |
+| stares into the distance |
+| taps fingers |
+| twirls hair or tugs beard |
+| uses colorful oaths and exclamations |
+| uses flowery speech or long words |
+| whispers |
 ^mannerisms
 
 ## Talents
@@ -1508,42 +1512,42 @@ obsidianUIMode: preview
 
 | Feature                                     |
 | ------------------------------------------- |
-| Distinctive Jewelry                         |
-| Piercings                                   |
-| Flamboyant, outlandish clothes              |
-| Formal, Clean clothes                       |
-| Ragged, dirty clothes                       | 
-| Pronounced Scar                             |
-| Missing teeth                               |
-| Missing fingers                             |
-| Unusual eye color (or two different colors) |
-| Tattoos                                     |
-| Birthmark                                   |
-| Unusual skin color                          |
-| Bald                                        |
-| Braided beard or hair                       |
-| Unusual hair color                          |
-| Nervous eye twitch                          |
-| Distinctive nose                            |
-| Distinctive posture                         |
-| Exceptionally beautiful                     |
-| Exceptionally ugly                          |
+| bald                                        |
+| birthmark                                   |
+| braided beard or hair                       |
+| piercings                                   |
+| distinctive jewelry                         |
+| distinctive nose                            |
+| distinctive posture                         |
+| exceptionally beautiful                     |
+| exceptionally ugly                          |
+| flamboyant, outlandish clothes              |
+| formal, clean clothes                       |
+| missing teeth                               |
+| missing fingers                             |
+| nervous eye twitch                          |
+| pronounced scar                             |
+| ragged, dirty clothes                       | 
+| tattoos                                     |
+| unusual eye color (or two different colors) |
+| unusual hair color                          |
+| unusual skin color                          |
 ^appearance
 
 ## Interaction with Others
 
-| d12 | Trait |
-|-----|-------|
-| 1 | Argumentative |
-| 2 | Arrogant |
-| 3 | Blustering |
-| 4 | Rude |
-| 5 | Curious |
-| 6 | Friendly |
-| 7 | Honest |
-| 8 | Hot tempered |
-| 9 | Irritable |
-| 10 | Ponderous |
-| 11 | Quiet |
-| 12 | Suspicious |
+| Interaction style |
+|-------|
+| Argumentative |
+| Arrogant |
+| Blustering |
+| Rude |
+| Curious |
+| Friendly |
+| Honest |
+| Hot tempered |
+| Irritable |
+| Quiet |
+| Ponderous |
+| Suspicious |
 ^interaction

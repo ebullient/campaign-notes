@@ -1,3 +1,8 @@
+---
+aliases: ["Gnome Names"]
+source: "XGE, p178"
+note: "Please only use if you own the source"
+---
 # Gnome
 
 ## Female

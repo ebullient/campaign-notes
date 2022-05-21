@@ -1,3 +1,8 @@
+---
+aliases: ["Half-Orc Names"]
+source: "XGE, p179"
+note: "Please only use if you own the source"
+---
 # Half-Orc
 
 ## Female

@@ -1,5 +1,9 @@
 ---
 aliases: ['npc-connection-tables']
+sources: 
+- "https://www.dmsguild.com/product/252355/The-Solo-Adventurers-Toolbox"
+- "https://github.com/wychwitch/Obsidian-Dice-Roller-Tables"
+note: "Please refer to source material"
 ---
 # npc-connection-tables
 ## Connections
@@ -30,8 +34,8 @@ aliases: ['npc-connection-tables']
 | 5         | They're from `dice: #pc\|link`'s past `dice: [[npc-connection-tables#^connections-opinion]]`                                    |
 | 6         | They know of `dice: #pc\|link` from rumors `dice: [[npc-connection-tables#^connections-rumors]]`, `dice: [[npc-connection-tables#^connections-opinion]]`    |
 | 7         | They know of `dice: #npc\|link` from rumors `dice: [[npc-connection-tables#^connections-rumors]]`, `dice: [[npc-connection-tables#^connections-opinion]]`   |
-| 8         | They are associated with `dice: #type/faction\|link`                                                                          |
-| 9        | They used to be associated with `dice: #type/faction\|link`                                                                   |
+| 8         | They are associated with `dice: #type/group\|link`                                                                          |
+| 9        | They used to be associated with `dice: #type/group\|link`                                                                   |
 ^connections-outgoing
 
 | dice: 1d7 | Connections-opinion                                              |
@@ -65,5 +69,5 @@ aliases: ['npc-connection-tables']
 | dice: 1d2 | npc or faction               |
 | --------- | ---------------------------- |
 | 1         | `dice: #npc\|link`           |
-| 2         | `dice: #type/faction\|link` |
+| 2         | `dice: #type/group\|link` |
 ^connection-npc-or-faction

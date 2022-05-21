@@ -1,3 +1,8 @@
+---
+aliases: ["Elf Names"]
+source: "XGE, p176"
+note: "Please only use if you own the source"
+---
 # Elf
 
 ## Child

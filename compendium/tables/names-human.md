@@ -1,3 +1,8 @@
+---
+aliases: ["Human Names"]
+source: "XGE, p181"
+note: "Please only use if you own the source"
+---
 # Human
 
 | dice: d100 | Name                                              | 

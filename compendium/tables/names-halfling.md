@@ -1,3 +1,8 @@
+---
+aliases: ["Halfling Names"]
+source: "XGE, p179"
+note: "Please only use if you own the source"
+---
 # Halfling
 
 | dice: d100 | Name                                              | 

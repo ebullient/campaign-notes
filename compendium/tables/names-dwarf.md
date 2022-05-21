@@ -1,3 +1,8 @@
+---
+aliases: ["Dwarf Names"]
+source: "XGE, p176"
+note: "Please only use if you own the source"
+---
 # Dwarf
 
 ## Female

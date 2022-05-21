@@ -457,8 +457,8 @@
           "auto": true
         },
         {
-          "id": "ID_5a791888a969",
-          "name": "Autumn Equinox",
+          "id": "ID_3bf839bbf9ea",
+          "name": "Highharvestide excitement",
           "note": "faerûn/calendar/calendar-events.md",
           "date": {
             "year": 1499,
@@ -470,8 +470,8 @@
           "auto": true
         },
         {
-          "id": "ID_fa98aa59b8cb",
-          "name": "Autumn Equinox",
+          "id": "ID_695a7bbb1879",
+          "name": "Highharvestide excitement",
           "note": "faerûn/calendar/calendar-events.md",
           "date": {
             "year": 1498,
@@ -1341,8 +1341,8 @@
           "auto": true
         },
         {
-          "id": "ID_a9883ba899b8",
-          "name": "Rowen and Nora: Flight and Fight",
+          "id": "ID_682bcbeb0b5b",
+          "name": "Coral meets other Genasi",
           "note": "rowen/sessions/2022-05-08-the-passive-fist.md",
           "date": {
             "year": 1499,
@@ -1510,8 +1510,8 @@
           "auto": true
         },
         {
-          "id": "ID_7b0a0b289b0a",
-          "name": "Shipwrights' Ball",
+          "id": "ID_fb59cb2a097a",
+          "name": "A night of revelry and danger",
           "note": "rowen/heist-overview.md",
           "date": {
             "year": 1499,
@@ -1519,7 +1519,7 @@
             "day": 25
           },
           "timestamp": 1499032500,
-          "description": "",
+          "description": "Volo and Floon go to *The Skewered Dragon*; Renaer attends the *Shipwrights' Ball*. Renaer finds Floon at the Skewered Dragon just after Volo left. Renaer and Floon are abducted when they leave.",
           "auto": true
         },
         {
@@ -2264,8 +2264,8 @@
           "auto": true
         },
         {
-          "id": "ID_f908f81879ba",
-          "name": "Fair Seas Festival begins",
+          "id": "ID_d8b8db5b9999",
+          "name": "Parade marks beginning of Fair Seas Festival",
           "note": "rowen/days/1499-03-29-ches.md",
           "date": {
             "year": 1499,
@@ -2273,7 +2273,7 @@
             "day": 29
           },
           "timestamp": 1499032900,
-          "description": "Parades. Street vendors. Donation boxes to Umberlee.",
+          "description": "",
           "auto": true
         },
         {

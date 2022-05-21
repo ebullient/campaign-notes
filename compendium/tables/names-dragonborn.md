@@ -1,3 +1,8 @@
+---
+aliases: ["Dragonborn Names"]
+source: "XGE"
+note: "Please only use if you own the source"
+---
 # Dragonborn
 
 | dice: d100 | Name                                              | 

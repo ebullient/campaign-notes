@@ -1,5 +1,7 @@
 ---
 aliases: ["Dwarf Tables"]
+source: "XGE"
+note: "Please only use if you own the source"
 ---
 # Dwarves
 

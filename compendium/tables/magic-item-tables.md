@@ -1,8 +1,9 @@
 ---
 obsidianUIMode: preview
+source: "DMG, p 144-145"
+note: "Please only use if you own the source"
 ---
 # Magic Item Tables
-Source: DMG  p 144-145
 
 ## Magic Item Table A
 

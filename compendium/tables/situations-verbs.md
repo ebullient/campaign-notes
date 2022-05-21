@@ -1,6 +1,10 @@
 ---
 aliases: ['Situations table', 'Verb list']
 obsidianUIMode: preview
+source: 
+- "https://www.dmsguild.com/product/252355/The-Solo-Adventurers-Toolbox"
+- "https://www.dmsguild.com/product/348555/The-Solo-Adventurers-Toolbox-Part-Two-The-Toolbox-Expanded"
+note: "Please only use if you own the source"
 ---
 # Situations Table (Verb List)
 
@@ -11,540 +15,540 @@ obsidianUIMode: preview
 - `dice: [](situations-verbs.md#^situation-table)`
 
 
-| dice: d10 | Hundreds Range / Result | 
-| --------- | ----------------------- |
-| 1-2       | `dice: [[situations-verbs#^situation-99]]` |
-| 3-4       | `dice: [[situations-verbs#^situation-199]]` |
-| 5-6       | `dice: [[situations-verbs#^situation-299]]` |
-| 7-8       | `dice: [[situations-verbs#^situation-399]]` |
-| 9-10      | `dice: [[situations-verbs#^situation-499]]` |
+| Hundreds Range / Result | 
+| ----------------------- |
+| `dice: [[situations-verbs#^situation-99]]` |
+| `dice: [[situations-verbs#^situation-199]]` |
+| `dice: [[situations-verbs#^situation-299]]` |
+| `dice: [[situations-verbs#^situation-399]]` |
+| `dice: [[situations-verbs#^situation-499]]` |
 ^situation-table
 
 ## 0-99
 
-| dice: d100 | Result   | 
-| ---------- | ----------- |
-| 1          | abandon     |
-| 2          | abolish     |
-| 3          | abuse       |
-| 4          | accuse      |
-| 5          | address     |
-| 6          | aggravate   |
-| 7          | agitate     |
-| 8          | aid         |
-| 9          | aim         |
-| 10         | alarm       |
-| 11         | alert       |
-| 12         | alter       |
-| 13         | amaze       |
-| 14         | ambush      |
-| 15         | amuse       |
-| 16         | annihilate  |
-| 17         | annoy       |
-| 18         | antagonize  |
-| 19         | appeal      |
-| 20         | applaud     |
-| 21         | apprehend   |
-| 22         | approach    |
-| 23         | argue       |
-| 24         | arise       |
-| 25         | arouse      |
-| 26         | arrange     |
-| 27         | arrest      |
-| 28         | ask         |
-| 29         | assassinate |
-| 30         | assault     |
-| 31         | assemble    |
-| 32         | astonish    |
-| 33         | attack      |
-| 34         | attempt     |
-| 35         | attend      |
-| 36         | auction     |
-| 37         | audition    |
-| 38         | avenge      |
-| 39         | avert       |
-| 40         | babble      |
-| 41         | badmouth    |
-| 42         | bait        |
-| 43         | ban         |
-| 44         | banish      |
-| 45         | baptize     |
-| 46         | bargain     |
-| 47         | bark        |
-| 48         | barricade   |
-| 49         | barter      |
-| 50         | bash        |
-| 51         | bawl        |
-| 52         | beautify    |
-| 53         | beckon      |
-| 54         | befriend    |
-| 55         | beg         |
-| 56         | beguile     |
-| 57         | belch       |
-| 58         | belittle    |
-| 59         | bellow      |
-| 60         | bemoan      |
-| 61         | bequeath    |
-| 62         | berate      |
-| 63         | besiege     |
-| 64         | bestow      |
-| 65         | bet         |
-| 66         | betray      |
-| 67         | bewilder    |
-| 68         | bewitch     |
-| 69         | bid         |
-| 70         | bite        |
-| 71         | blab        |
-| 72         | blame       |
-| 73         | blast       |
-| 74         | bleed       |
-| 75         | bless       |
-| 76         | blunder     |
-| 77         | blurt       |
-| 78         | boast       |
-| 79         | bother      |
-| 80         | bow         |
-| 81         | brag        |
-| 82         | break       |
-| 83         | bribe       |
-| 84         | broadcast   |
-| 85         | build       |
-| 86         | capture     |
-| 87         | careen      |
-| 88         | caress      |
-| 89         | carry       |
-| 90         | carve       |
-| 91         | catch       |
-| 92         | celebrate   |
-| 93         | challenge   |
-| 94         | charm       |
-| 95         | chase       |
-| 96         | cheat       |
-| 97         | choke       |
-| 98         | claim       |
-| 99         | climb       |
+| Result (1-99) | 
+| ----------- |
+| abandon     |
+| abolish     |
+| abuse       |
+| accuse      |
+| address     |
+| aggravate   |
+| agitate     |
+| aid         |
+| aim         |
+| alarm       |
+| alert       |
+| alter       |
+| amaze       |
+| ambush      |
+| amuse       |
+| annihilate  |
+| annoy       |
+| antagonize  |
+| appeal      |
+| applaud     |
+| apprehend   |
+| approach    |
+| argue       |
+| arise       |
+| arouse      |
+| arrange     |
+| arrest      |
+| ask         |
+| assassinate |
+| assault     |
+| assemble    |
+| astonish    |
+| attack      |
+| attempt     |
+| attend      |
+| auction     |
+| audition    |
+| avenge      |
+| avert       |
+| babble      |
+| badmouth    |
+| bait        |
+| ban         |
+| banish      |
+| baptize     |
+| bargain     |
+| bark        |
+| barricade   |
+| barter      |
+| bash        |
+| bawl        |
+| beautify    |
+| beckon      |
+| befriend    |
+| beg         |
+| beguile     |
+| belch       |
+| belittle    |
+| bellow      |
+| bemoan      |
+| bequeath    |
+| berate      |
+| besiege     |
+| bestow      |
+| bet         |
+| betray      |
+| bewilder    |
+| bewitch     |
+| bid         |
+| bite        |
+| blab        |
+| blame       |
+| blast       |
+| bleed       |
+| bless       |
+| blunder     |
+| blurt       |
+| boast       |
+| bother      |
+| bow         |
+| brag        |
+| break       |
+| bribe       |
+| broadcast   |
+| build       |
+| capture     |
+| careen      |
+| caress      |
+| carry       |
+| carve       |
+| catch       |
+| celebrate   |
+| challenge   |
+| charm       |
+| chase       |
+| cheat       |
+| choke       |
+| claim       |
+| climb       |
 ^situation-99
 
 ## 100-199
 
-| dice: d100 + 100 | Result    | 
-| ---------- | ------------ |
-| 100        | collaborate  |
-| 101        | collapse     |
-| 102        | collide      |
-| 103        | command      |
-| 104        | complain     |
-| 105        | compliment   |
-| 106        | conceal      |
-| 107        | concoct      |
-| 108        | condemn      |
-| 109        | confiscate   |
-| 110        | conflict     |
-| 111        | confront     |
-| 112        | confuse      |
-| 113        | congratulate |
-| 114        | congregate   |
-| 115        | conjure      |
-| 116        | consecrate   |
-| 117        | consider     |
-| 118        | construct    |
-| 119        | contact      |
-| 120        | contaminate  |
-| 121        | contest      |
-| 122        | cook         |
-| 123        | corner       |
-| 124        | corrupt      |
-| 125        | cremate      |
-| 126        | crowd        |
-| 127        | crown        |
-| 128        | customize    |
-| 129        | damage       |
-| 130        | dance        |
-| 131        | dare         |
-| 132        | dash         |
-| 133        | dazzle       |
-| 134        | deal         |
-| 135        | debate       |
-| 136        | decay        |
-| 137        | deceive      |
-| 138        | declare      |
-| 139        | decline      |
-| 140        | decompose    |
-| 141        | decorate     |
-| 142        | decree       |
-| 143        | dedicate     |
-| 144        | deduce       |
-| 145        | deface       |
-| 146        | defeat       |
-| 147        | defend       |
-| 148        | defuse       |
-| 149        | deliver      |
-| 150        | demand       |
-| 151        | demolish     |
-| 152        | denounce     |
-| 153        | deride       |
-| 154        | despair      |
-| 155        | destroy      |
-| 156        | devour       |
-| 157        | dig          |
-| 158        | disappear    |
-| 159        | disarm       |
-| 160        | discipline   |
-| 161        | discover     |
-| 162        | discriminate |
-| 163        | discuss      |
-| 164        | disgrace     |
-| 165        | disguise     |
-| 166        | disgust      |
-| 167        | dishonor     |
-| 168        | dismount     |
-| 169        | dispel       |
-| 170        | disperse     |
-| 171        | display      |
-| 172        | displease    |
-| 173        | dispute      |
-| 174        | disrespect   |
-| 175        | disrupt      |
-| 176        | distill      |
-| 177        | distress     |
-| 178        | disturb      |
-| 179        | divert       |
-| 180        | dodge        |
-| 181        | drag         |
-| 182        | dress        |
-| 183        | drink        |
-| 184        | drop         |
-| 185        | drown        |
-| 186        | drum         |
-| 187        | dump         |
-| 188        | dupe         |
-| 189        | duplicate    |
-| 190        | earn         |
-| 191        | eat          |
-| 192        | elude        |
-| 193        | employ       |
-| 194        | enchant      |
-| 195        | end          |
-| 196        | endanger     |
-| 197        | endear       |
-| 198        | endorse      |
-| 199        | enforce      |
+| Result (100-199) | 
+| ------------ |
+| collaborate  |
+| collapse     |
+| collide      |
+| command      |
+| complain     |
+| compliment   |
+| conceal      |
+| concoct      |
+| condemn      |
+| confiscate   |
+| conflict     |
+| confront     |
+| confuse      |
+| congratulate |
+| congregate   |
+| conjure      |
+| consecrate   |
+| consider     |
+| construct    |
+| contact      |
+| contaminate  |
+| contest      |
+| cook         |
+| corner       |
+| corrupt      |
+| cremate      |
+| crowd        |
+| crown        |
+| customize    |
+| damage       |
+| dance        |
+| dare         |
+| dash         |
+| dazzle       |
+| deal         |
+| debate       |
+| decay        |
+| deceive      |
+| declare      |
+| decline      |
+| decompose    |
+| decorate     |
+| decree       |
+| dedicate     |
+| deduce       |
+| deface       |
+| defeat       |
+| defend       |
+| defuse       |
+| deliver      |
+| demand       |
+| demolish     |
+| denounce     |
+| deride       |
+| despair      |
+| destroy      |
+| devour       |
+| dig          |
+| disappear    |
+| disarm       |
+| discipline   |
+| discover     |
+| discriminate |
+| discuss      |
+| disgrace     |
+| disguise     |
+| disgust      |
+| dishonor     |
+| dismount     |
+| dispel       |
+| disperse     |
+| display      |
+| displease    |
+| dispute      |
+| disrespect   |
+| disrupt      |
+| distill      |
+| distress     |
+| disturb      |
+| divert       |
+| dodge        |
+| drag         |
+| dress        |
+| drink        |
+| drop         |
+| drown        |
+| drum         |
+| dump         |
+| dupe         |
+| duplicate    |
+| earn         |
+| eat          |
+| elude        |
+| employ       |
+| enchant      |
+| end          |
+| endanger     |
+| endear       |
+| endorse      |
+| enforce      |
 ^situation-199
 
 ## 200-299
 
-| dice: d100 + 200 | Result  | 
-| ---------- | ---------- |
-| 200        | engage     |
-| 201        | engineer   |
-| 202        | enjoy      |
-| 203        | enlarge    |
-| 204        | enlighten  |
-| 205        | enlist     |
-| 206        | enquire    |
-| 207        | enrage     |
-| 208        | enrich     |
-| 209        | enroll     |
-| 210        | enshrine   |
-| 211        | ensnare    |
-| 212        | entangle   |
-| 213        | enter      |
-| 214        | entertain  |
-| 215        | entice     |
-| 216        | erect      |
-| 217        | escape     |
-| 218        | escort     |
-| 219        | evacuate   |
-| 220        | evade      |
-| 221        | evict      |
-| 222        | exaggerate |
-| 223        | examine    |
-| 224        | excavate   |
-| 225        | exchange   |
-| 226        | exclaim    |
-| 227        | exclude    |
-| 228        | execute    |
-| 229        | exhibit    |
-| 230        | experiment |
-| 231        | explode    |
-| 232        | expose     |
-| 233        | faint      |
-| 234        | fake       |
-| 235        | fall       |
-| 236        | falsify    |
-| 237        | fashion    |
-| 238        | flaunt     |
-| 239        | flee       |
-| 240        | fling      |
-| 241        | flirt      |
-| 242        | follow     |
-| 243        | force      |
-| 244        | foresee    |
-| 245        | foretell   |
-| 246        | forge      |
-| 247        | forgive    |
-| 248        | fracture   |
-| 249        | frame      |
-| 250        | free       |
-| 251        | freeze     |
-| 252        | fret       |
-| 253        | frighten   |
-| 254        | frustrate  |
-| 255        | fumble     |
-| 256        | fund       |
-| 257        | fuss       |
-| 258        | gallop     |
-| 259        | gamble     |
-| 260        | gather     |
-| 261        | gaze       |
-| 262        | gesture    |
-| 263        | gift       |
-| 264        | giggle     |
-| 265        | give       |
-| 266        | glare      |
-| 267        | gleam      |
-| 268        | glimpse    |
-| 269        | goad       |
-| 270        | gob        |
-| 271        | goggle     |
-| 272        | gossip     |
-| 273        | grab       |
-| 274        | grapple    |
-| 275        | grieve     |
-| 276        | guard      |
-| 277        | hamper     |
-| 278        | harass     |
-| 279        | harm       |
-| 280        | help       |
-| 281        | hide       |
-| 282        | hit        |
-| 283        | hold       |
-| 284        | humiliate  |
-| 285        | hurry      |
-| 286        | hurtle     |
-| 287        | ignite     |
-| 288        | impede     |
-| 289        | implore    |
-| 290        | imprison   |
-| 291        | infect     |
-| 292        | infest     |
-| 293        | inflame    |
-| 294        | inflict    |
-| 295        | inform     |
-| 296        | infringe   |
-| 297        | infuriate  |
-| 298        | injure     |
-| 299        | inspect    |
+| Result (200-299) | 
+| ---------- |
+| engage     |
+| engineer   |
+| enjoy      |
+| enlarge    |
+| enlighten  |
+| enlist     |
+| enquire    |
+| enrage     |
+| enrich     |
+| enroll     |
+| enshrine   |
+| ensnare    |
+| entangle   |
+| enter      |
+| entertain  |
+| entice     |
+| erect      |
+| escape     |
+| escort     |
+| evacuate   |
+| evade      |
+| evict      |
+| exaggerate |
+| examine    |
+| excavate   |
+| exchange   |
+| exclaim    |
+| exclude    |
+| execute    |
+| exhibit    |
+| experiment |
+| explode    |
+| expose     |
+| faint      |
+| fake       |
+| fall       |
+| falsify    |
+| fashion    |
+| flaunt     |
+| flee       |
+| fling      |
+| flirt      |
+| follow     |
+| force      |
+| foresee    |
+| foretell   |
+| forge      |
+| forgive    |
+| fracture   |
+| frame      |
+| free       |
+| freeze     |
+| fret       |
+| frighten   |
+| frustrate  |
+| fumble     |
+| fund       |
+| fuss       |
+| gallop     |
+| gamble     |
+| gather     |
+| gaze       |
+| gesture    |
+| gift       |
+| giggle     |
+| give       |
+| glare      |
+| gleam      |
+| glimpse    |
+| goad       |
+| gob        |
+| goggle     |
+| gossip     |
+| grab       |
+| grapple    |
+| grieve     |
+| guard      |
+| hamper     |
+| harass     |
+| harm       |
+| help       |
+| hide       |
+| hit        |
+| hold       |
+| humiliate  |
+| hurry      |
+| hurtle     |
+| ignite     |
+| impede     |
+| implore    |
+| imprison   |
+| infect     |
+| infest     |
+| inflame    |
+| inflict    |
+| inform     |
+| infringe   |
+| infuriate  |
+| injure     |
+| inspect    |
 ^situation-299
 
 ## 300-399
 
-| dice: d100 + 300 | Result   | 
-| ---------- | ----------- |
-| 300        | inspire     |
-| 301        | instigate   |
-| 302        | insult      |
-| 303        | interfere   |
-| 304        | interrogate |
-| 305        | intimidate  |
-| 306        | intoxicate  |
-| 307        | investigate |
-| 308        | invite      |
-| 309        | involve     |
-| 310        | irritate    |
-| 311        | jaywalk     |
-| 312        | jeer        |
-| 313        | joke        |
-| 314        | jostle      |
-| 315        | kick        |
-| 316        | kill        |
-| 317        | kiss        |
-| 318        | lament      |
-| 319        | laugh       |
-| 320        | leap        |
-| 321        | lecture     |
-| 322        | leer        |
-| 323        | look        |
-| 324        | loot        |
-| 325        | lose        |
-| 326        | love        |
-| 327        | lunge       |
-| 328        | lurk        |
-| 329        | maim        |
-| 330        | manhandle   |
-| 331        | march       |
-| 332        | market      |
-| 333        | massacre    |
-| 334        | meddle      |
-| 335        | mesmerize   |
-| 336        | mimic       |
-| 337        | misspell    |
-| 338        | mob         |
-| 339        | mock        |
-| 340        | murder      |
-| 341        | mutate      |
-| 342        | mutilate    |
-| 343        | nag         |
-| 344        | narrate     |
-| 345        | near        |
-| 346        | notify      |
-| 347        | obscure     |
-| 348        | observe     |
-| 349        | obstruct    |
-| 350        | offend      |
-| 351        | oppress     |
-| 352        | order       |
-| 353        | overhear    |
-| 354        | overpower   |
-| 355        | overturn    |
-| 356        | parade      |
-| 357        | parley      |
-| 358        | patrol      |
-| 359        | pelt        |
-| 360        | penalize    |
-| 361        | perform     |
-| 362        | persecute   |
-| 363        | persuade    |
-| 364        | petition    |
-| 365        | play        |
-| 366        | plead       |
-| 367        | plunder     |
-| 368        | pollute     |
-| 369        | pounce      |
-| 370        | practice    |
-| 371        | praise      |
-| 372        | preach      |
-| 373        | proclaim    |
-| 374        | prohibit    |
-| 375        | promote     |
-| 376        | pronounce   |
-| 377        | prophesize  |
-| 378        | prosecute   |
-| 379        | protect     |
-| 380        | protest     |
-| 381        | provide     |
-| 382        | provoke     |
-| 383        | prowl       |
-| 384        | pry         |
-| 385        | punch       |
-| 386        | punish      |
-| 387        | purchase    |
-| 388        | pursue      |
-| 389        | push        |
-| 390        | quarrel     |
-| 391        | query       |
-| 392        | queue       |
-| 393        | rage        |
-| 394        | raid        |
-| 395        | ransack     |
-| 396        | rebel       |
-| 397        | recite      |
-| 398        | recount     |
-| 399        | recruit     |
+| Result (300-399)  | 
+| ----------- |
+| inspire     |
+| instigate   |
+| insult      |
+| interfere   |
+| interrogate |
+| intimidate  |
+| intoxicate  |
+| investigate |
+| invite      |
+| involve     |
+| irritate    |
+| jaywalk     |
+| jeer        |
+| joke        |
+| jostle      |
+| kick        |
+| kill        |
+| kiss        |
+| lament      |
+| laugh       |
+| leap        |
+| lecture     |
+| leer        |
+| look        |
+| loot        |
+| lose        |
+| love        |
+| lunge       |
+| lurk        |
+| maim        |
+| manhandle   |
+| march       |
+| market      |
+| massacre    |
+| meddle      |
+| mesmerize   |
+| mimic       |
+| misspell    |
+| mob         |
+| mock        |
+| murder      |
+| mutate      |
+| mutilate    |
+| nag         |
+| narrate     |
+| near        |
+| notify      |
+| obscure     |
+| observe     |
+| obstruct    |
+| offend      |
+| oppress     |
+| order       |
+| overhear    |
+| overpower   |
+| overturn    |
+| parade      |
+| parley      |
+| patrol      |
+| pelt        |
+| penalize    |
+| perform     |
+| persecute   |
+| persuade    |
+| petition    |
+| play        |
+| plead       |
+| plunder     |
+| pollute     |
+| pounce      |
+| practice    |
+| praise      |
+| preach      |
+| proclaim    |
+| prohibit    |
+| promote     |
+| pronounce   |
+| prophesize  |
+| prosecute   |
+| protect     |
+| protest     |
+| provide     |
+| provoke     |
+| prowl       |
+| pry         |
+| punch       |
+| punish      |
+| purchase    |
+| pursue      |
+| push        |
+| quarrel     |
+| query       |
+| queue       |
+| rage        |
+| raid        |
+| ransack     |
+| rebel       |
+| recite      |
+| recount     |
+| recruit     |
 ^situation-399
 
 ## 400-499
 
-| dice: d100 + 400 | Result |
-| ---------- | --------- |
-| 400        | rejoice   | 
-| 401        | remark    |
-| 402        | renege    |
-| 403        | repair    |
-| 404        | research  |
-| 405        | rescue    |
-| 406        | resist    |
-| 407        | restrain  |
-| 408        | resurrect |
-| 409        | reveal    |
-| 410        | revolt    |
-| 411        | reward    |
-| 412        | ridicule  |
-| 413        | riot      |
-| 414        | rob       |
-| 415        | run       |
-| 416        | rush      |
-| 417        | salute    |
-| 418        | scamper   |
-| 419        | scare     |
-| 420        | scavenge  |
-| 421        | scream    |
-| 422        | scrounge  |
-| 423        | search    |
-| 424        | secure    |
-| 425        | seduce    |
-| 426        | segregate |
-| 427        | seize     |
-| 428        | sell      |
-| 429        | ship      |
-| 430        | shout     |
-| 431        | shove     |
-| 432        | show      |
-| 433        | silence   |
-| 434        | sing      |
-| 435        | slaughter |
-| 436        | sleep     |
-| 437        | smash     |
-| 438        | sob       |
-| 439        | solicit   |
-| 440        | speak     |
-| 441        | spill     |
-| 442        | spit      |
-| 443        | spy       |
-| 444        | stab      |
-| 445        | stage     |
-| 446        | startle   |
-| 447        | steal     |
-| 448        | stop      |
-| 449        | strangle  |
-| 450        | strike    |
-| 451        | subdue    |
-| 452        | suffer    |
-| 453        | summon    |
-| 454        | surround  |
-| 455        | suspect   |
-| 456        | take      |
-| 457        | taunt     |
-| 458        | tease     |
-| 459        | tempt     |
-| 460        | terrify   |
-| 461        | terrorize |
-| 462        | thank     |
-| 463        | threaten  |
-| 464        | throw     |
-| 465        | torment   |
-| 466        | torture   |
-| 467        | trade     |
-| 468        | transform |
-| 469        | translate |
-| 470        | transport |
-| 471        | trap      |
-| 472        | travel    |
-| 473        | tug       |
-| 474        | unite     |
-| 475        | unleash   |
-| 476        | unload    |
-| 477        | unveil    |
-| 478        | vandalize |
-| 479        | vanish    |
-| 480        | victimize |
-| 481        | violate   |
-| 482        | volunteer |
-| 483        | wait      |
-| 484        | warn      |
-| 485        | wave      |
-| 486        | weep      |
-| 487        | welcome   |
-| 488        | whittle   |
-| 489        | wield     |
-| 490        | win       |
-| 491        | wink      |
-| 492        | witness   |
-| 493        | worship   |
-| 494        | wound     |
-| 495        | wreck     |
-| 496        | wrestle   |
-| 497        | write     |
-| 498        | yell      |
-| 499        | yield     |
+| Result (400-499) |
+| --------- |
+| rejoice   | 
+| remark    |
+| renege    |
+| repair    |
+| research  |
+| rescue    |
+| resist    |
+| restrain  |
+| resurrect |
+| reveal    |
+| revolt    |
+| reward    |
+| ridicule  |
+| riot      |
+| rob       |
+| run       |
+| rush      |
+| salute    |
+| scamper   |
+| scare     |
+| scavenge  |
+| scream    |
+| scrounge  |
+| search    |
+| secure    |
+| seduce    |
+| segregate |
+| seize     |
+| sell      |
+| ship      |
+| shout     |
+| shove     |
+| show      |
+| silence   |
+| sing      |
+| slaughter |
+| sleep     |
+| smash     |
+| sob       |
+| solicit   |
+| speak     |
+| spill     |
+| spit      |
+| spy       |
+| stab      |
+| stage     |
+| startle   |
+| steal     |
+| stop      |
+| strangle  |
+| strike    |
+| subdue    |
+| suffer    |
+| summon    |
+| surround  |
+| suspect   |
+| take      |
+| taunt     |
+| tease     |
+| tempt     |
+| terrify   |
+| terrorize |
+| thank     |
+| threaten  |
+| throw     |
+| torment   |
+| torture   |
+| trade     |
+| transform |
+| translate |
+| transport |
+| trap      |
+| travel    |
+| tug       |
+| unite     |
+| unleash   |
+| unload    |
+| unveil    |
+| vandalize |
+| vanish    |
+| victimize |
+| violate   |
+| volunteer |
+| wait      |
+| warn      |
+| wave      |
+| weep      |
+| welcome   |
+| whittle   |
+| wield     |
+| win       |
+| wink      |
+| witness   |
+| worship   |
+| wound     |
+| wreck     |
+| wrestle   |
+| write     |
+| yell      |
+| yield     |
 ^situation-499

@@ -1,3 +1,8 @@
+---
+aliases: ["Tiefling Names"]
+source: "XGE, p180"
+note: "Please only use if you own the source"
+---
 # Tiefling
 
 | dice: d100 | Name                                              | 
