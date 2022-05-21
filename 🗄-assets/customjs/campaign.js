@@ -245,10 +245,7 @@ class Campaign {
      * Yes, printf could also do this, but whatever.
      */
     pad = (x) => {
-        if (x < 10) {
-            return '0' + x;
-        }
-        return x;
+        return `${x}`.padStart(2, '0');
     }
 
     season = (m, d) => {
