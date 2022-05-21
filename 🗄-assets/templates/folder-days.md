@@ -25,8 +25,9 @@ tR += `- [ ] ${await Campaign.secrets('rumors')}\n`
 tR += `- [ ] ${await Campaign.secrets('rumors')}\n`
 -%>
 
-## NPC Activity
+## Events
 
+## NPC Activity
 > [!mood]- Mood of the party
 > - *Coral's mood*: <%* tR += await Campaign.mood() %>
 > - *Nora's mood*: <%* tR += await Campaign.mood() %>
