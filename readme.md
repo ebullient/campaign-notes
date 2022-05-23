@@ -20,34 +20,5 @@
 > 
 > ### Session notes
 > 
-> Session notes, in [sessions](sessions) also come from a template, [folder-session](🗄-assets/templates/folder-session.md), which includes links to previous session notes, and some variations on templates from [Sly Flourish](https://slyflourish.com/rotldm_template.html) and [Nicole van der Hoven](https://nicolevanderhoeven.com/blog/20210930-non-lazy-dms-use-obsidian-for-dnd/).
-
-
-<span class="nav">[Locations](#Locations) [NPCs](#NPCs)  [Factions](#Factions)</span>
-
-## Locations
-
-```dataviewjs
-dv.list(dv.pages('"faerûn"')
-  .where(p => p.type == "location")
-  .sort(p => p.file.name, 'asc')
-  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
-```
-
-## NPCs
-
-```dataviewjs
-dv.list(dv.pages('"faerûn"')
-  .where(p => p.type == "npc")
-  .sort(p => p.file.name, 'asc')
-  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
-```
-
-## Groups
-
-```dataviewjs
-dv.list(dv.pages('"faerûn"')
-  .where(p => p.type == "group")
-  .sort(p => p.file.name, 'asc')
-  .map(k => `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`))
-```
+> Session notes, in [sessions](rowen/sessions) also come from a template, [folder-session](🗄-assets/templates/folder-session.md), which includes links to previous session notes, and some variations on templates from [Sly Flourish](https://slyflourish.com/rotldm_template.html) and [Nicole van der Hoven](https://nicolevanderhoeven.com/blog/20210930-non-lazy-dms-use-obsidian-for-dnd/).
+> 
