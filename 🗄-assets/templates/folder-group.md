@@ -5,10 +5,10 @@ const lower = Campaign.lowerKebab(title);
 console.log("%o, %o", title, lower);
 await tp.file.rename(lower);
 
-const group = await Campaign.chooseTag(tp, 'group/', 'group');
+const group = await Campaign.chooseTags(tp, 'group/', 'group');
 const groupTag = `${group}/${lower}`;
 
-const typeTag = await Campaign.chooseTag(tp, 'type/group', 'type/group');
+const typeTag = await Campaign.chooseTags(tp, 'type/group', 'type/group');
 
 let tags = `\ntags:\n- ${groupTag}\n- ${typeTag}`;
 const dataview = 'dataview';

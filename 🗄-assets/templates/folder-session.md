@@ -2,21 +2,21 @@
 <%* 
 const { Campaign } = window.customJS;
 const result = await Campaign.nextSession(tp);
+result.next = await tp.system.prompt("Enter date", result.next);
 console.log("%o", result);
 const title = await tp.system.prompt("Enter name for session");
 const lower = Campaign.lowerKebab(title);
-//const tag = result.folder.contains('owen') ? 'rowen' : 'uvms';
-const tag = 'rowen';
+const span = 'span>'
 console.log(`${result.next}-${lower}`);
 await tp.file.rename(`${result.next}-${lower}`);
 tR += 'tags:' %>
 - timeline
-- events/pc/<% tag %>
+- <% result.tag %>/events/pc
 ---
 # Session on <% result.next %>: <% title %>
 
 ## Summary
-%%span class='ob-timelines' data-class='<% tag %>' data-date='1499-xx-xx-00' data-title="<% tag %> NEXT"></span%%
+<<% span %> class='ob-timelines' data-class='<% result.tag %>' data-date='1499-xx-xx-00' data-title="<% title %>"></<% span %>
 
 ---
 
@@ -37,9 +37,6 @@ tR += 'tags:' %>
 ### NPCs
 
 ### The Party
-
-### The Day
-
 
 ## Potential Scenes
 - [ ] .

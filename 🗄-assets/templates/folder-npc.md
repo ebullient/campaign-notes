@@ -7,7 +7,7 @@ await tp.file.rename(lower);
 const groupTag = await Campaign.chooseTagOrEmpty(tp, 'group', '');
 const placeTag = await Campaign.chooseTagOrEmpty(tp, 'place/', 'place');
 
-let tags = '\ntags:\n- iff/unknown\n- npc/alive';
+let tags = '\ntags:\n- rowen/iff/unknown\n- npc/alive';
 if ( placeTag || groupTag ) {
   if ( placeTag ) {
     tags += `\n- ${placeTag}`;
@@ -37,7 +37,7 @@ TL;DR description / personality / motivation
 - **Flaw**
 ```
 
-<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [Related](#Related)</span>
 
 ## Details
 
@@ -48,6 +48,10 @@ TL;DR description / personality / motivation
 
 ## Secrets
 
-## History
+## Related
 
-Any queries?
+```dataview
+LIST
+FROM [[]]
+WHERE !contains(file.inlinks, this.file.link)
+```

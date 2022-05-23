@@ -84,7 +84,7 @@ class Campaign {
         const fileList = await app.vault.adapter.list(folder);
         const files = fileList.files.slice(-4);
         let lastSession = files.pop();
-        while (lastSession.contains('Untitled')) {
+        while (lastSession.contains('Untitled') || lastSession.endsWith('sessions.md')) {
             lastSession = files.pop();
         }
         const pos = lastSession.lastIndexOf('/') + 1;
@@ -92,7 +92,8 @@ class Campaign {
         return {
             folder: folder,
             next: this.nextWeek(name).format("YYYY-MM-DD"),
-            lastSession: name
+            lastSession: name,
+            tag: folder.substring(0, folder.indexOf('/'))
         }
     }
 
@@ -121,7 +122,7 @@ class Campaign {
         const folder = tp.file.folder(true);
         const filename = tp.file.title;
         const fileList = await app.vault.adapter.list(folder);
-        const files = fileList.files;
+        const files = fileList.files.filter(f => !f.contains('Untitled') && !f.endsWith('sessions.md'));
         files.sort();
         const result = {};
         for (let i = 0; i < files.length; i++) {
@@ -193,7 +194,10 @@ class Campaign {
             date.day += 1;
         }
         console.log("%o", date);
-        return `${date.year}-${this.pad(date.month)}-${this.pad(date.day)}`;
+        return {
+            date: `${date.year}-${this.pad(date.month)}-${this.pad(date.day)}`,
+            tag: folder.substring(0, folder.indexOf('/'))
+        };
     }
 
     /**
@@ -212,7 +216,8 @@ class Campaign {
             filename: `${date.year}-${this.pad(date.month)}-${this.pad(date.day)}-${this.lowerKebab(monthName)}`,
             heading: pretty,
             season: season,
-            date: date
+            date: date,
+            monthName: monthName
         }
     }
 
@@ -438,8 +443,9 @@ class Campaign {
                 var region = 'unknown';
                 var affiliation = [];
                 p.tags.forEach((tag) => {
-                    if (tag.startsWith('iff/')) {
-                        iff = tag.substring(4);
+                    const pos = tag.indexOf("iff/");
+                    if (pos >= 0) {
+                        iff = tag.substring(pos + 4);
                     } else if (tag.startsWith('npc/')) {
                         status = tag.substring(4);
                     } else if (tag.startsWith('place/')) {
@@ -568,11 +574,15 @@ class Campaign {
     tavern = async (type) => {
         let result = await this.tableRoll(`[](/rowen/encounters/trollskull-manor-tables.md#^${type})`);
         if ( type == 'visiting-patrons' ) {
-            result = result.replaceAll(/,? ?\(\d+\) /g, '\n    - [ ] ')
+            result = result.replaceAll(/,? ?\(\d+\) /g, '\n    - ')
         }
         while ( result.contains("%mood%") ) {
             const mood = await this.mood();
-            result = result.replace("%mood%", `_(${mood})_`);
+            result = result.replace("%mood%", `_[${mood}]_`);
+        }
+        if ( result.contains("🔹") ) {
+            result = result.replaceAll(/\s*🔹\s*/g, '\n        > ');
+            console.log(result);
         }
         return result;
     }
