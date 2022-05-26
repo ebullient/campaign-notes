@@ -4,7 +4,7 @@ aliases: ["Mood Tables"]
 # Mood Tables
 
 **Choose one…** 
-- `dice: [](mood-tables.md#^mood-table)` ^cd0d94
+- `dice: [](mood-tables.md#^mood-table)`
 - `dice: [](mood-tables.md#^mood-table)`
 - `dice: [](mood-tables.md#^mood-table)`
 - `dice: [](mood-tables.md#^mood-table)`
