@@ -5,6 +5,6 @@ obsidianUIMode: preview
 
 ```dataviewjs
 const { Campaign } = window.customJS;
-const elements = Campaign.filterFactions(Campaign.folderPages(dv, '"rowen" or "faerûn"'));
+const elements = Campaign.filterFactions(Campaign.folderPages(dv, '"heist" or "faerûn"'));
 dv.table(["Name", "Type"], elements)
 ```

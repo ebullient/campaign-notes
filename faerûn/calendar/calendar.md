@@ -36,4 +36,4 @@ The **Calendar of Harptos** defines the year for most of Faerun.
 
 It defines a 365-day year divided into 12 months of 30 days - or 3 tendays - each. Five special days fall between the months, and every four years a leap day, Shieldmeet, is added to the calendar immediately following Midsummer night.
 
-![calendar-of-harptos](../../🗄-assets/attachments/calendar-of-harptos.jpg)
+![calendar-of-harptos](/assets/attachments/calendar-of-harptos.jpg)

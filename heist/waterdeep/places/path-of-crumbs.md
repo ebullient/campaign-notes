@@ -1,6 +1,5 @@
 ---
 aliases: ["Path of Crumbs"]
-type: location
 tags: 
 - type/location/shop/bakery
 - group/waterdeep/guild/bakers-guild
@@ -14,7 +13,7 @@ The sign above the door is wooden. There are no words, but the carving and paint
 
 The shop is a two-story timber and brick building, with tall elf-wrought wooden shelves. The air is warm.
 
-- **Owner** [Elyellas](../../npcs/waterdeep/elyellas-graycastle.md)
+- **Owner** [Elyellas](../npcs/elyellas-graycastle.md)
 - **Location** Delzorin Street, near the south entrance to Trollskull Alley
 
 <span class="nav">[Selling](#Selling) [NPCs](#NPCs) [History](#History)</span>

@@ -1,12 +1,11 @@
 ---
 aliases: ["Osswald Bohm"]
-type: npc
 tags:
-- npc/alive
+- rowen/npc/alive
 - place/waterdeep/saddlers-and-harness-makers-hall
 - region/sword-coast-north/waterdeep/city-ward/southern
 - group/waterdeep/guild/saddlers-and-harness-makers
-- iff/positive
+- rowen/iff/positive
 ---
 # Osswald Bohm
 <span class="subhead">Harness maker, Saddlers' and Harness-makers' Guild, Southern Ward of Waterdeep</span>
@@ -24,19 +23,22 @@ He is honest, calm and lighthearted.
 - **Flaw** Foolhardy bravery
 ```
 
-<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [Related](#Related)</span>
 
 ## Details
 His apron is interesting. While it is leather, it has a few patches of fabric that seem to hold stout needles, and few covered pockets that make a soft noise that reminds you of coins when he moves. Other loops and pockets hold recognizable tools, like awls, but also truly ghastly looking plier-type things. Fascinating.
 
 ## Relationships
 
-**Organization or Faction** [Saddlers' and Harness-makers' Guild](../../groups/guilds-of-waterdeep.md#Saddlers'%20and%20Harness-makers'%20Guild)
+**Organization or Faction** [Saddlers' and Harness-makers' Guild](../groups/guilds-of-waterdeep.md#Saddlers'%20and%20Harness-makers'%20Guild)
 
 ## Secrets
 
 He is an expert dart-thrower and rock skipper.
 
-## History
+## Related
 
-Any queries?
+```dataviewjs
+const { Campaign } = window.customJS;
+dv.list(Campaign.linkedToPage(dv));
+```

@@ -1,17 +1,12 @@
 ---
 aliases: ["Mabina Cawood"]
-type: npc
-cssclass: show-spans
 tags:
-- npc/alive
 - region/sword-coast-north
 - group/harpers
-- timeline
-- events/npc
 ---
 # Mabina Cawood
 <span class="subhead">Sword Coast North</span>
-![Mabina](../../🗄-assets/attachments/mabina.jpg#portrait)
+![Mabina](/assets/attachments/mabina.jpg#portrait)
 
 A woman bustled around her cart. The layers and hood of her robe made it hard to figure out her age. The best that could be determined is not a kid and not a crone.
 
@@ -23,24 +18,22 @@ A woman bustled around her cart. The layers and hood of her robe made it hard to
 - **Motivation** When exposed to some new piece of magic, I can't help by try to figure out what it does and how it works.
 ```
 
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [Related](#Related)</span>
 
-<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
-
-![Wagon](../../🗄-assets/attachments/mabina-wagon.png#portrait)
+![Wagon](/assets/attachments/mabina-wagon.png#portrait)
 ## Details
 <span class="subhead">Student of Magic, Commoner</span>
 
 Through her own magical means, Mabina and her wagon traverse the Sword Coast North, trading magical items. Trade in magical items is a dicey busines, but it is one that Mabina loves with all her heart.
 
-
 ## Relationships
 
-**Faction** Mabina is a member of the [Harpers](../../faerûn/groups/harpers.md)
+**Faction** Mabina is a member of the [Harpers](../groups/harpers.md)
 
-Friends in Phandalin:
+Friends in [Phandalin](../places/phandalin.md):
 - Harbin Wester, the Townmaster
-- Mutual respect for Lord Kyle and the Dragonbane
-- [Sister Garaele](phandalin/sister-garaele.md)
+- Mutual respect for [Kyle Monsterdrinker](../../archive/uvms/characters/kyle-monsterdrinker.md) and the Dragonbane
+- [Sister Garaele](../../archive/uvms/sword-coast/npcs/phandalin/sister-garaele.md)
 
 ## Secrets
 
@@ -52,32 +45,15 @@ She makes a point of being both respectful and kind to Desri, including bringing
 
 [1]: https://roll20.net/compendium/dnd5e/Ring%20of%20Djinni%20Summoning#content
 
-## History
-
+## Related
 ```dataviewjs
 const { Campaign } = window.customJS;
-dv.list(Campaign.logsForTag(dv, '#log/npc/mabina'));
+dv.list(Campaign.linkedToPage(dv));
 ```
 
+## Events
+> [!note]- UVMS (Archive)
+> ![Mabina](/archive/uvms/npc-events.md#Mabina)
 
-- <span class='ob-timelines' data-class='npc' data-date='1498-08-15-00' data-title="Mabina arrives in Phandalin"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-08-16-00' data-title="Mabina leaves Phandalin"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-08-19-00' data-title="Mabina passes through Triboar"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-08-20-00' data-title="Mabina stops in Yartar"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-08-26-00' data-title="Mabina arrives in Silverymoon"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-08-27-00' data-title="Mabina trades the Bauble"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-08-28-00' data-title="Mabina leaves Silverymoon"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-08-30-00' data-title="Mabina in Yartar"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-09-01-00' data-title="Mabina in Triboar"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-09-02-00' data-title="Mabina arrives in Phandalin"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-09-04-00' data-title="Mabina travels to Triboar"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-09-05-00' data-title="Mabina travels to Waterdeep"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-09-08-00' data-title="Mabina travels to Thornhold"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-09-09-00' data-title="Mabina travels to Neverwinter"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-09-11-00' data-title="Mabina travels to Luskan"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-09-13-00' data-title="Mabina travels to Mirabar"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-09-16-00' data-title="Mabina travels to Triboar"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-09-18-00' data-title="Mabina travels to Phandalin"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-09-21-00' data-title="Mabina trades with the Dragonbane"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1498-09-22-00' data-title="Mabina travels to Leilon"></span>
-- <span class='ob-timelines' data-class='npc' data-date='1499-03-04-00' data-title="Mabina in Phandalin"></span>
+> [!note]- Rowen / Waterdeep
+> ![Mabina Cawood](/heist/encounters/npc-events.md#Mabina%20Cawood)

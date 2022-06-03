@@ -1,8 +1,7 @@
 ---
 aliases: ["The Singing Kettle"]
-type: location
 tags: 
-- type/location/shop/inn
+- type/location/inn
 - place/waterdeep/the-singing-kettle
 - region/sword-coast-north/waterdeep/city-ward/southern
 - group/waterdeep/guild/fellowship-of-innkeepers
@@ -12,7 +11,7 @@ tags:
 
 Three-story building, excellent repair
 
-- **Owner** [Merric Kettlewhistle](../../npcs/waterdeep/salibuck-family.md)
+- **Owner** [Merric Kettlewhistle](../npcs/salibuck-family.md)
 - **Location** Tulmaster's Street, across from Tezambril's Street
 
 <span class="nav">[Selling](#Selling) [NPCs](#NPCs) [History](#History)</span>

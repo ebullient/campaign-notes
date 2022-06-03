@@ -1,15 +1,14 @@
 ---
 aliases: ["Elyellas Greycastle"]
-type: npc
 tags:
-- iff/unknown
-- npc/alive
+- rowen/iff/unknown
+- rowen/npc/alive
 - place/waterdeep/trollskull-alley/path-of-crumbs
 - region/sword-coast-north/waterdeep/city-ward/north
 - group/waterdeep/guild/bakers-guild
 ---
 # Elyellas Greycastle
-<span class="subhead">[Path of Crumbs](../../places/waterdeep/path-of-crumbs.md), Trollskull Alley, North Ward of Waterdeep</span>
+<span class="subhead">[Path of Crumbs](../places/path-of-crumbs.md), Trollskull Alley, North Ward of Waterdeep</span>
 
 Elyellas is a small Half-Elf, his hair is short and brown, his eyes are blue. He has a small frame and is very nimble. He wears a brown apron with the logo of his bakery, a round dish with a crust of bread, and a trail of crumbs leading to the lower right.
 
@@ -25,7 +24,7 @@ He is friendly, and greets patrons with a warm smile and offer them a free loaf 
 - **Flaw** He has no memories beyond a few years ago, aside from how to bake bread.
 ```
 
-<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [History](#History)</span>
+<span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [Related](#Related)</span>
 
 ## Details
 He is a wishful coward. He is able to support himself, and wants to rescue someone someday.
@@ -36,10 +35,14 @@ He is a wishful coward. He is able to support himself, and wants to rescue someo
 
 ## Relationships
 
-**Guild** [Baker's Guild](../../groups/guilds-of-waterdeep.md#Baker's%20Guild)
+**Guild** [Baker's Guild](../groups/guilds-of-waterdeep.md#Baker's%20Guild)
 
 ## Secrets
 
-## History
+## Related
 
-Any queries?
+```dataviewjs
+const { Campaign } = window.customJS;
+dv.list(Campaign.linkedToPage(dv));
+```
+

@@ -20,7 +20,7 @@ console.log("%o", tags);
 const aliases = `aliases: ["${title}"]`;
 -%>
 <% aliases %>
-type: npc<% tags %>
+<% tags %>
 ---
 # <% title %>
 <span class="subhead">{{primary location}}</span>

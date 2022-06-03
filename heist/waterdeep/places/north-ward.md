@@ -1,13 +1,13 @@
 ---
 aliases: ["North Ward"]
-type: location
 tags: 
 - type/area/city/ward
 - region/sword-coast-north/waterdeep/city-ward/north
 ---
 # North Ward
-<span class="subhead">[Waterdeep](waterdeep.md)</span>
+<span class="subhead">[Waterdeep](../waterdeep.md)</span>
 
+TL;DR description
 
 
 <span class="nav">[NPCs](#NPCs) [Locations](#Locations) [History](#History)</span>

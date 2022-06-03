@@ -32,7 +32,7 @@ const dataview = 'dataview'
 const aliases = `aliases: ["${title}"]`;
 -%>
 <% aliases %>
-type: location<% tags %>
+<% tags %>
 ---
 # <% title %>
 <span class="subhead">{{shopType}}, {{town}}</span>

@@ -1,6 +1,5 @@
 ---
 aliases: ["Saddlers' and Harness-Makers' Hall"]
-type: location
 tags: 
 - type/location/guildhall
 - place/waterdeep/saddlers-and-harness-makers-hall
@@ -12,7 +11,7 @@ tags:
 
 This guildhall is two-stories tall, and is often used by locals as a landmark.
 
-![Saddlers' and Harness-makers' Guild](../../groups/guilds-of-waterdeep.md#Saddlers'%20and%20Harness-makers'%20Guild)
+![Saddlers' and Harness-makers' Guild](../groups/guilds-of-waterdeep.md#Saddlers'%20and%20Harness-makers'%20Guild)
 
 - **Owner** Saddlers' and Harness-makers' Guild
 - **Location** Tulmaster's Street

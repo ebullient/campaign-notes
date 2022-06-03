@@ -1,5 +1,6 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Henny+Penny&family=Macondo&family=Satisfy&display=swap");
 :root {
   --admonition-statblock: 211, 141, 160;
   --admonition-chat:61, 126, 123;
@@ -163,28 +164,38 @@
 .markdown-preview-section .admonition.admonition-weather .admonition-title .admonition-title-icon {
   color: rgb(var(--admonition-weather));
 }
+.rendered-widget .print .callout[data-callout=scratch],
 .rendered-widget .callout[data-callout=scratch],
 .rendered-widget .admonition.admonition-scratch,
+.markdown-preview-section .print .callout[data-callout=scratch],
 .markdown-preview-section .callout[data-callout=scratch],
 .markdown-preview-section .admonition.admonition-scratch {
   background-color: var(--background-primary);
   margin-top: 2px;
   margin-bottom: 2px;
 }
+.rendered-widget .print .callout[data-callout=scratch] .callout-title,
+.rendered-widget .print .callout[data-callout=scratch] .admonition-title,
 .rendered-widget .callout[data-callout=scratch] .callout-title,
 .rendered-widget .callout[data-callout=scratch] .admonition-title,
 .rendered-widget .admonition.admonition-scratch .callout-title,
 .rendered-widget .admonition.admonition-scratch .admonition-title,
+.markdown-preview-section .print .callout[data-callout=scratch] .callout-title,
+.markdown-preview-section .print .callout[data-callout=scratch] .admonition-title,
 .markdown-preview-section .callout[data-callout=scratch] .callout-title,
 .markdown-preview-section .callout[data-callout=scratch] .admonition-title,
 .markdown-preview-section .admonition.admonition-scratch .callout-title,
 .markdown-preview-section .admonition.admonition-scratch .admonition-title {
   display: none !important;
 }
+.rendered-widget .print .callout[data-callout=scratch] .callout-content,
+.rendered-widget .print .callout[data-callout=scratch] .admonition-content,
 .rendered-widget .callout[data-callout=scratch] .callout-content,
 .rendered-widget .callout[data-callout=scratch] .admonition-content,
 .rendered-widget .admonition.admonition-scratch .callout-content,
 .rendered-widget .admonition.admonition-scratch .admonition-content,
+.markdown-preview-section .print .callout[data-callout=scratch] .callout-content,
+.markdown-preview-section .print .callout[data-callout=scratch] .admonition-content,
 .markdown-preview-section .callout[data-callout=scratch] .callout-content,
 .markdown-preview-section .callout[data-callout=scratch] .admonition-content,
 .markdown-preview-section .admonition.admonition-scratch .callout-content,
@@ -232,6 +243,94 @@
   --tan-4: rgb(144, 110, 41);
   --tan-5: rgb(90, 69, 26);
   --tan-6: rgb(59, 45, 17);
+}
+
+.witchlight .HyperMD-header .cm-header,
+.witchlight .HyperMD-header h1,
+.witchlight .HyperMD-header h2,
+.witchlight .HyperMD-header h3,
+.witchlight .HyperMD-header h4,
+.witchlight .HyperMD-header h5,
+.witchlight .HyperMD-header h6,
+.markdown-rendered.witchlight .cm-header,
+.markdown-rendered.witchlight h1,
+.markdown-rendered.witchlight h2,
+.markdown-rendered.witchlight h3,
+.markdown-rendered.witchlight h4,
+.markdown-rendered.witchlight h5,
+.markdown-rendered.witchlight h6,
+.workspace .witchlight .cm-header,
+.workspace .witchlight h1,
+.workspace .witchlight h2,
+.workspace .witchlight h3,
+.workspace .witchlight h4,
+.workspace .witchlight h5,
+.workspace .witchlight h6,
+.print .witchlight .cm-header,
+.print .witchlight h1,
+.print .witchlight h2,
+.print .witchlight h3,
+.print .witchlight h4,
+.print .witchlight h5,
+.print .witchlight h6 {
+  font-family: 'Henny Penny', var(--font-header);
+  font-weight: 500;
+  margin: 10px 0 5px 0;
+}
+.witchlight .HyperMD-header .cm-header-1,
+.witchlight .HyperMD-header h1,
+.markdown-rendered.witchlight .cm-header-1,
+.markdown-rendered.witchlight h1,
+.workspace .witchlight .cm-header-1,
+.workspace .witchlight h1,
+.print .witchlight .cm-header-1,
+.print .witchlight h1 {
+  font-variant: common-ligatures;
+  font-variant-caps: normal;
+}
+
+.rowen-dragon-heist .HyperMD-header .cm-header,
+.rowen-dragon-heist .HyperMD-header h1,
+.rowen-dragon-heist .HyperMD-header h2,
+.rowen-dragon-heist .HyperMD-header h3,
+.rowen-dragon-heist .HyperMD-header h4,
+.rowen-dragon-heist .HyperMD-header h5,
+.rowen-dragon-heist .HyperMD-header h6,
+.markdown-rendered.rowen-dragon-heist .cm-header,
+.markdown-rendered.rowen-dragon-heist h1,
+.markdown-rendered.rowen-dragon-heist h2,
+.markdown-rendered.rowen-dragon-heist h3,
+.markdown-rendered.rowen-dragon-heist h4,
+.markdown-rendered.rowen-dragon-heist h5,
+.markdown-rendered.rowen-dragon-heist h6,
+.workspace .rowen-dragon-heist .cm-header,
+.workspace .rowen-dragon-heist h1,
+.workspace .rowen-dragon-heist h2,
+.workspace .rowen-dragon-heist h3,
+.workspace .rowen-dragon-heist h4,
+.workspace .rowen-dragon-heist h5,
+.workspace .rowen-dragon-heist h6,
+.print .rowen-dragon-heist .cm-header,
+.print .rowen-dragon-heist h1,
+.print .rowen-dragon-heist h2,
+.print .rowen-dragon-heist h3,
+.print .rowen-dragon-heist h4,
+.print .rowen-dragon-heist h5,
+.print .rowen-dragon-heist h6 {
+  font-family: 'Macondo', var(--font-header);
+  font-weight: 500;
+  margin: 10px 0 5px 0;
+}
+.rowen-dragon-heist .HyperMD-header .cm-header-1,
+.rowen-dragon-heist .HyperMD-header h1,
+.markdown-rendered.rowen-dragon-heist .cm-header-1,
+.markdown-rendered.rowen-dragon-heist h1,
+.workspace .rowen-dragon-heist .cm-header-1,
+.workspace .rowen-dragon-heist h1,
+.print .rowen-dragon-heist .cm-header-1,
+.print .rowen-dragon-heist h1 {
+  font-variant: common-ligatures;
+  font-variant-caps: normal;
 }
 
 .theme-dark .subhead {
@@ -343,6 +442,10 @@ span.nav a.internal-link {
   --compendium: var(--yellow-3);
   --faerun: var(--teal-3);
   --rowen: var(--purple-3);
+  --duet: var(--pink-3);
+  --waterdeep: var(--purple-2);
+  --witchlight: var(--blue-3);
+  --feywild: var(--blue-2);
   --chronicles: var(--pink-3);
   --alpha2: rgba(0, 0, 0, 0.2);
   --alpha4: rgba(0, 0, 0, 0.4);
@@ -352,7 +455,11 @@ span.nav a.internal-link {
 .theme-light {
   --compendium: var(--yellow-4);
   --faerun: var(--teal-4);
-  --rowen: var(--purple-4);
+  --rowen: var(--purple-5);
+  --duet: var(--pink-4);
+  --waterdeep: var(--purple-4);
+  --witchlight: var(--blue-5);
+  --feywild: var(--blue-4);
   --chronicles: var(--pink-4);
   --alpha2: rgba(0, 0, 0, 0.05);
   --alpha4: rgba(0, 0, 0, 0.1);
@@ -364,11 +471,15 @@ span.nav a.internal-link {
   text-transform: capitalize;
   font-family: var(--font-tags);
   font-size: 1.3em;
+  line-height: 1.32em;
   color: var(--compendium);
   border-radius: 0;
 }
 .nav-folder-children .nav-folder-title[data-path=compendium] .nav-folder-collapse-indicator {
   color: var(--compendium);
+}
+.nav-folder-children .nav-folder-title[data-path=compendium] > .nav-folder-title-content::before {
+  content: "📚 ";
 }
 .nav-folder-children .nav-folder-title[data-path^=compendium],
 .nav-folder-children .nav-file-title[data-path^=compendium] {
@@ -397,11 +508,15 @@ span.nav a.internal-link {
   text-transform: capitalize;
   font-family: var(--font-tags);
   font-size: 1.3em;
+  line-height: 1.32em;
   color: var(--faerun);
   border-radius: 0;
 }
 .nav-folder-children .nav-folder-title[data-path=faerûn] .nav-folder-collapse-indicator {
   color: var(--faerun);
+}
+.nav-folder-children .nav-folder-title[data-path=faerûn] > .nav-folder-title-content::before {
+  content: "🗺 ";
 }
 .nav-folder-children .nav-folder-title[data-path^=faerûn],
 .nav-folder-children .nav-file-title[data-path^=faerûn] {
@@ -424,36 +539,114 @@ span.nav a.internal-link {
   font-style: italic;
   border-radius: 0;
 }
-.nav-folder-children .nav-folder-title[data-path=rowen] {
+.nav-folder-children .nav-folder-title[data-path=heist] {
   /*Add "folder title"*/
-  font-variant: small-caps;
+  font-variant: normal;
   text-transform: capitalize;
-  font-family: var(--font-tags);
+  font-family: 'Macondo', var(--font-tags);
   font-size: 1.3em;
+  line-height: 1.32em;
   color: var(--rowen);
   border-radius: 0;
 }
-.nav-folder-children .nav-folder-title[data-path=rowen] .nav-folder-collapse-indicator {
+.nav-folder-children .nav-folder-title[data-path=heist] .nav-folder-collapse-indicator {
   color: var(--rowen);
 }
-.nav-folder-children .nav-folder-title[data-path^=rowen],
-.nav-folder-children .nav-file-title[data-path^=rowen] {
+.nav-folder-children .nav-folder-title[data-path=heist] > .nav-folder-title-content::before {
+  content: "🪕 ";
+}
+.nav-folder-children .nav-folder-title[data-path^=heist],
+.nav-folder-children .nav-file-title[data-path^=heist] {
   color: var(--rowen);
 }
-.nav-folder-children body:not(.is-grabbing) .nav-file-title[data-path^=rowen]:hover,
-.nav-folder-children .nav-folder-title[data-path^=rowen].is-being-dragged,
-.nav-folder-children .nav-folder-title[data-path^=rowen]:hover,
-.nav-folder-children body:not(.is-grabbing) .nav-folder-title[data-path^=rowen]:hover,
-.nav-folder-children .nav-file-title[data-path^=rowen].is-being-dragged,
-.nav-folder-children .nav-file-title[data-path^=rowen]:hover {
+.nav-folder-children body:not(.is-grabbing) .nav-file-title[data-path^=heist]:hover,
+.nav-folder-children .nav-folder-title[data-path^=heist].is-being-dragged,
+.nav-folder-children .nav-folder-title[data-path^=heist]:hover,
+.nav-folder-children body:not(.is-grabbing) .nav-folder-title[data-path^=heist]:hover,
+.nav-folder-children .nav-file-title[data-path^=heist].is-being-dragged,
+.nav-folder-children .nav-file-title[data-path^=heist]:hover {
   background-color: var(--alpha2) !important;
   color: var(--rowen);
   border-radius: 0;
 }
-.nav-folder-children .nav-file-title[data-path*=rowen].is-active,
-.nav-folder-children .nav-folder-title[data-path*=rowen].is-active {
+.nav-folder-children .nav-file-title[data-path*=heist].is-active,
+.nav-folder-children .nav-folder-title[data-path*=heist].is-active {
   background-color: var(--alpha4);
   color: var(--rowen);
+  font-style: italic;
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path="heist/duet"] {
+  /*Add "folder title"*/
+  font-variant: normal;
+  text-transform: capitalize;
+  font-family: 'Macondo', var(--font-tags);
+  font-size: 1.3em;
+  line-height: 1.32em;
+  color: var(--duet);
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path="heist/duet"] .nav-folder-collapse-indicator {
+  color: var(--duet);
+}
+.nav-folder-children .nav-folder-title[data-path="heist/duet"] > .nav-folder-title-content::before {
+  content: "🫂 ";
+}
+.nav-folder-children .nav-folder-title[data-path^="heist/duet"],
+.nav-folder-children .nav-file-title[data-path^="heist/duet"] {
+  color: var(--duet);
+}
+.nav-folder-children body:not(.is-grabbing) .nav-file-title[data-path^="heist/duet"]:hover,
+.nav-folder-children .nav-folder-title[data-path^="heist/duet"].is-being-dragged,
+.nav-folder-children .nav-folder-title[data-path^="heist/duet"]:hover,
+.nav-folder-children body:not(.is-grabbing) .nav-folder-title[data-path^="heist/duet"]:hover,
+.nav-folder-children .nav-file-title[data-path^="heist/duet"].is-being-dragged,
+.nav-folder-children .nav-file-title[data-path^="heist/duet"]:hover {
+  background-color: var(--alpha2) !important;
+  color: var(--duet);
+  border-radius: 0;
+}
+.nav-folder-children .nav-file-title[data-path*="heist/duet"].is-active,
+.nav-folder-children .nav-folder-title[data-path*="heist/duet"].is-active {
+  background-color: var(--alpha4);
+  color: var(--duet);
+  font-style: italic;
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path="heist/waterdeep"] {
+  /*Add "folder title"*/
+  font-variant: normal;
+  text-transform: capitalize;
+  font-family: 'Macondo', var(--font-tags);
+  font-size: 1.3em;
+  line-height: 1.32em;
+  color: var(--waterdeep);
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path="heist/waterdeep"] .nav-folder-collapse-indicator {
+  color: var(--waterdeep);
+}
+.nav-folder-children .nav-folder-title[data-path="heist/waterdeep"] > .nav-folder-title-content::before {
+  content: "🗺 ";
+}
+.nav-folder-children .nav-folder-title[data-path^="heist/waterdeep"],
+.nav-folder-children .nav-file-title[data-path^="heist/waterdeep"] {
+  color: var(--waterdeep);
+}
+.nav-folder-children body:not(.is-grabbing) .nav-file-title[data-path^="heist/waterdeep"]:hover,
+.nav-folder-children .nav-folder-title[data-path^="heist/waterdeep"].is-being-dragged,
+.nav-folder-children .nav-folder-title[data-path^="heist/waterdeep"]:hover,
+.nav-folder-children body:not(.is-grabbing) .nav-folder-title[data-path^="heist/waterdeep"]:hover,
+.nav-folder-children .nav-file-title[data-path^="heist/waterdeep"].is-being-dragged,
+.nav-folder-children .nav-file-title[data-path^="heist/waterdeep"]:hover {
+  background-color: var(--alpha2) !important;
+  color: var(--waterdeep);
+  border-radius: 0;
+}
+.nav-folder-children .nav-file-title[data-path*="heist/waterdeep"].is-active,
+.nav-folder-children .nav-folder-title[data-path*="heist/waterdeep"].is-active {
+  background-color: var(--alpha4);
+  color: var(--waterdeep);
   font-style: italic;
   border-radius: 0;
 }
@@ -463,11 +656,15 @@ span.nav a.internal-link {
   text-transform: capitalize;
   font-family: var(--font-tags);
   font-size: 1.3em;
+  line-height: 1.32em;
   color: var(--rowen);
   border-radius: 0;
 }
 .nav-folder-children .nav-folder-title[data-path=miscellanea] .nav-folder-collapse-indicator {
   color: var(--rowen);
+}
+.nav-folder-children .nav-folder-title[data-path=miscellanea] > .nav-folder-title-content::before {
+  content: "📚 ";
 }
 .nav-folder-children .nav-folder-title[data-path^=miscellanea],
 .nav-folder-children .nav-file-title[data-path^=miscellanea] {
@@ -496,11 +693,15 @@ span.nav a.internal-link {
   text-transform: capitalize;
   font-family: var(--font-tags);
   font-size: 1.3em;
+  line-height: 1.32em;
   color: var(--chronicles);
   border-radius: 0;
 }
 .nav-folder-children .nav-folder-title[data-path=chronicles] .nav-folder-collapse-indicator {
   color: var(--chronicles);
+}
+.nav-folder-children .nav-folder-title[data-path=chronicles] > .nav-folder-title-content::before {
+  content: "🗓 ";
 }
 .nav-folder-children .nav-folder-title[data-path^=chronicles],
 .nav-folder-children .nav-file-title[data-path^=chronicles] {
@@ -522,6 +723,132 @@ span.nav a.internal-link {
   color: var(--chronicles);
   font-style: italic;
   border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path=witchlight] {
+  /*Add "folder title"*/
+  font-variant: normal;
+  text-transform: capitalize;
+  font-family: 'Henny Penny', var(--font-tags);
+  font-size: 1.3em;
+  line-height: 1.32em;
+  color: var(--witchlight);
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path=witchlight] .nav-folder-collapse-indicator {
+  color: var(--witchlight);
+}
+.nav-folder-children .nav-folder-title[data-path=witchlight] > .nav-folder-title-content::before {
+  content: "🧚🏼 ";
+}
+.nav-folder-children .nav-folder-title[data-path^=witchlight],
+.nav-folder-children .nav-file-title[data-path^=witchlight] {
+  color: var(--witchlight);
+}
+.nav-folder-children body:not(.is-grabbing) .nav-file-title[data-path^=witchlight]:hover,
+.nav-folder-children .nav-folder-title[data-path^=witchlight].is-being-dragged,
+.nav-folder-children .nav-folder-title[data-path^=witchlight]:hover,
+.nav-folder-children body:not(.is-grabbing) .nav-folder-title[data-path^=witchlight]:hover,
+.nav-folder-children .nav-file-title[data-path^=witchlight].is-being-dragged,
+.nav-folder-children .nav-file-title[data-path^=witchlight]:hover {
+  background-color: var(--alpha2) !important;
+  color: var(--witchlight);
+  border-radius: 0;
+}
+.nav-folder-children .nav-file-title[data-path*=witchlight].is-active,
+.nav-folder-children .nav-folder-title[data-path*=witchlight].is-active {
+  background-color: var(--alpha4);
+  color: var(--witchlight);
+  font-style: italic;
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path="witchlight/carnival"] {
+  /*Add "folder title"*/
+  font-variant: normal;
+  text-transform: capitalize;
+  font-family: 'Henny Penny', var(--font-tags);
+  font-size: 1.3em;
+  line-height: 1.32em;
+  color: var(--feywild);
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path="witchlight/carnival"] .nav-folder-collapse-indicator {
+  color: var(--feywild);
+}
+.nav-folder-children .nav-folder-title[data-path="witchlight/carnival"] > .nav-folder-title-content::before {
+  content: "🎠 ";
+}
+.nav-folder-children .nav-folder-title[data-path^="witchlight/carnival"],
+.nav-folder-children .nav-file-title[data-path^="witchlight/carnival"] {
+  color: var(--feywild);
+}
+.nav-folder-children body:not(.is-grabbing) .nav-file-title[data-path^="witchlight/carnival"]:hover,
+.nav-folder-children .nav-folder-title[data-path^="witchlight/carnival"].is-being-dragged,
+.nav-folder-children .nav-folder-title[data-path^="witchlight/carnival"]:hover,
+.nav-folder-children body:not(.is-grabbing) .nav-folder-title[data-path^="witchlight/carnival"]:hover,
+.nav-folder-children .nav-file-title[data-path^="witchlight/carnival"].is-being-dragged,
+.nav-folder-children .nav-file-title[data-path^="witchlight/carnival"]:hover {
+  background-color: var(--alpha2) !important;
+  color: var(--feywild);
+  border-radius: 0;
+}
+.nav-folder-children .nav-file-title[data-path*="witchlight/carnival"].is-active,
+.nav-folder-children .nav-folder-title[data-path*="witchlight/carnival"].is-active {
+  background-color: var(--alpha4);
+  color: var(--feywild);
+  font-style: italic;
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path="witchlight/prismeer"] {
+  /*Add "folder title"*/
+  font-variant: normal;
+  text-transform: capitalize;
+  font-family: 'Henny Penny', var(--font-tags);
+  font-size: 1.3em;
+  line-height: 1.32em;
+  color: var(--feywild);
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path="witchlight/prismeer"] .nav-folder-collapse-indicator {
+  color: var(--feywild);
+}
+.nav-folder-children .nav-folder-title[data-path="witchlight/prismeer"] > .nav-folder-title-content::before {
+  content: "🗺 ";
+}
+.nav-folder-children .nav-folder-title[data-path^="witchlight/prismeer"],
+.nav-folder-children .nav-file-title[data-path^="witchlight/prismeer"] {
+  color: var(--feywild);
+}
+.nav-folder-children body:not(.is-grabbing) .nav-file-title[data-path^="witchlight/prismeer"]:hover,
+.nav-folder-children .nav-folder-title[data-path^="witchlight/prismeer"].is-being-dragged,
+.nav-folder-children .nav-folder-title[data-path^="witchlight/prismeer"]:hover,
+.nav-folder-children body:not(.is-grabbing) .nav-folder-title[data-path^="witchlight/prismeer"]:hover,
+.nav-folder-children .nav-file-title[data-path^="witchlight/prismeer"].is-being-dragged,
+.nav-folder-children .nav-file-title[data-path^="witchlight/prismeer"]:hover {
+  background-color: var(--alpha2) !important;
+  color: var(--feywild);
+  border-radius: 0;
+}
+.nav-folder-children .nav-file-title[data-path*="witchlight/prismeer"].is-active,
+.nav-folder-children .nav-folder-title[data-path*="witchlight/prismeer"].is-active {
+  background-color: var(--alpha4);
+  color: var(--feywild);
+  font-style: italic;
+  border-radius: 0;
+}
+.nav-folder-children .nav-folder-title[data-path$=encounters] > .nav-folder-title-content::before {
+  content: "🎡 ";
+}
+.nav-folder-children .nav-folder-title[data-path$=sessions] > .nav-folder-title-content::before {
+  content: "📜 ";
+}
+.nav-folder-children .nav-folder-title[data-path$=days] > .nav-folder-title-content::before {
+  content: "🗓 ";
+}
+.nav-folder-children .nav-folder-title[data-path$=characters] > .nav-folder-title-content::before {
+  content: "🎎 ";
+}
+.nav-folder-children .nav-folder-title[data-path$=assets] > .nav-folder-title-content::before {
+  content: "🗃 ";
 }
 
 .dice-roller {
@@ -574,6 +901,10 @@ span.nav a.internal-link {
   --timelines-rival: var(--pink-4);
   --timelines-rowen: var(--yellow-3);
   --timelines-link: var(--gray);
+}
+
+ul.dataview.list-view-ul > li > span > small {
+  color: var(--text-faint);
 }
 
 .show-spans .ob-timelines {

@@ -1,6 +1,5 @@
 ---
 aliases: ["The Baker's Dozen"]
-type: location
 tags: 
 - type/location/shop/bakery
 - group/waterdeep/guild/bakers-guild

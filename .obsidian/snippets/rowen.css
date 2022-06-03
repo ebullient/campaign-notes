@@ -1,5 +1,10 @@
+
+.witchlight,
 .rowen-dragon-heist {
   background-repeat: repeat-y;
+}
+.witchlight {
+  background-image: url("data:image/svg+xml,%3Csvg id='svgcontent' width='12pt' overflow='visible' version='1.1' viewBox='0 0 102.75 208.62' fill='%236E84BD' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m32.479 58.102c-10.427-3.397-18.148-14.73-15.129-25.699 4.3648-15.287 22.267-24.043 37.335-20.942 8.5365 1.5607 16.346 11.324 11.622 19.813-3.048 3.7231-5.5088 4.7143.45401 5.831 8.1916 2.9127 15.015 10.312 15.053 19.348.56902 14.218-12.347 25.02-25.185 28.169-8.9829 2.1772-19.67 1.6916-27.099-4.2811-5.9949-5.4525-6.9855-16.752.82348-21.075l1.0408-.61998zm27.823-22.43c6.2623-9.0351-1.1922-23.895-12.579-22.877-8.3953-.87742-20.255 6.0053-15.966 15.662 4.1354 7.8655 14.004 7.1164 21.567 6.9794 2.3278-.01104 4.6595.01736 6.9787.23533zm-26.262 22.409c-7.1479 9.3007.4112 24.259 11.838 25.159 8.5918 1.5379 19.412-1.6918 22.811-10.4 2.1862-9.7028-8.4967-15.232-16.816-14.091-5.9376-.37734-11.89-.39677-17.832-.66832zm27.464 99.193c4.5777 5.2412 11.251 9.9961 10.951 17.777.46322 11.265-11.062 21.111-22.149 18.47-14.624-1.9183-29.695-8.9151-37.811-21.672-4.0547-6.1526-5.0221-15.462 1.2324-20.575 8.4462-7.5381 24.408.61175 22.386 12.019-.84223 8.2651-9.297 8.2492-15.05 10.128-4.2963 7.4864 8.9977 13.276 15.314 11.175 9.0299-3.6941 15.541-13.405 15.751-23.172.66171-7.311-4.875-12.312-11.593-13.653-6.02-4.7608 5.5186-.88238 7.5982 1.0486 8.9567 5.49 18.306-4.387 20.334-12.682 3.6283-8.124-7.053-18.037-14.411-13.315-1.6669 4.1169 6.0809 9.8503 1.0502 15.017-6.8266 7.6415-21.393-1.425-18.994-10.973 2.9685-9.7642 15.623-9.3332 23.495-6.6231 11.447 3.9908 22.58 11.788 27.309 23.29 2.6207 9.1897-6.4938 19.651-16.07 16.913-3.2788-.45993-6.431-1.6168-9.343-3.1721z' stroke-width='0' style='-inkscape-stroke:none;paint-order:stroke'/%3E%3C/svg%3E%0A");
 }
 .theme-light .rowen-dragon-heist:not(.duet) {
   background-image: url("data:image/svg+xml,%3Csvg version='1.0' xmlns='http://www.w3.org/2000/svg' width='12pt' height='12.5pt' viewBox='0 0 24 25' preserveAspectRatio='xMidYMid meet'%3E%3Cg transform='translate(0.0,25.0) scale(0.1,-0.1)'%0Afill='%23e8c4ce' stroke='none'%3E%3Cpath d='M70 235 c0 -17 26 -55 44 -63 17 -9 18 -11 4 -11 -10 -1 -23 -11 -29%0A-23 l-12 -22 -8 22 c-5 12 -16 22 -26 23 -15 0 -15 2 5 16 12 8 22 23 22 32%0A-1 15 -2 15 -13 0 -7 -9 -23 -21 -36 -28 l-23 -13 30 -18 c17 -10 33 -28 37%0A-39 5 -18 9 -17 47 21 31 31 37 42 27 49 -8 5 -17 9 -22 9 -4 0 -13 11 -19 25%0A-10 21 -28 35 -28 20z'/%3E%3Cpath d='M170 126 c0 -8 -12 -23 -26 -33 -25 -16 -26 -17 -6 -32 11 -9 23 -23%0A28 -32 8 -13 13 -11 39 15 l30 31 -32 33 c-23 23 -33 29 -33 18z m40 -46 c7 0%0A2 -8 -10 -18 -21 -17 -25 -17 -39 -3 -14 14 -14 18 -1 32 13 14 17 14 26 3 6%0A-8 17 -14 24 -14z'/%3E%3C/g%3E%3C/svg%3E");  background-repeat: repeat-y;
@@ -14,10 +19,19 @@
   background-image: url("data:image/svg+xml,%3Csvg version='1.0' xmlns='http://www.w3.org/2000/svg' width='12pt' height='12.5pt' viewBox='0 0 24 25' preserveAspectRatio='xMidYMid meet'%3E%3Cg transform='translate(0.0,25.0) scale(0.1,-0.1)'%0Afill='%233d7e7b' stroke='none'%3E%3Cpath d='M70 235 c0 -17 26 -55 44 -63 17 -9 18 -11 4 -11 -10 -1 -23 -11 -29%0A-23 l-12 -22 -8 22 c-5 12 -16 22 -26 23 -15 0 -15 2 5 16 12 8 22 23 22 32%0A-1 15 -2 15 -13 0 -7 -9 -23 -21 -36 -28 l-23 -13 30 -18 c17 -10 33 -28 37%0A-39 5 -18 9 -17 47 21 31 31 37 42 27 49 -8 5 -17 9 -22 9 -4 0 -13 11 -19 25%0A-10 21 -28 35 -28 20z'/%3E%3Cpath d='M170 126 c0 -8 -12 -23 -26 -33 -25 -16 -26 -17 -6 -32 11 -9 23 -23%0A28 -32 8 -13 13 -11 39 15 l30 31 -32 33 c-23 23 -33 29 -33 18z m40 -46 c7 0%0A2 -8 -10 -18 -21 -17 -25 -17 -39 -3 -14 14 -14 18 -1 32 13 14 17 14 26 3 6%0A-8 17 -14 24 -14z'/%3E%3C/g%3E%3C/svg%3E");  background-repeat: repeat-y;
 }
 
+.witchlight > .markdown-preview-section,
 .rowen-dragon-heist > .markdown-preview-section {
   background-color: var(--background-primary);
 }
 
-div[src$="#Summary"] h2[data-heading=Summary] {
+/* option 2: fully hide the header and use other styling to create uniform padding */
+.markdown-preview-view > [data-heading]:first-child,
+.markdown-embed-heading .markdown-preview-pusher + div > [data-heading] {
   display: none;
+}
+
+.markdown-embed-heading > div:not(.markdown-preview-view) .markdown-preview-pusher + div::after {
+  display: block;
+  content: "";
+  height: 15px;
 }

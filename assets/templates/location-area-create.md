@@ -20,7 +20,6 @@ const dataview = 'dataview';
 const aliases = `aliases: ["${title}"]`;
 -%>
 <% aliases %>
-type: location
 <% tags %>
 ---
 # <% title %>

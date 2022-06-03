@@ -1,5 +1,8 @@
 ---
-tags: [ timeline, events ]
+tags:
+- timeline
+- rowen/events
+- uvms/events
 ---
 # Calendar Events
 
@@ -36,8 +39,6 @@ It was a time when love advanced, and it was said the deities themselves took a 
 <span class='ob-timelines' data-date='1498-09-21-00' data-title='Autumn Equinox'></span>
 
 ### Highharvestide
-<span class='ob-timelines' data-class='place' data-date='1499-09-21-00' data-title='Highharvestide excitement'></span>    
-<span class='ob-timelines' data-class='place' data-date='1498-09-21-00' data-title='Highharvestide excitement'></span>    
 <span class='ob-timelines' data-date='1499-10-00-00' data-title='Highharvestide'></span>
 <span class='ob-timelines' data-date='1498-10-00-00' data-title='Highharvestide'></span>
 
@@ -54,6 +55,6 @@ https://forgottenrealms.fandom.com/wiki/Highharvestide
 
 ## Lunar Calendar
 
-![1498 Lunar Calendar](../../🗄-assets/attachments/1498-lunar-calendar.png)
+![1498 Lunar Calendar](/assets/attachments/1498-lunar-calendar.png)
 
-![1499 Lunar Calendar](../../🗄-assets/attachments/1499-lunar-calendar.png)
+![1499 Lunar Calendar](/assets/attachments/1499-lunar-calendar.png)

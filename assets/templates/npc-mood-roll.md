@@ -5,6 +5,6 @@ const mood = await Campaign.mood();
 if (character) {
     tR += `- *${character}'s mood*: ${mood}`;
 } else { 
-    tR += mood;
+    tR += `_[${mood}]_`;
 } 
 -%>

@@ -1,7 +1,6 @@
 ---
 obsidianUIMode: preview
 aliases: ["Guilds of Waterdeep"]
-type: group
 sources:
 - "https://forgottenrealms.fandom.com/wiki/Guilds_of_Waterdeep"
 - "https://oakthorne.net/wiki/index.php?title=Guilds_of_Waterdeep"
@@ -83,7 +82,7 @@ const { Campaign } = window.customJS;
 dv.list(Campaign.itemsForTag(dv, '#group/waterdeep/guild', 'npc'));
 ```
 
-## History
+## History 
 
 ```dataviewjs
 const { Campaign } = window.customJS;
@@ -177,7 +176,7 @@ Housed in Builders' Hall, a lavishly crafted and tended stone building in the So
 ### Guild of Watermen
 The Guild of Watermen was a group of Waterdhavian dockmen and sailors that kept Deepwater Harbor clean and free from debris and ferried goods from ships moored to the dock. Due to the amount of ships coming in and out of Waterdeep's port, their duties had them working round-the-clock. Fortunately, the importance of their labors was well-known.
 
-The [Watermens' Hall](../places/waterdeep/watermens-hall.md) is located along Dock Street, in the Dock Ward of Waterdeep. The guild uses this as a warehouse for members to store their ferries and skiffs as well as any and all things found while trying to keep Deepwater Harbor clean.
+The [Watermens' Hall](../places/watermens-hall.md) is located along Dock Street, in the Dock Ward of Waterdeep. The guild uses this as a warehouse for members to store their ferries and skiffs as well as any and all things found while trying to keep Deepwater Harbor clean.
 
 - https://forgottenrealms.fandom.com/wiki/Guild_of_Watermen
 
