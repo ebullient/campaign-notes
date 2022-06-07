@@ -27,12 +27,9 @@ Attributes:
 - `dice: [](tables/npc-generator-tables.md#^talents)`  
 - is/has `dice: [](tables/npc-generator-tables.md#^appearance)`  
 
-Interactions with others: 
-- `dice: [](tables/npc-generator-tables.md#^interaction)`
-- `dice: [](tables/npc-connection-tables.md#^connections)`
+Interactions with others: `dice: [](tables/npc-generator-tables.md#^interaction)`
 
 Moods: `dice: [](mood-tables.md#^mood-table)`, `dice: [](mood-tables.md#^mood-table)`, `dice: [](mood-tables.md#^mood-table)`, `dice: [](mood-tables.md#^mood-table)`
-
 
 ## Dragonborn
 
