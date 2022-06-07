@@ -12,50 +12,53 @@ tags:
 # Guilds of Waterdeep
 <span class="subhead">Guild organizations</span>
 
--   Bakers' Guild
--   [Carpenters' Roofers' and Plasterers' Guild](#Carpenters'%20Roofers'%20and%20Plasterers'%20Guild)
--   [Cellarers' and Plumbers' Guild](#Cellarers'%20and%20Plumbers'%20Guild)
--   Coopers' Guild
--   Council of Farmer-Grocers
--   Council of Musicians, Instrument-makers, and Choristers
--   Dungsweepers' Guild
--   Fellowship of Bowyers and Fletchers
--   [Fellowship of Carters and Coachmen](#Fellowship%20of%20Carters%20and%20Coachmen)
--   [The Fellowship of Innkeepers](#The%20Fellowship%20of%20Innkeepers)
--   Fellowship of Salters, Packers, and Joiners
--   Fishmongers' Fellowship
--   Guild of Apothecaries and Physicians
--   [Guild of Butchers](#Guild%20of%20Butchers)
--   [Guild of Chandlers and Lamplighters](#Guild%20of%20Chandlers%20and%20Lamplighters)
--   Guild of Fine Carvers
--   Guild of Glassblowers, Glaziers, and Spectacle-makers
--   [Guild of Stonecutters Masons Potters and Tile-makers](#Guild%20of%20Stonecutters%20Masons%20Potters%20and%20Tile-makers)
--   Guild of Trusted Pewterers and Casters
--   [Guild of Watermen](#Guild%20of%20Watermen)
--   Jesters' Guild
--   Jewelers' Guild
--   Launderers' Guild
--   League of Basket-makers and Wickerworkers
--   League of Skinners and Tanners
--   Loyal Order of Street Laborers
--   Master Mariners' Guild
--   [Most Careful Order of Skilled Smiths and Metalforgers](#Most%20Careful%20Order%20of%20Skilled%20Smiths%20and%20Metalforgers)
--   Most Diligent League of Sail-makers and Cordwainers
--   Most Excellent Order of Weavers and Dyers
--   Order of Cobblers and Corvisers
--   Order of Master Shipwrights
--   Order of Master Tailors, Glovers, and Mercers
--   [Saddlers' and Harness-makers' Guild](#Saddlers'%20and%20Harness-makers'%20Guild)
--   Scriveners', Scribes', and Clerks' Guild
--   Solemn Order of Recognized Furriers and Woolmen
--   [Splendid Order of Armorers Locksmiths and Finesmiths](#Splendid%20Order%20of%20Armorers%20Locksmiths%20and%20Finesmiths)
--   Stablemasters' and Farriers' Guild
--   Stationers' Guild
--   Surveyors', Map-, and Chart-makers' Guild
--   [Vintners' Distillers' Brewers' Guild](#Vintners'%20Distillers'%20Brewers'%20Guild)
--   [Wagonmakers and Coach Builders Guild](#Wagonmakers%20and%20Coach%20Builders%20Guild)
--   [Watchful Order of Magists and Protectors](watchful-order-of-magists-and-protectors.md)
--   Wheelwrights' Guild
+| Guilds of Waterdeep |
+|---------------------|
+| Bakers' Guild |
+| [Carpenters' Roofers' and Plasterers' Guild](#Carpenters'%20Roofers'%20and%20Plasterers'%20Guild) |
+| [Cellarers' and Plumbers' Guild](#Cellarers'%20and%20Plumbers'%20Guild) |
+| Coopers' Guild |
+| Council of Farmer-Grocers |
+| Council of Musicians, Instrument-makers, and Choristers |
+| Dungsweepers' Guild |
+| Fellowship of Bowyers and Fletchers |
+| [Fellowship of Carters and Coachmen](#Fellowship%20of%20Carters%20and%20Coachmen) |
+| [The Fellowship of Innkeepers](#The%20Fellowship%20of%20Innkeepers) |
+| Fellowship of Salters, Packers, and Joiners |
+| Fishmongers' Fellowship |
+| Guild of Apothecaries and Physicians |
+| [Guild of Butchers](#Guild%20of%20Butchers) |
+| [Guild of Chandlers and Lamplighters](#Guild%20of%20Chandlers%20and%20Lamplighters) |
+| Guild of Fine Carvers |
+| Guild of Glassblowers, Glaziers, and Spectacle-makers |
+| [Guild of Stonecutters Masons Potters and Tile-makers](#Guild%20of%20Stonecutters%20Masons%20Potters%20and%20Tile-makers) |
+| Guild of Trusted Pewterers and Casters |
+| [Guild of Watermen](#Guild%20of%20Watermen) |
+| Jesters' Guild |
+| Jewelers' Guild |
+| Launderers' Guild |
+| League of Basket-makers and Wickerworkers |
+| League of Skinners and Tanners |
+| Loyal Order of Street Laborers |
+| Master Mariners' Guild |
+| [Most Careful Order of Skilled Smiths and Metalforgers](#Most%20Careful%20Order%20of%20Skilled%20Smiths%20and%20Metalforgers) |
+| Most Diligent League of Sail-makers and Cordwainers |
+| Most Excellent Order of Weavers and Dyers |
+| Order of Cobblers and Corvisers |
+| Order of Master Shipwrights |
+| Order of Master Tailors, Glovers, and Mercers |
+| [Saddlers' and Harness-makers' Guild](#Saddlers'%20and%20Harness-makers'%20Guild) |
+| Scriveners', Scribes', and Clerks' Guild |
+| Solemn Order of Recognized Furriers and Woolmen |
+| [Splendid Order of Armorers Locksmiths and Finesmiths](#Splendid%20Order%20of%20Armorers%20Locksmiths%20and%20Finesmiths) |
+| Stablemasters' and Farriers' Guild |
+| Stationers' Guild |
+| Surveyors', Map-, and Chart-makers' Guild |
+| [Vintners' Distillers' Brewers' Guild](#Vintners'%20Distillers'%20Brewers'%20Guild) |
+| [Wagonmakers and Coach Builders Guild](#Wagonmakers%20and%20Coach%20Builders%20Guild) |
+| [Watchful Order of Magists and Protectors](watchful-order-of-magists-and-protectors.md) |
+| Wheelwrights' Guild |
+^guilds-of-waterdeep
 
 ## Membership
 
