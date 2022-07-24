@@ -5,6 +5,7 @@ aliases:
 - Delalar Salibuck
 - Osco Salibuck
 - Varkel Salibuck
+- Faramond Salibuck
 tags:
 - rowen/npc/alive
 - place/waterdeep/brandarthall
@@ -29,8 +30,8 @@ The Salibucks are a family of halflings that are affiliated closely with the Bra
         - **Varkel Salibuck** (Bramal's son, sandy-haired, enthusiastic) -- Can remember every word spoken to him. Sent to listen for rumors at the palace on a fast pony after Vajra Safahr was rescued. 47 years old
         - **Osco Salibuck** -- Ellial's son, Madrak's grandson. Wears a silver rings in his left nostril and earlobe. Troublemaker, Rogue, but also friend to [Vajra "Blackstaff" Safahr](vajra-safahr.md). Chosen by Blackstaff Tower, etc. 43 years old
     - **Delalar** -- Madrak's daughter.  She has tan skin and brown eyes. Her curly brown and gray hair falls down past her shoulders. She is pretty short (even for a halfling). She is 65 years old (adult), 2 ft, 9 in (84 cm) tall, and weighs 37 lbs (17 kg). She is even-tempered. *According to Osco, she faints a lot.*
-    - **Merric Kettlewhistle** -- Delalar's husband. He is a rich, talkative caretaker. 
-        - [Kettlewhistle Sisters](kettlewhistle-sisters.md) 4 girls
+    - **Merric Kettlewhistle** -- Delalar's husband. He is a rich, talkative caretaker, 73
+        - [Kettlewhistle Sisters](kettlewhistle-sisters.md) 4 girls, in their late 20s
 
 ## Relationships
 
