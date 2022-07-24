@@ -9,12 +9,103 @@ class Campaign {
             'Plant', 'Undead'];
     }
 
-    nextWeek = (filename) => {
-        const titledate = filename.substring(0, 10);
-        return moment(titledate).add(1, 'week');
+    /**
+     * Folders that should be skipped when prompting for a folder
+     * to add a new note to.
+     * @param {string} fullname full path of folder (from vault root)
+     * @return {boolean} true to include folder, false to exclude it
+     */
+    chooseFolderFilter = (fullname) => !fullname.startsWith("assets");
+
+    /**
+     * Files that should be skipped when calculating previous and next links.
+     * Must return a boolean.
+     * @param {string} folder full path of folder (from vault root)
+     * @param {string} filename (excludes path)
+     * @return {boolean} true to include file, false to exclude it
+     */
+    prevNextFilter = (folder, filename) => {
+        const foldername = folder.substr(folder.lastIndexOf('/') + 1);
+        return !filename.contains('Untitled') && !filename.contains(foldername);
     }
 
-    lowerKebab = (name) => {
+    /**
+     * Map a folder to a tag
+     * @param {string} folder full path of folder (from vault root)
+     * @returns {string} tag that should be associated with this folder
+     */
+    folderToTag = (foldername) => foldername.substring(0, foldername.indexOf('/'));
+
+    /**
+     * Adjust the query for folder pages
+     * @param {*} dv Dataview api
+     * @param {string} Query string
+     * @returns {*} result of dataview query
+     */
+    folderPages = (dv, query) => {
+        if (query === undefined) {
+            return dv.pages(`"${dv.current().file.folder}"`);
+        }
+        // Adjust query (nested vault)
+        if ( query === "miscellanea" ) {
+            return dv.pages(`"heist/duet/miscellanea"`);
+        }
+        return dv.pages(query);
+    }
+
+    /**
+     * Adjust the query for folder pages
+     * @param {*} dv Dataview api
+     * @param {*} scope Dataview current file
+     * @param {string} tag string
+     * @returns {*} result of dataview query
+     */
+    queryTagPages = (dv, scope, tag) => {
+        if (scope.folder.contains("miscellanea")) {
+           return dv.pages(`"heist/duet/miscellanea" and (${tag})`);
+        } else if (scope.folder.contains("witchlight")) {
+            return dv.pages(`"witchlight" and (${tag})`);
+        }
+        return dv.pages(tag);
+    }
+
+    /**
+     * List filter: Match a dataview page to a "type", see itemsForTag
+     * @param {*} p dataview page
+     * @param {string} type string to match additional conditions
+     * @returns {boolean} true to include page
+     */
+    matchType = (p, type) => {
+        if (!p.tags) {
+            // exclude all pages that don't have tags
+            return false;
+        }
+        switch(type) {
+            case 'area':
+                return !!p.tags.find(t => t && t.startsWith('type/area'));
+            case 'encounter':
+                // has  encounter attribute: new / active / completed, etc.
+                return p.encounter;
+            case 'group':
+                return !!p.tags.find(t => t && t.startsWith('type/group'));
+            case 'item':
+                return !!p.tags.find(t => t && t.startsWith('type/item'));
+            case 'location':
+                // include locations and areas
+                return !!p.tags.find(t => t && (t.startsWith('type/location') || t.startsWith('type/area')));
+            case 'npc' :
+                // npc tags can be scoped: campaign/npc/...
+                return !!p.tags.find(t => t && t.contains('npc/'));
+        }
+        // exclude all pages that don't match conditions above
+        return false;
+    }
+
+    /**
+     * Change a Title string into a desired filename format,
+     * e.g. "Pretty Name" to pretty-name (lower-kebab / slugified)
+     */
+    toFileName = (name) => {
         return name
             .replace(/([a-z])([A-Z])/g, '$1-$2') // separate on camelCase
             .replace(/[\s_]+/g, '-')         // replace all spaces and low dash
@@ -22,15 +113,21 @@ class Campaign {
             .toLowerCase();                  // convert to lower case
     }
 
+    /**
+     * Prompt to select a target folder from a list of potential folders
+     * for a new file from a filtered list of subfolders of
+     * the specified folder (specify "/" or "" for the vault root)
+     */
     chooseFolder = async (tp, folder) => {
         if (folder === "/") {
             folder = "";
         }
         const folders = Object.entries(app.vault.adapter.files)
             .filter(x => x[1].type === "folder")
-            .filter(x => !x[0].startsWith("assets"))
             .filter(x => x[0].startsWith(folder))
+            .filter(x => this.chooseFolderFilter(x[0]))
             .map(x => x[0]);
+
         if (folders.length > 0 ) {
             folders.sort();
             const choice = await tp.system.suggester(folders, folders);
@@ -43,7 +140,13 @@ class Campaign {
         return folder;
     }
 
-    chooseTags = async (tp, prefix, value) => {
+    /**
+     * Prompt to select a tag from a list of potential tags for a new file.
+     * The list will contain all tags that match the specified prefix,
+     * and will include '--' to indicate none. If no value is chosen,
+     * it will return the provided default value.
+     */
+    chooseTag = async (tp, prefix, value) => {
         let values = [];
         const filter = '#' + prefix;
         for (const itItem of Object.keys(app.metadataCache.getTags())) {
@@ -52,17 +155,17 @@ class Campaign {
             }
         }
         values.sort();
-        values.unshift('--');
+        values.unshift('--'); // add to the beginning
         const choice = await tp.system.suggester(values, values);
-        if (!choice) {
+        if (!choice || choice === '--') {
             console.log(`No choice selected. Using ${value}`);
             return value;
         }
         return choice;
     }
 
-    chooseTagOrEmpty = async (tp, prefix, value) => {
-        let result = await this.chooseTags(tp, prefix, value);
+    chooseTagOrEmpty = async (tp, prefix) => {
+        let result = await this.chooseTag(tp, prefix, '--');
         if (result && result != '--') {
             return result;
         }
@@ -78,44 +181,86 @@ class Campaign {
     }
 
     /**
-     * Calculate the next session log
+     * Quick math: create a date from the string, add 7 days
+     * @param {string} input matching YYYY-MM-DD.*
+     * @return {moment} date from the input string + 7 days
+     */
+    nextWeek = (input) => {
+        const titledate = input.substring(0, 10);
+        return moment(titledate).add(1, 'week');
+    }
+
+    /**
+     * Create properties for the next session:
+     * Assumes session logs are YYYY-MM-DD-something
      */
     nextSession = async (tp) => {
         const folder = tp.file.folder(true);
         console.log("Looking for files in %s", folder);
 
+        // List all files in the folder (sorted list)
+        // Grab the last 4, iterate backwards until you find a
+        // file that matches .*YYYY-MM-DD.* (e.g. skip Untitled and folder note)
         const fileList = await app.vault.adapter.list(folder);
         const files = fileList.files.slice(-4);
         let lastSession = files.pop();
-        while (lastSession.contains('Untitled') || lastSession.endsWith('sessions.md')) {
+        while (!lastSession.match(/^.*\d{4}-\d{2}-\d{2}.*/)) {
             lastSession = files.pop();
         }
-        const pos = lastSession.lastIndexOf('/') + 1;
-        const name = lastSession.substring(pos);
+
+        // Lift the date out of the file name
+        const date = lastSession.replaceAll(/^.*(\d{4}-\d{2}-\d{2}).*$/g, "$1");
+
+        // Return the folder, the next date, the previous date, and
+        // a tag for the folder (see folderToTag)
         return {
             folder: folder,
-            next: this.nextWeek(name).format("YYYY-MM-DD"),
-            lastSession: name,
-            tag: folder.substring(0, folder.indexOf('/'))
+            next: this.nextWeek(date).format("YYYY-MM-DD"),
+            lastSession: date,
+            tag: this.folderToTag(folder)
         }
     }
 
     /**
-     * Calculate the previous session log
+     * Find the previous file from a filtered list of files
+     * (see prevNextFilter)
      */
-    prevSession = async (tp) => {
+    prevFile = async (tp) => {
         const folder = tp.file.folder(true);
         const filename = tp.file.title;
-        console.log("Looking for files in %s", folder);
 
         const fileList = await app.vault.adapter.list(folder);
-        const files = fileList.files;
+        const files = fileList.files
+            .filter(f => this.prevNextFilter(folder, f.replace(`${folder}/`, "")));
+        files.sort();
+
+        // Starting from the end, walk backwards through
+        // files in the folder to find "this" file
+        // Return the name of the file preceeding it
+        const fullname = `${folder}/${filename}`;
         for (let i = files.length - 1; i > 0 ; i--) {
-            if (files[i].contains(filename)) {
-                const pos = files[i].lastIndexOf('/') + 1;
-                return files[i - 1].substring(pos);
+            if (files[i] == fullname) {
+                return files[i - 1].replace(`${folder}/`, "");
             }
         }
+        // undefined
+    }
+
+    /**
+     * Find the last file in a filtered list of files
+     * (see prevNextFilter)
+     */
+    lastFile = async (tp) => {
+        const folder = tp.file.folder(true);
+        const filename = tp.file.title;
+        console.log(filename);
+
+        const fileList = await app.vault.adapter.list(folder);
+        const files = fileList.files
+            .filter(f => this.prevNextFilter(folder, f.replace(`${folder}/`, "")));
+        files.sort();
+
+        return files[files.length - 1].replace(`${folder}/`, "");
     }
 
     /**
@@ -124,9 +269,13 @@ class Campaign {
     prevNext = async (tp) => {
         const folder = tp.file.folder(true);
         const filename = tp.file.title;
+
+        // remove files that don't match the filter from the list
         const fileList = await app.vault.adapter.list(folder);
-        const files = fileList.files.filter(f => !f.contains('Untitled') && !f.endsWith('sessions.md'));
+        const files = fileList.files
+            .filter(f => this.prevNextFilter(folder, f.replace(`${folder}/`, "")));
         files.sort();
+
         const result = {};
         for (let i = 0; i < files.length; i++) {
             if (files[i].contains(filename)) {
@@ -140,6 +289,7 @@ class Campaign {
                 break;
             }
         }
+        // result: { prev?: .., next?: ... }
         return result;
     }
 
@@ -151,6 +301,7 @@ class Campaign {
      *
      * Once it has found the last day.. figure out the _next_ day, with rollover
      * for the year, and insertion of a day 0 for special calendar days.
+     * @return {object} the discovered date (proposal) and the tag associated with this folder
      */
     nextHarptosDay = async (tp) => {
         const folder = tp.file.folder(true);
@@ -160,11 +311,11 @@ class Campaign {
         const files = fileList.files.slice(-4);
 
         let lastLog = files.pop();
-        while (lastLog.contains('Untitled')) {
+        while (!lastLog.match(/^.*\d{4}-\d{2}-\d{2}.*/)) {
             lastLog = files.pop();
         }
 
-        const date = this.splitDateString(lastLog.substring(lastLog.lastIndexOf('/') + 1));
+        const date = this.splitDateString(lastLog.replaceAll(/.*([0-9-]+).*/g, "$1"));
         if (date.day == 30) {
             switch (date.month) {
                 // New Year
@@ -199,13 +350,15 @@ class Campaign {
         console.log("%o", date);
         return {
             date: `${date.year}-${this.pad(date.month)}-${this.pad(date.day)}`,
-            tag: folder.substring(0, folder.indexOf('/'))
+            tag: this.folderToTag(folder)
         };
     }
 
     /**
      * Harptos filename and heading
-     *
+     * @param {string} dateStr date to use for new file (result of prompt)
+     * @param {string} fallback valid date string (e.g. from nextHarptosDay result)
+     * @returns {object} filename (padded date), pretty heading (formatted date), season, date object, monthName
      */
     harptosDay = (dateStr, fallback) => {
         if (!dateStr.match(/^[0-9-]+$/)) {
@@ -213,10 +366,10 @@ class Campaign {
         }
         const date = this.splitDateString(dateStr);
         const monthName = this.monthName(date.month, date.day);
-        const season = this.season(date.month, date.day);
+        const season = this.faerunSeason(date.month, date.day);
         const pretty = `${monthName} ${date.day}, ${date.year}`;
         return {
-            filename: `${date.year}-${this.pad(date.month)}-${this.pad(date.day)}-${this.lowerKebab(monthName)}`,
+            filename: `${date.year}-${this.pad(date.month)}-${this.pad(date.day)}-${this.toFileName(monthName)}`,
             heading: pretty,
             season: season,
             date: date,
@@ -227,8 +380,11 @@ class Campaign {
     /**
      * Split a string into harptos calendar compatible segments.
      * This assumes files with the following format:
-     * - single day:   1498-08-09
-     * - several days: 1498-08-09-11
+     * - single day:   1498-08-09     -> { year: 1498, month: 8, day: 9}
+     * - several days: 1498-08-09-11  -> { year: 1498, month: 8, day: 11}
+     * (This doesn't work for ranges that span special days or months)
+     * @param {string} string A date string
+     * @returns {object} date object containing year, month, day
      */
     splitDateString = (string) => {
         const segments = string.split('-');
@@ -238,7 +394,7 @@ class Campaign {
         let month = parseInt(segments[1]);
         let day = parseInt(segments[2]);
 
-        if (segments.length == 4 && Number.isInteger(segments[3])) {
+        if (segments.length > 3 && !isNaN(segments[3])) {
             day = parseInt(segments[3]);
         }
         return {
@@ -248,15 +404,11 @@ class Campaign {
         }
     }
 
-    /**
-     * Add padding to numbers less than 10.
-     * Yes, printf could also do this, but whatever.
-     */
     pad = (x) => {
         return `${x}`.padStart(2, '0');
     }
 
-    season = (m, d) => {
+    faerunSeason = (m, d) => {
         switch(m) {
             case 1:
             case 2:
@@ -295,22 +447,25 @@ class Campaign {
      * Days 31 and 0 are special days (between months)
      */
     monthName = (m, d) => {
-        if (d == 31 || d == 0 ) {
-            switch (m) {
-                case 1:
-                    return 'Midwinter';
-                case 4:
-                    return 'Greengrass';
-                case 7:
-                    return 'Midsummer';
-                case 8:
-                    return 'Shieldmeet';
-                case 9:
-                    return 'Highharvestide';
-                case 11:
-                    return 'Feast of the Moon';
-            }
+        if (( m == 1 && d == 31) || ( m == 2 && d == 0)) {
+            return 'Midwinter';
         }
+        if (( m == 4 && d == 31) || ( m == 5 && d == 0)) {
+            return 'Greengrass';
+        }
+        if (m == 7 && d == 31) {
+            return 'Midsummer';
+        }
+        if (m == 8 && d == 0) {
+            return 'Shieldmeet';
+        }
+        if (( m == 9 && d == 31) || ( m == 10 && d == 0)) {
+            return 'Highharvestide';
+        }
+        if (( m == 11 && d == 31) || ( m == 12 && d == 0)) {
+            return 'Feast of the Moon';
+        }
+
         switch (m) {
             case 1:
                 return 'Hammer';
@@ -339,7 +494,7 @@ class Campaign {
         }
     }
 
-    /* Sort npcs by a status, where they are, then their name */
+    /* Sort npcs */
     sortNpcs = (n1, n2) => {
         return this.testStatus(n1, n2,
             //() => this.testWhere(n1, n2,
@@ -378,35 +533,13 @@ class Campaign {
         }
     }
 
-    matchType = (p, type) => {
-        if (p.tags) {
-            switch(type) {
-                case 'encounter':
-                    return p.encounter;
-                case 'group':
-                    return !!p.tags.find(t => t.startsWith('type/group'));
-                case 'item':
-                    return !!p.tags.find(t => t.startsWith('type/item'));
-                case 'location':
-                    return !!p.tags.find(t => t.startsWith('type/location') || t.startsWith('type/area'));
-                case 'npc' :
-                    return !!p.tags.find(t => t.contains('npc/'));
-
-            }
-        }
-        return false;
-    }
-
-    folderPages = (dv, query) => {
-        if (query === undefined) {
-            return dv.pages(`"${dv.current().file.folder}"`);
-        }
-        if ( query === "miscellanea" ) {
-            return dv.pages(`"heist/duet/miscellanea"`);
-        }
-        return dv.pages(query);
-    }
-
+    /**
+     * Filter dataview pages to those that are groups (using matchType).
+     * Map these pages to an array: [pagelink, type]
+     * - type tags: either "type/group/usethis" or ".../group/usethis"
+     * @param {*} pages Dataview result, array of pages
+     * @returns Array. Each array element is an array of [pagelink, type]
+     */
     filterFactions = (pages) => {
         const typeRegex = /group\/([^/]+)/;
         return pages
@@ -417,8 +550,7 @@ class Campaign {
                 k.tags.forEach((tag) => {
                     if (tag.startsWith('type/group/')) {
                         type = tag.substring(11);
-                    }
-                    else if ( type === "unknown" ) {
+                    } else if ( type === "unknown" ) {
                         const found = tag.match(typeRegex);
                         if (found) {
                             type = found[1];
@@ -430,6 +562,15 @@ class Campaign {
             });
     }
 
+    /**
+     * Filter dataview pages to those that are locations (using matchType).
+     * Map these pages to an array: [pagelink, type, where, affiliation]:
+     * - type tags: "type/usethis"
+     * - where tags: "region/usethis"
+     * - affiliation tags: "group/usethis"
+     * @param {*} pages Dataview result, array of pages
+     * @returns Array. Each array element is an array of [pagelink, type, where, affiliation]
+     */
     filterPlaces = (pages) => {
         return pages
             .where(p => this.matchType(p, 'location'))
@@ -444,7 +585,7 @@ class Campaign {
                     } else if (tag.startsWith('region/')) {
                         where = tag.substring(tag.lastIndexOf('/')+1);
                     } else if (tag.startsWith('group/') ) {
-                        affiliation.push(tag.replace('group/', '').replace('faction/', ''));
+                        affiliation.push(tag.replace('group/', ''));
                     }
                 });
 
@@ -452,7 +593,16 @@ class Campaign {
             });
     }
 
-    /* Filter npcs from the given list of pages */
+    /**
+     * Filter dataview pages to those that are npcs (using matchType).
+     * Map these pages to an array: [pagelink, status, iff, where, affiliation]:
+     * - status (e.g. alive, dead) tags: ".../npc/usethis"
+     * - iff (is friend or foe, e.g. friend, enemy, positive, negative, unknown) tags: ".../iff/usethis"
+     * - where tags: "place/usethis" or "region/usethis"
+     * - affiliation tags: "group/usethis"
+     * @param {*} pages Dataview result, array of pages
+     * @returns Sorted array (see sortNpcs). Each array element is an array of [pagelink, status, iff, where, affiliation]
+     */
     filterNpcs = (pages) => {
         return pages
             .where(p => this.matchType(p, 'npc'))
@@ -463,11 +613,12 @@ class Campaign {
                 var region = 'unknown';
                 var affiliation = [];
                 p.tags.forEach((tag) => {
-                    const pos = tag.indexOf("iff/");
-                    if (pos >= 0) {
-                        iff = tag.substring(pos + 4);
-                    } else if (tag.startsWith('npc/')) {
-                        status = tag.substring(4);
+                    const iffPos = tag.indexOf("iff/");
+                    const npcPos = tag.indexOf("npc/");
+                    if (iffPos >= 0) {
+                        iff = tag.substring(iffPos + 4);
+                    } else if (npcPos >= 0) {
+                        status = tag.substring(npcPos + 4);
                     } else if (tag.startsWith('place/')) {
                         where = tag.substring(6);
                     } else if (tag.startsWith('region/')) {
@@ -494,52 +645,59 @@ class Campaign {
                 p.affiliation.sort().join(", ")]);
     }
 
+    /**
+     * Filter dataview pages to encounters that match the specified query (or the current folder)
+     * Map encounter pages to an array containing [pagelink, encounter status, where, affiliation]
+     * - value of encounter attribute (e.g. new, pending, active, complete)
+     * - where tags: "place/usethis" or "region/usethis"
+     * - affiliation tags: "group/usethis"
+     * @param {*} pages Dataview result, array of pages
+     * @returns Sorted array (see sortNpcs). Each array element is an array of [pagelink, status, iff, where, affiliation]
+     */
     filterEncounters = (dv, query) => {
         const scope = dv.current().file;
         return dv.pages(query ? query : `"${scope.folder}"` )
             .where(p => p.encounter)
             .sort(p => p.file.name, 'asc')
             .map(k => {
-            var link = `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`;
-            var where = 'region';
-            var affiliation = [];
-            var level = isNaN(k.file.name[0]) ? '' : k.file.name[0];
+                var link = this.pageToLink(k);
+                var where = 'region';
+                var affiliation = [];
+                var level = isNaN(k.file.name[0]) ? '' : k.file.name[0];
 
-            if ( k.tags) {
-                k.tags.forEach((tag) => {
-                if (tag.startsWith('place/')) {
-                    where = tag.substring(6).replace(/(town|settlement|landmark)\//, '');
-                } else if (where == 'region' && tag.startsWith('region/')) {
-                    where = tag.substring(7);
-                } else if (tag.startsWith('group/') ) {
-                    affiliation.push(tag.replace('group/', '').replace('faction/', ''));
+                if ( k.tags) {
+                    k.tags.forEach((tag) => {
+                        if (tag.startsWith('place/')) {
+                            where = tag.substring(6);
+                        } else if (where == 'region' && tag.startsWith('region/')) {
+                            where = tag.substring(7);
+                        } else if (tag.startsWith('group/') ) {
+                            affiliation.push(tag.replace('group/', ''));
+                        }
+                    });
                 }
-                });
-            }
 
-            return [link, k.encounter, where, affiliation.sort().join(", "), level]
-        });
+                return [link, k.encounter, where, affiliation.sort().join(", "), level]
+            });
     }
 
     pageToListItem = (k) => {
-        return `<small>(${k.file.path.substring(0, k.file.path.indexOf('/'))})</small> [${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`;
+        return `<small>(${k.file.path.substring(0, k.file.path.indexOf('/'))})</small> ${this.pageToLink(k)}`;
     }
 
     pageToLink = (k) => {
         return `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`;
     }
 
+    /**
+     * Find pages (excluding this one) that have the specified tag
+     * See queryTagPages for further constraints based on current scope
+     * @param {*} pages Dataview result, array of pages
+     * @returns Array of pages sorted by file name, then by first path segment (grouped by folder root)
+     */
     pagesForTag = (dv, tag) => {
         const scope = dv.current().file;
-        let pages;
-        if (scope.folder.contains("miscellanea")) {
-            pages = dv.pages(`"heist/duet/miscellanea" and (${tag})`);
-        } else if (scope.folder.contains("witchlight")) {
-            pages = dv.pages(`"witchlight" and (${tag})`);
-        } else {
-            pages = dv.pages(tag);
-        }
-        return pages
+        return this.queryTagPages(dv, scope, tag)
             .where(p => p.file.path != scope.path)
             .sort(p => p.file.name, 'asc')
             .sort(p => p.file.path.substring(0, p.file.path.indexOf('/')), 'asc');
@@ -549,6 +707,7 @@ class Campaign {
         const pages = this.pagesForTag(dv, tag);
         return pages
             .where(p => this.matchType(p, type))
+            .sort(k => this.pageToListItem(k))
             .map(k => this.pageToListItem(k));
     }
 
@@ -593,17 +752,19 @@ class Campaign {
     index = (dv, pg, pages) => {
         const groups = pages
             .map(p => {
-                let title = (p.file.aliases[0] ? p.file.aliases[0] : p.file.name);
                 let folder = p.file.folder;
                 let link = this.pageToLink(p);
+                let title = (p.file.aliases[0] ? p.file.aliases[0] : p.file.name);
                 return [folder, link, title, p.file.name];
             })
-            .groupBy(p => p[0]);
+            .groupBy(p => p[0]); // group by folder
 
         groups.forEach(g => {
             if (g.key != pg.folder) {
                 dv.header(3, g.key);
             }
+
+            // Sort folder notes first
             const sortKey = g.key.substring(g.key.lastIndexOf('/') + 1);
             dv.list(g.rows
                 .sort(r => r, 'asc', (r1, r2) => {
@@ -618,18 +779,22 @@ class Campaign {
         })
     }
 
+    // Resolve table roll from template
     faire = async (type) => {
         return this.tableRoll(`[](/heist/waterdeep/places/sea-maidens-faire.md#^${type})`);
     }
 
+    // Resolve table roll from template
     mood = async () => {
         return this.tableRoll("[](/compendium/tables/mood-tables.md#^mood-table)");
     }
 
+    // Resolve table roll from template
     secrets = async (type) => {
         return this.tableRoll(`[](/heist/secrets.md#^${type})`);
     }
 
+    // Resolve table roll from template
     tavern = async (type) => {
         let result = await this.tableRoll(`[](/heist/encounters/trollskull-manor-tables.md#^${type})`);
         if ( type == 'visiting-patrons' ) {
@@ -646,8 +811,9 @@ class Campaign {
         return result;
     }
 
+    // Resolve table roll from template
     weather = async (season) => {
-        return this.tableRoll(`[](/heist/encounters/waterdeep-weather.md#^${season})`);
+        return this.tableRoll(`[](/heist/waterdeep/waterdeep-weather.md#^${season})`);
     }
 
     tableRoll = async (lookup) => {
