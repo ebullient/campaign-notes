@@ -25,8 +25,27 @@ class Campaign {
      * @return {boolean} true to include file, false to exclude it
      */
     prevNextFilter = (folder, filename) => {
-        const foldername = folder.substr(folder.lastIndexOf('/') + 1);
+        const foldername = folder.substring(folder.lastIndexOf('/') + 1);
         return !filename.contains('Untitled') && !filename.contains(foldername);
+    }
+
+    /**
+     *
+     */
+    sessionFileNamePattern = (folder) =>  {
+        if ( folder.startsWith("witchlight") ) {
+            return /^session-(\d{3}).*$/g;
+        } else {
+            return /^.*(\d{4}-\d{2}-\d{2}).*$/g;
+        }
+    }
+
+    nextSessionDate = (folder, next) =>  {
+        if ( folder.startsWith("witchlight") ) {
+            return `session-${next + 1}`;
+        } else {
+            return this.nextWeek(next).format("YYYY-MM-DD");
+        }
     }
 
     /**
@@ -108,8 +127,8 @@ class Campaign {
     toFileName = (name) => {
         return name
             .replace(/([a-z])([A-Z])/g, '$1-$2') // separate on camelCase
-            .replace(/[\s_]+/g, '-')         // replace all spaces and low dash
-            .replace(/['"]+/g, '')           // remove quotes
+            .replace(/[:'"&]+/g, '')         // remove quotes, colons, ampersands
+            .replace(/[\s_]+/g, '-')         // replace spaces and low dash
             .toLowerCase();                  // convert to lower case
     }
 
@@ -198,25 +217,30 @@ class Campaign {
         const folder = tp.file.folder(true);
         console.log("Looking for files in %s", folder);
 
+        const pattern = this.sessionFileNamePattern(folder);
+        console.log(pattern);
+
         // List all files in the folder (sorted list)
         // Grab the last 4, iterate backwards until you find a
         // file that matches .*YYYY-MM-DD.* (e.g. skip Untitled and folder note)
         const fileList = await app.vault.adapter.list(folder);
         const files = fileList.files.slice(-4);
         let lastSession = files.pop();
-        while (!lastSession.match(/^.*\d{4}-\d{2}-\d{2}.*/)) {
+        console.log(lastSession);
+        while (!lastSession.match(pattern)) {
             lastSession = files.pop();
         }
 
-        // Lift the date out of the file name
-        const date = lastSession.replaceAll(/^.*(\d{4}-\d{2}-\d{2}).*$/g, "$1");
+        // Lift the date/session number out of the file name; find the next one
+        const prev = lastSession.replaceAll(pattern, "$1");
+        const nextName = this.nextSessionDate(folder, prev);
 
-        // Return the folder, the next date, the previous date, and
+        // Return the folder, the next name or date, the previous name or date, and
         // a tag for the folder (see folderToTag)
         return {
             folder: folder,
-            next: this.nextWeek(date).format("YYYY-MM-DD"),
-            lastSession: date,
+            next: nextName,
+            lastSession: prev,
             tag: this.folderToTag(folder)
         }
     }
@@ -228,18 +252,21 @@ class Campaign {
     prevFile = async (tp) => {
         const folder = tp.file.folder(true);
         const filename = tp.file.title;
+        console.log(filename);
 
         const fileList = await app.vault.adapter.list(folder);
         const files = fileList.files
             .filter(f => this.prevNextFilter(folder, f.replace(`${folder}/`, "")));
         files.sort();
+        console.log(files);
 
         // Starting from the end, walk backwards through
         // files in the folder to find "this" file
         // Return the name of the file preceeding it
-        const fullname = `${folder}/${filename}`;
+        const fullname = `${folder}/${filename}.md`;
         for (let i = files.length - 1; i > 0 ; i--) {
             if (files[i] == fullname) {
+                console.log("found this file: " + fullname);
                 return files[i - 1].replace(`${folder}/`, "");
             }
         }
@@ -314,8 +341,10 @@ class Campaign {
         while (!lastLog.match(/^.*\d{4}-\d{2}-\d{2}.*/)) {
             lastLog = files.pop();
         }
+        console.log("Found lastlog in %s", lastLog);
 
-        const date = this.splitDateString(lastLog.replaceAll(/.*([0-9-]+).*/g, "$1"));
+        const date = this.splitDateString(lastLog.replace(/[^0-9-]/g, ""));
+        console.log("Found date in %o", date);
         if (date.day == 30) {
             switch (date.month) {
                 // New Year
@@ -387,6 +416,8 @@ class Campaign {
      * @returns {object} date object containing year, month, day
      */
     splitDateString = (string) => {
+        console.log("Starting date is %o", string);
+
         const segments = string.split('-');
         console.log("harptosDate: %o -> %o", string, segments);
 
@@ -666,7 +697,10 @@ class Campaign {
                 var level = isNaN(k.file.name[0]) ? '' : k.file.name[0];
 
                 if ( k.tags) {
-                    k.tags.forEach((tag) => {
+                    k.tags
+                        .filter(t => t != null && t.length > 0)
+                        .forEach((tag) => {
+                        console.log(tag);
                         if (tag.startsWith('place/')) {
                             where = tag.substring(6);
                         } else if (where == 'region' && tag.startsWith('region/')) {

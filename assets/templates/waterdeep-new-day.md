@@ -4,15 +4,13 @@ const { Campaign } = window.customJS;
 const initial = await Campaign.nextHarptosDay(tp);
 const filename = await tp.system.prompt("Enter date", initial.date);
 const result = Campaign.harptosDay(filename, initial.date);
-console.log(initial, result);
+console.log(initial, filename, result);
 await tp.file.rename(result.filename);
-tR += 'tags:' %>
+const tags = 'tags:';
+-%>
+<% tags %>
 - timeline
 - <% initial.tag %>/events/npc
-fc-date:
-  year: <% result.date.year %>
-  month: <% result.monthName %>
-  day: <% result.date.day %>
 ---
 # <% result.heading %>
 

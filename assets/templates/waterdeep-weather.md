@@ -1,7 +1,9 @@
 <%* 
 const { Campaign } = window.customJS;
-const season = tp.system.suggester(["spring", "summer", "autumn", "winter"], ["spring", "summer", "autumn", "winter"]) 
+const season = await tp.system.suggester(["spring", "summer", "autumn", "winter"], ["spring", "summer", "autumn", "winter"]);
+const weather = await Campaign.weather(season);
+console.log(season, weather);
 -%>
-
-> [!weather] Weather on xxxx xx, 1499  
-> <%* tR += await Campaign.weather(season) %>
+> [!weather] Weather on ...
+> <% weather %>
+^weather

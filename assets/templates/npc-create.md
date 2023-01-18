@@ -1,26 +1,35 @@
 ---
 <%* const { Campaign } = window.customJS;
 const title = await tp.system.prompt("Enter Name");
-const lower = Campaign.lowerKebab(title);
+const lower = Campaign.toFileName(title);
 await tp.file.rename(lower);
 
-const groupTag = await Campaign.chooseTagOrEmpty(tp, 'group', '');
-const placeTag = await Campaign.chooseTagOrEmpty(tp, 'place/', 'place');
+const groupTag = await Campaign.chooseTagOrEmpty(tp, 'group');
+const placeTag = await Campaign.chooseTagOrEmpty(tp, 'place/');
+const regionTag = await Campaign.chooseTagOrEmpty(tp, 'region/');
 
-let tags = '\ntags:\n- rowen/iff/unknown\n- rowen/npc/alive';
-if ( placeTag || groupTag ) {
-  if ( placeTag ) {
-    tags += `\n- ${placeTag}`;
-  }
-  if ( groupTag ) {
-    tags += `\n- ${groupTag}`;
-  }
+const campaign = tp.file.folder.contains("witchlight")
+    ? 'witchlight'
+    : 'heist';
+
+const tags = 'tags: ';
+let moretags = '';
+if ( placeTag ) {
+    moretags += `\n- ${placeTag}`;
+}
+if ( groupTag ) {
+    moretags += `\n- ${groupTag}`;
+}
+if ( regionTag ) {
+    moretags += `\n- ${regionTag}`;
 }
 console.log("%o", tags);
 const aliases = `aliases: ["${title}"]`;
 -%>
 <% aliases %>
 <% tags %>
+- <% campaign %>/iff/unknown
+- <% campaign %>/npc/alive<% moretags %>
 ---
 # <% title %>
 <span class="subhead">{{primary location}}</span>

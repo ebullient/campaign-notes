@@ -2,16 +2,15 @@
 <%* 
 const { Campaign } = window.customJS;
 const result = await Campaign.nextSession(tp);
-result.next = await tp.system.prompt("Enter date", result.next);
-console.log("%o", result);
-const title = await tp.system.prompt("Enter name for session");
-const lower = Campaign.lowerKebab(title);
+result.next = await tp.system.prompt("Enter file name", result.next);
+const title = await tp.system.prompt("Enter title for session");
+const filename = Campaign.toFileName(title);
 const span = 'span>'
-console.log(`${result.next}-${lower}`);
-await tp.file.rename(`${result.next}-${lower}`);
+await tp.file.rename(`${result.next}-${filename}`);
 tR += 'tags:' %>
 - timeline
 - <% result.tag %>/events/pc
+fc-calendar: Rowen-Heist
 ---
 # Session on <% result.next %>: <% title %>
 
@@ -23,20 +22,19 @@ tR += 'tags:' %>
 ## Housekeeping
 
 
-## Recap of Last Session
+## Recap
 
 <%*  tR += `![](${result.lastSession}#Summary)`; %>
 
-## Create a strong start
-%%
+## Onward... 
+
 - **Objective** single sentence: what is this session about?
 - **Twist** some fact that adds depth/complexity to the objective.
 - **Opposition** (who/what, motivation)
-%%
-
-### NPCs
 
 ### The Party
+
+### NPCs
 
 ## Potential Scenes
 - [ ] .

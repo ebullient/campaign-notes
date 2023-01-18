@@ -1,13 +1,13 @@
 ---
 <%* const { Campaign } = window.customJS;
 const title = await tp.system.prompt("Enter Name");
-const lower = Campaign.lowerKebab(title);
+const lower = Campaign.toFileName(title);
 console.log("%o, %o", title, lower);
 await tp.file.rename(lower);
 
-let regionTag = await Campaign.chooseTagOrEmpty(tp, 'region/', '');
-let placeTag = await Campaign.chooseTagOrEmpty(tp, 'place/', '');
-let groupTag = await Campaign.chooseTagOrEmpty(tp, 'group', '');
+let regionTag = await Campaign.chooseTagOrEmpty(tp, 'region/');
+let placeTag = await Campaign.chooseTagOrEmpty(tp, 'place/');
+let groupTag = await Campaign.chooseTagOrEmpty(tp, 'group');
 let tags = '';
 if ( placeTag || groupTag || regionTag ) {
   tags = '\ntags:';

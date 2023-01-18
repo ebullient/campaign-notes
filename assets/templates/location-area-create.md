@@ -1,21 +1,27 @@
 ---
 <%* const { Campaign } = window.customJS;
 const title = await tp.system.prompt("Enter Name");
-const lower = Campaign.lowerKebab(title);
+const lower = Campaign.toFileName(title);
 const folder = await Campaign.chooseFolder(tp, tp.file.folder(true));
-console.log("%o, %o, %o", title, lower, folder);
+console.log(title, lower, folder);
 
 await tp.file.move(`${folder}/${lower}`);
 
 const typeTag = await Campaign.chooseTag(tp, 'type/area', 'type/area');
-const groupTag = await Campaign.chooseTagOrEmpty(tp, 'group/', '');
-const regionTag = await Campaign.chooseTag(tp, 'region/', 'region/sword-coast-north');
-const placeTag = `${regionTag}/${lower}`
+const groupTag = await Campaign.chooseTagOrEmpty(tp, 'group/');
+const regionTag = await Campaign.chooseTag(tp, 'region/', 'region');
 
-let tags = `tags:\n- ${typeTag}\n- ${placeTag}`;
+const placeTag = `${regionTag}/${lower}`
+console.log(typeTag, groupTag, regionTag, placeTag);
+
+let tags = 'tags:';
+tags += `\n- ${typeTag}`;
+tags += `\n- ${placeTag}`;
 if ( groupTag ) {
     tags += `\n- ${groupTag}`;
 }
+tags += `\n- ${regionTag}`;
+
 const dataview = 'dataview';
 const aliases = `aliases: ["${title}"]`;
 -%>
@@ -24,6 +30,8 @@ const aliases = `aliases: ["${title}"]`;
 ---
 # <% title %>
 <span class="subhead">{{townSize}}, {{context}}</span>
+
+TL;DR description
 
 - **Population**
 - **Government**
