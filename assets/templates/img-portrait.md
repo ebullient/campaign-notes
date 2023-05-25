@@ -1,1 +1,1 @@
-![Name](/assets/attachments/name.jpeg#portrait)
+![Name](assets/attachments/name.jpeg#portrait)

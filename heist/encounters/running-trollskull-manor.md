@@ -12,25 +12,29 @@ Four stories tall and boasting balconies, a turret, and five chimneys, the aband
 Running a tavern is an ongoing challenge with recurring obligations they must meet while the tavern is open for business.
 
 ## Main NPCs
-- [Kettlewhistle Sisters](../waterdeep/npcs/kettlewhistle-sisters.md)
-    - [Euphemia](../waterdeep/npcs/kettlewhistle-sisters.md#^euphemia)
-    - [Lidda](../waterdeep/npcs/kettlewhistle-sisters.md#^lidda)
-    - [Nora](../waterdeep/npcs/kettlewhistle-sisters.md#^nora)
-    - [Trym](../waterdeep/npcs/kettlewhistle-sisters.md#^trym)
+- [Kettlewhistle Sisters](heist/waterdeep/npcs/kettlewhistle-sisters.md)
+    - [Euphemia](heist/waterdeep/npcs/kettlewhistle-sisters.md#^euphemia)
+    - [Lidda](heist/waterdeep/npcs/kettlewhistle-sisters.md#^lidda)
+    - [Nora](heist/waterdeep/npcs/kettlewhistle-sisters.md#^nora)
+    - [Trym](heist/waterdeep/npcs/kettlewhistle-sisters.md#^trym)
 - [Lif the Poltergeist](../waterdeep/places/trollskull-manor.md#Lif%20the%20Poltergeist)
     - The “Lif” is a custom drink special with some form of liquor (which varies each night) on the bottom and ale on top. It’s not entirely clear how the ghost is achieving this perfect separation.
+- The help
+    - [Lillian Haekin](heist/waterdeep/npcs/lillian-haekin.md)
+    - [Patric Nivka](heist/waterdeep/npcs/patric-nivka.md)
+    - [Ryba Goodbarrel](heist/waterdeep/npcs/brynn-hilltopple.md)
 
 ## Guilds
 
 The streets around the establishment are kept up by the Dungsweepers' Guild and the Loyal Order of Street Laborers. Clean bedsheets are provided by the Launderers' Guild. Meat must come from the Guild of Butchers; ale and wine from the Vintners', Distillers', and Brewers' Guild; and bread and pastries from the Bakers' Guild. The list goes on.
 
-- *Fellowship of Innkeepers* -- Inns and taverns are few and far between in the North Ward, so **[Broxley Fairkettle](../waterdeep/npcs/broxley-fairkettle.md)** makes frequent visits to see how it's doing and to offer his well-wishes.
+- *Fellowship of Innkeepers* -- Inns and taverns are few and far between in the North Ward, so **[Broxley Fairkettle](heist/waterdeep/npcs/broxley-fairkettle.md)** makes frequent visits to see how it's doing and to offer his well-wishes.
 
-- *Vintners', Distillers', and Brewers' Guild* -- **[Hammond Kraddoc](../waterdeep/npcs/hammond-kraddoc.md)** likes to stop by in the middle of the month to inform the characters of new spirits that the guild has to offer, and to give them a list of which ones to push hard.
+- *Vintners', Distillers', and Brewers' Guild* -- **[Hammond Kraddoc](heist/waterdeep/npcs/hammond-kraddoc.md)** likes to stop by in the middle of the month to inform the characters of new spirits that the guild has to offer, and to give them a list of which ones to push hard.
   
-- *Guild of Butchers* -- **[Justyn Rassk](../waterdeep/npcs/justyn-rassk.md)** darkens the characters' doorstep once a month to deliver a cartload of chopped meat for the tavern's larder. Although delivery fees are covered by the guild's monthly dues, Justyn always demands some extra coin for his service. If the characters don't give him a gratuity of at least 3 gp, he says, "Maybe next time the meat will be someone you know." He lets the threat hang in the air, then departs.
+- *Guild of Butchers* -- **[Justyn Rassk](heist/waterdeep/npcs/justyn-rassk.md)** darkens the characters' doorstep once a month to deliver a cartload of chopped meat for the tavern's larder. Although delivery fees are covered by the guild's monthly dues, Justyn always demands some extra coin for his service. If the characters don't give him a gratuity of at least 3 gp, he says, "Maybe next time the meat will be someone you know." He lets the threat hang in the air, then departs.
 
-- *Watchful Order of Magists and Protectors* -- **[Ulkoria Stonemarrow](../waterdeep/npcs/ulkoria-stonemarrow.md)** stops by the tavern for a drink and to check out the place while her shield guardian waits outside.
+- *Watchful Order of Magists and Protectors* -- **[Ulkoria Stonemarrow](heist/waterdeep/npcs/ulkoria-stonemarrow.md)** stops by the tavern for a drink and to check out the place while her shield guardian waits outside.
 
 ## Calculating Income and Expenses
 

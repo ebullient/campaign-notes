@@ -45,71 +45,72 @@ sources:
 
 | dice: 1d20 | PATRON - RENAER AND HIS FRIENDS |
 | ---------- | ------- |
-| 1-6    | [Renaer Neverember %mood%](../waterdeep/npcs/renaer-neverember.md) + `dice: [](trollskull-manor-tables#^renaer-friends)` |
-| 7-10   | [Renaer Neverember %mood%](../waterdeep/npcs/renaer-neverember.md) 🔹 `dice: [](/heist/secrets.md#^renaer)` |
+| 1-6    | [Renaer Neverember %mood%](heist/waterdeep/npcs/renaer-neverember.md) + `dice: [](trollskull-manor-tables#^renaer-friends)` |
+| 7-10   | [Renaer Neverember %mood%](heist/waterdeep/npcs/renaer-neverember.md) 🔹 `dice: [](/heist/secrets.md#^renaer)` |
 | 11-20  | `dice: [](trollskull-manor-tables#^renaer-friends)` |
 ^renaer-and-friends
 
 | dice: 1d20 | PATRON - RENAER'S FRIENDS |
 | ---------- | ------- |
-| 1-2   | [Laraelra "Elra" Harsard %mood%](../waterdeep/npcs/laraelra-elra-harsard.md) 🔹 `dice: [](/heist/secrets.md#^elra)` |
-| 3-7   | [Floon Blagmaar %mood%](../waterdeep/npcs/floon-blagmaar.md) 🔹 `dice: [](/heist/secrets.md#^floon)` |
-| 8-12  | [Osco Salibuck %mood%](../waterdeep/npcs/salibuck-family.md) 🔹 `dice: [](/heist/secrets.md#^osco)` |
-| 13-15 | [Lord Torlyn Wands %mood%](../waterdeep/npcs/lord-torlyn-wands.md) 🔹 `dice: [](/heist/secrets.md#^wands)` |
-| 16    | [Eiruk Weskur %mood%](../waterdeep/npcs/eiruk-weskur.md) 🔹 `dice: [](/heist/secrets.md#^eiruk)` |
-| 17    | [Harug Shieldsunder %mood%](../waterdeep/npcs/harug-shieldsunder.md) 🔹 `dice: [](/heist/secrets.md#^harug)` |
-| 18    | [Parlek Lateriff %mood%](../waterdeep/npcs/parlek-lateriff.md) 🔹 `dice: [](/heist/secrets.md#^parlek)` |
-| 19    | [Meloon Wardragon %mood%](../waterdeep/npcs/meloon-wardragon.md) 🔹 `dice: [](/heist/secrets.md#^meloon)` |
+| 1-2   | [Laraelra "Elra" Harsard %mood%](heist/waterdeep/npcs/laraelra-elra-harsard.md) 🔹 `dice: [](/heist/secrets.md#^elra)` |
+| 3-7   | [Floon Blagmaar %mood%](heist/waterdeep/npcs/floon-blagmaar.md) 🔹 `dice: [](/heist/secrets.md#^floon)` |
+| 8-12  | [Osco Salibuck %mood%](heist/waterdeep/npcs/salibuck-family.md) 🔹 `dice: [](/heist/secrets.md#^osco)` |
+| 13-15 | [Lord Torlyn Wands %mood%](heist/waterdeep/npcs/lord-torlyn-wands.md) 🔹 `dice: [](/heist/secrets.md#^wands)` |
+| 16    | [Eiruk Weskur %mood%](heist/waterdeep/npcs/eiruk-weskur.md) 🔹 `dice: [](/heist/secrets.md#^eiruk)` |
+| 17    | [Harug Shieldsunder %mood%](heist/waterdeep/npcs/harug-shieldsunder.md) 🔹 `dice: [](/heist/secrets.md#^harug)` |
+| 18    | [Parlek Lateriff %mood%](heist/waterdeep/npcs/parlek-lateriff.md) 🔹 `dice: [](/heist/secrets.md#^parlek)` |
+| 19    | [Meloon Wardragon %mood%](heist/waterdeep/npcs/meloon-wardragon.md) 🔹 `dice: [](/heist/secrets.md#^meloon)` |
 | 20    | [Faction Spy Watching Renaer] |
 ^renaer-friends
 
 | Guild Representative |
 | ---------- |
-| [Hammond Kraddoc %mood%](../waterdeep/npcs/hammond-kraddoc.md) (Vintners' Guild) 🔹 `dice: [](/heist/secrets.md#^hammond)` |
-| [Broxley Fairkettle %mood%](../waterdeep/npcs/broxley-fairkettle.md) (Innkeepers) 🔹 `dice: [](/heist/secrets.md#^broxley)` |
-| [Ulkoria Stonemarrow %mood%](../waterdeep/npcs/ulkoria-stonemarrow.md) (Watchful Order) 🔹 `dice: [](/heist/secrets.md#^ulkoria)` |
-| [Justyn Rassk %mood%](../waterdeep/npcs/justyn-rassk.md) (Butchers) 🔹 `dice: [](/heist/secrets.md#^rassk)`|
+| [Hammond Kraddoc %mood%](heist/waterdeep/npcs/hammond-kraddoc.md) (Vintners' Guild) 🔹 `dice: [](/heist/secrets.md#^hammond)` |
+| [Broxley Fairkettle %mood%](heist/waterdeep/npcs/broxley-fairkettle.md) (Innkeepers) 🔹 `dice: [](/heist/secrets.md#^broxley)` |
+| [Ulkoria Stonemarrow %mood%](heist/waterdeep/npcs/ulkoria-stonemarrow.md) (Watchful Order) 🔹 `dice: [](/heist/secrets.md#^ulkoria)` |
+| [Justyn Rassk %mood%](heist/waterdeep/npcs/justyn-rassk.md) (Butchers) 🔹 `dice: [](/heist/secrets.md#^rassk)`|
 ^guild-contact
 
 | Faction Contact |
 | ---------- |
-| [Jarlaxle in disguise %mood%](../waterdeep/npcs/jarlaxle-baenre.md) (Bregan D'aerthe) 🔹 `dice: [](/heist/secrets.md#^jarlaxle)` |
-| [Mattrim "Threestrings" Mereg %mood%](../waterdeep/npcs/threestrings-mattrim-mereg.md) (Harpers) 🔹 `dice: [](/heist/secrets.md#^threestrings)` |
-| [Remallia Haventree %mood%](../waterdeep/npcs/remallia-haventree.md) (Harpers) 🔹 `dice: [](/heist/secrets.md#^remi)` |
-| [Mirt 'The Moneylender' %mood%](../waterdeep/npcs/mirt-the-moneylender.md) (Harpers) 🔹 `dice: [](/heist/secrets.md#^mirt)` |
-| [Jalester Silvermane %mood%](../waterdeep/npcs/jalester-silvermane.md) (Lords' Alliance) 🔹 `dice: [](/heist/secrets.md#^jalester)` |
-| [Vajra Safahr (The Blackstaff) %mood%](../waterdeep/npcs/vajra-safahr.md) (Force Grey / Gray Hands) 🔹 `dice: [](/heist/secrets.md#^vajra)` |
-| [Yagra Stonefist](../waterdeep/npcs/yagra-stonefist.md) (Zhenterim) 🔹 `dice: [](/heist/secrets.md#^yagra)` |
-| [Manshoon Simulacrum in disguise %mood%](../../compendium/bestiary/humanoid/manshoon-simulacrum.md) (Zhenterim) 🔹 `dice: [](/heist/secrets.md#^manshoon)` |
+| [Jarlaxle in disguise %mood%](heist/waterdeep/npcs/jarlaxle-baenre.md) (Bregan D'aerthe) 🔹 `dice: [](/heist/secrets.md#^jarlaxle)` |
+| [Mattrim "Threestrings" Mereg %mood%](heist/waterdeep/npcs/threestrings-mattrim-mereg.md) (Harpers) 🔹 `dice: [](/heist/secrets.md#^threestrings)` |
+| [Remallia Haventree %mood%](heist/waterdeep/npcs/remallia-haventree.md) (Harpers) 🔹 `dice: [](/heist/secrets.md#^remi)` |
+| [Mirt 'The Moneylender' %mood%](heist/waterdeep/npcs/mirt-the-moneylender.md) (Harpers) 🔹 `dice: [](/heist/secrets.md#^mirt)` |
+| [Jalester Silvermane %mood%](heist/waterdeep/npcs/jalester-silvermane.md) (Lords' Alliance) 🔹 `dice: [](/heist/secrets.md#^jalester)` |
+| [Vajra Safahr (The Blackstaff) %mood%](heist/waterdeep/npcs/vajra-safahr.md) (Force Grey / Gray Hands) 🔹 `dice: [](/heist/secrets.md#^vajra)` |
+| [Yagra Stonefist](heist/waterdeep/npcs/yagra-stonefist.md) (Zhenterim) 🔹 `dice: [](/heist/secrets.md#^yagra)` |
+| [Manshoon Simulacrum in disguise %mood%](compendium/bestiary/npc/manshoon-simulacrum-wdh.md) (Zhenterim) 🔹 `dice: [](/heist/secrets.md#^manshoon)` |
 ^faction-contact
 
 | Trollskull Alley |
 | -----------------|
-| [Tally Fellbranch %mood%](../waterdeep/npcs/talisolvanar-tally-fellbranch.md) (Bent Nail) 🔹 `dice: [](/heist/secrets.md#^tally)` |
-| [Avi %mood%](../waterdeep/npcs/avi.md) (Steam and Steel) 🔹 `dice: [](/heist/secrets.md#^genasi)` |
-| [Embric %mood%](../waterdeep/npcs/embric.md) (Steam and Steel) 🔹 `dice: [](/heist/secrets.md#^genasi)`  |
-| [Embric %mood%](../waterdeep/npcs/embric.md) & [Avi %mood%](../waterdeep/npcs/avi.md) (Steam and Steel) 🔹 `dice: [](/heist/secrets.md#^genasi)`  |
-| [Elyellas Greycastle %mood%](../waterdeep/npcs/elyellas-graycastle.md)  (Path of Crumbs) 🔹 `dice: [](/heist/secrets.md#^elyellas)` |
-| [Fala Lefaliir %mood%](../waterdeep/npcs/fala-lefaliir.md) (Corellon's Crown) 🔹 `dice: [](/heist/secrets.md#^fala)` |
-| [Fatima al-Umari %mood%](../waterdeep/npcs/fatima-al-umari.md) (Zephyr Post) 🔹 `dice: [](/heist/secrets.md#^fatima)` |
-| [Vincent Trench %mood%](../waterdeep/npcs/vincent-trench.md) (Tiger's Eye) 🔹 `dice: [](/heist/secrets.md#^vincent)` |
-| [Rishaal the Page-Turner %mood%](../waterdeep/npcs/rishaal-the-page-turner.md) (Book Wyrm) 🔹 `dice: [](/heist/secrets.md#^rishaal)` |
+| [Tally Fellbranch %mood%](heist/waterdeep/npcs/talisolvanar-tally-fellbranch.md) (Bent Nail) 🔹 `dice: [](/heist/secrets.md#^tally)` |
+| [Avi %mood%](heist/waterdeep/npcs/avi.md) (Steam and Steel) 🔹 `dice: [](/heist/secrets.md#^genasi)` |
+| [Embric %mood%](heist/waterdeep/npcs/embric.md) (Steam and Steel) 🔹 `dice: [](/heist/secrets.md#^genasi)`  |
+| [Embric %mood%](heist/waterdeep/npcs/embric.md) & [Avi %mood%](heist/waterdeep/npcs/avi.md) (Steam and Steel) 🔹 `dice: [](/heist/secrets.md#^genasi)`  |
+| [Elyellas Greycastle %mood%](heist/waterdeep/npcs/elyellas-graycastle.md)  (Path of Crumbs) 🔹 `dice: [](/heist/secrets.md#^elyellas)` |
+| [Fala Lefaliir %mood%](heist/waterdeep/npcs/fala-lefaliir.md) (Corellon's Crown) 🔹 `dice: [](/heist/secrets.md#^fala)` |
+| [Fatima al-Umari %mood%](heist/waterdeep/npcs/fatima-al-umari.md) (Zephyr Post) 🔹 `dice: [](/heist/secrets.md#^fatima)` |
+| [Vincent Trench %mood%](heist/waterdeep/npcs/vincent-trench.md) (Tiger's Eye) 🔹 `dice: [](/heist/secrets.md#^vincent)` |
+| [Rishaal the Page-Turner %mood%](heist/waterdeep/npcs/rishaal-the-page-turner.md) (Book Wyrm) 🔹 `dice: [](/heist/secrets.md#^rishaal)` |
 ^trollskull-alley
 
 |  Campaign NPC |
 | ---------- |
-| [Ida Willowbrooke %mood%](../waterdeep/npcs/ida-willowbrooke.md) (Nymph's Knickers) and/or  [Paul Cribari %mood%](../waterdeep/npcs/paul-cribari.md) 🔹 `dice: [](/heist/secrets.md#^ida)` |
-| [Cora %mood% and/or Perrin %mood% Peabody](../waterdeep/npcs/peabody-family.md) 🔹 `dice: [](/heist/secrets.md#^peabody)` |
-| [Madrack Salibuck %mood%](../waterdeep/npcs/salibuck-family.md) 🔹 `dice: [](/heist/secrets.md#^salibuck)` |
-| [Bramal %mood% & Ellial %mood% Salibuck](../waterdeep/npcs/salibuck-family.md) 🔹 `dice: [](/heist/secrets.md#^salibuck)` |
-| [Sambral %mood% & Kiley %mood% Salibuck](../waterdeep/npcs/salibuck-family.md) 🔹 `dice: [](/heist/secrets.md#^salibuck)` |
-| [Ellial %mood% & Kiley %mood% Salibuck](../waterdeep/npcs/salibuck-family.md) 🔹 `dice: [](/heist/secrets.md#^salibuck)` |
-| [Bramal %mood% & Sambral %mood% Salibuck](../waterdeep/npcs/salibuck-family.md) 🔹 `dice: [](/heist/secrets.md#^salibuck)` |
-| [Faramond Salibuck %mood%](../waterdeep/npcs/salibuck-family.md) 🔹 `dice: [](/heist/secrets.md#^salibuck)` |
-| [Varkel Salibuck %mood%](../waterdeep/npcs/salibuck-family.md) 🔹 `dice: [](/heist/secrets.md#^salibuck)` |
-| [Merric %mood% and/or Delalar %mood% Kettlewhistle](../waterdeep/npcs/salibuck-family.md) 🔹 `dice: [](/heist/secrets.md#^kettlewhistle)` |
-| [Volothamp Geddarm %mood%](../waterdeep/npcs/volothamp-geddarm.md) 🔹 `dice: [](/heist/secrets.md#^volo)` |
-| [Yagra Stonefist %mood%](../waterdeep/npcs/yagra-stonefist.md) 🔹 `dice: [](/heist/secrets.md#^yagra)` |
-| [Eldon Highhill %mood%](../waterdeep/npcs/eldon-highhill.md) (Sew and Tell) 🔹 `dice: [](/heist/secrets.md#^highhill)` |
+| [Ida Willowbrooke %mood%](heist/waterdeep/npcs/ida-willowbrooke.md) (Nymph's Knickers) and/or  [Paul Cribari %mood%](heist/waterdeep/npcs/paul-cribari.md) 🔹 `dice: [](/heist/secrets.md#^ida)` |
+| [Cora %mood%](heist/waterdeep/npcs/peabody-family.md#^cora) and/or [Perrin %mood%](heist/waterdeep/npcs/peabody-family.md#^perrin) Peabody 🔹 `dice: [](/heist/secrets.md#^peabody)` |
+| [Madrack Salibuck %mood%](heist/waterdeep/npcs/salibuck-family.md#^madrak) 🔹 `dice: [](/heist/secrets.md#^salibuck)` |
+| [Bramal %mood%](heist/waterdeep/npcs/salibuck-family.md#^bramal) & [Ellial %mood%](heist/waterdeep/npcs/salibuck-family.md#^ellial) Salibuck 🔹 `dice: [](/heist/secrets.md#^salibuck)` |
+| [Sambral %mood%](heist/waterdeep/npcs/salibuck-family.md#^sambral) & [Kiley %mood%](heist/waterdeep/npcs/salibuck-family.md#^kiley) Salibuck🔹 `dice: [](/heist/secrets.md#^salibuck)` |
+| [Ellial %mood%](heist/waterdeep/npcs/salibuck-family.md#^ellial) & [Kiley %mood%](heist/waterdeep/npcs/salibuck-family.md#^kiley) Salibuck 🔹 `dice: [](/heist/secrets.md#^salibuck)` |
+| [Bramal %mood%](heist/waterdeep/npcs/salibuck-family.md#^bramal) & [Sambral %mood%](heist/waterdeep/npcs/salibuck-family.md#^sambral)  Salibuck🔹 `dice: [](/heist/secrets.md#^salibuck)` |
+| [Faramond Salibuck %mood%](heist/waterdeep/npcs/salibuck-family.md#^faramond) 🔹 `dice: [](/heist/secrets.md#^salibuck)` |
+| [Varkel Salibuck %mood%](heist/waterdeep/npcs/salibuck-family.md#^varkel) 🔹 `dice: [](/heist/secrets.md#^salibuck)` |
+| [Merric %mood%](heist/waterdeep/npcs/salibuck-family.md#^merric)  and/or  [Delalar %mood% ](heist/waterdeep/npcs/salibuck-family.md#^delalar) Kettlewhistle 🔹 `dice: [](/heist/secrets.md#^kettlewhistle)` |
+| [Volothamp Geddarm %mood%](heist/waterdeep/npcs/volothamp-geddarm.md) 🔹 `dice: [](/heist/secrets.md#^volo)` |
+| [Yagra Stonefist %mood%](heist/waterdeep/npcs/yagra-stonefist.md) 🔹 `dice: [](/heist/secrets.md#^yagra)` |
+| [Eldon Highhill %mood%](heist/waterdeep/npcs/eldon-highhill.md) (Sew and Tell) 🔹 `dice: [](/heist/secrets.md#^highhill)` |
+| [mosp](heist/waterdeep/npcs/mosp.md)  🔹 `dice: [](/heist/secrets.md#^mosp)` |
 ^campaign-npc
 

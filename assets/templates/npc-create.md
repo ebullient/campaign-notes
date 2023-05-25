@@ -2,13 +2,16 @@
 <%* const { Campaign } = window.customJS;
 const title = await tp.system.prompt("Enter Name");
 const lower = Campaign.toFileName(title);
-await tp.file.rename(lower);
+const folder = await Campaign.chooseFolder(tp, tp.file.folder(true));
+console.log(title, lower, folder);
+
+await tp.file.move(`${folder}/${lower}`);
 
 const groupTag = await Campaign.chooseTagOrEmpty(tp, 'group');
 const placeTag = await Campaign.chooseTagOrEmpty(tp, 'place/');
 const regionTag = await Campaign.chooseTagOrEmpty(tp, 'region/');
 
-const campaign = tp.file.folder.contains("witchlight")
+const campaign = folder.contains("witchlight")
     ? 'witchlight'
     : 'heist';
 
@@ -35,7 +38,6 @@ const aliases = `aliases: ["${title}"]`;
 <span class="subhead">{{primary location}}</span>
 
 TL;DR description / personality / motivation
-
 
 
 ```ad-npc

@@ -1,8 +1,8 @@
 ---
 aliases: ["Elyellas Greycastle"]
 tags:
-- rowen/iff/unknown
-- rowen/npc/alive
+- heist/iff/unknown
+- heist/npc/alive
 - place/waterdeep/trollskull-alley/path-of-crumbs
 - region/sword-coast-north/waterdeep/city-ward/north
 - group/waterdeep/guild/bakers-guild
@@ -30,7 +30,7 @@ He is friendly, and greets patrons with a warm smile and offer them a free loaf 
 He is a wishful coward. He is able to support himself, and wants to rescue someone someday.
 
 - **Abilities**:
-    - *high*: Strength; powerful, brawny, strong as an ox
+    - *high*: Dexterity; nimble and lithe
     - *low*: Intelligence; dim-witted, slow
 
 ## Relationships

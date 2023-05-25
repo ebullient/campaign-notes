@@ -7,7 +7,7 @@ aliases:
 - Varkel Salibuck
 - Faramond Salibuck
 tags:
-- rowen/npc/alive
+- heist/npc/alive
 - place/waterdeep/brandarthall
 - region/sword-coast-north/waterdeep/city-ward/sea
 - region/sword-coast-north/waterdeep/city-ward/southern
@@ -21,21 +21,21 @@ The Salibucks are a family of halflings that are affiliated closely with the Bra
 
 ## Details
 
-- **Madrak Salibuck**: White-haired halfling butler. Knew Renaer’s mother; promised her to keep an eye on Renaer.  All servants (family or not) report to Madrak; 112 years old
-    - Madrak’s son **Bramal Salibuck** and his children oversee the Brandath estates. Bramal has long dark hair, which he ties at the nape of his neck. 82 years old
-    - **Ellial Salibuck**, Bramal's wife, runs the kitchen. 75 years old
-        - **Sambral Salibuck** (Bramal's son) is trusted to collect rents and manage affairs; seems nearly immune to mind-affecting magics. 51 years old
-        - **Kiley Salibuck** (Sambral's wife) is impeccably well-dressed and groomed. She believes it is important to be wise and neat and clean. Her very long wavy light brown hair is styled in elaborate braids. 49 years old.
-            - **Faramond Salibuck** (Sambral and Kiley's son) is very popular, always able to entertain with a detailed and thoughtful story. He believes it is important to choose one's own goals and to be restrained. He believes you should be content with what you have. He is only 22 years old (an old soul).
-        - **Varkel Salibuck** (Bramal's son, sandy-haired, enthusiastic) -- Can remember every word spoken to him. Sent to listen for rumors at the palace on a fast pony after Vajra Safahr was rescued. 47 years old
-        - **Osco Salibuck** -- Ellial's son, Madrak's grandson. Wears a silver rings in his left nostril and earlobe. Troublemaker, Rogue, but also friend to [Vajra "Blackstaff" Safahr](vajra-safahr.md). Chosen by Blackstaff Tower, etc. 43 years old
-    - **Delalar** -- Madrak's daughter.  She has tan skin and brown eyes. Her curly brown and gray hair falls down past her shoulders. She is pretty short (even for a halfling). She is 65 years old (adult), 2 ft, 9 in (84 cm) tall, and weighs 37 lbs (17 kg). She is even-tempered. *According to Osco, she faints a lot.*
-    - **Merric Kettlewhistle** -- Delalar's husband. He is a rich, talkative caretaker, 73
-        - [Kettlewhistle Sisters](kettlewhistle-sisters.md) 4 girls, in their late 20s
+- **Madrak Salibuck**: White-haired halfling butler. Knew Renaer’s mother; promised her to keep an eye on Renaer.  All servants (family or not) report to Madrak; 112 years old ^madrak
+    - **Bramal Salibuck** (Madrak’s son) and his children oversee the Brandarth estates. Bramal has long dark hair, which he ties at the nape of his neck. 82 years old ^bramal
+    - **👩‍❤️‍👨 Ellial Salibuck** (Bramal's wife) runs the kitchen. 75 years old ^ellial
+        - **Sambral Salibuck** (Bramal's son) is trusted to collect rents and manage affairs; seems nearly immune to mind-affecting magics. 51 years old ^sambral
+        - **👩‍❤️‍👨 Kiley Salibuck** (Sambral's wife) is impeccably well-dressed and groomed. She believes it is important to be wise and neat and clean. Her very long wavy light brown hair is styled in elaborate braids. 49 years old. ^kiley
+            - **Faramond Salibuck** (Sambral and Kiley's son) is very popular, always able to entertain with a detailed and thoughtful story. He believes it is important to choose one's own goals and to be restrained. He believes you should be content with what you have. He is only 22 years old (an old soul). ^faramond
+        - **Osco Salibuck** (Bramal's son, Madrak's grandson) wears silver rings in his left nostril and earlobe. Troublemaker, Rogue, but also friend to [Vajra "Blackstaff" Safahr](vajra-safahr.md). Chosen by Blackstaff Tower, etc. 47 years old. ^osco
+        - **Varkel Salibuck** (Bramal's son, sandy-haired, enthusiastic) -- Can remember every word spoken to him. Sent to listen for rumors at the palace on a fast pony after Vajra Safahr was rescued. 43 years old. ^varkel
+    - **Delalar** (Madrak's daughter) has tan skin and brown eyes. Her curly brown and gray hair falls down past her shoulders. She is pretty short (even for a halfling). She is 74 years old (adult), 2 ft, 9 in (84 cm) tall, and weighs 37 lbs (17 kg). She is even-tempered. *According to Osco, she faints a lot.* ^delalar
+    - **👩‍❤️‍👨 Merric Kettlewhistle** (Delalar's husband) is a rich, talkative caretaker, 76 ^merric
+        - [Kettlewhistle Sisters](kettlewhistle-sisters.md) 4 girls, in their 30s.
 
 ## Relationships
 
-The are long-time friends of [Renaer Neverember](/compendium/bestiary/humanoid/renaer-neverember.md) and his mother's family.  When Renaer's mother died, Madrak Salibuck promised to care for Renaer.
+The are long-time friends of [Lord Renaer Neverember](renaer-neverember.md) and his mother's family.  When Renaer's mother died, Madrak Salibuck promised to care for Renaer.
 
 ## Secrets
 
@@ -96,8 +96,8 @@ graph TD
   PERSON15 --> p15p16
 
   p15p16 --> PERSON20
-  p15p16 --> PERSON21
   p15p16 --> PERSON22
+  p15p16 --> PERSON21
 
   PERSON25 --> p20p25([ ])
   PERSON20 --> p20p25

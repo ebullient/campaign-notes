@@ -169,6 +169,14 @@ Their guildhall is the *House of Light*, a constantly bright row house in the Tr
 
 Entrance into the guild required acceptance by the Master of the Flame and cost 5 gp. Guild dues were 3 sp per month.
 
+### Guild of Fine Carvers
+
+The House of the Fine Carvers is located along the High Road in the Castle Ward of Waterdeep.
+It is three-stories tall, and is constructed of wood with a slate roof. 
+It stands out from other nearby buildings due to exterior friezes that depicted both animals and the first Lords of Waterdeep, such as Ahghairon.
+
+The cellar of this guildhall contains a shaft leading down into one of the junction rooms of the sewers of Waterdeep.
+
 ### Guild of Stonecutters, Masons, Potters, and Tile-makers
 
 Housed in Builders' Hall, a lavishly crafted and tended stone building in the Southern Ward with a row of statues around the front.

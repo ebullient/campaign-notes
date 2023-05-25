@@ -41,23 +41,23 @@ Winters in Waterdeep often range from 0 to 45 degrees and snow is not uncommon. 
 
 Spring is a season of frequent rains, punctuated by more frequent fog. Thought by many to be the least pleasant season in the city, late spring rarely sees cold weather and is quite agreeable. With temperatures ranging from 30 to 85 degrees, it sees the most variation of any season.
 
-| dice: d20  |  Weather Effects    |
+| dice: d30  |  Weather Effects    |
 |------------|--------------------------------------|
 | 1 	|  Snow ([Cold](waterdeep-weather.md#Cold), [Heavy Snow](waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Windy](waterdeep-weather.md#Windy)) |
 | 2 	|  Snow ([Cold](waterdeep-weather.md#Cold), [Light Snow](waterdeep-weather.md#Light%20Rain%20or%20Snow)) |
 | 3 	|  Sleet Storm ([Heavy Precipitation](waterdeep-weather.md#Heavy%20Precipitation), [Ice](waterdeep-weather.md#Ice), [Windy](waterdeep-weather.md#Windy)) |
-| 4 	|  Overcast     |
-| 5-6 	|  Overcast, [Light Fog](waterdeep-weather.md#Light%20Fog)    |
-| 7-8 	|  Overcast, [Heavy Fog](waterdeep-weather.md#Heavy%20Fog)    |
-| 9-11 	|  Drizzle ([Light Rain](waterdeep-weather.md#Light%20Rain%20or%20Snow)) |
-| 12-13 |  Raining ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow)) |
-| 14 	|  Clear     |
-| 15 	|  Clear, [Windy](waterdeep-weather.md#Windy)    |
-| 16 	|  Partly Cloudy     |
-| 17 	|  Partly Cloudy, [Windy](waterdeep-weather.md#Windy)    |
-| 18 	|  Partly Cloudy, [Light Fog](waterdeep-weather.md#Light%20Fog)    |
-| 19 	|  Sea Gale ([Strong Wind](waterdeep-weather.md#Strong%20Wind)) |
-| 20 	|  Thunderstorm ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Lightning](waterdeep-weather.md#Lightning), [Strong Wind](waterdeep-weather.md#Strong%20Wind)) |
+| 10-11	|  Overcast     |
+| 12-13 |  Overcast, [Light Fog](waterdeep-weather.md#Light%20Fog)    |
+| 14-15 |  Overcast, [Heavy Fog](waterdeep-weather.md#Heavy%20Fog)    |
+| 16-17 |  Drizzle ([Light Rain](waterdeep-weather.md#Light%20Rain%20or%20Snow)) |
+| 18-19 |  Raining ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow)) |
+| 20 	|  Clear     |
+| 21-22 |  Clear, [Windy](waterdeep-weather.md#Windy)    |
+| 23-24	|  Partly Cloudy     |
+| 25-26 |  Partly Cloudy, [Windy](waterdeep-weather.md#Windy)    |
+| 27-28 |  Partly Cloudy, [Light Fog](waterdeep-weather.md#Light%20Fog)    |
+| 29 	|  Sea Gale ([Strong Wind](waterdeep-weather.md#Strong%20Wind)) |
+| 30 	|  Thunderstorm ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Lightning](waterdeep-weather.md#Lightning), [Strong Wind](waterdeep-weather.md#Strong%20Wind)) |
 ^spring
 
 ### Summer

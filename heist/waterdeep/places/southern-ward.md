@@ -9,7 +9,7 @@ tags:
 
 <span class="nav">[NPCs](#NPCs) [Guild Halls](#Guild%20Halls) [Locations](#Locations) [History](#History)</span>
 
-![Southern Ward](../../duet/miscellanea/volos-guide/volos-guide-3-wards.md#Southern%20Ward)
+![Southern Ward](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-3-wards.md#Southern%20Ward)
 
 ## NPCs
 - [Merric Kettlewhistle](../npcs/salibuck-family.md)

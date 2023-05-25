@@ -1,7 +1,7 @@
 ---
 tags:
 - timeline
-- rowen/events/pc
+- heist/events/pc
 - place/waterdeep/trollskull-alley/trollskull-manor
 - place/waterdeep/blackstaff-tower
 - place/waterdeep/the-singing-kettle
@@ -14,7 +14,7 @@ tags:
 ## Summary
 After the usual gathering for morning breakfast in the taproom, Rowen and Nora left the manor house to head to the Southern Ward.
 
-<span class='ob-timelines' data-class='rowen' data-date='1499-04-03-00' data-title="Coral meets other Genasi"></span>
+<span class='ob-timelines' data-category='rowen' data-date='1499-Tarsakh-03-00' data-name="Coral meets other Genasi"></span>
 
 Just after they left, Avi and Embric, the owners of Steam and Steel, arrived, bearing a mix of mirrored wall sconces and lanterns that Lidda had ordered from them. Lif helped hold one aloft, so they could see how far apart they should be spaced to provide sufficient light. 
 
@@ -24,7 +24,7 @@ Avi asked how well the Kettlewhistles and Coral were aquainted with Embric. Afte
 
 Coral asked Avi about their plans for Goldenight, and they threw together a loose plan: Avi and Embric would bring some of their smaller wares to the tavern, as that was easily visible / accessible from the main road for goldenight. 
 
-<span class='ob-timelines' data-class='rowen' data-date='1499-04-03-00' data-title="Rowen and Nora: Flight and Fight"></span>
+<span class='ob-timelines' data-category='rowen' data-date='1499-Tarsakh-03-00' data-name="Rowen and Nora: Flight and Fight"></span>
 
 As Coral and the Kettlewhistles talked with the neighbors and began work on the Taproom and the Manor house for the day, Nora and Rowen reached the Southern Ward. Nora took Rowen on a slight detour past the Saddlers' and Harness Makers' Guildhall to *The Singing Kettle*, her parents' Inn. Both Nora and Rowen were interviewed by the keen force that was Nora's mother (she was obviously a Salibuck, though she did not have the chin dimple). After thorough questioning and mutual assurance, Nora and Rowen made their escape and returned to the Guildhall, where Osswald Bohm helped Nora and Rowen with their flying gear. 
 
@@ -43,11 +43,11 @@ After speaking with Vajra, Rowen and Nora stopped at Rowen's old apartment and c
 
 ---
 
-## Recap of Last Session
+## Recap
 
 ![](2022-05-01-doppelgangers-and-disguises.md#Summary)
 
-## Create a strong start
+## Onward... 
 ![](../days/1499-04-03-tarsakh.md#^weather)
 
 > [!scene]  
@@ -56,32 +56,32 @@ After speaking with Vajra, Rowen and Nora stopped at Rowen's old apartment and c
 > Trym has another stew started in the kitchen, and has another assortment of breakfast breads, fruit, nuts, and honey spread out on the bar top.
 
 ### NPCs
-- [Hlam](../waterdeep/npcs/hlam.md)
-- [Avi](../waterdeep/npcs/avi.md)
-- [Embric](../waterdeep/npcs/embric.md)
-- [Talisolvanar 'Tally' Fellbranch](../waterdeep/npcs/talisolvanar-tally-fellbranch.md)
-- [Osswald Bohm](../waterdeep/npcs/osswald-bohm.md)
+- [Hlam](heist/waterdeep/npcs/hlam.md)
+- [Avi](heist/waterdeep/npcs/avi.md)
+- [Embric](heist/waterdeep/npcs/embric.md)
+- [Talisolvanar 'Tally' Fellbranch](heist/waterdeep/npcs/talisolvanar-tally-fellbranch.md)
+- [Osswald Bohm](heist/waterdeep/npcs/osswald-bohm.md)
 
 ### The Party
 - [Rowen](../characters/gm-rowen.md)
 - [Coral](../characters/gm-coral.md)
 - [Nora](../characters/gm-nora.md)
-- [Kettlewhistle Sisters](../waterdeep/npcs/kettlewhistle-sisters.md)
+- [Kettlewhistle Sisters](heist/waterdeep/npcs/kettlewhistle-sisters.md)
 
 
 ## Potential Scenes
 **Rowen and Nora**
-- [x] Rowen and Nora head to the Southern Ward to buy custom tack
-    - [x] [Saddlers' and Harness-Makers' Hall](../waterdeep/places/saddlers-and-harness-makers-hall.md)
-    - [x] [The Singing Kettle](../waterdeep/places/the-singing-kettle.md)
+- ✔️ Rowen and Nora head to the Southern Ward to buy custom tack
+    - ✔️ [Saddlers' and Harness-Makers' Hall](../waterdeep/places/saddlers-and-harness-makers-hall.md)
+    - ✔️ [The Singing Kettle](../waterdeep/places/the-singing-kettle.md)
 
-- [x] Slope of Mount Waterdeep
+- ✔️ Slope of Mount Waterdeep
 
-- [x] [Encounter: The Passive Fist](../encounters/archive/2-the-passive-fist.md)  
+- ✔️ [Encounter: The Passive Fist](../encounters/archive/2-the-passive-fist.md)  
     Trigger: long rest / better weather  
 
 **Coral**
-- [x] [Encounter: Trollskull Alley - Steel and Wood](../encounters/archive/2-trollskull-alley-steel-and-wood.md)  
+- ✔️ [Encounter: Trollskull Alley - Steel and Wood](../encounters/archive/2-trollskull-alley-steel-and-wood.md)  
       Trigger: Visit [Steam and Steel](../waterdeep/places/steam-and-steel.md)  
       Trigger: Tavern visitors
     ```ad-scene

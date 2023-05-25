@@ -13,7 +13,7 @@ The city guard also patrols Dock Ward in 12-man detachments.
 
 <span class="nav">[NPCs](#NPCs) [Locations](#Locations) [History](#History)</span>
 
-![Dock Ward](../../duet/miscellanea/volos-guide/volos-guide-3-wards.md#Dock%20Ward)
+![Dock Ward](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-3-wards.md#Dock%20Ward)
 
 ## NPCs
 

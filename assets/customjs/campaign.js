@@ -820,7 +820,7 @@ class Campaign {
 
     // Resolve table roll from template
     mood = async () => {
-        return this.tableRoll("[](/compendium/tables/mood-tables.md#^mood-table)");
+        return this.tableRoll("[](/assets/tables/mood-tables.md#^mood-table)");
     }
 
     // Resolve table roll from template
@@ -839,7 +839,7 @@ class Campaign {
             result = result.replace("%mood%", `_[${mood}]_`);
         }
         if ( result.contains("🔹") ) {
-            result = result.replaceAll(/\s*🔹\s*/g, '\n        > ');
+            result = result.replaceAll(/\s*🔹\s*/g, '\n    > ');
             console.log(result);
         }
         return result;

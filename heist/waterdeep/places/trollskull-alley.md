@@ -11,7 +11,7 @@ tags:
 
 ```leaflet
 id: waterdeep-map
-image: /heist/duet/assets/attachments/trollskull-alley.png
+image: /heist/waterdeep/assets/trollskull-alley.png
 bounds:
     - [0,0]
     - [691,1000]

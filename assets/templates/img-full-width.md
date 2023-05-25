@@ -1,1 +1,1 @@
-![Name](/assets/attachments/name.jpeg#full-width)
+![Name](assets/attachments/name.jpeg#full-width)

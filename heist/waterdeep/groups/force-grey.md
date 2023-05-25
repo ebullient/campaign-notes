@@ -60,6 +60,4 @@ const { Campaign } = window.customJS;
 dv.list(Campaign.logsForTag(dv, '#group/waterdeep/force-grey'));
 ```
 
-## References
-- Rowen: [Force Grey](../../duet/miscellanea/factions/force-grey.md)
 

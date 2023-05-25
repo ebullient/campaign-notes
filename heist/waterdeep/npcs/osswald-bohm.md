@@ -1,11 +1,11 @@
 ---
 aliases: ["Osswald Bohm"]
 tags:
-- rowen/npc/alive
+- heist/npc/alive
 - place/waterdeep/saddlers-and-harness-makers-hall
 - region/sword-coast-north/waterdeep/city-ward/southern
 - group/waterdeep/guild/saddlers-and-harness-makers
-- rowen/iff/positive
+- heist/iff/positive
 ---
 # Osswald Bohm
 <span class="subhead">Harness maker, Saddlers' and Harness-makers' Guild, Southern Ward of Waterdeep</span>

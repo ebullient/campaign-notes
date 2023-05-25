@@ -7,7 +7,7 @@ tags:
 - group/waterdeep/guild/fellowship-of-innkeepers
 ---
 # The Singing Kettle
-<span class="subhead">Tavern and Inn, Southern Ward of Waterdeep</span>
+<span class="subhead">Tavern and Inn, [Southern Ward](heist/waterdeep/places/southern-ward.md) of Waterdeep</span>
 
 Three-story building, excellent repair
 

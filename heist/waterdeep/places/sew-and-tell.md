@@ -15,7 +15,7 @@ The shop windows let in a good amount of light.
 Footstools and short step ladders of various styles are sprinkled between dressed and undressed mannequins, and racks holding ready made, well-constructed common and traveler's clothes. 
 
 - **Owner** [Eldon Highhill](../npcs/eldon-highhill.md)
-- **Location** Between Mhaer's Alley and Revon Street, across from the [City of the Dead](../../duet/miscellanea/volos-guide/volos-guide-3-wards.md#City%20of%20the%20Dead)
+- **Location** Between Mhaer's Alley and Revon Street, across from the [City of the Dead](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-3-wards.md#City%20of%20the%20Dead)
 
 There is a glass cabinet behind the counter to the left that is chock full of thimbles.
 

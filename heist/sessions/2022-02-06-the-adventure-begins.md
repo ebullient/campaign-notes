@@ -1,8 +1,9 @@
 ---
 obsidianUIMode: preview
+fc-calendar: Heist
 tags: 
 - timeline
-- rowen/events/pc
+- heist/events/pc
 - place/waterdeep/yawning-portal
 - group/waterdeep/xanathar-guild
 ---
@@ -10,7 +11,7 @@ tags:
 <span class="nav"><span>✧</span> ~ ❦ ~ [next →](2022-02-13-looking-for-floon.md)</span>
 
 ## Summary
-<span class='ob-timelines' data-class='rowen' data-date='1499-03-27-00' data-title="Brawl in the Yawning Portal"></span>
+<span class='ob-timelines' data-category='rowen' data-date='1499-Ches-27-00' data-name="Brawl in the Yawning Portal"></span>
 
 A brawl broke out with your friend *Yagra* right as you entered the tavern in the evening on this particular day. You walked in right as the fists started flying. While you tried to diffuse the tension with a staged fall, it was too sudden, and too intense, for your tactic to work as you intended. Yagra knocked the leader of the thugs unconscious with one hit, but his four lackeys jumped on her and beat her sensless before *Durnan* could throw them out, which he did. A well-thrown tankard smacked one of them on the head. You heard the underlings reference the unconscious body as *Krentz* as they scooped him up and ran for the exit.  
 
@@ -18,7 +19,7 @@ Relieved to find Yagra still alive (and merely unconsicous), you sat down next t
 
 Threestrings healed Yagra, and then retreated to his usual place in the taproom to start playing music that would help return things to normal. You went over to sit near him, and Bonnie brought you a top-notch meal on the house (with a stern nod of thanks from Durnan, which is high praise indeed). Yagra and Durnan managed to roll the troll body up and over the wall to fall back down into the depths of the pit for some other monster down there to deal with. Yagra then retreated to a different area of the taproom, her usual hangout, and started to tend her own wounds. 
 
-As conversation and a hesitant feeling of normalcy returned to the room, a man walked across traffic to approach you. He introduced himself as "[Volothamp Geddarm](../waterdeep/npcs/volothamp-geddarm.md), chronicler, wizard, and celebrity". After praising your Valor, he begged for your help in finding his friend, [Floon Blagmaar](../waterdeep/npcs/floon-blagmaar.md), who has been missing for two days. After gathering gold coins and any additional information you could, Volo excused himself with thanks. 
+As conversation and a hesitant feeling of normalcy returned to the room, a man walked across traffic to approach you. He introduced himself as "[Volothamp Geddarm](heist/waterdeep/npcs/volothamp-geddarm.md), chronicler, wizard, and celebrity". After praising your Valor, he begged for your help in finding his friend, [Floon Blagmaar](heist/waterdeep/npcs/floon-blagmaar.md), who has been missing for two days. After gathering gold coins and any additional information you could, Volo excused himself with thanks. 
 
 ---
 
@@ -39,13 +40,13 @@ The place is a stone building with a slate roof and several chimneys. Most of th
 A rope-and-pulley mechanism is used to lower adventurers into the well and hoist them out. 
 ```
 
-We talked about this: Rowen comes to the Yawning Portal at the end of the day. To have dinner, catch up with ["Threestrings" ](../waterdeep/npcs/threestrings-mattrim-mereg.md), and try to grab new work for the next day.
+We talked about this: Rowen comes to the Yawning Portal at the end of the day. To have dinner, catch up with ["Threestrings" ](heist/waterdeep/npcs/threestrings-mattrim-mereg.md), and try to grab new work for the next day.
 
 Rowen is remarkable (as a bird-person.. not unheard of, but not common either. There are also Kenku around...). Rown has earned some recognition for being reliable, and able to resolve some situations or run messages or deliver errands or whatever other thing needs doing that can be done for coin.
 
 ### Tavern Brawl
 
-5 human thugs (leader has tatooed head) jumped [Yagra Stonefist](../waterdeep/npcs/yagra-stonefist.md) just as Rowen entered the tavern for his usual dinner and drink with [Threestrings](../waterdeep/npcs/threestrings-mattrim-mereg.md).
+5 human thugs (leader has tatooed head) jumped [Yagra Stonefist](heist/waterdeep/npcs/yagra-stonefist.md) just as Rowen entered the tavern for his usual dinner and drink with [Threestrings](heist/waterdeep/npcs/threestrings-mattrim-mereg.md).
 
 ```ad-scene
 Then all the noise is eclipsed by a shout: "Ya pig! Like killin' me mates, does ya?" Then a seven-foot-tall half-orc is hit by a wild, swinging punch from a male human whose shaved head is covered with eye-shaped tattoos. Four other humans stand behind him, ready to jump into the fray. The half-orc cracks her knuckles, roars, and leaps at the tattooed figure-but before you can see if blood is drawn, a crowd of spectators clusters around the brawl. What do you do?
@@ -53,7 +54,7 @@ Then all the noise is eclipsed by a shout: "Ya pig! Like killin' me mates, does 
 
 #### What happened
 
-Rowen tried to create a distraction to break up the fight, and while he succeeded in catching the attention of some of the patrons, it wasn't enough. Yagra knocked their leader (Krentz) unconscious, his followers then knocked her unconscious, and then [Durnan](../waterdeep/npcs/durnan.md) chased them all out of the tavern with a well-thrown dagger and some choice words (they snagged their unconscious leader and fled).
+Rowen tried to create a distraction to break up the fight, and while he succeeded in catching the attention of some of the patrons, it wasn't enough. Yagra knocked their leader (Krentz) unconscious, his followers then knocked her unconscious, and then [Durnan](heist/waterdeep/npcs/durnan.md) chased them all out of the tavern with a well-thrown dagger and some choice words (they snagged their unconscious leader and fled).
 
 Rowen went over to check on Yagra and make sure she was ok (just unconscious). A spare few moments passed before a Troll climbed up out of the portal and into the taproom. It had 6 stirges gorging themselves on it, and 3 more hovering ...
 

@@ -1,10 +1,10 @@
 ---
 aliases: ["Eldon Highhill"]
 tags:
-- rowen/npc/alive
+- heist/npc/alive
 - place/waterdeep/sew-and-tell
 - region/sword-coast-north/waterdeep/city-ward/trades
-- rowen/iff/unknown
+- heist/iff/unknown
 ---
 # Eldon Highhill
 <span class="subhead">[Sew and Tell](../places/sew-and-tell.md), Trades Ward of Waterdeep</span>

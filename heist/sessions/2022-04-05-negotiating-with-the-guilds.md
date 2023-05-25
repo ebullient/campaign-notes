@@ -1,8 +1,9 @@
 ---
 obsidianUIMode: preview
+fc-calendar: Heist
 tags:
 - timeline
-- rowen/events/pc
+- heist/events/pc
 - group/waterdeep/guild
 - place/waterdeep/trollskull-alley/trollskull-manor
 ---
@@ -10,7 +11,7 @@ tags:
 <span class="nav">[← previous](2022-04-03-trollskull-manor.md) ~ ❦ ~ [next →](2022-04-09-demolition-time.md)</span>
 
 ## Summary
-<span class='ob-timelines' data-class='rowen' data-date='1499-03-29-00' data-title="Lidda meets with the Guilds"></span>
+<span class='ob-timelines' data-category='rowen' data-date='1499-Ches-29-00' data-name="Lidda meets with the Guilds"></span>
 
 Coral and Rowen spent the next few hours clearing debris from the taproom. They had a few scares, as they looked up at the last minute to dodge a stream of debris flowing out the door and into the carts on their own.
 
@@ -18,7 +19,7 @@ Another cart pulled into the alley around Tharson. Varkel got as close to the ma
 
 By the time the sisters got themselves organized and the mop bucket filled, one of the brooms was happily (and neatly) moving itself, creating a tidy pile of dirt near the door. Nora and Euphemia rolled up their sleeves, donned some working aprons, and set to cleaning all of the taproom surfaces with a will. Trym focused on the bar and the new tables, fussing over how the chairs and tables were positioned, and artfully arranging two small kegs of beer, a few bottles of wine, a pitcher of water, various covered plates, a cornucopia of fruit and bread, and other finger foods.
 
-The trickle of guild members arrived in singles and pairs starting at Tharsun. [Broxley Fairkettle](../waterdeep/npcs/broxley-fairkettle.md) arrived first; Lidda was right, he was the representative for the Fellowship of Innkeepers in the North Ward, and was thrilled to know that someone was looking at reopening the place, as he'd long believed it was haunted. His eyes got very very big as a glass of wine poured itself without a drip, steadily hovered across the floor, and set itself next to him on the table. Lidda grinned at him. "We're pretty sure it's haunted, too, and we think it's wonderful." 
+The trickle of guild members arrived in singles and pairs starting at Tharsun. [Broxley Fairkettle](heist/waterdeep/npcs/broxley-fairkettle.md) arrived first; Lidda was right, he was the representative for the Fellowship of Innkeepers in the North Ward, and was thrilled to know that someone was looking at reopening the place, as he'd long believed it was haunted. His eyes got very very big as a glass of wine poured itself without a drip, steadily hovered across the floor, and set itself next to him on the table. Lidda grinned at him. "We're pretty sure it's haunted, too, and we think it's wonderful." 
 
 The Cellarar's and Plumber's Guild, Surveyors', Map-, and Chart-makers' Guild, and the Carpenters', Roofers', and Plaisterers' Guild arrived at somewhat overlapping times. The proposed floor plans were reviewed, schedules were made, and inspection checkpoints set. The Bakers' Guild, the Guild of Butchers, and the Vintners', Distillers', and Brewers' Guild arrived after that, and plans were made for initial delivery of supplies on Tarsahk 4.
 
@@ -35,12 +36,13 @@ Based on rolls
 
 https://docs.google.com/spreadsheets/d/11Yk8tv3tbinmKoHsfVJt7CqZB206wYZZwQPtLkmKZIA/edit#gid=554774333
 
-## Recap of Last Session
+## Recap
 ![2022-04-03-trollskull-manor.md](2022-04-03-trollskull-manor.md#Summary)
 
 ## Characters
 - [Rowen](../characters/gm-rowen.md)
 - [Coral](../characters/gm-coral.md)
-- [Kettlewhistle Sisters](../waterdeep/npcs/kettlewhistle-sisters.md)
+- [Kettlewhistle Sisters](heist/waterdeep/npcs/kettlewhistle-sisters.md)
+- [Lif the Poltergeist](heist/waterdeep/npcs/lif-the-poltergeist.md)
 
 ![](../days/1499-03-29-ches.md#^weather)

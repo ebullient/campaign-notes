@@ -7,7 +7,7 @@ tags:
 # North Ward
 <span class="subhead">[Waterdeep](../waterdeep.md)</span>
 
-TL;DR description
+![North Ward](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-3-wards.md#North%20Ward)
 
 
 <span class="nav">[NPCs](#NPCs) [Locations](#Locations) [History](#History)</span>

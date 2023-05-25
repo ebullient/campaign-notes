@@ -9,7 +9,7 @@ tags:
 
 <span class="nav">[NPCs](#NPCs) [Locations](#Locations) [History](#History)</span>
 
-![Sea Ward](../../duet/miscellanea/volos-guide/volos-guide-3-wards.md#Sea%20Ward)
+![Sea Ward](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-3-wards.md#Sea%20Ward)
 
 ## NPCs
 

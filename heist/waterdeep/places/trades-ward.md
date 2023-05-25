@@ -7,7 +7,7 @@ tags:
 # Trades Ward
 <span class="subhead">[Waterdeep](../waterdeep.md)</span>
 
-![Trades Ward](../../duet/miscellanea/volos-guide/volos-guide-3-wards.md#Trades%20Ward)
+![Trades Ward](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-3-wards.md#Trades%20Ward)
 
 
 <span class="nav">[NPCs](#NPCs) [Guild Halls](#Guild%20Halls) [Locations](#Locations) [History](#History)</span>
