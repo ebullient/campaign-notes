@@ -12,7 +12,7 @@ tags:
 <span class="nav">[← previous](2022-02-06-the-adventure-begins.md) ~ ❦ ~ [next →](2022-02-20-looking-for-floon.md)</span>
 
 ## Summary
-<span class='ob-timelines' data-category='rowen' data-date='1499-Ches-27-00' data-name="The Skewered Dragon"></span>
+<span class='ob-timelines' data-category='heist' data-date='1499-Ches-27-01' data-name="🪕 The Skewered Dragon"></span>
 
 ### Yagra at the Yawning Portal
 

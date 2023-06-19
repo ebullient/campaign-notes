@@ -1,6 +1,7 @@
 ---
 aliases: 
 - Salibuck Family
+- Sambral Salibuck
 - Merric Kettlewhistle
 - Delalar Salibuck
 - Osco Salibuck

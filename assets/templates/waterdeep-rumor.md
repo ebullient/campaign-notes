@@ -1,4 +1,4 @@
 <%*
 const { Campaign } = window.customJS;
-tR += `- [ ] ${await Campaign.secrets('rumors')}`
+tR += `- [ ] ${await Campaign.rumors()}\n`
 -%>

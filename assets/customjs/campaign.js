@@ -240,7 +240,8 @@ class Campaign {
         return {
             folder: folder,
             next: nextName,
-            lastSession: prev,
+            prev,
+            lastSession,
             tag: this.folderToTag(folder)
         }
     }
@@ -815,22 +816,37 @@ class Campaign {
 
     // Resolve table roll from template
     faire = async (type) => {
-        return this.tableRoll(`[](/heist/waterdeep/places/sea-maidens-faire.md#^${type})`);
+        return this.tableRoll(`[](heist/waterdeep/places/sea-maidens-faire.md#^${type})`);
     }
 
     // Resolve table roll from template
     mood = async () => {
-        return this.tableRoll("[](/assets/tables/mood-tables.md#^mood-table)");
+        return this.tableRoll("[](assets/tables/mood-tables.md#^mood-table)");
     }
 
     // Resolve table roll from template
-    secrets = async (type) => {
-        return this.tableRoll(`[](/heist/secrets.md#^${type})`);
+    news = async () => {
+        const paper = await this.tableRoll(`[](heist/tables/news.md#^papers)`);
+        const news = await this.tableRoll(`[](heist/tables/news.md#^news)`);
+        return `${paper} ${news}`;
+    }
+    thread = async () => {
+        const paper = await this.tableRoll(`[](heist/tables/news.md#^papers)`);
+        const news = await this.tableRoll(`[](heist/tables/news.md#^thread)`);
+        return `${paper} ${news}`;
+    }
+    reviews = async () => {
+        const paper = await this.tableRoll(`[](heist/tables/news.md#^papers)`);
+        const news = await this.tableRoll(`[](heist/tables/news.md#^reviews)`);
+        return `${paper} ${news}`;
+    }
+    rumors = async () => {
+        return this.tableRoll(`[](heist/tables/rumors.md#^rumors)`);
     }
 
     // Resolve table roll from template
     tavern = async (type) => {
-        let result = await this.tableRoll(`[](/heist/encounters/trollskull-manor-tables.md#^${type})`);
+        let result = await this.tableRoll(`[](heist/tables/trollskull-manor-tables.md#^${type})`);
         if ( type == 'visiting-patrons' ) {
             result = result.replaceAll(/,? ?\(\d+\) /g, '\n    - ')
         }
@@ -847,7 +863,7 @@ class Campaign {
 
     // Resolve table roll from template
     weather = async (season) => {
-        return this.tableRoll(`[](/heist/waterdeep/waterdeep-weather.md#^${season})`);
+        return this.tableRoll(`[](heist/waterdeep/waterdeep-weather.md#^${season})`);
     }
 
     tableRoll = async (lookup) => {

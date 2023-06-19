@@ -19,22 +19,22 @@ Winters in Waterdeep often range from 0 to 45 degrees and snow is not uncommon. 
 
 | dice: d20  |  Weather Effects    |
 |------------|--------------------------------------|
-| 1 	|  Arctic Gale ([Extreme Cold](waterdeep-weather.md#Extreme%20Cold), [Heavy Snow](waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Strong Wind](waterdeep-weather.md#Strong%20Wind)) |
-| 2 	|  Blizzard ([Extreme Cold](waterdeep-weather.md#Extreme%20Cold), [Heavy Snow](waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Windy](waterdeep-weather.md#Windy))|
-| 3 	|  Snow ([Cold](waterdeep-weather.md#Cold), [Heavy Snow](waterdeep-weather.md#Heavy%20Rain%20or%20Snow))   |
-| 4-5 	|  Snow ([Cold](waterdeep-weather.md#Cold), [Light Snow](waterdeep-weather.md#Light%20Rain%20or%20Snow))    |
-| 6 	|  Cold Snap ([Cold](waterdeep-weather.md#Cold), [Windy](waterdeep-weather.md#Windy)) |
-| 7 	|  Cold Snap ([Cold](waterdeep-weather.md#Cold)) |
-| 8 	|  Sleet Storm ([Ice](waterdeep-weather.md#Ice), [Windy](waterdeep-weather.md#Windy)) |
+| 1 	|  Arctic Gale ([Extreme Cold](heist/tables/waterdeep-weather.md#Extreme%20Cold), [Heavy Snow](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Strong Wind](heist/tables/waterdeep-weather.md#Strong%20Wind)) |
+| 2 	|  Blizzard ([Extreme Cold](heist/tables/waterdeep-weather.md#Extreme%20Cold), [Heavy Snow](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Windy](heist/tables/waterdeep-weather.md#Windy))|
+| 3 	|  Snow ([Cold](heist/tables/waterdeep-weather.md#Cold), [Heavy Snow](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow))   |
+| 4-5 	|  Snow ([Cold](heist/tables/waterdeep-weather.md#Cold), [Light Snow](heist/tables/waterdeep-weather.md#Light%20Rain%20or%20Snow))    |
+| 6 	|  Cold Snap ([Cold](heist/tables/waterdeep-weather.md#Cold), [Windy](heist/tables/waterdeep-weather.md#Windy)) |
+| 7 	|  Cold Snap ([Cold](heist/tables/waterdeep-weather.md#Cold)) |
+| 8 	|  Sleet Storm ([Ice](heist/tables/waterdeep-weather.md#Ice), [Windy](heist/tables/waterdeep-weather.md#Windy)) |
 | 9-10 	|  Clear     |
 | 11-12 |  Partly Cloudy     |
-| 13 	|  Partly Cloudy, [Light Fog](waterdeep-weather.md#Light%20Fog)    |
+| 13 	|  Partly Cloudy, [Light Fog](heist/tables/waterdeep-weather.md#Light%20Fog)    |
 | 14 	|  Overcast     |
-| 15 	|  Overcast, [Light Fog](waterdeep-weather.md#Light%20Fog)    |
-| 16 	|  Overcast, [Heavy Fog](waterdeep-weather.md#Heavy%20Fog)    |
-| 17-18 |  Drizzle ([Light Rain](waterdeep-weather.md#Light%20Rain%20or%20Snow)) |
-| 19 	|  Raining ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow)) |
-| 20 	|  Thundersnow ([Cold](waterdeep-weather.md#Cold), [Heavy Snow](waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Lightning](waterdeep-weather.md#Lightning), [Strong Wind](waterdeep-weather.md#Strong%20Wind)) |
+| 15 	|  Overcast, [Light Fog](heist/tables/waterdeep-weather.md#Light%20Fog)    |
+| 16 	|  Overcast, [Heavy Fog](heist/tables/waterdeep-weather.md#Heavy%20Fog)    |
+| 17-18 |  Drizzle ([Light Rain](heist/tables/waterdeep-weather.md#Light%20Rain%20or%20Snow)) |
+| 19 	|  Raining ([Heavy Rain](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow)) |
+| 20 	|  Thundersnow ([Cold](heist/tables/waterdeep-weather.md#Cold), [Heavy Snow](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Lightning](heist/tables/waterdeep-weather.md#Lightning), [Strong Wind](heist/tables/waterdeep-weather.md#Strong%20Wind)) |
 ^winter
 
 ### Spring
@@ -43,21 +43,21 @@ Spring is a season of frequent rains, punctuated by more frequent fog. Thought b
 
 | dice: d30  |  Weather Effects    |
 |------------|--------------------------------------|
-| 1 	|  Snow ([Cold](waterdeep-weather.md#Cold), [Heavy Snow](waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Windy](waterdeep-weather.md#Windy)) |
-| 2 	|  Snow ([Cold](waterdeep-weather.md#Cold), [Light Snow](waterdeep-weather.md#Light%20Rain%20or%20Snow)) |
-| 3 	|  Sleet Storm ([Heavy Precipitation](waterdeep-weather.md#Heavy%20Precipitation), [Ice](waterdeep-weather.md#Ice), [Windy](waterdeep-weather.md#Windy)) |
+| 1 	|  Snow ([Cold](heist/tables/waterdeep-weather.md#Cold), [Heavy Snow](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Windy](heist/tables/waterdeep-weather.md#Windy)) |
+| 2 	|  Snow ([Cold](heist/tables/waterdeep-weather.md#Cold), [Light Snow](heist/tables/waterdeep-weather.md#Light%20Rain%20or%20Snow)) |
+| 3 	|  Sleet Storm ([Heavy Precipitation](heist/tables/waterdeep-weather.md#Heavy%20Precipitation), [Ice](heist/tables/waterdeep-weather.md#Ice), [Windy](heist/tables/waterdeep-weather.md#Windy)) |
 | 10-11	|  Overcast     |
-| 12-13 |  Overcast, [Light Fog](waterdeep-weather.md#Light%20Fog)    |
-| 14-15 |  Overcast, [Heavy Fog](waterdeep-weather.md#Heavy%20Fog)    |
-| 16-17 |  Drizzle ([Light Rain](waterdeep-weather.md#Light%20Rain%20or%20Snow)) |
-| 18-19 |  Raining ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow)) |
+| 12-13 |  Overcast, [Light Fog](heist/tables/waterdeep-weather.md#Light%20Fog)    |
+| 14-15 |  Overcast, [Heavy Fog](heist/tables/waterdeep-weather.md#Heavy%20Fog)    |
+| 16-17 |  Drizzle ([Light Rain](heist/tables/waterdeep-weather.md#Light%20Rain%20or%20Snow)) |
+| 18-19 |  Raining ([Heavy Rain](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow)) |
 | 20 	|  Clear     |
-| 21-22 |  Clear, [Windy](waterdeep-weather.md#Windy)    |
+| 21-22 |  Clear, [Windy](heist/tables/waterdeep-weather.md#Windy)    |
 | 23-24	|  Partly Cloudy     |
-| 25-26 |  Partly Cloudy, [Windy](waterdeep-weather.md#Windy)    |
-| 27-28 |  Partly Cloudy, [Light Fog](waterdeep-weather.md#Light%20Fog)    |
-| 29 	|  Sea Gale ([Strong Wind](waterdeep-weather.md#Strong%20Wind)) |
-| 30 	|  Thunderstorm ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Lightning](waterdeep-weather.md#Lightning), [Strong Wind](waterdeep-weather.md#Strong%20Wind)) |
+| 25-26 |  Partly Cloudy, [Windy](heist/tables/waterdeep-weather.md#Windy)    |
+| 27-28 |  Partly Cloudy, [Light Fog](heist/tables/waterdeep-weather.md#Light%20Fog)    |
+| 29 	|  Sea Gale ([Strong Wind](heist/tables/waterdeep-weather.md#Strong%20Wind)) |
+| 30 	|  Thunderstorm ([Heavy Rain](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Lightning](heist/tables/waterdeep-weather.md#Lightning), [Strong Wind](heist/tables/waterdeep-weather.md#Strong%20Wind)) |
 ^spring
 
 ### Summer
@@ -66,19 +66,19 @@ Summer in Waterdeep finds its heat moderated by ocean winds. While rain is still
 
 | dice: d20  |  Weather Effects    |
 |------------|--------------------------------------|
-| 1-2 	|  Raining ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow)) |
-| 3-4 	|  Drizzle ([Light Rain](waterdeep-weather.md#Light%20Rain%20or%20Snow)) |
-| 5 	|  Overcast, [Light Fog](waterdeep-weather.md#Light%20Fog)    |
-| 6 	|  Overcast, [Heavy Fog](waterdeep-weather.md#Heavy%20Fog)    |
+| 1-2 	|  Raining ([Heavy Rain](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow)) |
+| 3-4 	|  Drizzle ([Light Rain](heist/tables/waterdeep-weather.md#Light%20Rain%20or%20Snow)) |
+| 5 	|  Overcast, [Light Fog](heist/tables/waterdeep-weather.md#Light%20Fog)    |
+| 6 	|  Overcast, [Heavy Fog](heist/tables/waterdeep-weather.md#Heavy%20Fog)    |
 | 7-8 	|  Partly Cloudy     |
-| 9 	|  Partly Cloudy, [Windy](waterdeep-weather.md#Windy)    |
-| 10 	|  Partly Cloudy, [Light Fog](waterdeep-weather.md#Light%20Fog)    |
+| 9 	|  Partly Cloudy, [Windy](heist/tables/waterdeep-weather.md#Windy)    |
+| 10 	|  Partly Cloudy, [Light Fog](heist/tables/waterdeep-weather.md#Light%20Fog)    |
 | 11-13 |  Clear     |
-| 14 	|  Clear, [Windy](waterdeep-weather.md#Windy)    |
-| 15-17 |  Heat Wave ([Hot](waterdeep-weather.md#Hot)) |
-| 18 	|  Heat Wave ([Hot](waterdeep-weather.md#Hot), [Windy](waterdeep-weather.md#Windy)) |
-| 19 	|  Sea Gale ([Strong Wind](waterdeep-weather.md#Strong%20Wind)) |
-| 20 	|  Thunderstorm ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Lightning](waterdeep-weather.md#Lightning), [Strong Wind](waterdeep-weather.md#Strong%20Wind)) |
+| 14 	|  Clear, [Windy](heist/tables/waterdeep-weather.md#Windy)    |
+| 15-17 |  Heat Wave ([Hot](heist/tables/waterdeep-weather.md#Hot)) |
+| 18 	|  Heat Wave ([Hot](heist/tables/waterdeep-weather.md#Hot), [Windy](heist/tables/waterdeep-weather.md#Windy)) |
+| 19 	|  Sea Gale ([Strong Wind](heist/tables/waterdeep-weather.md#Strong%20Wind)) |
+| 20 	|  Thunderstorm ([Heavy Rain](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Lightning](heist/tables/waterdeep-weather.md#Lightning), [Strong Wind](heist/tables/waterdeep-weather.md#Strong%20Wind)) |
 ^summer
 
 ### Autumn
@@ -87,24 +87,24 @@ Like spring, weather in the fall varies significantly, but it is generally more 
 
 | dice: d20  |  Weather Effects    |
 |------------|--------------------------------------|
-| 1 	|  Raining ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Windy](waterdeep-weather.md#Windy)) |
-| 2 	|  Raining ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow)) |
-| 3-4 	|  Drizzle ([Light Rain](waterdeep-weather.md#Light%20Rain%20or%20Snow)) |
-| 5 	|  Overcast, [Windy](waterdeep-weather.md#Windy)    |
-| 6 	|  Overcast, [Light Fog](waterdeep-weather.md#Light%20Fog)    |
-| 7 	|  Overcast, [Heavy Fog](waterdeep-weather.md#Heavy%20Fog)    |
-| 8 	|  Raining ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow)) |
-| 9 	|  Raining ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Windy](waterdeep-weather.md#Windy)) |
-| 10 	|  Raining ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Strong Wind](waterdeep-weather.md#Strong%20Wind)) |
+| 1 	|  Raining ([Heavy Rain](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Windy](heist/tables/waterdeep-weather.md#Windy)) |
+| 2 	|  Raining ([Heavy Rain](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow)) |
+| 3-4 	|  Drizzle ([Light Rain](heist/tables/waterdeep-weather.md#Light%20Rain%20or%20Snow)) |
+| 5 	|  Overcast, [Windy](heist/tables/waterdeep-weather.md#Windy)    |
+| 6 	|  Overcast, [Light Fog](heist/tables/waterdeep-weather.md#Light%20Fog)    |
+| 7 	|  Overcast, [Heavy Fog](heist/tables/waterdeep-weather.md#Heavy%20Fog)    |
+| 8 	|  Raining ([Heavy Rain](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow)) |
+| 9 	|  Raining ([Heavy Rain](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Windy](heist/tables/waterdeep-weather.md#Windy)) |
+| 10 	|  Raining ([Heavy Rain](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Strong Wind](heist/tables/waterdeep-weather.md#Strong%20Wind)) |
 | 11 	|  Partly Cloudy     |
-| 12 	|  Partly Cloudy, [Windy](waterdeep-weather.md#Windy)    |
-| 13 	|  Partly Cloudy, [Light Fog](waterdeep-weather.md#Light%20Fog)    |
+| 12 	|  Partly Cloudy, [Windy](heist/tables/waterdeep-weather.md#Windy)    |
+| 13 	|  Partly Cloudy, [Light Fog](heist/tables/waterdeep-weather.md#Light%20Fog)    |
 | 14-15 |  Clear     |
-| 16 	|  Clear, [Windy](waterdeep-weather.md#Windy)    |
-| 17 	|  Hailstorm ([Hail](waterdeep-weather.md#Hail), [Ice](waterdeep-weather.md#Ice)) |
-| 18 	|  Heat Wave ([Hot](waterdeep-weather.md#Hot)) |
-| 19 	|  Sea Gale ([Strong Wind](waterdeep-weather.md#Strong%20Wind)) |
-| 20 	|  Thunderstorm ([Heavy Rain](waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Lightning](waterdeep-weather.md#Lightning), [Strong Wind](waterdeep-weather.md#Strong%20Wind)) |
+| 16 	|  Clear, [Windy](heist/tables/waterdeep-weather.md#Windy)    |
+| 17 	|  Hailstorm ([Hail](heist/tables/waterdeep-weather.md#Hail), [Ice](heist/tables/waterdeep-weather.md#Ice)) |
+| 18 	|  Heat Wave ([Hot](heist/tables/waterdeep-weather.md#Hot)) |
+| 19 	|  Sea Gale ([Strong Wind](heist/tables/waterdeep-weather.md#Strong%20Wind)) |
+| 20 	|  Thunderstorm ([Heavy Rain](heist/tables/waterdeep-weather.md#Heavy%20Rain%20or%20Snow), [Lightning](heist/tables/waterdeep-weather.md#Lightning), [Strong Wind](heist/tables/waterdeep-weather.md#Strong%20Wind)) |
 ^autumn
 
 ## Weather Effects
@@ -139,7 +139,7 @@ Heavy Precipitation from Chapter 5 of the Dungeon Master’s Guide
 
 ### Heavy Rain or Snow
 
-As [Heavy Precipitation](waterdeep-weather.md#Heavy%20Precipitation). 
+As [Heavy Precipitation](heist/tables/waterdeep-weather.md#Heavy%20Precipitation). 
 
 If it has been snowing for an hour or more, exterior locations in the city count as difficult terrain. 
 

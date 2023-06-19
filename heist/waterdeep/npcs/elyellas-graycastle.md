@@ -27,6 +27,7 @@ He is friendly, and greets patrons with a warm smile and offer them a free loaf 
 <span class="nav">[Details](#Details) [Relationships](#Relationships) [Secrets](#Secrets) [Related](#Related)</span>
 
 ## Details
+
 He is a wishful coward. He is able to support himself, and wants to rescue someone someday.
 
 - **Abilities**:

@@ -12,7 +12,7 @@ tags:
 <span class="nav">[← previous](2022-05-08-the-passive-fist.md) ~ ❦ ~ [next →](2022-05-22-dogs-and-kids.md)</span>
 
 ## Summary
-<span class='ob-timelines' data-category='rowen' data-date='1499-Tarsakh-03-00' data-name="Meeting the neighbors">Making peace and a warning.</span>
+<span class='ob-timelines' data-category='heist' data-date='1499-Tarsakh-03-01' data-name="🪕 Meeting the neighbors">Making peace and a warning.</span>
 
 After returning to the tavern and catching up on news while eating lunch, Rowen went to [The Bent Nail](../waterdeep/places/the-bent-nail.md) to meet Tally and thank him for the lovely sign. They started talking a bit, about wares in the shop and plans for Goldenight. Tally opened up a little about his issues with the genasi of Steam and Steel: it wasn't anything about them, specifically. Their together-ness made him miss his long-dead wife. He thought himself recovered, but seeing them together made him miss her terribly. Rowen expressed his sympathy, and asked if he could share the cause of Tally's discomfort with Avi and Embric, to which Tally agreed. Tally also made some plans to bring some things (like plain and carved wooden tankards) to be displayed at Trollskull Manor on Goldenight as well.
 

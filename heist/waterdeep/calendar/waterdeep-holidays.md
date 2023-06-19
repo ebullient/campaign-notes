@@ -1,10 +1,18 @@
 ---
 aliases: ["Waterdeep Holidays"]
+cssclass: hide-spans
+fc-calendar: Heist
+tags:
+- timeline
+- heist/events/waterdeep
 ---
 # Waterdeep Holidays
 Source: https://oakthorne.net/wiki/index.php?title=Waterdhavian_Social_Season
 
 ## Winter
+
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Hammer-01-00' data-name='🗓 Wintershield'></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Alturiak-14-00' data-name='🗓 The Grand Revel'></span>
 
 The fierce Northern winters essentially shut the city down. As of the first blizzard, snow usually lies thick on the ground, and cruelly cold winds rush in off the ocean to lock the city down.
 
@@ -20,6 +28,13 @@ As a result, while the Guild of Street Laborers works diligently to keep most of
 
 ### Ches
 
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Ches-01-00' data-name='🗓 Rhyestertide'></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Ches-19-00' data-name='🗓 Fey Day'></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Ches-21-00' data-name="🗓 Fleetswake begins"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Ches-25-00' data-name="🗓 Shipwrights' Ball"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Ches-29-00' data-name='🗓 Fair Seas Festival begins'>Parades. Street vendors. Donation boxes to Umberlee.</span> 
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Ches-30-00' data-name='🗓 Fair Seas Festival and Fleetswake end'>Collection and delivery of Umberlee's tithe</span>
+
 ***Rhyestertide (Ches 1)***
 ![Ches 1 Rhyestertide](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-4-splendors.md#Ches%201%20Rhyestertide)
 
@@ -28,7 +43,6 @@ As a result, while the Guild of Street Laborers works diligently to keep most of
 
 ***Fleetswake (Ches 21 - 30):*** Generally speaking, the Spring Social Season begins with Fleetswake, when winter has let up enough to allow ships to return to the Waterdhavian harbor. Many noble families return during this week, taking rooms in inns while their servants prepare their estates for reinhabiting. 
 
-***Fleetswake (Ches 21-30)***
 ![Ches 21-30 Fleetswake](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-4-splendors.md#Ches%2021-30%20Fleetswake)
 
 ***Shipwrights' Ball (Ches 25):***  Annual, held at the **Shipwrights' House** on the corner of Dock Street and Asteril's Way. 
@@ -39,15 +53,28 @@ As a result, while the Guild of Street Laborers works diligently to keep most of
 
 ### Tarsakh
 
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Tarsakh-01-00' data-name='🗓 Waukeentide begins; Caravance'></span> 
+<span class='ob-timelines'  data-category='waterdeep' data-date='*-Tarsakh-05-00' data-name='🗓 Goldenight'></span>
+<span class='ob-timelines'  data-category='waterdeep' data-date='*-Tarsakh-07-00' data-name='🗓 Guildsmeet'></span>
+<span class='ob-timelines'  data-category='waterdeep' data-date='*-Tarsakh-10-00' data-name='🗓 Leiruin'></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Tarsakh-10-00' data-name='🗓 Waukeentide ends'></span>
+
 ***Waukeentide (Tarsahk 1-10)***
 ![Tarsahk 1-10 Waukeentide](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-4-splendors.md#Tarsahk%201-10%20Waukeentide)
 
 ### Greengrass (Festival)
+
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Greengrass-01-00' data-name='🗓 Greengrass tastings'></span>
+
 Wreaths of fresh flowers - some wider across than a man is tall - adorn the front gates of noble villas at Greengrass. Though a few do enjoy pilgrimages to celebrate the holiday in the hedonistic revel known as the Lady's Revels at the nearby Chauntean abbey of the Goldenfields, the nobles of Waterdeep tend not to do too much on this day.
 
-**The Greengrass Tastings:** The main exception to this rule is with those families who deal in wine. These families (the Amcathras, Ammakyls, Melshimbers, Rosznars and Thanns) often hold open-barrel tasting parties, where the coming year's vintages are tasted to see how they're coming along before being bottled and sold. These parties are as much about business as they are about pleasure, with the families inviting various masters of the [Vintners', Distillers', & Brewers' Guild](Vintners',%20Distillers',%20&%20Brewers'%20Guild), and various prestigious tavern- and inn-owners in attendance as well.
+**The Greengrass Tastings:** The main exception to this rule is with those families who deal in wine. These families (the Amcathras, Ammakyls, Melshimbers, Rosznars and Thanns) often hold open-barrel tasting parties, where the coming year's vintages are tasted to see how they're coming along before being bottled and sold. These parties are as much about business as they are about pleasure, with the families inviting various masters of the [Vintners', Distillers', & Brewers' Guild](heist/waterdeep/groups/guilds-of-waterdeep.md#Vintners',%20Distillers',%20&%20Brewers'%20Guild), and various prestigious tavern- and inn-owners in attendance as well.
 
 ### Mirtul
+
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Mirtul-04-00' data-name='🗓 The Presentation Ball'></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Mirtul-06-00' data-name='🗓 The Plowing and the Running begins'></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Mirtul-09-00' data-name='🗓 The Plowing and the Running ends'></span>
 
 ***The Presentation Ball (Mirtul 4):*** The height of the event is the Presentation, when young noble men and women - only now old enough this year to be considered "accepted" into society - step up one by one to be introduced to the Open Lord and two of the Masked Lords. Once that has been done, those nobles are considered "fair game" for politicking, courting and are in all other ways treated as adult members of their Houses.
 
@@ -57,6 +84,10 @@ The rest of the event consists of dancing, particularly with the newly-presented
 ![Mirtul 6-9 The Plowing and Running](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-4-splendors.md#Mirtul%206-9%20The%20Plowing%20and%20Running)
 
 ### Kythorn
+
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Kythorn-01-00' data-name='🗓 Trolltide'></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Kythorn-14-00' data-name='🗓 Guildhall Day'></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Kythorn-20-00' data-name='🗓 Dragondown'></span>
 
 ***Trolltide (Kythorn 1)***
 ![Kythorn 1 Trolltide](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-4-splendors.md#Kythorn%201%20Trolltide)
@@ -72,6 +103,13 @@ The rest of the event consists of dancing, particularly with the newly-presented
 Summer is marked by a variety of important parties, balls and similar events. It is the time to be seen, and while it has the fewest traditional events, it is when each of the Houses try to make their mark on the season with a new theme, entertainment, patronage or other event that will set the tongues to wagging about them.
 
 ### Flamerule
+
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Flamerule-01-00' data-name="🗓 Founders' Day"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Flamerule-03-00' data-name="🗓 Sornyn begins"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Flamerule-05-00' data-name="🗓 Sornyn Ball; Sornyn ends"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Flamerule-07-00' data-name="🗓 Lliira's Night"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Flamerule-11-00' data-name="🗓 Theater season begins"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Flamerule-20-00' data-name="🗓 Theater season ends"></span>
 
 ***Founders' Day (Flamerule 1)***
 ![Flamerule 1 Founders' Day](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-4-splendors.md#Flamerule%201%20Founders'%20Day)
@@ -96,9 +134,18 @@ It is an evening originally intended to permit the sons and daughters of the nob
 
 ### Shieldmeet (Festival)
 
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Shieldmeet' data-name="🗓 Shieldmeet Council">Confirmation of Lords' Rule</span>
+
 **Shieldmeet Ball:** Every Shieldmeet, Lord Piergeiron throws a grand ball for Waterdeep, with the interiors of the Palace laid open for nobles and the wealthy, and a grand festival air in the courtyard in front of the palace. Room within is limited, and the guests within are always influential and important, so the jockeying to achieve a place within is intense.
 
 ### Eleasias
+
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Elesias-01-00' data-name="🗓 Ahghairon's Day">The Promenade of Violets</span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Elesias-17-00' data-name="🗓 The Annual Garden Parties (nobles)"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Elesias-08-00' data-name="🗓 The Harbor Spectacles (nobles)"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Elesias-17-00' data-name="🗓 The Annual Garden Parties"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Elesias-24-00' data-name="🗓 The Gathering of Harps begins"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Elesias-24-00' data-name="🗓 The Gathering of Harps ends"></span>
 
 **Divine Pageantry (early Eleasias):** Another event considered hopelessly old-fashioned by young, fashionable nobles, it is the only holy festival to Siamorphe, the goddess of nobility considered the patron of all Waterdhavian nobles. As such, no matter how de rigeur it is, the wise patron or matron of House ensures everyone in their family is there to take part, dressed in fine antique garments, spreading coin and remembering the proper old fashioned forms of address.
 
@@ -129,6 +176,10 @@ At night, the sponsoring Houses throw a party, one each night of the Gathering, 
 
 ### Eleint
 
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Eleint-10-00' data-name="🗓 The Matrons' Diversion"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Eleint-21-00' data-name="🗓 Brightswords"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Eleint-22-00' data-name="🗓 Pankration"></span>
+
 ***The Matrons' Diversion (Eleint 10):*** Over three generations ago, the Matron of House Melshimber invited the matrons of every other House that was led by a woman for a "genteel afternoon of cards and idle conversation". The ladies showed up in their very best, each with permission to bring along a daughter or niece, for what has become the foremost gathering time for the noble ladies of Waterdhavian society. Matrons take turns hosting these events, and there is tremendous pressure to successfully throw a successful event.
 
 It is worth noting that a few of the Patrons of various noble Houses have idly discussed holding their own functions, but nothing on the level of the Matrons' Diversion has ever come of it.
@@ -153,6 +204,15 @@ At about dusk, the Fields clear out, with nobles returning to clean up and chang
 A few families with hunting lodges and the proper accommodations within a day or so of Waterdeep organize extended hunting excursions and invite their guests along. Though wardens and other servants tend to do the majority of the actual hunting, there is usually a prize prey of some sort (usually a stag or boar) that is hunted. The rest of the undertaking is generally an extended bout of drinking, eating, courting and the other merriments available to the nobility in the countryside.
 
 ### Marpenoth
+
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Marpenoth-03-00' data-name="🗓 Day of Wonders"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Marpenoth-07-00' data-name="🗓 Stoneshar"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Marpenoth-10-00' data-name="🗓 Reign of Misrule"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Marpenoth-11-00' data-name="🗓 The Raising of the Guard (nobles)"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Marpenoth-15-00' data-name="🗓 Gods' Day"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Marpenoth-23-00' data-name="🗓 The Autumn Trousseau Festival begins"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Marpenoth-27-00' data-name="🗓 The Autumn Trousseau Festival ends"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Marpenoth-30-00' data-name="🗓 Liar's Night"></span>
 
 ***Day of Wonders (Marpenoth 3):***
 ![Marpenoth 3 Day of Wonders](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-4-splendors.md#Marpenoth%203%20Day%20of%20Wonders)
@@ -179,6 +239,11 @@ These shows are organized by noble patrons to highlight the work of one given ta
 
 ### Uktar
 
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Uktar-01-00' data-name="🗓 Selûne's Hallowing"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Uktar-09-00' data-name="🗓 The Five Feathers Event begins"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Uktar-12-00' data-name="🗓 The Five Feathers Event ends"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Uktar-20-00' data-name="🗓 Last Sheaf"></span>
+
 ***Fullest Moon in Uktar***
 ![Uktar Selûne's Hallowing](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-4-splendors.md#Uktar%20Selûne's%20Hallowing)
 
@@ -194,6 +259,9 @@ These shows are organized by noble patrons to highlight the work of one given ta
 As night falls, the normal curfew on the City of the Dead is lifted for one single night, and the nobility of the city host a grand masquerade revel, with laughter, song, dance and plenty of drink. The following day, most of those nobles who will be departing the city begin making their arrangements to do so; indeed, many of its most important members depart on ships or caravans the next day, leaving servants and less-important members of the House to close up the family's villa and operations for the winter.
 
 ### Nightal
+
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Nightal-11-00' data-name="🗓 Howldown"></span>
+<span class='ob-timelines' data-category="waterdeep" data-date='*-Nightal-20-00' data-name="🗓 Simril"></span>
 
 ***Howldown (Nightal 11):***
 ![Nightal 11 Howldown](compendium/adventures/waterdeep-dragon-heist/11-volos-waterdeep-enchiridion/volos-guide-4-splendors.md#Nightal%2011%20Howldown)

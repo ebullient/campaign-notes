@@ -11,7 +11,7 @@ tags:
 <span class="nav">[← previous](2022-04-03-trollskull-manor.md) ~ ❦ ~ [next →](2022-04-09-demolition-time.md)</span>
 
 ## Summary
-<span class='ob-timelines' data-category='rowen' data-date='1499-Ches-29-00' data-name="Lidda meets with the Guilds"></span>
+<span class='ob-timelines' data-category='heist' data-date='1499-Ches-29-01' data-name="🪕 Lidda meets with the Guilds"></span>
 
 Coral and Rowen spent the next few hours clearing debris from the taproom. They had a few scares, as they looked up at the last minute to dodge a stream of debris flowing out the door and into the carts on their own.
 

@@ -1,24 +1,22 @@
 ---
-<%*  
+<%* 
 const { Campaign } = window.customJS;
 const result = await Campaign.nextSession(tp);
-target.next = await tp.system.prompt("Enter file name", target.next);
-const title = await tp.system.prompt("Enter title for session");
-const filename = Campaign.toFileName(title);
-await tp.file.rename(`${result.next}-${filename}`);
+result.next = await tp.system.prompt("Enter session date", result.next);
+await tp.file.rename(`${result.next}`);
 const span = 'span>'
 tR += 'tags:' %>
 - timeline
 - heist/events/pc
 fc-calendar: Heist
 ---
-# Session on <% target.next %>: <% title %>
+# Session on <% result.next %>: ...
 
 %%prevnext%%
 
 ## Summary
 
-<<% span %> class='ob-timelines' data-class='<% result.tag %>' data-date='1499-xx-xx-00' data-title="<% title %>"></<% span %>
+<<% span %> class='ob-timelines' data-class='heist' data-date='1499-Tarsakh-xx-01' data-title="🪕 ..."></<% span %>
 
 ---
 
@@ -27,7 +25,7 @@ fc-calendar: Heist
 
 ## Recap
 
-<%* tR += `![${result}](${result}#Summary)`; %>
+<%* tR += `![${result.prev}](${result.lastSession}#Summary)`; %>
 
 ## Onward... 
 %%
@@ -40,7 +38,12 @@ fc-calendar: Heist
 
 ### NPCs
 
-## Potential Scenes
+### Strong start
+
+%% Kick off the session: What is happening? What's the point? What seed will move the story forward? Where is the action? (start as close to the action as you can) %%
+
+### Potential Scenes
+
 - [ ] .
     ```ad-scene
     collapse: closed
@@ -54,11 +57,22 @@ fc-calendar: Heist
     collapse: closed
     ```
 
-## Secrets and Clues
+### Secrets and Clues
 
-- [ ] 
+%% 10! single sentence containing previously unknown information that matters to PCs. Discovery will be improvised. Not all will be. Secrets are only real once they are shared. %%
 
-## Loot
+1. [ ]   
+2. [ ]   
+3. [ ]   
+4. [ ]   
+5. [ ]   
+6. [ ]   
+7. [ ]   
+8. [ ]   
+9. [ ]   
+10. [ ]   
+
+### Loot
 
 - [ ] 
 - [ ] 

@@ -20,11 +20,12 @@ const tags = 'tags:';
 
 ## News and Rumors on <% result.heading %>
 <%* 
-tR += `- [ ] NEWS: ${await Campaign.secrets('news')}\n`
-tR += `- [ ] NEWS: ${await Campaign.secrets('news')}\n`
-tR += `- [ ] ${await Campaign.secrets('rumors')}\n`
-tR += `- [ ] ${await Campaign.secrets('rumors')}\n`
-tR += `- [ ] ${await Campaign.secrets('rumors')}\n`
+tR += `- [ ] NEWS: ${await Campaign.news()}`
+tR += `- [ ] NEWS: ${await Campaign.news()}`
+tR += `- [ ] NEWS: ${await Campaign.thread()}`
+tR += `- [ ] REVIEW: ${await Campaign.reviews()}`
+tR += `- [ ] ${await Campaign.rumors()}\n`
+tR += `- [ ] ${await Campaign.rumors()}\n`
 -%>
 
 ## NPC Activity

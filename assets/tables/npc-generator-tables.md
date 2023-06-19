@@ -13,9 +13,9 @@ note: "Please refer to source material"
 
 | dice: d100 | Race                                                |
 | ---------- | --------------------------------------------------- |
-| 1-80       | [Human](compendium/races/human.md)                             |
-| 81-84      | [Halfling (Lightfoot)](compendium/races/halfling-lightfoot.md) |
-| 85-87      | [Halfling (Stout)](compendium/races/halfling-stout.md)         |
+| 1-80       | [Human](/compendium/races/human.md)                             |
+| 81-84      | [Halfling (Lightfoot)](/compendium/races/halfling-lightfoot.md) |
+| 85-87      | [Halfling (Stout)](/compendium/races/halfling-stout.md)         |
 | 88-92      | `dice: [[dwarf-tables#^race-dwarf]]`         |
 | 93-100     | `dice: [[npc-generator-tables#^other-races]]`       |
 ^faerun-races
@@ -25,25 +25,25 @@ note: "Please refer to source material"
 | dice: d20 | Race                                           | 
 | --------- | ---------------------------------------------- |
 | 1-4       | `dice: [[elf-tables#^race-elf]]`     |
-| 5-7       | [Half-Elf](compendium/races/half-elf.md)                  |
+| 5-7       | [Half-Elf](/compendium/races/half-elf.md)                  |
 | 8-9       | `dice: [[gnome-tables#^race-gnome]]`   |
 | 10-11     | [Orc](bestiary/humanoid/orc.md)                |
-| 12        | [Half-Orc](compendium/races/half-orc.md)                  |
-| 13        | [Goblin](compendium/races/goblin-mpmm.md)                      |
-| 14        | [Tabaxi](compendium/races/tabaxi-mpmm.md)                      |
+| 12        | [Half-Orc](/compendium/races/half-orc.md)                  |
+| 13        | [Goblin](/compendium/races/goblin-mpmm.md)                      |
+| 14        | [Tabaxi](/compendium/races/tabaxi-mpmm.md)                      |
 | 15        | [Kenku](bestiary/humanoid/kenku.md)            |
-| 16        | [Tiefling](compendium/races/tiefling.md)                  |
+| 16        | [Tiefling](/compendium/races/tiefling.md)                  |
 | 17        | `dice: [[npc-generator-tables#^race-aasimar]]` |
-| 18        | [Dragonborn](compendium/races/dragonborn.md)              |
-| 19        | [Goliath](compendium/races/goliath-mpmm.md)                    |
-| 20        | [Aarakocra](compendium/races/aarakocra-mpmm.md)                |
+| 18        | [Dragonborn](/compendium/races/dragonborn.md)              |
+| 19        | [Goliath](/compendium/races/goliath-mpmm.md)                    |
+| 20        | [Aarakocra](/compendium/races/aarakocra-mpmm.md)                |
 ^other-races
 
 | dice: d6  | Aasimar                                           |
 | --------- | ------------------------------------------------- |
-| 1-3       | [Aasimar (Protector)](compendium/races/aasimar-protector-vgm.md) |
-| 4-5       | [Aasimar (Fallen)](compendium/races/aasimar-fallen-vgm.md)       |
-| 6         | [Aasimar (Scourge)](compendium/races/aasimar-scourge-vgm.md)     |
+| 1-3       | [Aasimar (Protector)](/compendium/races/aasimar-protector-vgm.md) |
+| 4-5       | [Aasimar (Fallen)](/compendium/races/aasimar-fallen-vgm.md)       |
+| 6         | [Aasimar (Scourge)](/compendium/races/aasimar-scourge-vgm.md)     |
 ^race-aasimar
 
 ## Adventuring NPCs

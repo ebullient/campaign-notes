@@ -9,9 +9,11 @@ tags:
 # Path of Crumbs
 <span class="subhead">Bakery, Trollskull Alley, North Ward of Waterdeep</span>
 
-The sign above the door is wooden. There are no words, but the carving and paint clearly show a plate with half-eaten bread, and a trail of crumbs pointing toward the shop's door.
+The shop is a two-story timber and brick building. It has a wooden sign above the door with a clear painting of aa plate with half-eaten bread, and a trail of crumbs pointing toward the shop's door.
 
-The shop is a two-story timber and brick building, with tall elf-wrought wooden shelves. The air is warm.
+Inside, the shop is warm and inviting. The walls are painted a light yellow, and the floor is a dark wood. There are several tables and chairs for patrons to sit and enjoy their purchases. There is a large display case with a variety of pastries and breads.
+
+`dice: [](/heist/waterdeep/places/path-of-crumbs.md#^baking-smells)`
 
 - **Owner** [Elyellas](../npcs/elyellas-graycastle.md)
 - **Location** Delzorin Street, near the south entrance to Trollskull Alley
@@ -42,9 +44,10 @@ dv.list(Campaign.logsForTag(dv, '#place/waterdeep/trollskull-alley/path-of-crumb
 
 | dice: 1d10 | Smells |
 |------------|---------|
-| 1-5 |Baking bread laced with savory herbs. Rosemary is what you think of first |
-|  6 |There is a fruity overtone to the air, and realize he must be making muffins or breads with fruit in them |
-|  7 | The air smells rich: still bread, but maybe an egg bread, or a cheese pastry |
+| 1-5 | The air smells of baking bread laced with savory herbs. Rosemary is what you think of first. |
+|  6 | There is a rich, fruity tone to the air that makes you think of muffins |
+|  7 | The air smells rich and slightly sweet. Maybe there are egg breads in the oven, or cheese pastries! |
 |  8 | The air smells strongly of apple! And you notice several pies cooling on a rack |
-|  9 | The air smells strongly of berries! And you notice several delicate tarts either cooling on racks, or in the protected display cabinet for purchase |
+|  9 | The air smells strongly of berries! And you notice several delicate tarts either cooling on racks, or in the protected display cabinet for purchase. |
 |  10 | The air smells strongly of citrus! Maybe .. lemons? He has a few racks of cookies on display |
+^baking-smells

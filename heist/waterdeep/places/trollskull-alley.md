@@ -11,7 +11,7 @@ tags:
 
 ```leaflet
 id: waterdeep-map
-image: /heist/waterdeep/assets/trollskull-alley.png
+image: compendium/adventures/waterdeep-dragon-heist/img/trollskull-alley-players.jpg
 bounds:
     - [0,0]
     - [691,1000]

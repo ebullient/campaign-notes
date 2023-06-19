@@ -27,7 +27,7 @@ tR += 'tags:' %>
 
 ## Onward... 
 %%
-- **Objective** single sentence: what is this session about?
+- **Strong start?** What is happening? What is the point? What seed will move the story forward?
 - **Twist** some fact that adds depth/complexity to the objective.
 - **Opposition** (who/what, motivation)
 %%
@@ -54,9 +54,21 @@ tR += 'tags:' %>
     ```ad-scene
     collapse: closed
     ```
-## Secrets and Clues
 
-- [ ] 
+### Secrets and Clues
+
+%% 10! single sentence containing previously unknown information that matters to PCs. Discovery will be improvised. Not all will be. Secrets are only real once they are shared. %%
+
+1. [ ]   
+2. [ ]   
+3. [ ]   
+4. [ ]   
+5. [ ]   
+6. [ ]   
+7. [ ]   
+8. [ ]   
+9. [ ]   
+10. [ ]   
 
 ## Loot
 

@@ -14,7 +14,7 @@ tags:
 ## Summary
 After the usual gathering for morning breakfast in the taproom, Rowen and Nora left the manor house to head to the Southern Ward.
 
-<span class='ob-timelines' data-category='rowen' data-date='1499-Tarsakh-03-00' data-name="Coral meets other Genasi"></span>
+<span class='ob-timelines' data-category='heist' data-date='1499-Tarsakh-03-01' data-name="🪕 Coral meets other Genasi"></span>
 
 Just after they left, Avi and Embric, the owners of Steam and Steel, arrived, bearing a mix of mirrored wall sconces and lanterns that Lidda had ordered from them. Lif helped hold one aloft, so they could see how far apart they should be spaced to provide sufficient light. 
 
@@ -24,7 +24,7 @@ Avi asked how well the Kettlewhistles and Coral were aquainted with Embric. Afte
 
 Coral asked Avi about their plans for Goldenight, and they threw together a loose plan: Avi and Embric would bring some of their smaller wares to the tavern, as that was easily visible / accessible from the main road for goldenight. 
 
-<span class='ob-timelines' data-category='rowen' data-date='1499-Tarsakh-03-00' data-name="Rowen and Nora: Flight and Fight"></span>
+<span class='ob-timelines' data-category='heist' data-date='1499-Tarsakh-03-01' data-name="🪕 Rowen and Nora: Flight and Fight"></span>
 
 As Coral and the Kettlewhistles talked with the neighbors and began work on the Taproom and the Manor house for the day, Nora and Rowen reached the Southern Ward. Nora took Rowen on a slight detour past the Saddlers' and Harness Makers' Guildhall to *The Singing Kettle*, her parents' Inn. Both Nora and Rowen were interviewed by the keen force that was Nora's mother (she was obviously a Salibuck, though she did not have the chin dimple). After thorough questioning and mutual assurance, Nora and Rowen made their escape and returned to the Guildhall, where Osswald Bohm helped Nora and Rowen with their flying gear. 
 
@@ -81,7 +81,7 @@ After speaking with Vajra, Rowen and Nora stopped at Rowen's old apartment and c
     Trigger: long rest / better weather  
 
 **Coral**
-- ✔️ [Encounter: Trollskull Alley - Steel and Wood](../encounters/archive/2-trollskull-alley-steel-and-wood.md)  
+- ✔️ [Encounter: Trollskull Alley - Steel and Wood](heist/encounters/archive/2-trollskull-alley-steel-and-wood.md)  
       Trigger: Visit [Steam and Steel](../waterdeep/places/steam-and-steel.md)  
       Trigger: Tavern visitors
     ```ad-scene
@@ -92,7 +92,7 @@ After speaking with Vajra, Rowen and Nora stopped at Rowen's old apartment and c
 
     Tally introduces himself and presents the new signboard to Coral. After an awkward pause, Tally excuses himself, saying he'll come back another time so he can meet Rowen, too. He then leaves without making eye contact with either Embric or Avi.
 
-    ![Talking with the Genasi](../encounters/trollskull-alley-steel-and-wood.md#Talking%20with%20the%20Genasi)  
+    ![Talking with the Genasi](heist/encounters/archive/2-trollskull-alley-steel-and-wood.md#Talking%20with%20the%20Genasi)  
     ```
 
 ## Log / Details

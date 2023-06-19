@@ -11,7 +11,7 @@ tags:
 <span class="nav"><span>✧</span> ~ ❦ ~ [next →](2022-02-13-looking-for-floon.md)</span>
 
 ## Summary
-<span class='ob-timelines' data-category='rowen' data-date='1499-Ches-27-00' data-name="Brawl in the Yawning Portal"></span>
+<span class='ob-timelines' data-category='heist' data-date='1499-Ches-27-01' data-name="🪕 Brawl in the Yawning Portal"></span>
 
 A brawl broke out with your friend *Yagra* right as you entered the tavern in the evening on this particular day. You walked in right as the fists started flying. While you tried to diffuse the tension with a staged fall, it was too sudden, and too intense, for your tactic to work as you intended. Yagra knocked the leader of the thugs unconscious with one hit, but his four lackeys jumped on her and beat her sensless before *Durnan* could throw them out, which he did. A well-thrown tankard smacked one of them on the head. You heard the underlings reference the unconscious body as *Krentz* as they scooped him up and ran for the exit.  
 
