@@ -1,6 +1,0 @@
-- [ ] 
-    ```ad-scene
-    title: ...
-    collapse: closed
-    ...
-    ```
