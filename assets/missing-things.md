@@ -11,16 +11,17 @@ function pathToMdLink(path) {
 dv.app.vault.getFiles()
     .filter(x => !x.path.endsWith('.md'))
     .filter(x => !x.path.endsWith('.canvas'))
+    .filter(x => !x.path.contains('assets/regex'))
     .filter(x => !x.path.contains('assets/templates'))
     .filter(x => !x.path.contains('assets/customjs'))
     .forEach((f) => {
         fileMap[f.path] = 1;
     });
 
-const files = dv.app.vault.getMarkdownFiles()
+const files = dv.app.vault.getFiles()
+        .filter(x => x.path.endsWith('.md'))
         .filter(x => !x.path.contains('assets/templates'))
         .filter(x => !x.path.contains('assets/customjs'))
-        .filter(x => x.path.endsWith('.md'))
         .filter(x => x.name != 'missing-things.md');
 
 const promises = files.map(file => dv.app.vault.cachedRead(file).then((txt) => {
@@ -48,7 +49,10 @@ data.forEach((d) => {
     [...d[1].matchAll(/\[.*?\]\((.*?)\)/g)].forEach((x) => {
         const anchorPos = x[1].indexOf('#');
         const target = (anchorPos < 0 ? x[1] : x[1].substring(0, anchorPos)).replace(/%20/g, ' ');
-        if (target.startsWith('http')) {
+        if (target.startsWith('http')
+            || target.startsWith('mailto') 
+            || target.startsWith('view-source')
+            || target.contains('.file.path')) {
             return;
         }
         const file = dv.app.metadataCache.getFirstLinkpathDest(target, d[0].path);
@@ -60,13 +64,19 @@ data.forEach((d) => {
     });
 });
 
-console.log(fileMap);
-
 dv.table(['Leaflet Source', 'Missing'], leaflet);
 dv.table(['Source', 'Missing'], rows);
 
 dv.header(2, "Unreferenced Things");
 dv.list(Object.keys(fileMap)
         .filter(x => fileMap[x] == 1)
+        .filter(x => {
+            if (x.contains('excalidraw')) {
+              const file = dv.app.metadataCache.getFirstLinkpathDest(x.replace(/\.(svg|png)/,'.md'), x);
+              // only excalidraw images where drawing is MIA
+              return file == null;
+            }
+            return true;
+        })
         .map(x => pathToMdLink(x)));
 ```

@@ -1,4 +1,6 @@
 class Campaign {
+    EVENT_CODES = ['🪕', '📰', '🧵', '👤', '😈', '🗣️', '🗿', '🐲', '😵', '🥸', '🦹',
+        '👺', '💃', '🧝🏿', '🌿', '🪬', '🎻', '🏰', '🌹', '🧙‍♀️', '👾', '⚔️', '🐀'];
 
     constructor() {  // Constructor
         console.log("Creating Campaign");
@@ -7,6 +9,7 @@ class Campaign {
         this.monsterType = ['Aberration', 'Beast', 'Celestial', 'Construct',
             'Dragon', 'Elemental', 'Fey', 'Fiend', 'Giant', 'Humanoid', 'Monstrosity', 'Ooze',
             'Plant', 'Undead'];
+        this.eventRegexp = /(<span[^>]*>)([\s\S]*?)<\/span>/g;
     }
 
     /**
@@ -15,7 +18,7 @@ class Campaign {
      * @param {string} fullname full path of folder (from vault root)
      * @return {boolean} true to include folder, false to exclude it
      */
-    chooseFolderFilter = (fullname) => !fullname.startsWith("assets");
+    chooseFolderFilter = (fullname) => !fullname.startsWith("assets") && !fullname.contains("archive");
 
     /**
      * Files that should be skipped when calculating previous and next links.
@@ -32,16 +35,16 @@ class Campaign {
     /**
      *
      */
-    sessionFileNamePattern = (folder) =>  {
-        if ( folder.startsWith("witchlight") ) {
+    sessionFileNamePattern = (folder) => {
+        if (folder.startsWith("witchlight")) {
             return /^session-(\d{3}).*$/g;
         } else {
             return /^.*(\d{4}-\d{2}-\d{2}).*$/g;
         }
     }
 
-    nextSessionDate = (folder, next) =>  {
-        if ( folder.startsWith("witchlight") ) {
+    nextSessionDate = (folder, next) => {
+        if (folder.startsWith("witchlight")) {
             return `session-${next + 1}`;
         } else {
             return this.nextWeek(next).format("YYYY-MM-DD");
@@ -65,10 +68,6 @@ class Campaign {
         if (query === undefined) {
             return dv.pages(`"${dv.current().file.folder}"`);
         }
-        // Adjust query (nested vault)
-        if ( query === "miscellanea" ) {
-            return dv.pages(`"heist/duet/miscellanea"`);
-        }
         return dv.pages(query);
     }
 
@@ -80,8 +79,8 @@ class Campaign {
      * @returns {*} result of dataview query
      */
     queryTagPages = (dv, scope, tag) => {
-        if (scope.folder.contains("miscellanea")) {
-           return dv.pages(`"heist/duet/miscellanea" and (${tag})`);
+        if (scope.folder.contains("heist")) {
+            return dv.pages(`"heist" and (${tag})`);
         } else if (scope.folder.contains("witchlight")) {
             return dv.pages(`"witchlight" and (${tag})`);
         }
@@ -99,7 +98,7 @@ class Campaign {
             // exclude all pages that don't have tags
             return false;
         }
-        switch(type) {
+        switch (type) {
             case 'area':
                 return !!p.tags.find(t => t && t.startsWith('type/area'));
             case 'encounter':
@@ -112,7 +111,7 @@ class Campaign {
             case 'location':
                 // include locations and areas
                 return !!p.tags.find(t => t && (t.startsWith('type/location') || t.startsWith('type/area')));
-            case 'npc' :
+            case 'npc':
                 // npc tags can be scoped: campaign/npc/...
                 return !!p.tags.find(t => t && t.contains('npc/'));
         }
@@ -127,7 +126,7 @@ class Campaign {
     toFileName = (name) => {
         return name
             .replace(/([a-z])([A-Z])/g, '$1-$2') // separate on camelCase
-            .replace(/[:'"&]+/g, '')         // remove quotes, colons, ampersands
+            .replace(/[:'"&,!]+/g, '')         // remove quotes, colons, ampersands, commas
             .replace(/[\s_]+/g, '-')         // replace spaces and low dash
             .toLowerCase();                  // convert to lower case
     }
@@ -147,7 +146,7 @@ class Campaign {
             .filter(x => this.chooseFolderFilter(x[0]))
             .map(x => x[0]);
 
-        if (folders.length > 0 ) {
+        if (folders.length > 0) {
             folders.sort();
             const choice = await tp.system.suggester(folders, folders);
             if (!choice) {
@@ -265,7 +264,7 @@ class Campaign {
         // files in the folder to find "this" file
         // Return the name of the file preceeding it
         const fullname = `${folder}/${filename}.md`;
-        for (let i = files.length - 1; i > 0 ; i--) {
+        for (let i = files.length - 1; i > 0; i--) {
             if (files[i] == fullname) {
                 console.log("found this file: " + fullname);
                 return files[i - 1].replace(`${folder}/`, "");
@@ -321,216 +320,15 @@ class Campaign {
         return result;
     }
 
-    /**
-     * Calculate the next day that should be logged, according to the Harptos calendar.
-     * This assumes files with the following format:
-     * - single day:   1498-08-09
-     * - several days: 1498-08-09-11
-     *
-     * Once it has found the last day.. figure out the _next_ day, with rollover
-     * for the year, and insertion of a day 0 for special calendar days.
-     * @return {object} the discovered date (proposal) and the tag associated with this folder
-     */
-    nextHarptosDay = async (tp) => {
-        const folder = tp.file.folder(true);
-        console.log("Looking for files in %s", folder);
-
-        const fileList = await app.vault.adapter.list(folder);
-        const files = fileList.files.slice(-4);
-
-        let lastLog = files.pop();
-        while (!lastLog.match(/^.*\d{4}-\d{2}-\d{2}.*/)) {
-            lastLog = files.pop();
-        }
-        console.log("Found lastlog in %s", lastLog);
-
-        const date = this.splitDateString(lastLog.replace(/[^0-9-]/g, ""));
-        console.log("Found date in %o", date);
-        if (date.day == 30) {
-            switch (date.month) {
-                // New Year
-                case 12:
-                    date.year += 1;
-                    date.month = 1;
-                    date.day = 1;
-                    break;
-                // Special holidays --> 31
-                case 1:
-                case 4:
-                case 7:
-                case 9:
-                case 11:
-                    date.day += 1;
-                    break;
-                // Everything else
-                default:
-                    date.month += 1;
-                    date.day = 1;
-            }
-        } else if (date.day == 31) {
-            date.month += 1;
-            if ( date.year % 4 == 0 ) {
-                date.day = 0; // Shieldmeet
-            } else {
-                date.day = 1;
-            }
-        } else {
-            date.day += 1;
-        }
-        console.log("%o", date);
-        return {
-            date: `${date.year}-${this.pad(date.month)}-${this.pad(date.day)}`,
-            tag: this.folderToTag(folder)
-        };
-    }
-
-    /**
-     * Harptos filename and heading
-     * @param {string} dateStr date to use for new file (result of prompt)
-     * @param {string} fallback valid date string (e.g. from nextHarptosDay result)
-     * @returns {object} filename (padded date), pretty heading (formatted date), season, date object, monthName
-     */
-    harptosDay = (dateStr, fallback) => {
-        if (!dateStr.match(/^[0-9-]+$/)) {
-            dateStr = fallback;
-        }
-        const date = this.splitDateString(dateStr);
-        const monthName = this.monthName(date.month, date.day);
-        const season = this.faerunSeason(date.month, date.day);
-        const pretty = `${monthName} ${date.day}, ${date.year}`;
-        return {
-            filename: `${date.year}-${this.pad(date.month)}-${this.pad(date.day)}-${this.toFileName(monthName)}`,
-            heading: pretty,
-            season: season,
-            date: date,
-            monthName: monthName
-        }
-    }
-
-    /**
-     * Split a string into harptos calendar compatible segments.
-     * This assumes files with the following format:
-     * - single day:   1498-08-09     -> { year: 1498, month: 8, day: 9}
-     * - several days: 1498-08-09-11  -> { year: 1498, month: 8, day: 11}
-     * (This doesn't work for ranges that span special days or months)
-     * @param {string} string A date string
-     * @returns {object} date object containing year, month, day
-     */
-    splitDateString = (string) => {
-        console.log("Starting date is %o", string);
-
-        const segments = string.split('-');
-        console.log("harptosDate: %o -> %o", string, segments);
-
-        let year = parseInt(segments[0]);
-        let month = parseInt(segments[1]);
-        let day = parseInt(segments[2]);
-
-        if (segments.length > 3 && !isNaN(segments[3])) {
-            day = parseInt(segments[3]);
-        }
-        return {
-            year: year,
-            month: month,
-            day: day
-        }
-    }
-
     pad = (x) => {
         return `${x}`.padStart(2, '0');
-    }
-
-    faerunSeason = (m, d) => {
-        switch(m) {
-            case 1:
-            case 2:
-                return 'winter';
-            case 4:
-            case 5:
-                return 'spring';
-            case 7:
-            case 8:
-                return 'summer';
-            case 10:
-            case 11:
-                return 'autumn';
-
-            case 3:
-                return d < 19
-                    ? 'winter'
-                    : 'spring';
-            case 6:
-                return d < 20
-                    ? 'spring'
-                    : 'summer';
-            case 9:
-                return d < 21
-                    ? 'summer'
-                    : 'autumn';
-            case 12:
-                return d < 20
-                    ? 'autumn'
-                    : 'winter';
-        }
-    }
-
-    /**
-     * Map the month and day to pretty names according to the Harptos Calendar.
-     * Days 31 and 0 are special days (between months)
-     */
-    monthName = (m, d) => {
-        if (( m == 1 && d == 31) || ( m == 2 && d == 0)) {
-            return 'Midwinter';
-        }
-        if (( m == 4 && d == 31) || ( m == 5 && d == 0)) {
-            return 'Greengrass';
-        }
-        if (m == 7 && d == 31) {
-            return 'Midsummer';
-        }
-        if (m == 8 && d == 0) {
-            return 'Shieldmeet';
-        }
-        if (( m == 9 && d == 31) || ( m == 10 && d == 0)) {
-            return 'Highharvestide';
-        }
-        if (( m == 11 && d == 31) || ( m == 12 && d == 0)) {
-            return 'Feast of the Moon';
-        }
-
-        switch (m) {
-            case 1:
-                return 'Hammer';
-            case 2:
-                return 'Alturiak';
-            case 3:
-                return 'Ches';
-            case 4:
-                return 'Tarsakh';
-            case 5:
-                return 'Mirtul';
-            case 6:
-                return 'Kythorn';
-            case 7:
-                return 'Flamerule';
-            case 8:
-                return 'Elesias';
-            case 9:
-                return 'Eleint';
-            case 10:
-                return 'Marpenoth';
-            case 11:
-                return 'Uktar';
-            case 12:
-                return 'Nightal';
-        }
     }
 
     /* Sort npcs */
     sortNpcs = (n1, n2) => {
         return this.testStatus(n1, n2,
             //() => this.testWhere(n1, n2,
-                () => this.testName(n1, n2));
+            () => this.testName(n1, n2));
     }
 
     /* Sort by the status field (or fallback on equals) */
@@ -576,13 +374,13 @@ class Campaign {
         const typeRegex = /group\/([^/]+)/;
         return pages
             .where(p => this.matchType(p, 'group'))
-            .sort(p => p.file.name, 'asc')
+            .sort(p => this.sortByName(p), 'asc')
             .map(k => {
                 var type = "unknown";
                 k.tags.forEach((tag) => {
                     if (tag.startsWith('type/group/')) {
                         type = tag.substring(11);
-                    } else if ( type === "unknown" ) {
+                    } else if (type === "unknown") {
                         const found = tag.match(typeRegex);
                         if (found) {
                             type = found[1];
@@ -606,7 +404,7 @@ class Campaign {
     filterPlaces = (pages) => {
         return pages
             .where(p => this.matchType(p, 'location'))
-            .sort(p => p.file.name, 'asc')
+            .sort(p => this.sortByName(p), 'asc')
             .map(k => {
                 var type = 'location';
                 var where = 'region';
@@ -615,8 +413,8 @@ class Campaign {
                     if (tag.startsWith('type/')) {
                         type = tag.substring(5);
                     } else if (tag.startsWith('region/')) {
-                        where = tag.substring(tag.lastIndexOf('/')+1);
-                    } else if (tag.startsWith('group/') ) {
+                        where = tag.substring(tag.lastIndexOf('/') + 1);
+                    } else if (tag.startsWith('group/')) {
                         affiliation.push(tag.replace('group/', ''));
                     }
                 });
@@ -688,28 +486,27 @@ class Campaign {
      */
     filterEncounters = (dv, query) => {
         const scope = dv.current().file;
-        return dv.pages(query ? query : `"${scope.folder}"` )
+        return dv.pages(query ? query : `"${scope.folder}"`)
             .where(p => p.encounter)
-            .sort(p => p.file.name, 'asc')
+            .sort(p => this.sortByName(p), 'asc')
             .map(k => {
                 var link = this.pageToLink(k);
                 var where = 'region';
                 var affiliation = [];
                 var level = isNaN(k.file.name[0]) ? '' : k.file.name[0];
 
-                if ( k.tags) {
+                if (k.tags) {
                     k.tags
                         .filter(t => t != null && t.length > 0)
                         .forEach((tag) => {
-                        console.log(tag);
-                        if (tag.startsWith('place/')) {
-                            where = tag.substring(6);
-                        } else if (where == 'region' && tag.startsWith('region/')) {
-                            where = tag.substring(7);
-                        } else if (tag.startsWith('group/') ) {
-                            affiliation.push(tag.replace('group/', ''));
-                        }
-                    });
+                            if (tag.startsWith('place/')) {
+                                where = tag.substring(6);
+                            } else if (where == 'region' && tag.startsWith('region/')) {
+                                where = tag.substring(7);
+                            } else if (tag.startsWith('group/')) {
+                                affiliation.push(tag.replace('group/', ''));
+                            }
+                        });
                 }
 
                 return [link, k.encounter, where, affiliation.sort().join(", "), level]
@@ -720,8 +517,25 @@ class Campaign {
         return `<small>(${k.file.path.substring(0, k.file.path.indexOf('/'))})</small> ${this.pageToLink(k)}`;
     }
 
+    pageToListItem = (k, type) => {
+        return `<small>(${k.file.path.substring(0, k.file.path.indexOf('/'))})</small> ${this.pageToLink(k, type)}`;
+    }
+
     pageToLink = (k) => {
         return `[${k.file.aliases[0] ? k.file.aliases[0] : k.file.name}](/${k.file.path})`;
+    }
+
+    // For pages with mixed types (location and npc).
+    // If the page has a frontmatter attribute of the specified type, use that as the link text
+    // Otherwise use the first alias
+    pageToLink = (k, type) => {
+        let text = k.file.name;
+        if (k.file && k.file.frontmatter && k.file.frontmatter[type]) {
+            text = k.file.frontmatter[type];
+        } else if (k.file.aliases[0]) {
+            text = k.file.aliases[0];
+        }
+        return `[${text}](/${k.file.path})`;
     }
 
     /**
@@ -734,16 +548,18 @@ class Campaign {
         const scope = dv.current().file;
         return this.queryTagPages(dv, scope, tag)
             .where(p => p.file.path != scope.path)
-            .sort(p => p.file.name, 'asc')
+            .sort(p => this.sortByName(p), 'asc')
             .sort(p => p.file.path.substring(0, p.file.path.indexOf('/')), 'asc');
     }
 
     itemsForTag = (dv, tag, type) => {
         const pages = this.pagesForTag(dv, tag);
+        console.log(pages);
         return pages
             .where(p => this.matchType(p, type))
-            .sort(k => this.pageToListItem(k))
-            .map(k => this.pageToListItem(k));
+            .sort(p => this.sortByName(p), 'asc')
+            .sort(p => p.file.path.substring(0, p.file.path.indexOf('/')), 'asc')
+            .map(k => this.pageToListItem(k, type));
     }
 
     logsForTag = (dv, tag) => {
@@ -763,7 +579,7 @@ class Campaign {
         return this.folderPages(dv)
             .where(p => this.matchType(p, type))
             .where(p => p.file.path != scope.path)
-            .sort(p => p.file.name, 'asc')
+            .sort(p => this.sortByName(p), 'asc')
             .map(k => this.pageToLink(k));
     }
 
@@ -771,7 +587,7 @@ class Campaign {
         const scope = dv.current().file;
         return this.folderPages(dv)
             .where(p => p.file.path != scope.path)
-            .sort(p => p.file.path, 'asc')
+            .sort(p => this.sortByPath(p), 'asc')
             .map(k => this.pageToLink(k));
     }
 
@@ -782,6 +598,20 @@ class Campaign {
             .where(w);
 
         this.index(dv, pg, pages);
+    }
+
+    sortByName = (p) => {
+        if (p.file.frontmatter && p.file.frontmatter.sort) {
+            return p.file.frontmatter.sort + p.file.name;
+        }
+        return p.file.name;
+    }
+
+    sortByPath = (p) => {
+        if (p.file.frontmatter && p.file.frontmatter.sort) {
+            return p.file.frontmatter.sort + p.file.path;
+        }
+        return p.file.path;
     }
 
     index = (dv, pg, pages) => {
@@ -803,14 +633,14 @@ class Campaign {
             const sortKey = g.key.substring(g.key.lastIndexOf('/') + 1);
             dv.list(g.rows
                 .sort(r => r, 'asc', (r1, r2) => {
-                    if(r1[3] === sortKey) {
+                    if (r1[3] === sortKey) {
                         return -1;
                     } else if (r2[3] === sortKey) {
                         return 1;
                     }
                     return r1[2].localeCompare(r2[2]);
                 })
-                .map(r =>  r[1] + (r[3] === sortKey ? " (index)" : "")));
+                .map(r => r[1] + (r[3] === sortKey ? " (index)" : "")));
         })
     }
 
@@ -847,14 +677,14 @@ class Campaign {
     // Resolve table roll from template
     tavern = async (type) => {
         let result = await this.tableRoll(`[](heist/tables/trollskull-manor-tables.md#^${type})`);
-        if ( type == 'visiting-patrons' ) {
+        if (type == 'visiting-patrons') {
             result = result.replaceAll(/,? ?\(\d+\) /g, '\n    - ')
         }
-        while ( result.contains("%mood%") ) {
+        while (result.contains("%mood%")) {
             const mood = await this.mood();
             result = result.replace("%mood%", `_[${mood}]_`);
         }
-        if ( result.contains("🔹") ) {
+        if (result.contains("🔹")) {
             result = result.replaceAll(/\s*🔹\s*/g, '\n    > ');
             console.log(result);
         }
@@ -863,7 +693,7 @@ class Campaign {
 
     // Resolve table roll from template
     weather = async (season) => {
-        return this.tableRoll(`[](heist/waterdeep/waterdeep-weather.md#^${season})`);
+        return await this.tableRoll(`[](heist/tables/waterdeep-weather.md#^${season})`);
     }
 
     tableRoll = async (lookup) => {
@@ -877,5 +707,324 @@ class Campaign {
             result = result.replace(match[0], diceResult.result);
         }
         return result;
+    }
+
+    // Harptos Calendar
+
+    compareHarptosDate = (a, b) => {
+        const as = a.toLowerCase().split('-');
+        const bs = b.toLowerCase().split('-');
+        // compare year as[0], then month as[1], then day as[2], then offset as as[3]
+        if (as[0] == bs[0]) {
+            if (as[1] == bs[1]) {
+                if (as[2] == bs[2]) {
+                    if (as.length > 3 && bs.length > 3) {
+                        return Number(as[3]) - Number(bs[3]);
+                    }
+                    return 0;
+                }
+                return Number(as[2]) - Number(bs[2]);
+            }
+            return this.monthSort(as[1]) - this.monthSort(bs[1]);
+        }
+        return Number(as[0]) - Number(bs[0]);
+    }
+
+    /**
+     * Calculate the next day that should be logged, according to the Harptos calendar.
+     * This assumes files with the following format:
+     * - single day:   1498-ches-09
+     * - several days: 1498-klythorn-09-11-optional-other-stuff
+     *
+     * Once it has found the last day.. figure out the _next_ day, with rollover
+     * for the year.
+     * @return {object} the discovered date (proposal) and the tag associated with this folder
+     */
+    nextHarptosDay = async (tp) => {
+        const folder = tp.file.folder(true);
+        console.log("Looking for files in %s", folder);
+
+        const fileList = await app.vault.adapter.list(folder);
+        const files = fileList.files
+            .filter(f => f.match(/^.*\d{4}-[^-]+-.*/))
+            .toSorted((a, b) => compareHarptosDate(a, b));
+        let lastLog = files.pop();
+        console.log("Found lastlog", lastLog);
+
+        const date = this.splitDateString(lastLog);
+        console.log("Found date in %o", date);
+
+        // Find the next available day
+        switch (date.month) {
+            case 39: // midsummer
+                if (date.year % 4 == 0) {
+                    date.day = 2; // Shieldmeet is 2nd day of intercalary month
+                    date.month += 1;
+                    break;
+                }
+            case 31: // midwinter
+            case 35: // greengrass
+            case 40: // shieldmeet
+            case 43: // highharvestide
+            case 46: // feast of the moon
+                date.day = 1;
+                date.month += 1;
+                break;
+            case 47: // nightal, end of year
+                if (date.day == 30) {
+                    date.month = 30;
+                    date.year += 1;
+                    date.day = 1;
+                } else {
+                    date.day += 1;
+                }
+                break;
+            default:
+                if (date.day == 30) {
+                    date.day = 1;
+                    date.month += 1;
+                } else {
+                    date.day += 1;
+                }
+                break;
+        }
+        console.log("%o", date);
+        return {
+            date: `${date.year}-${this.monthName(date.month)}-${this.pad(date.day)}`,
+            tag: this.folderToTag(folder)
+        };
+    }
+
+    /**
+     * Harptos filename and heading
+     * @param {string} dateStr date to use for new file (result of prompt)
+     * @param {string} fallback valid date string (e.g. from nextHarptosDay result)
+     * @returns {object} filename (padded date), pretty heading (formatted date), season, date object, monthName
+     */
+    harptosDay = (dateStr) => {
+        const date = this.splitDateString(dateStr);
+        const monthName = this.monthName(date.month, date.day);
+        const season = this.faerunSeason(date.month, date.day);
+        const pretty = `${monthName} ${date.day}, ${date.year}`;
+        return {
+            filename: `${date.year}-${this.monthName(date.month)}-${this.pad(date.day)}`,
+            sort: `${date.year}-${date.month}-${this.pad(date.day)}`,
+            heading: pretty,
+            season: season,
+            date: date,
+            monthName: monthName
+        }
+    }
+
+    /**
+     * Split a string into harptos calendar compatible segments.
+     * This assumes files with the following format:
+     * - single day:   1498-ches-09     -> { year: 1498, month: 33, day: 9}
+     * - several days: 1498-tarsakh-09-11  -> { year: 1498, month: 34, day: 11}
+     * (This doesn't work for ranges that span special days or months)
+     * @param {string} string A date string
+     * @returns {object} date object containing year, month, day
+     */
+    splitDateString = (string) => {
+        if (string.contains("/")) {
+            const pos = string.lastIndexOf('/') + 1;
+            string = string.substring(pos);
+        }
+        string = string.replace('.md', '');
+        const segments = string.toLowerCase().split('-');
+        console.log("splitDateString", string, segments);
+
+        let year = parseInt(segments[0]);
+        let month = this.monthSort(segments[1]);
+        let day = parseInt(segments[2]);
+        if (segments.length > 3 && !isNaN(segments[3])) {
+            day = parseInt(segments[3]);
+        }
+        return {
+            year: year,
+            month: month,
+            day: day
+        }
+    }
+
+    monthSort = (m) => {
+        switch (m) {
+            case 'hammer': return 30;
+            case 'midwinter': return 31;
+            case 'alturiak': return 32;
+            case 'ches': return 33;
+            case 'tarsakh': return 34;
+            case 'greengrass': return 35;
+            case 'mirtul': return 36;
+            case 'kythorn': return 37;
+            case 'flamerule': return 38;
+            case 'midsummer': return 39;
+            case 'shieldmeet': return 40;
+            case 'eleasis': return 41;
+            case 'eleint': return 42;
+            case 'highharvestide': return 43;
+            case 'marpenoth': return 44;
+            case 'uktar': return 45;
+            case 'feast':
+            case 'feast of the moon':
+                return 46;
+            case 'nightal': return 47;
+        }
+    }
+
+    faerunSeason = (m, d) => {
+        switch (m) {
+            case 'hammer':
+            case 1:
+            case 'alturiak':
+            case 2:
+            case 'midwinter':
+                return 'winter';
+
+            case 'tarsakh':
+            case 4:
+            case 'mirtul':
+            case 5:
+            case 'greengrass':
+                return 'spring';
+
+            case 'flamerule':
+            case 7:
+            case 'eleasis':
+            case 8:
+            case 'midsummer':
+            case 'shieldmeet':
+                return 'summer';
+
+            case 'marpenoth':
+            case 10:
+            case 'uktar':
+            case 11:
+            case 'highharvestide':
+            case 'the Feast of the Moon':
+                return 'autumn';
+
+            case 'ches':
+            case 3:
+                return d < 19
+                    ? 'winter'
+                    : 'spring';
+            case 'kythorn':
+            case 6:
+                return d < 20
+                    ? 'spring'
+                    : 'summer';
+            case 'elient':
+            case 9:
+                return d < 21
+                    ? 'summer'
+                    : 'autumn';
+            case 'nightal':
+            case 12:
+                return d < 20
+                    ? 'autumn'
+                    : 'winter';
+        }
+    }
+
+    /**
+     * Map the month and day to pretty names according to the Harptos Calendar.
+     * Days 31 and 0 are special days (between months)
+     */
+    monthName = (m, d) => {
+        if (!Number.isInteger(m)) {
+            return m;
+        }
+        if ((m == 1 && d == 31) || (m == 2 && d == 0)) {
+            return 'Midwinter';
+        }
+        if ((m == 4 && d == 31) || (m == 5 && d == 0)) {
+            return 'Greengrass';
+        }
+        if (m == 7 && d == 31) {
+            return 'Midsummer';
+        }
+        if (m == 8 && d == 0) {
+            return 'Shieldmeet';
+        }
+        if ((m == 9 && d == 31) || (m == 10 && d == 0)) {
+            return 'Highharvestide';
+        }
+        if ((m == 11 && d == 31) || (m == 12 && d == 0)) {
+            return 'Feast of the Moon';
+        }
+
+        switch (m) {
+            case 30:
+            case 1:
+                return 'Hammer';
+            case 31:
+                return 'Midwinter';
+            case 32:
+            case 2:
+                return 'Alturiak';
+            case 33:
+            case 3:
+                return 'Ches';
+            case 34:
+            case 4:
+                return 'Tarsakh';
+            case 35:
+                return 'Greengrass';
+            case 36:
+            case 5:
+                return 'Mirtul';
+            case 37:
+            case 6:
+                return 'Kythorn';
+            case 38:
+            case 7:
+                return 'Flamerule';
+            case 39:
+                return 'Midsummer';
+            case 40:
+                return 'Shieldmeet';
+            case 41:
+            case 8:
+                return 'Elesias';
+            case 42:
+            case 9:
+                return 'Eleint';
+            case 43:
+                return 'Highharvestide';
+            case 44:
+            case 10:
+                return 'Marpenoth';
+            case 45:
+            case 11:
+                return 'Uktar';
+            case 46:
+                return 'Feast of the Moon';
+            case 47:
+            case 12:
+                return 'Nightal';
+        }
+    }
+
+    eventRegex = () => this.eventRegexp;
+
+    eventSpan = (match, suffix) => {
+        const text = match[1];
+        const sort = text.replace(/.*data-date=['"](.*?)['"].*/g, '$1');
+        const date = text.replace(/.*data-date=['"](.*?)-\d{2}['"].*/g, '$1');
+
+        let name = text.contains('data-name="')
+            ? text.replace(/.*data-name="(.*?)".*/g, '$1')
+            : text.replace(/.*data-name='(.*?)'.*/g, '$1');
+        if (!name.endsWith('.') && !name.endsWith('!')) {
+            name += '.';
+        }
+
+        let data = match[2].trim();
+        if (data.length > 0 && !data.endsWith('.') && !data.endsWith('!')) {
+            data += '.';
+        }
+
+        return `<span class="timeline" data-date="${sort}">\`${date}\` *${name}* ${data} ${suffix}</span>`;
     }
 }
